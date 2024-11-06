@@ -1,0 +1,30 @@
+{
+    "dish_name": "absolute best ever lasagna",
+    "ingredients": [
+        "lean ground beef",
+        "Italian sausage",
+        "onion",
+        "garlic cloves",
+        "salt",
+        "fresh coarse ground black pepper",
+        "dried parsley flakes",
+        "dried oregano",
+        "dried basil",
+        "whole tomatoes",
+        "tomato paste",
+        "ricotta cheese",
+        "eggs",
+        "pepper",
+        "parsley",
+        "parmesan cheese",
+        "mozzarella cheese",
+        "lasagna noodles"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

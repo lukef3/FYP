@@ -1,0 +1,23 @@
+{
+    "dish_name": "huey's italian sausage dog",
+    "ingredients": [
+        "sausages",
+        "red capsicums",
+        "garlic cloves",
+        "red onion",
+        "pitted black olives",
+        "italian tomato",
+        "salt",
+        "fresh ground pepper",
+        "fresh basil",
+        "olive oil",
+        "French baguettes",
+        "mozzarella cheese",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

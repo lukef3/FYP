@@ -1,0 +1,16 @@
+{
+    "dish_name": "air fryer crispy panko shrimp",
+    "ingredients": [
+        "egg whites",
+        "panko breadcrumbs",
+        "kosher salt",
+        "fresh ground black pepper",
+        "large shrimp",
+        "canola oil cooking spray"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "crock pot taco soup",
+    "ingredients": [
+        "pinto beans",
+        "white beans",
+        "kidney beans",
+        "corn",
+        "Rotel tomatoes & chilies",
+        "diced tomatoes",
+        "diced green chilies",
+        "(1 1/4  ounce) envelope   taco seasoning mix",
+        "(1   ounce) envelope   Hidden Valley\u00ae Original Ranch\u00ae Dressing and Seasoning Mix",
+        "chicken"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

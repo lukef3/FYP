@@ -1,0 +1,29 @@
+{
+    "dish_name": "traditional irish shepherd's pie",
+    "ingredients": [
+        "olive oil",
+        "black pepper",
+        "lamb",
+        "ground beef",
+        "onion",
+        "carrots",
+        "cup    frozen peas",
+        "fresh thyme",
+        "flour",
+        "butter",
+        "red wine",
+        "tomato paste",
+        "Worcestershire sauce",
+        "cup    chicken stock",
+        "mashed potatoes",
+        "egg",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

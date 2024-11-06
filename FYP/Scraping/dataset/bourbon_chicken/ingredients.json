@@ -1,0 +1,23 @@
+{
+    "dish_name": "bourbon chicken",
+    "ingredients": [
+        "boneless chicken breasts",
+        "olive oil",
+        "garlic clove",
+        "ginger",
+        "crushed red pepper flakes",
+        "cup    apple juice",
+        "light brown sugar",
+        "ketchup",
+        "cider vinegar",
+        "water",
+        "soy sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

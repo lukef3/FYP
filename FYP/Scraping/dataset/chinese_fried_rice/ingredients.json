@@ -1,0 +1,24 @@
+{
+    "dish_name": "chinese fried rice",
+    "ingredients": [
+        "onion",
+        "tablespoons    oil",
+        "egg",
+        "soy sauce",
+        "drops    sesame oil",
+        "chicken",
+        "carrot",
+        "cup    frozen peas, thawed",
+        "cooked rice",
+        "green onions",
+        "bean sprouts",
+        "light soy sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

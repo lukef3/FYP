@@ -1,0 +1,17 @@
+{
+    "dish_name": "teriyaki chicken noodle salad",
+    "ingredients": [
+        "chicken fillets",
+        "cup    teriyaki sauce",
+        "(400   g) packet   hokkien noodles (use your favourite noodles)",
+        "tablespoon    sesame oil",
+        "sesame seeds",
+        "spring onions"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

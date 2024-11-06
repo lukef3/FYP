@@ -1,0 +1,23 @@
+{
+    "dish_name": "oven-baked parmesan chicken strips",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "milk",
+        "egg",
+        "parmesan cheese",
+        "cup    plain breadcrumbs (like Progresso)",
+        "onion powder",
+        "garlic powder",
+        "dried thyme",
+        "dried basil",
+        "black pepper",
+        "paprika"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

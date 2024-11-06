@@ -1,0 +1,26 @@
+{
+    "dish_name": "really good vegetarian meatloaf (really!)",
+    "ingredients": [
+        "water",
+        "salt",
+        "lentils",
+        "onion",
+        "quick-cooking oats",
+        "monterey jack cheese",
+        "American cheese",
+        "egg",
+        "tomato sauce",
+        "garlic powder",
+        "dried basil",
+        "dried parsley",
+        "seasoning salt",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

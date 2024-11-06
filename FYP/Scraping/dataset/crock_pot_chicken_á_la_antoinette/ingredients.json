@@ -1,0 +1,23 @@
+{
+    "dish_name": "crock pot chicken \u00e1 la antoinette",
+    "ingredients": [
+        "boneless chicken breasts",
+        "olive oil",
+        "onion",
+        "mushrooms",
+        "tomato bisque",
+        "(10 3/4  ounce) can   cream of mushroom soup",
+        "red wine",
+        "oregano",
+        "basil",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

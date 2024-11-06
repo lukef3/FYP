@@ -1,0 +1,27 @@
+{
+    "dish_name": "30 minute chicken and dumplings",
+    "ingredients": [
+        "lbs    chicken breast tenders",
+        "olive oil",
+        "butter",
+        "russet potato",
+        "carrots",
+        "onion",
+        "celery",
+        "bay leaf",
+        "salt & freshly ground black pepper",
+        "poultry seasoning",
+        "flour",
+        "chicken broth",
+        "biscuit mix",
+        "warm water",
+        "flat leaf parsley",
+        "frozen green pea"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "chicken noodle soup",
+    "ingredients": [
+        "butter",
+        "celery",
+        "carrot",
+        "onion",
+        "thyme",
+        "poultry seasoning",
+        "chicken broth",
+        "chicken bouillon",
+        "ounces    egg noodles",
+        "cups    cooked chicken (3 frozen breasts)",
+        "parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

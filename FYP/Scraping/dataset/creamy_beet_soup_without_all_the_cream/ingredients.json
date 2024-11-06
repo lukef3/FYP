@@ -1,0 +1,22 @@
+{
+    "dish_name": "creamy beet soup without all the cream",
+    "ingredients": [
+        "olive oil",
+        "onion",
+        "cups    fat-free low-sodium chicken broth",
+        "water",
+        "salt",
+        "pepper",
+        "beets",
+        "baking potato",
+        "bay leaf",
+        "lemon juice",
+        "reduced-fat sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

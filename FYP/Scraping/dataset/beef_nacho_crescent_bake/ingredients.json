@@ -1,0 +1,26 @@
+{
+    "dish_name": "beef nacho crescent bake",
+    "ingredients": [
+        "lean ground beef",
+        "onion",
+        "garlic",
+        "green bell pepper",
+        "seasoning salt",
+        "pepper",
+        "chili powder",
+        "cumin",
+        "dried oregano",
+        "parmesan cheese",
+        "(10   ounce) can   condensed cheddar cheese soup, undiluited",
+        "milk",
+        "(8   ounce) can   refrigerated crescent dinner rolls",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

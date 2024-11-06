@@ -1,0 +1,20 @@
+{
+    "dish_name": "smothered flat iron steak in a parmesan pepper sauce",
+    "ingredients": [
+        "lb    flat iron steak",
+        "cup   zesty Italian dressing, divided",
+        "sour cream",
+        "parmesan cheese",
+        "black pepper",
+        "sea salt",
+        "garlic cloves",
+        "onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

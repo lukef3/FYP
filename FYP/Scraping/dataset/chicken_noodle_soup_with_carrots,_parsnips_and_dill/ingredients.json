@@ -1,0 +1,22 @@
+{
+    "dish_name": "chicken noodle soup with carrots, parsnips and dill",
+    "ingredients": [
+        "low sodium chicken broth",
+        "onion",
+        "carrots",
+        "parsnips",
+        "salt",
+        "fresh ground black pepper",
+        "chicken breast",
+        "cup    noodles (about 2 ounces)",
+        "fresh dill",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "dish_name": "indian lamb curry",
+    "ingredients": [
+        "boneless lamb",
+        "cup    vegetable oil",
+        "bay leaves",
+        "black cardamom pod",
+        "cinnamon sticks",
+        "peppercorns",
+        "whole cloves",
+        "onions",
+        "ginger paste",
+        "garlic",
+        "green chili pepper",
+        "salt",
+        "turmeric",
+        "coriander powder",
+        "cayenne pepper",
+        "garam masala",
+        "diced tomato",
+        "plain yogurt",
+        "fresh cilantro leaves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

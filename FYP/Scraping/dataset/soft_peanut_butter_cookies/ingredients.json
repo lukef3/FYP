@@ -1,0 +1,22 @@
+{
+    "dish_name": "soft peanut butter cookies",
+    "ingredients": [
+        "creamy peanut butter",
+        "brown sugar",
+        "white sugar",
+        "butter",
+        "margarine",
+        "eggs",
+        "baking soda",
+        "baking powder",
+        "vanilla extract",
+        "flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}
