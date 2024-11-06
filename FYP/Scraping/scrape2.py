@@ -125,8 +125,8 @@ def scrape_all_recipes_selenium(url):
 
 def main():
     base_url = "https://www.food.com/recipe/?pn={}"
-    start_page = 5
-    max_page = 10
+    start_page = 1
+    max_page = 5
 
     for page_number in range(start_page, max_page + 1):
         # Construct the URL for the current page
