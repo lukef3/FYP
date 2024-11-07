@@ -1,0 +1,26 @@
+{
+    "dish_name": "the best browned beef stew ever",
+    "ingredients": [
+        "beef stew meat",
+        "flour",
+        "salt",
+        "pepper",
+        "cup    vegetable oil",
+        "onion",
+        "carrot",
+        "celery",
+        "dried parsley",
+        "thyme",
+        "beef broth",
+        "potatoes",
+        "carrots",
+        "onions"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "libby's famous pumpkin pie",
+    "ingredients": [
+        "granulated sugar",
+        "salt",
+        "ground cinnamon",
+        "ground ginger",
+        "ground cloves",
+        "eggs",
+        "pumpkin puree",
+        "Carnation Evaporated Milk",
+        "unbaked 9-inch deep dish pie pastry",
+        "whipped cream (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

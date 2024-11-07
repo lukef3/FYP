@@ -1,0 +1,21 @@
+{
+    "dish_name": "peanut butter chocolate chip cookies",
+    "ingredients": [
+        "sweet unsalted butter",
+        "creamy peanut butter",
+        "granulated sugar",
+        "brown sugar",
+        "light muscovado sugar",
+        "eggs",
+        "all-purpose flour",
+        "baking soda",
+        "cups    semi-sweet chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

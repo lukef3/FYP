@@ -1,0 +1,20 @@
+{
+    "dish_name": "caramelized chicken wings",
+    "ingredients": [
+        "chicken wings",
+        "olive oil",
+        "soy sauce",
+        "ketchup",
+        "honey",
+        "garlic clove",
+        "salt",
+        "ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "beef tips",
+    "ingredients": [
+        "beef stew meat",
+        "onion",
+        "package    brown gravy mix",
+        "soy sauce",
+        "Worcestershire sauce",
+        "water",
+        "tablespoons    vegetable oil",
+        "garlic",
+        "salt",
+        "ground pepper",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

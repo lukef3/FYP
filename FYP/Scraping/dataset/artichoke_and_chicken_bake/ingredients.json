@@ -1,0 +1,18 @@
+{
+    "dish_name": "artichoke and chicken bake",
+    "ingredients": [
+        "water-packed artichoke hearts",
+        "parmesan cheese",
+        "mayonnaise",
+        "garlic powder",
+        "garlic cloves",
+        "boneless skinless chicken breast halves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

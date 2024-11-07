@@ -1,0 +1,20 @@
+{
+    "dish_name": "wholly guacamole",
+    "ingredients": [
+        "avocados",
+        "garlic cloves",
+        "lime",
+        "tomatoes",
+        "onion",
+        "salt",
+        "cilantro",
+        "diced jalapeno peppers (optional) or 1      diced serrano pepper (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

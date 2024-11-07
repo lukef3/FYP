@@ -1,0 +1,26 @@
+{
+    "dish_name": "zucchini bread",
+    "ingredients": [
+        "sugar",
+        "eggs",
+        "flour",
+        "vanilla",
+        "cup    oil",
+        "zucchini",
+        "salt",
+        "baking soda",
+        "baking powder",
+        "cup    nuts (optional)",
+        "cinnamon",
+        "nutmeg",
+        "ginger",
+        "clove"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

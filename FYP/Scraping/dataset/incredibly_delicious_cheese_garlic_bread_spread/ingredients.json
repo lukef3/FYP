@@ -1,0 +1,18 @@
+{
+    "dish_name": "incredibly delicious cheese garlic bread spread",
+    "ingredients": [
+        "margarine",
+        "garlic",
+        "garlic powder",
+        "black pepper",
+        "parmesan cheese",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

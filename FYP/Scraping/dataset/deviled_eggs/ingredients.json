@@ -1,0 +1,19 @@
+{
+    "dish_name": "deviled eggs",
+    "ingredients": [
+        "hard-boiled eggs",
+        "salt and black pepper",
+        "mayonnaise",
+        "prepared yellow mustard",
+        "diced gherkins",
+        "sliced jalapeno",
+        "paprika"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "soft batch chocolate chip cookies",
+    "ingredients": [
+        "butter",
+        "sugar",
+        "light brown sugar",
+        "eggs",
+        "vanilla",
+        "flour",
+        "baking soda",
+        "instant vanilla pudding",
+        "(12   ounce) package   milk chocolate chips",
+        "walnuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

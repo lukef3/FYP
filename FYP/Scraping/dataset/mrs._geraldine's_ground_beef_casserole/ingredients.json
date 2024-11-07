@@ -1,0 +1,26 @@
+{
+    "dish_name": "mrs. geraldine's ground beef casserole",
+    "ingredients": [
+        "ground beef",
+        "tomatoes",
+        "onion",
+        "bell pepper",
+        "celery",
+        "mushrooms",
+        "brown sugar",
+        "sweet pickle juice",
+        "Worcestershire sauce",
+        "(10 3/4  ounce) can   cream of mushroom soup",
+        "sharp cheddar cheese",
+        "angel hair pasta",
+        "tomato sauce",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

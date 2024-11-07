@@ -1,0 +1,16 @@
+{
+    "dish_name": "awesome slow cooker pot roast",
+    "ingredients": [
+        "(10 3/4  ounce) cans   condensed cream of mushroom soup",
+        "(1   ounce) package   dry onion soup mix",
+        "water",
+        "lbs    pot roast"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

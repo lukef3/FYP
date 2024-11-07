@@ -1,0 +1,18 @@
+{
+    "dish_name": "brussels sprouts in garlic butter",
+    "ingredients": [
+        "Brussels sprouts",
+        "butter",
+        "olive oil",
+        "garlic",
+        "parmesan cheese",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

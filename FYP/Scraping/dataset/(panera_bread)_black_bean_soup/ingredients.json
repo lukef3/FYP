@@ -1,0 +1,23 @@
+{
+    "dish_name": "(panera bread) black bean soup",
+    "ingredients": [
+        "onion",
+        "garlic cloves",
+        "celery ribs",
+        "red bell pepper",
+        "chicken bouillon cubes",
+        "boiling water",
+        "black beans",
+        "salt",
+        "cumin",
+        "lemon, juice of",
+        "cornstarch"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

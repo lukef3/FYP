@@ -1,0 +1,21 @@
+{
+    "dish_name": "basic batter waffles",
+    "ingredients": [
+        "eggs",
+        "milk",
+        "cup    vegetable oil",
+        "all-purpose flour",
+        "baking powder",
+        "sugar",
+        "salt",
+        "vanilla",
+        "teaspoon    maple extract (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

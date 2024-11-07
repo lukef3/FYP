@@ -1,0 +1,18 @@
+{
+    "dish_name": "tiny cinnamon rolls",
+    "ingredients": [
+        "(8   ounce) package   refrigerated crescent dinner rolls",
+        "sugar",
+        "ground cinnamon",
+        "powdered sugar",
+        "milk",
+        "vanilla"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

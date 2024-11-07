@@ -1,0 +1,21 @@
+{
+    "dish_name": "oven-fried garlic chicken",
+    "ingredients": [
+        "cup    breadcrumbs",
+        "parmesan cheese",
+        "fresh parsley",
+        "salt",
+        "fresh ground pepper",
+        "butter",
+        "margarine",
+        "garlic cloves",
+        "chicken"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

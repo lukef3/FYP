@@ -1,0 +1,23 @@
+{
+    "dish_name": "hamburger noodle bake",
+    "ingredients": [
+        "hamburger",
+        "onions",
+        "garlic",
+        "salt",
+        "pepper",
+        "sugar",
+        "tomato sauce",
+        "cream cheese",
+        "sour cream",
+        "cup    shredded cheddar cheese",
+        "(8   ounce) package   noodles, cooked and drained"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

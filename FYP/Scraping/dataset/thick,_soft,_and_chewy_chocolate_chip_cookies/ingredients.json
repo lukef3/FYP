@@ -1,0 +1,22 @@
+{
+    "dish_name": "thick, soft, and chewy chocolate chip cookies",
+    "ingredients": [
+        "all-purpose flour",
+        "baking soda",
+        "salt",
+        "real butter",
+        "shortening",
+        "brown sugar",
+        "vanilla",
+        "eggs",
+        "(12   ounce) package   semi-sweet chocolate chips",
+        "cup   chopped nuts (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

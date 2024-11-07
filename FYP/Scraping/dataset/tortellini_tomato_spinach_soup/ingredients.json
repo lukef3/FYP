@@ -1,0 +1,24 @@
+{
+    "dish_name": "tortellini tomato spinach soup",
+    "ingredients": [
+        "olive oil",
+        "onion",
+        "garlic clove",
+        "chicken broth",
+        "vegetable broth",
+        "whole tomatoes",
+        "(9   ounce) package  fresh tortellini or  (9   ounce) package  dried tortellini",
+        "kosher salt",
+        "cracked black pepper",
+        "fresh spinach",
+        "frozen spinach",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

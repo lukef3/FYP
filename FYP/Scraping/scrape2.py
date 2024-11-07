@@ -103,10 +103,11 @@ def scrape_all_recipes_selenium(url):
         delay (int): Delay in seconds after loading the page.
     """
     # Set up Selenium WebDriver
-    driver = webdriver.Chrome()  # Use the appropriate WebDriver for your browser
+    options = webdriver.ChromeOptions()
+    options.add_argument('--headless')
+    driver = webdriver.Chrome(options=options)  # Use the appropriate WebDriver for your browser
     driver.get(url)
     time.sleep(2)  # Wait for the page to fully load
-
     recipe_links = set()  # Use a set to avoid duplicates
 
     # Parse the current page source with BeautifulSoup
@@ -125,8 +126,8 @@ def scrape_all_recipes_selenium(url):
 
 def main():
     base_url = "https://www.food.com/recipe/?pn={}"
-    start_page = 1
-    max_page = 5
+    start_page = 20
+    max_page = 40
 
     for page_number in range(start_page, max_page + 1):
         # Construct the URL for the current page
@@ -134,7 +135,7 @@ def main():
 
         # Scrape all recipes on the current page
         recipe_links = scrape_all_recipes_selenium(page_url)
-
+        print(f"Scraping page {page_number}")
         # Process each recipe
         for i, recipe_url in enumerate(recipe_links, start=1):
             print(f"Processing recipe {i}/{len(recipe_links)}: {recipe_url}")
@@ -142,7 +143,7 @@ def main():
                 scrape_recipe(recipe_url)
             except Exception as e:
                 print(f"Error processing recipe {recipe_url}: {e}")
-
+    print(f"Finished scraping from page {start_page} and {max_page}")
 
 main()
 

@@ -1,0 +1,19 @@
+{
+    "dish_name": "mexican enchilada sauce",
+    "ingredients": [
+        "chili powder",
+        "flour",
+        "cocoa powder",
+        "teaspoon    garlic salt",
+        "oregano",
+        "water",
+        "tomato sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

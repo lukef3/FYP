@@ -1,0 +1,22 @@
+{
+    "dish_name": "mama iuliucci's famous meat-a-balls (italian meatballs)",
+    "ingredients": [
+        "lean ground beef",
+        "slices    white bread, broken into small 1/2 inch pieces  (or you can use rolls or any stale bread you have and want to use up)",
+        "eggs",
+        "garlic powder",
+        "teaspoon    italian seasoning (or to taste)",
+        "parsley flakes",
+        "parmesan cheese",
+        "salt",
+        "black pepper",
+        "olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}
