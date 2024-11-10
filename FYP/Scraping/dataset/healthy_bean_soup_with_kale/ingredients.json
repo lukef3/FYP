@@ -1,0 +1,26 @@
+{
+    "dish_name": "healthy bean soup with kale",
+    "ingredients": [
+        "olive oil",
+        "garlic cloves",
+        "yellow onion",
+        "kale",
+        "chicken broth",
+        "vegetable broth",
+        "cannellini beans",
+        "navy beans",
+        "carrots",
+        "diced tomatoes",
+        "teaspoons    Italian herb seasoning",
+        "salt and pepper",
+        "parsley",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

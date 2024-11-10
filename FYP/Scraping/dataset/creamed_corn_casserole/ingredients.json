@@ -1,0 +1,18 @@
+{
+    "dish_name": "creamed corn casserole",
+    "ingredients": [
+        "whole corn",
+        "(8   ounce) can   creamed corn",
+        "sour cream",
+        "(8 1/2  ounce) package   Jiffy cornbread mix",
+        "butter",
+        "eggs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

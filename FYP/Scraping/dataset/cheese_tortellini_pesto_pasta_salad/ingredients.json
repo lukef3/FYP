@@ -1,0 +1,24 @@
+{
+    "dish_name": "cheese tortellini pesto pasta salad",
+    "ingredients": [
+        "artichoke hearts",
+        "grape tomatoes",
+        "black olives",
+        "green bell pepper",
+        "(20   ounce) package   cheese-filled egg tortellini, cooked al dente, drained  (fresh or frozen)",
+        "olive oil",
+        "parmesan cheese",
+        "basil pesto",
+        "salt",
+        "garlic",
+        "mozzarella cheese",
+        "rotini pasta"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

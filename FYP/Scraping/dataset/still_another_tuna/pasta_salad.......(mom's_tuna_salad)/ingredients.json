@@ -1,0 +1,21 @@
+{
+    "dish_name": "still another tuna/pasta salad.......(mom's tuna salad)",
+    "ingredients": [
+        "tuna",
+        "elbow macaroni",
+        "small shell pasta",
+        "hard-boiled egg",
+        "medium    vidalia onion, minced",
+        "celery",
+        "green bell pepper",
+        "mayonnaise",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

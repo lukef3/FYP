@@ -1,0 +1,22 @@
+{
+    "dish_name": "soft zucchini cinnamon bread",
+    "ingredients": [
+        "eggs",
+        "cup    oil",
+        "raw zucchini",
+        "sugar",
+        "baking powder",
+        "baking soda",
+        "cinnamon",
+        "salt",
+        "vanilla",
+        "cup    nuts, chopped",
+        "flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

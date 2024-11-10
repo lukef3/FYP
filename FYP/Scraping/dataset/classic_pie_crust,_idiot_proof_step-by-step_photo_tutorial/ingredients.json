@@ -1,0 +1,19 @@
+{
+    "dish_name": "classic pie crust, idiot proof step-by-step photo tutorial",
+    "ingredients": [
+        "all-purpose flour",
+        "sugar",
+        "salt",
+        "unsalted butter",
+        "vegetable shortening",
+        "fresh lemon juice",
+        "cold water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

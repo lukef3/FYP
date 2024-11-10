@@ -1,0 +1,19 @@
+{
+    "dish_name": "cabbage and noodles",
+    "ingredients": [
+        "cabbage",
+        "ounces    egg noodles, cooked according to directions on package",
+        "onions",
+        "cracked black pepper",
+        "salted butter",
+        "olive oil",
+        "green peas"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

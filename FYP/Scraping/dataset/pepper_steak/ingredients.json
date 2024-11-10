@@ -1,0 +1,27 @@
+{
+    "dish_name": "pepper steak",
+    "ingredients": [
+        "beef top round steak",
+        "olive oil",
+        "onion",
+        "garlic",
+        "beef broth",
+        "light soy sauce",
+        "sugar",
+        "pepper",
+        "celery",
+        "green bell pepper",
+        "red bell pepper",
+        "yellow bell pepper",
+        "chopped tomato",
+        "cornstarch",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

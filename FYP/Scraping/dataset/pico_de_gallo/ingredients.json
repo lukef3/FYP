@@ -1,0 +1,18 @@
+{
+    "dish_name": "pico de gallo",
+    "ingredients": [
+        "plum tomatoes",
+        "small    white onion, finely chopped",
+        "cilantro leaf",
+        "jalapeno peppers, seeded and finely chopped",
+        "lime juice",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

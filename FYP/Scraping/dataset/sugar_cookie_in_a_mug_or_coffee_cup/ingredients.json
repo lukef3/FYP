@@ -1,0 +1,19 @@
+{
+    "dish_name": "sugar cookie in a mug or coffee cup",
+    "ingredients": [
+        "butter",
+        "sugar",
+        "vanilla",
+        "salt",
+        "egg yolk",
+        "flour",
+        "candy sprinkles (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

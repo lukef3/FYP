@@ -1,0 +1,20 @@
+{
+    "dish_name": "balsamic chicken breasts with peppers and onions",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "salt & pepper",
+        "olive oil",
+        "bell peppers",
+        "onion",
+        "garlic",
+        "fresh basil",
+        "tablespoons    balsamic vinegar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

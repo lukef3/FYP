@@ -1,0 +1,20 @@
+{
+    "dish_name": "prize-winning crusty rolls (bread machine dough cycle)",
+    "ingredients": [
+        "warm water",
+        "egg white",
+        "tablespoon    vegetable oil",
+        "sugar",
+        "salt",
+        "bread flour",
+        "fast rising yeast",
+        "quick-rising yeast"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

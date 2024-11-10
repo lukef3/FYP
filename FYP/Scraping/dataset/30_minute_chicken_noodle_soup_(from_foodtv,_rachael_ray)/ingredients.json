@@ -1,0 +1,23 @@
+{
+    "dish_name": "30 minute chicken noodle soup (from foodtv, rachael ray)",
+    "ingredients": [
+        "extra virgin olive oil",
+        "carrots",
+        "parsnip",
+        "onion",
+        "celery ribs",
+        "fresh bay leaves or 2       dried bay leaves",
+        "salt and pepper",
+        "cups   good quality chicken stock",
+        "lb    chicken breast tenders, diced  (the average weight of 1 package)",
+        "lb    wide egg noodles",
+        "fresh parsley",
+        "fresh dill"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

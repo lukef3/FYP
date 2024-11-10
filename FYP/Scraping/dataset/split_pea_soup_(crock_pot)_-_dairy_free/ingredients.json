@@ -1,0 +1,23 @@
+{
+    "dish_name": "split pea soup (crock pot) - dairy free",
+    "ingredients": [
+        "(16   ounce) package   dried split peas, rinsed",
+        "ham",
+        "carrots",
+        "onion",
+        "celery",
+        "garlic cloves",
+        "bay leaf",
+        "seasoning salt",
+        "fresh pepper",
+        "hot water",
+        "broth"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

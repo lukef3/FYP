@@ -1,0 +1,21 @@
+{
+    "dish_name": "chicken salad for sandwiches",
+    "ingredients": [
+        "boneless chicken breasts",
+        "celery",
+        "onion",
+        "celery",
+        "mayonnaise",
+        "lemon juice",
+        "salt and pepper",
+        "fresh parsley",
+        "teaspoon    dill seed"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

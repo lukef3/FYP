@@ -1,0 +1,17 @@
+{
+    "dish_name": "garlic chicken breasts",
+    "ingredients": [
+        "garlic",
+        "olive oil",
+        "cup    breadcrumbs",
+        "parmesan cheese",
+        "boneless skinless chicken breast halves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

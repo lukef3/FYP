@@ -1,0 +1,20 @@
+{
+    "dish_name": "my dad swears my sister makes the best pork chops in the world",
+    "ingredients": [
+        "lb    pork chop",
+        "flour",
+        "garlic powder",
+        "salt",
+        "pepper",
+        "seasoning salt",
+        "water",
+        "oil, for frying"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

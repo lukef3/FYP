@@ -1,0 +1,17 @@
+{
+    "dish_name": "carb free cloud bread",
+    "ingredients": [
+        "eggs",
+        "whole milk cottage cheese",
+        "cream cheese",
+        "cream of tartar",
+        "artificial sweetener"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

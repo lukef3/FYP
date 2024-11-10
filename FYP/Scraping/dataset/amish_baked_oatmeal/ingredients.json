@@ -1,15 +1,17 @@
 {
     "dish_name": "amish baked oatmeal",
     "ingredients": [
-        "quick-cooking oatmeal",
-        "sugar",
-        "milk",
         "butter",
-        "margarine",
-        "egg",
+        "eggs",
+        "brown sugar",
         "baking powder",
+        "vanilla",
+        "nutmeg",
+        "cinnamon",
         "salt",
-        "vanilla extract"
+        "milk",
+        "milk",
+        "oatmeal"
     ],
     "images": [
         "images/image_1.jpg",

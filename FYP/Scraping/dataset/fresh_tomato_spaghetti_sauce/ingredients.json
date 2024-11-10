@@ -1,0 +1,24 @@
+{
+    "dish_name": "fresh tomato spaghetti sauce",
+    "ingredients": [
+        "fresh tomatoes",
+        "onions",
+        "garlic cloves",
+        "fresh basil",
+        "olive oil",
+        "salt",
+        "parsley",
+        "sugar",
+        "parmesan cheese",
+        "fresh oregano",
+        "hot Italian sausage",
+        "ground beef"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

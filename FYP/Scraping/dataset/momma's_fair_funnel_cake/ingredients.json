@@ -1,0 +1,19 @@
+{
+    "dish_name": "momma's fair funnel cake",
+    "ingredients": [
+        "eggs",
+        "sugar",
+        "milk",
+        "flour",
+        "salt",
+        "baking powder",
+        "vegetable oil, for frying"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

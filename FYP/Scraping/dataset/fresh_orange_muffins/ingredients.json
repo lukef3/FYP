@@ -1,0 +1,21 @@
+{
+    "dish_name": "fresh orange muffins",
+    "ingredients": [
+        "orange",
+        "cup    orange juice",
+        "egg",
+        "butter",
+        "margarine",
+        "all-purpose flour",
+        "white sugar",
+        "baking powder",
+        "baking soda"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

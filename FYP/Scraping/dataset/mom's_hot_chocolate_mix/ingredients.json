@@ -1,0 +1,18 @@
+{
+    "dish_name": "mom's hot chocolate mix",
+    "ingredients": [
+        "powdered milk",
+        "confectioners' sugar",
+        "ounces    powdered coffee creamer",
+        "lbs   nestle' nesquick powdered chocolate milk mix",
+        "cocoa powder",
+        "instant chocolate pudding mix"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

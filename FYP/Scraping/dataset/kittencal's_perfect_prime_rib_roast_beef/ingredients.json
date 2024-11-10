@@ -1,0 +1,19 @@
+{
+    "dish_name": "kittencal's perfect prime rib roast beef",
+    "ingredients": [
+        "lbs   center-cut prime rib roast, nicely marbled, and trimmed, but leave a layer of fat on top of roast for flavor",
+        "garlic cloves",
+        "fresh ground black pepper",
+        "salt",
+        "seasoning salt",
+        "dry white wine",
+        "cups    beef stock (or use a good quality beef broth)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

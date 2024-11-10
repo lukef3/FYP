@@ -1,0 +1,20 @@
+{
+    "dish_name": "french toast ii",
+    "ingredients": [
+        "loaf    Texas toast thick bread, Sliced  (1 lb.)",
+        "egg",
+        "sugar",
+        "milk",
+        "vanilla",
+        "cinnamon",
+        "butter",
+        "shortening"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

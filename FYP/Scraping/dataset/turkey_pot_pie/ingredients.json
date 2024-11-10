@@ -1,0 +1,25 @@
+{
+    "dish_name": "turkey pot pie",
+    "ingredients": [
+        "frozen deep dish pie shell, thawed  (or homemade pastry for a double crust pie, or 1 box Pillsbury refrigerated pie crusts)",
+        "butter",
+        "onion",
+        "celery",
+        "carrots",
+        "dried parsley",
+        "dried oregano",
+        "salt and pepper",
+        "chicken broth",
+        "potatoes",
+        "cups   cubed cooked turkey",
+        "all-purpose flour",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

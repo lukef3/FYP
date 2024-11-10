@@ -1,0 +1,24 @@
+{
+    "dish_name": "turkey breakfast sausage patties",
+    "ingredients": [
+        "ground turkey",
+        "salt",
+        "sage",
+        "fennel seed",
+        "thyme",
+        "black pepper",
+        "white pepper",
+        "cayenne",
+        "garlic powder",
+        "ground cloves",
+        "nutmeg",
+        "allspice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

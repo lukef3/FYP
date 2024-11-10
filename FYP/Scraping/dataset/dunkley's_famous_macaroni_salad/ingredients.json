@@ -1,0 +1,32 @@
+{
+    "dish_name": "dunkley's famous macaroni salad",
+    "ingredients": [
+        "(16   ounce) package   salad macaroni (or ditali pasta)",
+        "celery",
+        "red onion",
+        "onion",
+        "medium cheddar",
+        "swiss cheese",
+        "parmesan cheese",
+        "dill pickle",
+        "cup    salami, diced",
+        "cup    olive, black, sliced",
+        "horseradish",
+        "tablespoon    garlic salt",
+        "garlic",
+        "white pepper",
+        "black pepper",
+        "cayenne pepper",
+        "dry mustard",
+        "teaspoon    celery salt",
+        "diced pimentos",
+        "mayonnaise"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

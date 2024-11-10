@@ -1,0 +1,20 @@
+{
+    "dish_name": "artichoke bruschetta",
+    "ingredients": [
+        "(6 1/2  ounce) jar   marinated artichoke hearts, drained and chopped",
+        "tomatoes",
+        "romano cheese",
+        "parmesan cheese",
+        "red onion",
+        "garlic cloves",
+        "mayonnaise",
+        "French baguette"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

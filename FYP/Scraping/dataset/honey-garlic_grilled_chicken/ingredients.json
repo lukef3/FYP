@@ -1,0 +1,21 @@
+{
+    "dish_name": "honey-garlic grilled chicken",
+    "ingredients": [
+        "tablespoons    oil",
+        "fresh cilantro",
+        "honey",
+        "lime juice",
+        "garlic",
+        "salt",
+        "pepper",
+        "lemon pepper",
+        "boneless skinless chicken breast halves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

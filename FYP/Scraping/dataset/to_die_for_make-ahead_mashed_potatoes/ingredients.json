@@ -1,0 +1,27 @@
+{
+    "dish_name": "to die for make-ahead mashed potatoes",
+    "ingredients": [
+        "potatoes",
+        "sour cream",
+        "cream cheese",
+        "butter",
+        "chives",
+        "salt",
+        "pepper",
+        "garlic cloves",
+        "onion powder",
+        "marjoram",
+        "green onion",
+        "bacon bits",
+        "bacon",
+        "milk",
+        "paprika"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

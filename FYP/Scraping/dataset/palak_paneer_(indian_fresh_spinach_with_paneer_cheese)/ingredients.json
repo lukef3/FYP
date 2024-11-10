@@ -1,0 +1,26 @@
+{
+    "dish_name": "palak paneer (indian fresh spinach with paneer cheese)",
+    "ingredients": [
+        "(5   ounce) bags   Baby Spinach",
+        "onion",
+        "cinnamon",
+        "ground cardamom",
+        "ground ginger",
+        "garlic",
+        "chopped tomato",
+        "plain yogurt",
+        "coriander powder",
+        "garam masala",
+        "paprika",
+        "salt",
+        "paneer cheese",
+        "heavy cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

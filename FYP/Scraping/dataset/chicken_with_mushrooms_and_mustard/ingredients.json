@@ -1,0 +1,22 @@
+{
+    "dish_name": "chicken with mushrooms and mustard",
+    "ingredients": [
+        "boneless skinless chicken breast halves",
+        "flour",
+        "tablespoons    vegetable oil",
+        "butter",
+        "onion",
+        "mushroom",
+        "cup    light cream",
+        "fresh parsley",
+        "Dijon mustard",
+        "lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

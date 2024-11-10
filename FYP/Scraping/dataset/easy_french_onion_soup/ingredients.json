@@ -1,0 +1,20 @@
+{
+    "dish_name": "easy french onion soup",
+    "ingredients": [
+        "beef broth",
+        "(10 1/2  ounce) can   beef consomme",
+        "onions",
+        "butter",
+        "garlic cloves",
+        "Worcestershire sauce",
+        "swiss cheese",
+        "slices   toasted French bread"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

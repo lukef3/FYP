@@ -1,0 +1,28 @@
+{
+    "dish_name": "spicy shrimp in coconut milk",
+    "ingredients": [
+        "cup    oil",
+        "onion",
+        "garlic",
+        "fresh ginger",
+        "tablespoons    coriander",
+        "cumin",
+        "cinnamon",
+        "cayenne",
+        "turmeric",
+        "canned tomato",
+        "unsweetened coconut milk",
+        "water",
+        "salt",
+        "shrimp",
+        "fresh cilantro",
+        "lime wedge"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

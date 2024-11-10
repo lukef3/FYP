@@ -1,0 +1,21 @@
+{
+    "dish_name": "streamlined chimichangas",
+    "ingredients": [
+        "ground beef",
+        "onion",
+        "garlic clove",
+        "cup    Pace Picante Sauce",
+        "ground cumin",
+        "dried oregano leaves",
+        "salt",
+        "flour tortillas",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "100% whole wheat blueberry muffins",
+    "ingredients": [
+        "whole wheat flour",
+        "baking soda",
+        "buttermilk",
+        "egg whites, lightly beaten",
+        "cup    vegetable oil",
+        "honey",
+        "blueberries"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

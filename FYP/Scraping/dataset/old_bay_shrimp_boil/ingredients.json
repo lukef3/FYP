@@ -1,0 +1,21 @@
+{
+    "dish_name": "old bay shrimp boil",
+    "ingredients": [
+        "cup    Old Bay Seasoning",
+        "salt",
+        "water",
+        "beer",
+        "medium    red potatoes, cut in quarters",
+        "large    vidalia onions, cut in wedges",
+        "smoked sausage",
+        "ears   frozen corn on the cob, thawed  (I use Birdseye Little Ears)",
+        "large shrimp"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

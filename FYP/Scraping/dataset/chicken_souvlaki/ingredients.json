@@ -1,0 +1,19 @@
+{
+    "dish_name": "chicken souvlaki",
+    "ingredients": [
+        "chicken breasts",
+        "oregano",
+        "garlic powder",
+        "seasoning salt",
+        "pepper",
+        "lemon, juice of",
+        "vegetable oil, same amount to match the lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

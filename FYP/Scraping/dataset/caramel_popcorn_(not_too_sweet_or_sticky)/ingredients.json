@@ -1,0 +1,20 @@
+{
+    "dish_name": "caramel popcorn (not too sweet or sticky)",
+    "ingredients": [
+        "(3 1/2  ounce) bag   microwave popcorn or 2   quarts   plain popped popcorn",
+        "butter",
+        "brown sugar",
+        "light corn syrup",
+        "dark corn syrup",
+        "vanilla extract",
+        "baking soda",
+        "peanuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

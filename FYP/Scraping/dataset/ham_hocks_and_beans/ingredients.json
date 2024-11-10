@@ -1,0 +1,20 @@
+{
+    "dish_name": "ham hocks and beans",
+    "ingredients": [
+        "bag   dry beans (my favorite is a 15 bean mix)",
+        "ham hocks",
+        "onion",
+        "garlic",
+        "bay leaf",
+        "oregano",
+        "pepper",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

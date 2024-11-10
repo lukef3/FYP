@@ -1,0 +1,19 @@
+{
+    "dish_name": "grilled shrimp",
+    "ingredients": [
+        "garlic",
+        "olive oil",
+        "fresh basil",
+        "vinegar",
+        "Worcestershire sauce",
+        "teaspoon    hot sauce",
+        "lbs    large raw shrimp, peeled and deveined"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "pizza roll-ups (oamc)",
+    "ingredients": [
+        "1   loaf   italian bread dough or 1   loaf   all purpose bread dough",
+        "lean ground beef",
+        "turkey",
+        "salt",
+        "pepper",
+        "part-skim mozzarella cheese",
+        "teaspoon    Italian herb seasoning",
+        "fresh parsley",
+        "tomato sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

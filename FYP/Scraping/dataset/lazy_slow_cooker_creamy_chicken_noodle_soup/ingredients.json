@@ -1,0 +1,23 @@
+{
+    "dish_name": "lazy slow cooker creamy chicken noodle soup",
+    "ingredients": [
+        "cups    cooked chicken, chopped  (from a store bought chicken?)",
+        "onion",
+        "celery",
+        "carrot",
+        "cup    frozen peas",
+        "low sodium chicken broth",
+        "(10 3/4  ounce) cans   condensed cream of mushroom soup (with roasted garlic)",
+        "teaspoons    fines herbes (chervil, chives, parsley, and tarragon)",
+        "salt",
+        "pepper",
+        "cups    egg noodles, cooked"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

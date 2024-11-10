@@ -1,0 +1,21 @@
+{
+    "dish_name": "whole wheat hamburger and hot dog buns (bread machine)",
+    "ingredients": [
+        "water",
+        "egg",
+        "all-purpose flour",
+        "whole wheat flour",
+        "salt",
+        "shortening",
+        "sugar",
+        "teaspoons    yeast",
+        "vital wheat gluten"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

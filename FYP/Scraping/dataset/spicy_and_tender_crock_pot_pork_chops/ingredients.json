@@ -1,0 +1,21 @@
+{
+    "dish_name": "spicy and tender crock pot pork chops",
+    "ingredients": [
+        "center-cut pork loin chops",
+        "tablespoons    oil",
+        "onion",
+        "green pepper",
+        "tomato sauce",
+        "brown sugar",
+        "vinegar",
+        "salt",
+        "Worcestershire sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

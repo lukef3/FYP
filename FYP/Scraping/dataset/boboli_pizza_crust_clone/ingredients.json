@@ -1,0 +1,22 @@
+{
+    "dish_name": "boboli pizza crust clone",
+    "ingredients": [
+        "water",
+        "olive oil",
+        "garlic",
+        "salt",
+        "sugar",
+        "all-purpose flour",
+        "teaspoon    italian seasoning",
+        "parmesan cheese",
+        "active dry yeast",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

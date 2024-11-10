@@ -1,0 +1,26 @@
+{
+    "dish_name": "green (un-ripe) tomato salsa for canning",
+    "ingredients": [
+        "green tomatoes",
+        "yellow onions",
+        "jalapenos, chopped with seeds  (1/2 cup)",
+        "red bell peppers",
+        "garlic cloves",
+        "fresh cilantro",
+        "lime juice",
+        "vinegar",
+        "salt",
+        "cumin",
+        "dried oregano leaves",
+        "pepper",
+        "cayenne",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "fish tacos and cilantro coleslaw, 20 minutes max",
+    "ingredients": [
+        "frozen battered fish fillets",
+        "8-inch flour tortillas",
+        "green cabbage",
+        "fresh cilantro",
+        "green onion",
+        "serrano chili",
+        "mayonnaise",
+        "fresh lime juice",
+        "cumin seeds",
+        "ground cumin",
+        "salt and pepper, to taste"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

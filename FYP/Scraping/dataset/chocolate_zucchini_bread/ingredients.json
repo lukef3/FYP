@@ -1,0 +1,23 @@
+{
+    "dish_name": "chocolate zucchini bread",
+    "ingredients": [
+        "eggs",
+        "cup    vegetable oil",
+        "sugar",
+        "vanilla extract",
+        "zucchini",
+        "all-purpose flour",
+        "cup    baking cocoa",
+        "salt",
+        "baking soda",
+        "cinnamon",
+        "baking powder"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

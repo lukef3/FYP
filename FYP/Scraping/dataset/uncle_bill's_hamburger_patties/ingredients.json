@@ -1,0 +1,21 @@
+{
+    "dish_name": "uncle bill's hamburger patties",
+    "ingredients": [
+        "lean ground beef",
+        "eggs",
+        "onion",
+        "cup   crushed soda crackers or 1/2  cup    fine dry breadcrumb",
+        "garlic powder",
+        "salt",
+        "black pepper",
+        "barbecue sauce",
+        "olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

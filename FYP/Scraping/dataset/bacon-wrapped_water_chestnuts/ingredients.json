@@ -1,0 +1,15 @@
+{
+    "dish_name": "bacon-wrapped water chestnuts",
+    "ingredients": [
+        "water chestnuts",
+        "soy sauce",
+        "brown sugar",
+        "bacon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

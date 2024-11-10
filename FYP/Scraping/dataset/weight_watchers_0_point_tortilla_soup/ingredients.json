@@ -1,0 +1,27 @@
+{
+    "dish_name": "weight watchers 0 point tortilla soup",
+    "ingredients": [
+        "onion",
+        "garlic cloves",
+        "green onions",
+        "diced tomatoes",
+        "cups    low-fat chicken broth",
+        "salsa",
+        "red pepper, chopped",
+        "green pepper",
+        "celery ribs",
+        "fresh cilantro",
+        "cumin",
+        "chili powder",
+        "basil",
+        "fat free sour cream",
+        "flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

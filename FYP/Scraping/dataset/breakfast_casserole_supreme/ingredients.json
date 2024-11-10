@@ -1,0 +1,21 @@
+{
+    "dish_name": "breakfast casserole supreme",
+    "ingredients": [
+        "margarine",
+        "sweet onion",
+        "green pepper",
+        "tomatoes",
+        "frozen hash brown potatoes",
+        "eggs",
+        "bacon",
+        "sausage",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

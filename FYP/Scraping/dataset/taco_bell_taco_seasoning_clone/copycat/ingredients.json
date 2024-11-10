@@ -1,0 +1,21 @@
+{
+    "dish_name": "taco bell taco seasoning clone/copycat",
+    "ingredients": [
+        "all-purpose flour",
+        "cornstarch",
+        "tablespoon    dried onion flakes",
+        "beef bouillon granules",
+        "teaspoon    garlic salt",
+        "ground cumin",
+        "paprika",
+        "chili powder",
+        "teaspoon    onion salt",
+        "cayenne pepper",
+        "granulated sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

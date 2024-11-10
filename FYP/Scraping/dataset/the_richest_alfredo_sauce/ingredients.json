@@ -1,0 +1,16 @@
+{
+    "dish_name": "the richest alfredo sauce",
+    "ingredients": [
+        "butter",
+        "cream cheese",
+        "half-and-half cream",
+        "parmesan cheese",
+        "garlic powder",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

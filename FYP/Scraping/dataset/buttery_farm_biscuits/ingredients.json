@@ -1,0 +1,17 @@
+{
+    "dish_name": "buttery farm biscuits",
+    "ingredients": [
+        "flour",
+        "baking powder",
+        "salt",
+        "unsalted butter",
+        "skim milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

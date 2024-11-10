@@ -1,0 +1,30 @@
+{
+    "dish_name": "corn chowder",
+    "ingredients": [
+        "fresh corn",
+        "corn",
+        "bacon",
+        "unsalted butter",
+        "onion",
+        "red bell pepper",
+        "fresh thyme",
+        "ground cumin",
+        "turmeric",
+        "yukon gold potato",
+        "cups    chicken stock",
+        "kosher salt",
+        "fresh ground black pepper",
+        "cornstarch",
+        "water",
+        "heavy cream",
+        "fresh chives",
+        "scallions"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

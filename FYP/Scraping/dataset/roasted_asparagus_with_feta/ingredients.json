@@ -1,0 +1,23 @@
+{
+    "dish_name": "roasted asparagus with feta",
+    "ingredients": [
+        "asparagus",
+        "olive oil",
+        "garlic",
+        "lemon, zest of",
+        "dried oregano",
+        "red pepper flakes",
+        "kosher salt",
+        "fresh ground black pepper",
+        "fresh Italian parsley",
+        "feta cheese",
+        "lemon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

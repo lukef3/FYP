@@ -1,0 +1,22 @@
+{
+    "dish_name": "crock pot cream cheese ranch chicken",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "butter",
+        "(10 3/4  ounce) can   cream of chicken soup",
+        "cream cheese",
+        "chicken broth",
+        "(1   ounce) package   hidden valley ranch dressing mix",
+        "garlic",
+        "paprika",
+        "dried oregano",
+        "dried parsley flakes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "peanut butter pie",
+    "ingredients": [
+        "peanut butter",
+        "cream cheese",
+        "powdered sugar",
+        "milk",
+        "ounces    whipped topping",
+        "9-inch graham cracker crusts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "dish_name": "incredible oven fried chicken",
+    "ingredients": [
+        "buttermilk",
+        "olive oil",
+        "Dijon mustard",
+        "garlic",
+        "tablespoons    hot pepper sauce (louisiana is good)",
+        "salt",
+        "pepper",
+        "onion",
+        "chicken pieces",
+        "cup    unseasoned breadcrumbs",
+        "parmesan cheese",
+        "flour",
+        "thyme",
+        "paprika",
+        "cayenne pepper",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

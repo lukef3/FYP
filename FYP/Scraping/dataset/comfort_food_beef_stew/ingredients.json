@@ -1,0 +1,27 @@
+{
+    "dish_name": "comfort food beef stew",
+    "ingredients": [
+        "lbs    stew meat",
+        "flour",
+        "tablespoons    oil",
+        "water",
+        "Worcestershire sauce",
+        "garlic",
+        "pepper",
+        "bay leaves",
+        "carrots",
+        "celery",
+        "medium    red potatoes",
+        "onions",
+        "green bell peppers",
+        "flour",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

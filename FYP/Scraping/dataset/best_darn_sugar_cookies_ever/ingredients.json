@@ -1,0 +1,21 @@
+{
+    "dish_name": "best darn sugar cookies ever",
+    "ingredients": [
+        "sugar",
+        "butter",
+        "powdered sugar",
+        "cup    vegetable oil (NOT olive oil!)",
+        "eggs",
+        "vanilla extract",
+        "baking soda",
+        "cream of tartar",
+        "flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

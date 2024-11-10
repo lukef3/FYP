@@ -1,0 +1,21 @@
+{
+    "dish_name": "crusty whole wheat italian bread",
+    "ingredients": [
+        "water",
+        "light brown sugar",
+        "dark brown sugar",
+        "ground ginger",
+        "salt",
+        "bread flour",
+        "whole wheat flour",
+        "active dry yeast",
+        "cornmeal"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

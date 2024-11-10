@@ -1,0 +1,17 @@
+{
+    "dish_name": "beef roast",
+    "ingredients": [
+        "rump roast",
+        "sirloin tip roast",
+        "(12   ounce) cans   beef gravy",
+        "mushrooms",
+        "(1   ounce) envelope   onion soup mix",
+        "cup    Italian salad dressing",
+        "carrot",
+        "potato"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

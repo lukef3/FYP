@@ -1,0 +1,22 @@
+{
+    "dish_name": "pasta with garlic and oil (aglio e olio)",
+    "ingredients": [
+        "spaghetti",
+        "salt",
+        "water",
+        "extra virgin olive oil",
+        "garlic",
+        "dried red pepper flakes",
+        "parsley",
+        "fresh lemon juice",
+        "parmesan cheese",
+        "salt and black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

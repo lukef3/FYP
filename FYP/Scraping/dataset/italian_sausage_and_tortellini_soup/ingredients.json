@@ -1,0 +1,27 @@
+{
+    "dish_name": "italian sausage and tortellini soup",
+    "ingredients": [
+        "Italian sausage",
+        "onion",
+        "garlic cloves",
+        "beef broth",
+        "chopped tomatoes",
+        "tomato sauce",
+        "zucchini",
+        "carrot",
+        "green bell pepper",
+        "dry red wine",
+        "dried basil",
+        "dried oregano",
+        "ounces    cheese tortellini",
+        "salt and pepper",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

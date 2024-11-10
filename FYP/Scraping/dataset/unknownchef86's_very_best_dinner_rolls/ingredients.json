@@ -1,0 +1,20 @@
+{
+    "dish_name": "unknownchef86's very best dinner rolls",
+    "ingredients": [
+        "milk",
+        "dry yeast",
+        "sugar",
+        "butter",
+        "salt",
+        "eggs",
+        "flour",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

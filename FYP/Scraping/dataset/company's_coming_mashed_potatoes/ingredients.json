@@ -1,0 +1,22 @@
+{
+    "dish_name": "company's coming mashed potatoes",
+    "ingredients": [
+        "lbs    Simply Potatoes Traditional Mashed Potatoes",
+        "ounces    soft fresh goat cheese, cubed  (chevre)",
+        "cream cheese",
+        "butter",
+        "bacon",
+        "red bell pepper",
+        "green bell pepper",
+        "green onions",
+        "salt",
+        "pepper",
+        "cheddar cheese",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

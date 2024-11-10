@@ -1,0 +1,23 @@
+{
+    "dish_name": "sharon's ono barbecue beef",
+    "ingredients": [
+        "lbs    boneless chuck roast",
+        "onion",
+        "catsup",
+        "Dijon mustard",
+        "brown sugar",
+        "red wine vinegar",
+        "liquid smoke flavoring",
+        "salt",
+        "pepper",
+        "garlic powder",
+        "garlic cloves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

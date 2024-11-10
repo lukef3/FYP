@@ -1,0 +1,25 @@
+{
+    "dish_name": "chicken schnitzel",
+    "ingredients": [
+        "eggs",
+        "garlic",
+        "fresh parsley",
+        "coarse salt",
+        "ground pepper",
+        "cup    fresh breadcrumb (made from 3 slices white bread)",
+        "parmesan cheese",
+        "chicken cutlets",
+        "olive oil",
+        "butter",
+        "dry white wine",
+        "chicken broth",
+        "fresh lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

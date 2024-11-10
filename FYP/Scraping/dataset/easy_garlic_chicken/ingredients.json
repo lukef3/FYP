@@ -1,0 +1,17 @@
+{
+    "dish_name": "easy garlic chicken",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "garlic cloves",
+        "brown sugar",
+        "olive oil",
+        "additional herbs and spices, as desired"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

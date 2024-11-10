@@ -1,0 +1,18 @@
+{
+    "dish_name": "savory broccoli casserole",
+    "ingredients": [
+        "frozen broccoli",
+        "onion",
+        "cheddar cheese",
+        "mayonnaise",
+        "can    mushroom soup",
+        "eggs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

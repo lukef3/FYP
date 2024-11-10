@@ -1,0 +1,25 @@
+{
+    "dish_name": "crock pot oniony pork chops with creamy mustard sauce",
+    "ingredients": [
+        "tablespoon    vegetable oil",
+        "pork chops, 1-inch thick",
+        "onions",
+        "garlic cloves",
+        "dry mustard",
+        "salt",
+        "fresh ground black pepper",
+        "cayenne pepper",
+        "all-purpose flour",
+        "cider vinegar",
+        "white wine",
+        "Dijon mustard",
+        "cup    whipping cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

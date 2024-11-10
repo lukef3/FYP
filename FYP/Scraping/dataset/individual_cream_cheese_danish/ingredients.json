@@ -1,0 +1,21 @@
+{
+    "dish_name": "individual cream cheese danish",
+    "ingredients": [
+        "(10   ounce) cans   crescent roll dough",
+        "cream cheese",
+        "white sugar",
+        "lemon juice",
+        "vanilla extract",
+        "sour cream",
+        "confectioners' sugar",
+        "milk",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

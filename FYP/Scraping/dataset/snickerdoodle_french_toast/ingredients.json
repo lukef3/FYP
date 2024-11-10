@@ -1,0 +1,19 @@
+{
+    "dish_name": "snickerdoodle french toast",
+    "ingredients": [
+        "milk",
+        "eggs",
+        "salt",
+        "vanilla extract",
+        "slices    white bread",
+        "white sugar",
+        "cinnamon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

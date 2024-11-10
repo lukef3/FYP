@@ -1,0 +1,20 @@
+{
+    "dish_name": "ugly naked chicken",
+    "ingredients": [
+        "skinless chicken",
+        "garlic powder",
+        "salt",
+        "black pepper",
+        "honey",
+        "soy sauce",
+        "butter",
+        "margarine",
+        "Worcestershire sauce",
+        "lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

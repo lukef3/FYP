@@ -1,0 +1,18 @@
+{
+    "dish_name": "cranberry feta pinwheels",
+    "ingredients": [
+        "dried sweetened cranberries",
+        "cream cheese spread",
+        "feta cheese",
+        "green onion",
+        "wheat flour tortillas",
+        "spinach tortillas"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

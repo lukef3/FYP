@@ -1,0 +1,20 @@
+{
+    "dish_name": "marinade for steak",
+    "ingredients": [
+        "olive oil",
+        "white wine",
+        "lemon juice",
+        "soy sauce",
+        "garlic",
+        "pepper",
+        "red peppercorns (optional)",
+        "teaspoon    italian seasoning",
+        "sugar",
+        "Worcestershire sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

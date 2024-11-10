@@ -1,0 +1,15 @@
+{
+    "dish_name": "shirley's perfect rare roast beef",
+    "ingredients": [
+        "roast beef",
+        "onion",
+        "garlic powder"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

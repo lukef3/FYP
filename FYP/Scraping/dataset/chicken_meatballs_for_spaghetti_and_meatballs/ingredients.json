@@ -1,0 +1,20 @@
+{
+    "dish_name": "chicken meatballs for spaghetti and meatballs",
+    "ingredients": [
+        "ground chicken",
+        "egg",
+        "parmesan cheese",
+        "cup    breadcrumbs",
+        "garlic",
+        "fresh oregano",
+        "salt",
+        "olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dish_name": "chipped beef on toast",
+    "ingredients": [
+        "(2   ounce) package   dried beef",
+        "butter",
+        "flour",
+        "milk",
+        "ground pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

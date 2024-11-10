@@ -1,0 +1,16 @@
+{
+    "dish_name": "those pretzel things ( pecan rollo bites)",
+    "ingredients": [
+        "small    pretzel twists",
+        "pieces    rollo candies",
+        "whole pecans",
+        "walnuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

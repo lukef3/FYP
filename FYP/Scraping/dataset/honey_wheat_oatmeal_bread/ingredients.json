@@ -1,0 +1,20 @@
+{
+    "dish_name": "honey wheat oatmeal bread",
+    "ingredients": [
+        "water",
+        "olive oil",
+        "honey",
+        "salt",
+        "rolled oats",
+        "whole wheat flour",
+        "white bread flour",
+        "instant yeast"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

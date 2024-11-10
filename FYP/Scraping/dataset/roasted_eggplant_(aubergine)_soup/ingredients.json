@@ -1,0 +1,21 @@
+{
+    "dish_name": "roasted eggplant (aubergine) soup",
+    "ingredients": [
+        "tomatoes",
+        "eggplants",
+        "onion",
+        "garlic cloves",
+        "tablespoons    vegetable oil",
+        "fresh thyme",
+        "dried thyme",
+        "low sodium chicken broth",
+        "cup    whipping cream",
+        "cup    goat cheese, crumbled"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "chicken packets (oamc)",
+    "ingredients": [
+        "cups   chopped cooked chicken",
+        "cream cheese",
+        "chives",
+        "milk",
+        "salt",
+        "seasoned croutons",
+        "(8   ounce) packages   refrigerated crescent dinner rolls",
+        "margarine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

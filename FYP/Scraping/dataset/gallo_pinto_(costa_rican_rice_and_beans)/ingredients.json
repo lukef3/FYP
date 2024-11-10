@@ -1,0 +1,24 @@
+{
+    "dish_name": "gallo pinto (costa rican rice and beans)",
+    "ingredients": [
+        "canola oil",
+        "onion",
+        "garlic cloves",
+        "cooked white rice",
+        "black beans",
+        "ground cumin",
+        "ground coriander",
+        "ground ginger",
+        "vegetarian worcestershire sauce",
+        "salt & freshly ground black pepper, to taste",
+        "fresh cilantro",
+        "green onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "vanilla-scented granola",
+    "ingredients": [
+        "vegetable oil cooking spray",
+        "old fashioned oats",
+        "cup    sliced almonds",
+        "golden brown sugar",
+        "salt",
+        "ground cinnamon",
+        "cup    vegetable oil",
+        "honey",
+        "sugar",
+        "vanilla extract"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

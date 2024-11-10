@@ -1,0 +1,24 @@
+{
+    "dish_name": "kittencal's muffin shop jumbo blueberry or strawberry muffins",
+    "ingredients": [
+        "all-purpose flour",
+        "sugar",
+        "butter",
+        "baking powder",
+        "salt",
+        "baking soda",
+        "cinnamon",
+        "lemon zest",
+        "buttermilk",
+        "eggs",
+        "vanilla",
+        "blueberries"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

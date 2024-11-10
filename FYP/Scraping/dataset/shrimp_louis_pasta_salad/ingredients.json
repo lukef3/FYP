@@ -1,0 +1,24 @@
+{
+    "dish_name": "shrimp louis pasta salad",
+    "ingredients": [
+        "spiral shaped pasta",
+        "mayonnaise",
+        "cup    ranch dressing",
+        "cup    seafood cocktail sauce",
+        "fresh lemon juice",
+        "Worcestershire sauce",
+        "salt and pepper",
+        "lb   medium cooked shrimp, peeled & deveined",
+        "fresh tomato",
+        "green onion",
+        "cup   chopped sweet red pepper",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

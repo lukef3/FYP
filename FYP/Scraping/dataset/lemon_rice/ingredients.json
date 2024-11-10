@@ -1,0 +1,21 @@
+{
+    "dish_name": "lemon rice",
+    "ingredients": [
+        "water",
+        "chicken broth",
+        "lemon juice",
+        "butter",
+        "margarine",
+        "rice",
+        "dried basil",
+        "lemon, zest of",
+        "lemon pepper seasoning"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

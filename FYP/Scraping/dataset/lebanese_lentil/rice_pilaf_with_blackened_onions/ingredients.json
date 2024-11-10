@@ -1,0 +1,26 @@
+{
+    "dish_name": "lebanese lentil/rice pilaf with blackened onions",
+    "ingredients": [
+        "olive oil",
+        "onion",
+        "garlic cloves",
+        "ground cumin",
+        "ground cinnamon",
+        "ground allspice",
+        "vegetable broth",
+        "dried lentils",
+        "long-grain white rice",
+        "onions",
+        "tomatoes",
+        "cucumber",
+        "plain yogurt",
+        "of fresh mint"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

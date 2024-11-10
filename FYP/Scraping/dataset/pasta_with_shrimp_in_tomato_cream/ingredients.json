@@ -1,0 +1,25 @@
+{
+    "dish_name": "pasta with shrimp in tomato cream",
+    "ingredients": [
+        "teaspoons    oil (from sun dried tomatoes packed in oil)",
+        "garlic",
+        "medium shrimp",
+        "green onion",
+        "sun-dried tomato",
+        "white pepper",
+        "chicken broth",
+        "dry vermouth",
+        "cup    whipping cream",
+        "bow tie pasta",
+        "water",
+        "parmesan cheese",
+        "basil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

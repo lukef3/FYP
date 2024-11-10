@@ -1,0 +1,18 @@
+{
+    "dish_name": "healthy no bake cookies",
+    "ingredients": [
+        "skim milk",
+        "sugar",
+        "cocoa powder",
+        "vanilla",
+        "crunchy peanut butter",
+        "wheat germ",
+        "ground flax seeds",
+        "quick oatmeal"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

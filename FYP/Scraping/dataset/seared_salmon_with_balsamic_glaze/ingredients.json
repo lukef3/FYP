@@ -1,0 +1,20 @@
+{
+    "dish_name": "seared salmon with balsamic glaze",
+    "ingredients": [
+        "cup    balsamic vinegar",
+        "water",
+        "fresh lemon juice",
+        "brown sugar",
+        "brown sugar",
+        "salmon fillets",
+        "salt & freshly ground black pepper",
+        "olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

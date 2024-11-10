@@ -1,0 +1,21 @@
+{
+    "dish_name": "chicken breasts in lemon cream sauce",
+    "ingredients": [
+        "butter",
+        "mushrooms",
+        "boneless chicken breasts",
+        "all-purpose flour",
+        "chicken broth",
+        "heavy whipping cream",
+        "fresh lemon juice",
+        "white pepper",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

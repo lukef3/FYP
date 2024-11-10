@@ -1,0 +1,19 @@
+{
+    "dish_name": "simply oven baked pork chops and rice",
+    "ingredients": [
+        "(10 3/4  ounce) can   cream of mushroom soup",
+        "water",
+        "long grain rice",
+        "onion",
+        "pepper",
+        "pork chops",
+        "salt and pepper (to taste)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

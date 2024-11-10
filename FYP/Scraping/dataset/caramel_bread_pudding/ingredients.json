@@ -1,0 +1,21 @@
+{
+    "dish_name": "caramel bread pudding",
+    "ingredients": [
+        "slices    bread, day-old, cut into 1/2 inch cubes  (about 7 cups)",
+        "water",
+        "brown sugar",
+        "eggs",
+        "milk",
+        "sugar",
+        "vanilla extract",
+        "cinnamon",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

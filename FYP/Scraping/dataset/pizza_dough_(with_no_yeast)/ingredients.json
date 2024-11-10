@@ -1,0 +1,18 @@
+{
+    "dish_name": "pizza dough (with no yeast)",
+    "ingredients": [
+        "flour",
+        "baking powder",
+        "salt",
+        "milk",
+        "cup    salad oil",
+        "tablespoons    salad oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

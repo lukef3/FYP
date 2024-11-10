@@ -1,0 +1,21 @@
+{
+    "dish_name": "mom's sit sandwich (aka squishy sorta muffuletta)",
+    "ingredients": [
+        "large   round loaf French bread (or oval \"peasant\" loaf, or sourdough)",
+        "(6 1/2  ounce) jar   marinated artichoke hearts, drained, liquid reserved  (you can use the hearts whole or roughly chopped)",
+        "mayonnaise",
+        "tomatoes",
+        "ounces   thinly sliced salami",
+        "turkey breast",
+        "cheese slice",
+        "black olives",
+        "purple onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

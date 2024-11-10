@@ -1,0 +1,26 @@
+{
+    "dish_name": "my best zucchini bread",
+    "ingredients": [
+        "sugar",
+        "cup    vegetable oil",
+        "eggs",
+        "vanilla",
+        "zucchini",
+        "applesauce",
+        "cup    orange juice",
+        "flour",
+        "baking soda",
+        "baking powder",
+        "salt",
+        "nutmeg",
+        "cinnamon",
+        "walnuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

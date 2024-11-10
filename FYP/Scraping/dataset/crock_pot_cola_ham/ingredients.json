@@ -1,0 +1,14 @@
+{
+    "dish_name": "crock pot cola ham",
+    "ingredients": [
+        "boneless ham",
+        "brown sugar",
+        "mustard",
+        "(12   ounce) cans   Coca-Cola"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

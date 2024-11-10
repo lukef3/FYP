@@ -1,0 +1,19 @@
+{
+    "dish_name": "italian sausage pie",
+    "ingredients": [
+        "pie shell, unbaked",
+        "Italian sausage",
+        "onion",
+        "eggs",
+        "milk",
+        "mozzarella cheese",
+        "salt & pepper, to taste"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

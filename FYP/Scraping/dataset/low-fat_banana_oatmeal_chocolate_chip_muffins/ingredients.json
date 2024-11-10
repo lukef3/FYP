@@ -1,0 +1,22 @@
+{
+    "dish_name": "low-fat banana oatmeal chocolate chip muffins",
+    "ingredients": [
+        "bananas",
+        "white sugar",
+        "egg",
+        "baking soda",
+        "baking powder",
+        "flour",
+        "rolled oats",
+        "applesauce",
+        "salt",
+        "chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

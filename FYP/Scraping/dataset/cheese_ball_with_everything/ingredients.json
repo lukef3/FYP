@@ -1,0 +1,26 @@
+{
+    "dish_name": "cheese ball with everything",
+    "ingredients": [
+        "swiss cheese",
+        "cheddar cheese",
+        "cream cheese",
+        "sour cream",
+        "onion",
+        "pimiento",
+        "tablespoons    sweet pickle relish",
+        "bacon",
+        "pecans",
+        "salt",
+        "pepper",
+        "parsley",
+        "poppy seed",
+        "assorted cracker"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

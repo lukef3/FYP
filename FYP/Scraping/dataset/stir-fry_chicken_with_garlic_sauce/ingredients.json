@@ -1,0 +1,22 @@
+{
+    "dish_name": "stir-fry chicken with garlic sauce",
+    "ingredients": [
+        "garlic cloves",
+        "soy sauce",
+        "water",
+        "honey",
+        "tablespoons    vegetable oil, divided",
+        "cornstarch",
+        "pepper",
+        "crushed red pepper flakes",
+        "boneless skinless chicken breast",
+        "green onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

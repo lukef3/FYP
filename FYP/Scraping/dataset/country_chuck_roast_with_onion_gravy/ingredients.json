@@ -1,0 +1,20 @@
+{
+    "dish_name": "country chuck roast with onion gravy",
+    "ingredients": [
+        "lbs    chuck roast",
+        "brown sugar",
+        "salt and pepper (this is for the roast)",
+        "onion",
+        "water",
+        "all-purpose flour",
+        "salt",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

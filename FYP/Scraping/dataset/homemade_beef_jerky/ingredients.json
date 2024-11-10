@@ -1,0 +1,23 @@
+{
+    "dish_name": "homemade beef jerky",
+    "ingredients": [
+        "london broil beef",
+        "black pepper",
+        "chili powder",
+        "garlic powder",
+        "cayenne pepper",
+        "onion powder",
+        "liquid smoke",
+        "soy sauce",
+        "low sodium soy sauce",
+        "Worcestershire sauce",
+        "cup    Frank's red hot sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

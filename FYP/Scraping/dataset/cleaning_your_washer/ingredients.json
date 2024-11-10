@@ -1,0 +1,11 @@
+{
+    "dish_name": "cleaning your washer",
+    "ingredients": [
+        "quart   chlorine bleach",
+        "white vinegar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "chewy delicious chocolate chip cookies",
+    "ingredients": [
+        "butter",
+        "granulated sugar",
+        "light brown sugar",
+        "vanilla extract",
+        "eggs",
+        "unsifted all-purpose flour",
+        "baking soda",
+        "salt",
+        "cup   chopped nuts (optional)",
+        "cups    semi-sweet chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

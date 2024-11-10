@@ -1,0 +1,18 @@
+{
+    "dish_name": "hot pepper jelly",
+    "ingredients": [
+        "cup    hot pepper (this amount can vary according to what type of peppers used and how hot you want your jelly)",
+        "bell pepper",
+        "white vinegar",
+        "sugar",
+        "ounces    liquid Certo (2 packets)",
+        "teaspoon    food coloring (red or green I use red for hotter jelly-green for milder jelly)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

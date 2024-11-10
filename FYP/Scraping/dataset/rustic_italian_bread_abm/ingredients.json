@@ -1,0 +1,21 @@
+{
+    "dish_name": "rustic italian bread abm",
+    "ingredients": [
+        "warm water",
+        "olive oil",
+        "bread flour",
+        "all-purpose flour",
+        "granulated sugar",
+        "salt",
+        "active dry yeast",
+        "cornmeal",
+        "egg white, slightly beaten"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

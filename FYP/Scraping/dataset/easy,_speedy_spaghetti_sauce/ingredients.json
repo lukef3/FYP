@@ -1,0 +1,22 @@
+{
+    "dish_name": "easy, speedy spaghetti sauce",
+    "ingredients": [
+        "tomato sauce",
+        "olive oil",
+        "brown sugar",
+        "onions",
+        "garlic powder",
+        "dried oregano",
+        "dried basil",
+        "dried parsley",
+        "paprika",
+        "bay leaf"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

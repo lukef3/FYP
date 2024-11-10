@@ -1,0 +1,16 @@
+{
+    "dish_name": "croutons",
+    "ingredients": [
+        "potato hamburger buns (or other bread) or 3       hot dog buns (or other bread)",
+        "olive oil",
+        "canola oil",
+        "tablespoon    Lawry's Seasoned Salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

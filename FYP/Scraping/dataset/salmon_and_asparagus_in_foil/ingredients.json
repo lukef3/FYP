@@ -1,0 +1,19 @@
+{
+    "dish_name": "salmon and asparagus in foil",
+    "ingredients": [
+        "sheets    aluminum foil, wrap  (12-inch by 18-inch)",
+        "salmon fillets",
+        "asparagus",
+        "lemon",
+        "fresh ground black pepper",
+        "seasoning salt",
+        "lemon wedge"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

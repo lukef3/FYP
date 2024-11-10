@@ -1,0 +1,25 @@
+{
+    "dish_name": "winter fruit salad with lemon poppy seed dressing",
+    "ingredients": [
+        "white sugar",
+        "lemon juice",
+        "teaspoons    diced onions",
+        "Dijon mustard",
+        "salt",
+        "cup    vegetable oil",
+        "poppy seed",
+        "romaine lettuce",
+        "swiss cheese",
+        "cashews",
+        "dried cranberries",
+        "apple",
+        "pear"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

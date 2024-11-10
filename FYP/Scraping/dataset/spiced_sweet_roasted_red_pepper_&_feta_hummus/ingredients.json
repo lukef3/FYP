@@ -1,0 +1,22 @@
+{
+    "dish_name": "spiced sweet roasted red pepper & feta hummus",
+    "ingredients": [
+        "garbanzo beans",
+        "(4   ounce) jar   roasted red peppers",
+        "lemon juice",
+        "tahini",
+        "garlic",
+        "ground cumin",
+        "cayenne pepper",
+        "salt",
+        "fresh parsley",
+        "feta cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "simple bisquick chicken pot pie",
+    "ingredients": [
+        "butter",
+        "Bisquick baking mix",
+        "milk",
+        "milk",
+        "onions",
+        "pepper",
+        "chicken broth",
+        "cup    frozen mixed vegetables",
+        "cups    cooked chicken, cut up"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

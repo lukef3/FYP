@@ -1,0 +1,22 @@
+{
+    "dish_name": "the best peanut butter-oatmeal cookies",
+    "ingredients": [
+        "shortening",
+        "butter",
+        "sugar",
+        "brown sugar",
+        "peanut butter",
+        "eggs",
+        "flour",
+        "baking soda",
+        "salt",
+        "quick-cooking oats"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

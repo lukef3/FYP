@@ -1,0 +1,23 @@
+{
+    "dish_name": "pork and vegetable lo mein (easy and delicious)",
+    "ingredients": [
+        "olive oil",
+        "spaghetti",
+        "lb    pork tenderloin, sliced thinly into strips",
+        "onion",
+        "garlic cloves",
+        "crushed red pepper flakes",
+        "cabbage",
+        "bok choy",
+        "carrot",
+        "sweet bell peppers",
+        "soy sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

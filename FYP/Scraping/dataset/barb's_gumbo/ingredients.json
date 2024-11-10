@@ -1,0 +1,32 @@
+{
+    "dish_name": "barb's gumbo",
+    "ingredients": [
+        "flour",
+        "canola oil",
+        "celery",
+        "bell pepper",
+        "yellow onion",
+        "garlic",
+        "chopped tomatoes",
+        "chicken broth",
+        "thyme",
+        "basil",
+        "bay leaves",
+        "Worcestershire sauce",
+        "teaspoon    hot pepper sauce (Tabasco or cayenne pepper or to your taste.)",
+        "salt",
+        "frozen corn",
+        "cumin",
+        "black pepper",
+        "okra",
+        "shrimp",
+        "rice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

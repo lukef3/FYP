@@ -1,0 +1,26 @@
+{
+    "dish_name": "the easiest, bestest focaccia bread ever!!",
+    "ingredients": [
+        "all-purpose flour",
+        "salt",
+        "white sugar",
+        "active dry yeast",
+        "garlic powder",
+        "oregano",
+        "dried thyme",
+        "dried basil",
+        "ground black pepper",
+        "tablespoon    vegetable oil",
+        "warm water",
+        "olive oil",
+        "parmesan cheese",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

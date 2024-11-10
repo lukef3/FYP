@@ -1,0 +1,12 @@
+{
+    "dish_name": "highly rated ranch chicken",
+    "ingredients": [
+        "boneless skinless chicken breast halves",
+        "cup    dry breadcrumbs",
+        "cup   bottled creamy ranch dressing"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

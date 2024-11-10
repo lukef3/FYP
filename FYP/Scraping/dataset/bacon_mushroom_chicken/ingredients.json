@@ -1,0 +1,15 @@
+{
+    "dish_name": "bacon mushroom chicken",
+    "ingredients": [
+        "butter",
+        "chicken breast halves",
+        "seasoning salt",
+        "garlic clove",
+        "bacon",
+        "mushroom",
+        "heavy cream"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "the best garlic shrimp in the whole wide world",
+    "ingredients": [
+        "shrimp",
+        "garlic",
+        "fresh parsley",
+        "paprika",
+        "sea salt",
+        "fresh ground pepper",
+        "olive oil",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "pork tenderloin, the best ever",
+    "ingredients": [
+        "lbs    pork tenderloin",
+        "salt",
+        "pepper",
+        "flour",
+        "olive oil",
+        "(1   ounce) package   Lipton Onion Soup Mix",
+        "(10 3/4  ounce) can   cream of mushroom soup",
+        "hot water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

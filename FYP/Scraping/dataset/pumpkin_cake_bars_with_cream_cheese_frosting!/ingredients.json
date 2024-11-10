@@ -1,0 +1,24 @@
+{
+    "dish_name": "pumpkin cake bars with cream cheese frosting!",
+    "ingredients": [
+        "eggs",
+        "white sugar",
+        "cup    vegetable oil",
+        "pumpkin puree",
+        "all-purpose flour",
+        "baking powder",
+        "salt",
+        "baking soda",
+        "ground cinnamon",
+        "cream cheese",
+        "butter",
+        "confectioners' sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

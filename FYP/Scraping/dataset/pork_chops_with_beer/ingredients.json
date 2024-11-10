@@ -1,0 +1,17 @@
+{
+    "dish_name": "pork chops with beer",
+    "ingredients": [
+        "pork chops (lean and thick)",
+        "garlic powder",
+        "salt",
+        "pepper",
+        "Accent seasoning",
+        "beer",
+        "(10 1/2  ounce) can   cream of celery soup"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}
