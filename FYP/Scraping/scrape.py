@@ -1,9 +1,10 @@
 import requests
+from selenium import webdriver
+from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
+import time
 import os
 import json
-import time
-
 
 def scrape_recipe(url, root_folder="dataset"):
     # Fetch the page content
@@ -92,39 +93,58 @@ def scrape_recipe(url, root_folder="dataset"):
 
     return json_data
 
+def scrape_all_recipes_selenium(url):
+    """
+    Scrape all recipes using Selenium for pages where all content is initially loaded.
 
-def scrape_all_recipes(main_page_url, root_folder="dataset", delay=1):
-    # Fetch the main page content
-    response = requests.get(main_page_url)
-    response.raise_for_status()
+    Args:
+        url (str): URL of the main page containing recipes.
+        root_folder (str): Folder to save scraped data.
+        delay (int): Delay in seconds after loading the page.
+    """
+    # Set up Selenium WebDriver
+    options = webdriver.ChromeOptions()
+    options.add_argument('--headless')
+    driver = webdriver.Chrome(options=options)  # Use the appropriate WebDriver for your browser
+    driver.get(url)
+    time.sleep(2)  # Wait for the page to fully load
+    recipe_links = set()  # Use a set to avoid duplicates
 
-    # Parse the page content with BeautifulSoup
-    soup = BeautifulSoup(response.text, 'html.parser')
+    # Parse the current page source with BeautifulSoup
+    soup = BeautifulSoup(driver.page_source, 'html.parser')
 
-    # Find all recipe links in the 'smart-cards' section
-    smart_cards_section = soup.find('section', class_='smart-cards')
-    if not smart_cards_section:
-        print("No 'smart-cards' section found on the page.")
-        return
+    # Find all recipe cards
+    recipe_cards = soup.find_all('div', class_='fd-tile fd-recipe')
+    for card in recipe_cards:
+        link = card.get('data-url')  # Extract the dynamically rendered `data-url` attribute
+        if link and link not in recipe_links:
+            recipe_links.add(link)
 
-    recipe_links = []
-    smart_card_divs = smart_cards_section.find_all('div', class_='smart-card container-sm recipe')
-    for card in smart_card_divs:
-        link = card.get('data-seo-url')  # Extract the data-seo-url attribute
-        if link:
-            recipe_links.append(link)
+    driver.quit()
+    return  recipe_links
 
-    print(f"Found {len(recipe_links)} recipes on the page.")
 
-    # Scrape each recipe
-    for i, recipe_url in enumerate(recipe_links, start=1):
-        print(f"Scraping recipe {i}/{len(recipe_links)}: {recipe_url}")
-        try:
-            scrape_recipe(recipe_url, root_folder=root_folder)
-        except Exception as e:
-            print(f"Error scraping {recipe_url}: {e}")
-        # Add a delay to avoid overloading the server
-        time.sleep(delay)
+def main():
+    base_url = "https://www.food.com/recipe/?pn={}"
+    start_page = 120
+    max_page = 200
 
-main_page_url = "https://www.food.com/ideas/best-air-fryer-recipes-6847#c-752960"
-scrape_all_recipes(main_page_url)
+    for page_number in range(start_page, max_page + 1):
+        # Construct the URL for the current page
+        page_url = base_url.format(page_number)
+
+        # Scrape all recipes on the current page
+        recipe_links = scrape_all_recipes_selenium(page_url)
+        print(f"Scraping page {page_number}")
+        # Process each recipe
+        for i, recipe_url in enumerate(recipe_links, start=1):
+            print(f"Processing recipe {i}/{len(recipe_links)}: {recipe_url}")
+            try:
+                scrape_recipe(recipe_url)
+            except Exception as e:
+                print(f"Error processing recipe {recipe_url}: {e}")
+    print(f"Finished scraping from page {start_page} and {max_page}")
+
+main()
+
+
