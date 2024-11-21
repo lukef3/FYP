@@ -1,0 +1,22 @@
+{
+    "dish_name": "paprika chicken with sour cream gravy",
+    "ingredients": [
+        "flour",
+        "paprika",
+        "salt",
+        "pepper",
+        "garlic powder",
+        "cayenne pepper",
+        "boneless skinless chicken breasts",
+        "butter",
+        "(10 1/2  ounce) can   cream of chicken soup",
+        "green onion",
+        "sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

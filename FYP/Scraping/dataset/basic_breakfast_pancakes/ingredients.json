@@ -1,0 +1,20 @@
+{
+    "dish_name": "basic breakfast pancakes",
+    "ingredients": [
+        "flour",
+        "sugar",
+        "baking powder",
+        "salt",
+        "egg",
+        "butter",
+        "shortening",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

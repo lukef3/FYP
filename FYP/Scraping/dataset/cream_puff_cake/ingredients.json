@@ -1,0 +1,21 @@
+{
+    "dish_name": "cream puff cake",
+    "ingredients": [
+        "water",
+        "butter",
+        "all-purpose flour",
+        "eggs",
+        "cream cheese",
+        "milk",
+        "instant vanilla pudding",
+        "Cool Whip",
+        "cup    chocolate syrup"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

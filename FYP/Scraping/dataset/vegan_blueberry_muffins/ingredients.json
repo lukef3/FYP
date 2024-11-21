@@ -1,0 +1,21 @@
+{
+    "dish_name": "vegan blueberry muffins",
+    "ingredients": [
+        "margarine",
+        "unsweetened applesauce",
+        "salt",
+        "sugar",
+        "flour",
+        "baking powder",
+        "vanilla",
+        "soymilk",
+        "frozen blueberries"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

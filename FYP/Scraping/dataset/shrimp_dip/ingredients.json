@@ -1,0 +1,18 @@
+{
+    "dish_name": "shrimp dip",
+    "ingredients": [
+        "shrimp",
+        "onion",
+        "Worcestershire sauce",
+        "cream cheese",
+        "cream cheese",
+        "mayonnaise",
+        "horseradish",
+        "ketchup",
+        "dill weed"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

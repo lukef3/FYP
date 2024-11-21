@@ -1,6 +1,5 @@
 import requests
 from selenium import webdriver
-from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
 import time
 import os
@@ -126,8 +125,8 @@ def scrape_all_recipes_selenium(url):
 
 def main():
     base_url = "https://www.food.com/recipe/?pn={}"
-    start_page = 120
-    max_page = 200
+    start_page = 200
+    max_page = 210
 
     for page_number in range(start_page, max_page + 1):
         # Construct the URL for the current page
@@ -146,5 +145,3 @@ def main():
     print(f"Finished scraping from page {start_page} and {max_page}")
 
 main()
-
-

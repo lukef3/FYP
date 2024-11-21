@@ -1,0 +1,21 @@
+{
+    "dish_name": "lemon cake pie",
+    "ingredients": [
+        "9-inch deep dish pie crust, I use Marie Callender's frozen. No need to defrost. No need to prebake",
+        "sugar",
+        "butter",
+        "all-purpose flour",
+        "salt",
+        "lemon peel",
+        "fresh lemon juice",
+        "eggs",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

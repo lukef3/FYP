@@ -1,0 +1,21 @@
+{
+    "dish_name": "pan roasted chicken and veggies",
+    "ingredients": [
+        "lbs    red potatoes, cut into 1 1/2-inch chunks",
+        "onion",
+        "garlic cloves",
+        "olive oil",
+        "salt",
+        "black pepper",
+        "dried rosemary",
+        "boneless skinless chicken thighs",
+        "fresh spinach"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

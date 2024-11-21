@@ -1,0 +1,22 @@
+{
+    "dish_name": "special green bean casserole",
+    "ingredients": [
+        "butter",
+        "flour",
+        "salt",
+        "sugar",
+        "pepper",
+        "onion",
+        "sour cream",
+        "French style green beans",
+        "swiss cheese",
+        "cup    corn flakes, crushed"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

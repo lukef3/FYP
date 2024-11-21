@@ -1,0 +1,25 @@
+{
+    "dish_name": "15 bean soup",
+    "ingredients": [
+        "(1   lb) bag  regular 15 bean soup mix or  (1   lb) bag  cajun 15 bean soup mix",
+        "onion",
+        "garlic cloves",
+        "whole tomatoes",
+        "celery leaves",
+        "ham hocks",
+        "ham bone",
+        "dried parsley",
+        "dried rosemary",
+        "black pepper",
+        "salt",
+        "olive oil",
+        "chicken bouillon cubes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

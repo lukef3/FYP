@@ -1,0 +1,21 @@
+{
+    "dish_name": "to die for chicken marsala",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "flour",
+        "olive oil",
+        "ounces    sliced mushrooms",
+        "garlic",
+        "marsala wine",
+        "cups    chicken stock",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

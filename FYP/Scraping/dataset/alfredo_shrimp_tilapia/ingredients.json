@@ -1,0 +1,22 @@
+{
+    "dish_name": "alfredo shrimp tilapia",
+    "ingredients": [
+        "lbs    tilapia fillets",
+        "alfredo sauce",
+        "shrimp",
+        "tablespoons    creole seasoning",
+        "sweet red pepper, sliced very thin into slivers",
+        "olive oil",
+        "butter",
+        "garlic",
+        "romano cheese",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "pineapple upside-down cake in iron skillet",
+    "ingredients": [
+        "butter",
+        "brown sugar",
+        "pineapple",
+        "flour",
+        "sugar",
+        "shortening",
+        "milk",
+        "baking powder",
+        "salt",
+        "egg",
+        "maraschino cherry"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

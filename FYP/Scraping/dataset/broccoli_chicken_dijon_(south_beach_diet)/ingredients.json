@@ -1,0 +1,17 @@
+{
+    "dish_name": "broccoli chicken dijon (south beach diet)",
+    "ingredients": [
+        "reduced-sodium chicken broth",
+        "light soy sauce",
+        "broccoli florets",
+        "garlic clove",
+        "olive oil",
+        "boneless skinless chicken breast",
+        "Dijon mustard"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}
