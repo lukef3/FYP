@@ -1,0 +1,24 @@
+{
+    "dish_name": "beef and bean burritos",
+    "ingredients": [
+        "ground beef",
+        "tomato puree",
+        "(16   ounce) can   refried beans",
+        "onion",
+        "salt",
+        "chili powder",
+        "teaspoon    coriander",
+        "garlic powder",
+        "cumin",
+        "cayenne pepper",
+        "black pepper",
+        "flour tortillas"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

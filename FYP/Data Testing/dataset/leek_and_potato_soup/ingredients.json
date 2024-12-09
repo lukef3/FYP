@@ -1,0 +1,22 @@
+{
+    "dish_name": "leek and potato soup",
+    "ingredients": [
+        "leek",
+        "potatoes",
+        "butter",
+        "margarine",
+        "chicken broth",
+        "flour",
+        "black pepper",
+        "dried basil",
+        "paprika",
+        "nutmeg",
+        "milk",
+        "flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

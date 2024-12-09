@@ -1,0 +1,22 @@
+{
+    "dish_name": "asian noodle bowl",
+    "ingredients": [
+        "cup    sliced almonds",
+        "ounces    whole wheat spaghetti",
+        "broccoli",
+        "snow peas",
+        "red bell pepper",
+        "almond butter",
+        "reduced sodium soy sauce",
+        "fresh lime juice",
+        "brown sugar",
+        "tablespoon    chili-garlic sauce, such as Sriracha",
+        "scallion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

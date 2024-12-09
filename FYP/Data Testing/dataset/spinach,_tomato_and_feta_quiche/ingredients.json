@@ -1,0 +1,22 @@
+{
+    "dish_name": "spinach, tomato and feta quiche",
+    "ingredients": [
+        "package   frozen shortcrust pastry dough",
+        "olive oil",
+        "fresh spinach leaves",
+        "eggs",
+        "creme fraiche",
+        "feta cheese",
+        "cherry tomatoes",
+        "garlic",
+        "fresh chives",
+        "fresh ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

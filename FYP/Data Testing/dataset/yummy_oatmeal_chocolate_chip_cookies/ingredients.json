@@ -1,0 +1,24 @@
+{
+    "dish_name": "yummy oatmeal chocolate chip cookies",
+    "ingredients": [
+        "butter",
+        "sugar",
+        "brown sugar",
+        "eggs",
+        "vanilla",
+        "flour",
+        "oatmeal",
+        "salt",
+        "baking powder",
+        "baking soda",
+        "chocolate chips",
+        "cups   chopped nuts (I don't use) (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

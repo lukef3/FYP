@@ -1,0 +1,23 @@
+{
+    "dish_name": "the very best salisbury steak",
+    "ingredients": [
+        "(10 1/2  ounce) can  campbells French onion soup",
+        "ground beef",
+        "cup    dry breadcrumbs",
+        "egg",
+        "salt",
+        "ground black pepper",
+        "all-purpose flour",
+        "ketchup",
+        "Worcestershire sauce",
+        "mustard powder",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

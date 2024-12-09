@@ -1,0 +1,20 @@
+{
+    "dish_name": "stuffed mushrooms",
+    "ingredients": [
+        "mushroom",
+        "bacon",
+        "onion",
+        "garlic",
+        "mozzarella cheese",
+        "cup    soft breadcrumbs",
+        "oregano",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

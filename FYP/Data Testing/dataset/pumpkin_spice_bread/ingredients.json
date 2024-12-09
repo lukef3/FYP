@@ -1,0 +1,24 @@
+{
+    "dish_name": "pumpkin spice bread",
+    "ingredients": [
+        "canned pumpkin",
+        "sugar",
+        "water",
+        "cup    vegetable oil",
+        "eggs",
+        "all-purpose flour",
+        "baking soda",
+        "cinnamon",
+        "salt",
+        "baking powder",
+        "nutmeg",
+        "ground cloves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

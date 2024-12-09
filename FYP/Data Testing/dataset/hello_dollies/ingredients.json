@@ -1,0 +1,18 @@
+{
+    "dish_name": "hello dollies",
+    "ingredients": [
+        "butter",
+        "graham cracker crumbs",
+        "walnuts",
+        "cup    semi-sweet chocolate chips",
+        "flaked coconut",
+        "sweetened condensed milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

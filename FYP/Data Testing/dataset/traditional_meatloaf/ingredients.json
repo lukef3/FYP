@@ -1,0 +1,28 @@
+{
+    "dish_name": "traditional meatloaf",
+    "ingredients": [
+        "eggs",
+        "milk",
+        "cup    fine dry breadcrumb",
+        "onion",
+        "parsley",
+        "salt",
+        "ground pepper",
+        "ground sage",
+        "Worcestershire sauce",
+        "chili powder",
+        "garlic powder",
+        "lean ground beef",
+        "catsup",
+        "brown sugar",
+        "dry mustard",
+        "prepared mustard"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

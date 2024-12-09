@@ -1,0 +1,21 @@
+{
+    "dish_name": "low carb pumpkin sausage soup",
+    "ingredients": [
+        "(12   ounce) package   Jimmy Dean sausage",
+        "onion",
+        "garlic clove",
+        "tablespoon    italian seasoning",
+        "fresh mushrooms",
+        "pumpkin",
+        "chicken broth",
+        "heavy cream",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

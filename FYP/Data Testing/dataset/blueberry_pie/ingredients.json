@@ -1,0 +1,23 @@
+{
+    "dish_name": "blueberry pie",
+    "ingredients": [
+        "fresh blueberries",
+        "lemon juice",
+        "(15   ounce) package   refrigerated pie crusts",
+        "sugar",
+        "all-purpose flour",
+        "salt",
+        "ground cinnamon",
+        "butter",
+        "margarine",
+        "egg",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

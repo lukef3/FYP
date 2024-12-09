@@ -1,0 +1,23 @@
+{
+    "dish_name": "best beef stroganoff",
+    "ingredients": [
+        "onion",
+        "sour cream",
+        "garlic clove",
+        "butter",
+        "ground beef",
+        "flour",
+        "salt",
+        "pepper",
+        "mushroom stems and pieces",
+        "(10 3/4  ounce) can   cream of mushroom soup (I always use the top name brand)",
+        "(12   ounce) bag   egg noodles, cooked"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

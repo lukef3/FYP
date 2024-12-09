@@ -1,0 +1,23 @@
+{
+    "dish_name": "mexican vegetarian casserole",
+    "ingredients": [
+        "whole kernel corn",
+        "black beans",
+        "sour cream",
+        "(8   ounce) jar   Pace Picante Sauce (I use medium hot)",
+        "colby-monterey jack cheese",
+        "tomatoes and green chilies",
+        "cooked rice",
+        "black pepper",
+        "green onion",
+        "black olives",
+        "monterey jack cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

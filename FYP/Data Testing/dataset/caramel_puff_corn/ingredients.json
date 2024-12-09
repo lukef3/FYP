@@ -1,0 +1,16 @@
+{
+    "dish_name": "caramel puff corn",
+    "ingredients": [
+        "corn",
+        "butter",
+        "brown sugar",
+        "light corn syrup",
+        "baking soda"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

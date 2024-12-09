@@ -1,0 +1,22 @@
+{
+    "dish_name": "ginger me up chicken! low fat honey & ginger chicken breasts",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "honey",
+        "Dijon mustard",
+        "water",
+        "ground ginger",
+        "gingerroot",
+        "garlic cloves",
+        "salt",
+        "fresh ground black pepper",
+        "cayenne pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dish_name": "oven cooked bacon with black pepper and brown sugar",
+    "ingredients": [
+        "lean bacon",
+        "black pepper",
+        "teaspoon    powdered chipotle pepper (optional)",
+        "brown sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

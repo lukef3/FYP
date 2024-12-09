@@ -1,0 +1,23 @@
+{
+    "dish_name": "teresa's veal -or-chicken piccata",
+    "ingredients": [
+        "boneless skinless chicken breast",
+        "flour",
+        "salt and pepper",
+        "olive oil",
+        "garlic",
+        "dry white wine",
+        "chicken broth",
+        "capers",
+        "lemon",
+        "butter",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

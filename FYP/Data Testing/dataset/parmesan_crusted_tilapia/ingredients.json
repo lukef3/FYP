@@ -1,0 +1,22 @@
+{
+    "dish_name": "parmesan crusted tilapia",
+    "ingredients": [
+        "tilapia fillets, depending on size",
+        "cup    breadcrumbs or 1/4  cup   crushed Ritz cracker",
+        "parmesan cheese",
+        "tablespoon    italian seasoning",
+        "garlic powder",
+        "lemon juice",
+        "salt",
+        "pepper",
+        "garlic powder",
+        "olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "strawberry pretzel salad",
+    "ingredients": [
+        "cups   crushed pretzels",
+        "butter",
+        "white sugar",
+        "cream cheese",
+        "white sugar",
+        "(8   ounce) carton   frozen whipped topping, thawed",
+        "strawberry gelatin",
+        "boiling water",
+        "frozen strawberries"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

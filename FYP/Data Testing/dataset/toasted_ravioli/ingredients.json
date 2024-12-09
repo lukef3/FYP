@@ -1,0 +1,18 @@
+{
+    "dish_name": "toasted ravioli",
+    "ingredients": [
+        "2   dozen    cheese ravioli or 2   dozen   other filled ravioli, thawed if frozen",
+        "eggs",
+        "cup    Italian seasoned breadcrumbs",
+        "parmesan cheese",
+        "vegetable oil (for frying)",
+        "marinara sauce (for dipping)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

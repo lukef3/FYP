@@ -1,0 +1,21 @@
+{
+    "dish_name": "do at home onion rings",
+    "ingredients": [
+        "egg",
+        "cup    vegetable oil",
+        "milk",
+        "flour",
+        "salt",
+        "baking powder",
+        "sweet onions",
+        "flour",
+        "oil (for frying)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

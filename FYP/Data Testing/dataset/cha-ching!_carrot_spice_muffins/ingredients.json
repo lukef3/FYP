@@ -1,0 +1,31 @@
+{
+    "dish_name": "cha-ching! carrot spice muffins",
+    "ingredients": [
+        "whole wheat flour",
+        "baking soda",
+        "baking powder",
+        "salt",
+        "cinnamon",
+        "nutmeg",
+        "ground ginger",
+        "allspice",
+        "honey",
+        "brown sugar",
+        "egg",
+        "buttermilk",
+        "yogurt",
+        "butter",
+        "applesauce",
+        "vanilla",
+        "carrots",
+        "raisins",
+        "cup   chopped nuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

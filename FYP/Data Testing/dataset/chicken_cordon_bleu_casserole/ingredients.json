@@ -1,0 +1,20 @@
+{
+    "dish_name": "chicken cordon bleu casserole",
+    "ingredients": [
+        "skinless chicken breasts",
+        "dry breadcrumbs",
+        "milk",
+        "egg",
+        "swiss cheese",
+        "ham",
+        "(10 3/4  ounce) can   cream of chicken soup",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

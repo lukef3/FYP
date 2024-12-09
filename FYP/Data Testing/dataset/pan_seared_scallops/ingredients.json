@@ -1,0 +1,18 @@
+{
+    "dish_name": "pan seared scallops",
+    "ingredients": [
+        "sea scallops",
+        "cup    seasoned bread crumbs (approximately)",
+        "olive oil",
+        "butter",
+        "lemon",
+        "romano cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

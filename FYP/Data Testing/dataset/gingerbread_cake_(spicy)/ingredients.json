@@ -1,0 +1,27 @@
+{
+    "dish_name": "gingerbread cake (spicy)",
+    "ingredients": [
+        "stout beer",
+        "dark molasses",
+        "baking soda",
+        "all-purpose flour",
+        "baking powder",
+        "ground ginger",
+        "ground cinnamon",
+        "ground cloves",
+        "nutmeg",
+        "ground cardamom",
+        "eggs",
+        "dark brown sugar",
+        "granulated sugar",
+        "cup    vegetable oil",
+        "confectioners' sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

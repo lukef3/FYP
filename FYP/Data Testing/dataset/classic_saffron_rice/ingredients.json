@@ -1,0 +1,18 @@
+{
+    "dish_name": "classic saffron rice",
+    "ingredients": [
+        "basmati rice",
+        "cups    chicken stock",
+        "butter",
+        "tablespoon    dried onion flakes",
+        "salt",
+        "saffron"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

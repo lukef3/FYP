@@ -1,0 +1,19 @@
+{
+    "dish_name": "zesty oven baked fries",
+    "ingredients": [
+        "baking potatoes",
+        "parmesan cheese",
+        "tablespoon    oil",
+        "salt",
+        "garlic powder",
+        "paprika",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

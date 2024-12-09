@@ -1,0 +1,22 @@
+{
+    "dish_name": "buttery shrimp and pasta",
+    "ingredients": [
+        "pasta",
+        "butter",
+        "shrimp",
+        "garlic",
+        "half-and-half",
+        "fresh basil",
+        "dried basil",
+        "parmesan cheese",
+        "black pepper",
+        "red pepper flakes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

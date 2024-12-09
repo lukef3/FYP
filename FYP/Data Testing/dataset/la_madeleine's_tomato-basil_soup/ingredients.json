@@ -1,0 +1,21 @@
+{
+    "dish_name": "la madeleine's tomato-basil soup",
+    "ingredients": [
+        "fresh tomatoes",
+        "canned whole tomatoes",
+        "tomato juice",
+        "basil leaves",
+        "heavy cream",
+        "sweet unsalted butter",
+        "salt",
+        "cracked black pepper",
+        "lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

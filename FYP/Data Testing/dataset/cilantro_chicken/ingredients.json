@@ -1,0 +1,20 @@
+{
+    "dish_name": "cilantro chicken",
+    "ingredients": [
+        "boneless skinless chicken breast halves",
+        "lime juice",
+        "fresh cilantro",
+        "garlic cloves",
+        "honey",
+        "olive oil",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

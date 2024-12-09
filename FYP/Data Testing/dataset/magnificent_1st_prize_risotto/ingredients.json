@@ -1,0 +1,20 @@
+{
+    "dish_name": "magnificent 1st prize risotto",
+    "ingredients": [
+        "cups    chicken stock",
+        "saffron thread",
+        "butter",
+        "onion",
+        "garlic clove",
+        "risotto rice",
+        "parmesan cheese",
+        "salt and black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

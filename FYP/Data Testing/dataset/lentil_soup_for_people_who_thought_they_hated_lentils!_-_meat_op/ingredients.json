@@ -1,0 +1,32 @@
+{
+    "dish_name": "lentil soup for people who thought they hated lentils! - meat op",
+    "ingredients": [
+        "liters   liquid vegetable stock",
+        "red lentils",
+        "garlic cloves",
+        "onions",
+        "red capsicums",
+        "carrots",
+        "celery",
+        "spinach",
+        "tomatoes",
+        "leek",
+        "mushrooms",
+        "green beans",
+        "fresh parsley",
+        "fresh oregano",
+        "fresh basil",
+        "fresh ground pepper",
+        "tomato paste",
+        "salt",
+        "parmesan cheese",
+        "prosciutto"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

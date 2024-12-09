@@ -1,0 +1,15 @@
+{
+    "dish_name": "pig pickin sauce by mean chef",
+    "ingredients": [
+        "cider vinegar",
+        "brown sugar",
+        "salt",
+        "ground cayenne pepper",
+        "ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

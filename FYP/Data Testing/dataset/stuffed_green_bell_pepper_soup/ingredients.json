@@ -1,0 +1,22 @@
+{
+    "dish_name": "stuffed green bell pepper soup",
+    "ingredients": [
+        "ground beef",
+        "water",
+        "diced tomatoes",
+        "tomato sauce",
+        "cooked long-grain rice",
+        "green bell peppers",
+        "beef bouillon cubes",
+        "brown sugar",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "the best (do-ahead) turkey gravy",
+    "ingredients": [
+        "tablespoon    vegetable oil",
+        "turkey wings (about 1 1/2 pounds, separated at the joints)",
+        "onion",
+        "carrots",
+        "celery",
+        "garlic",
+        "dry white wine",
+        "chicken broth",
+        "dried thyme",
+        "all-purpose flour",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

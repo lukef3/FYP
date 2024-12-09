@@ -1,0 +1,21 @@
+{
+    "dish_name": "spanish chicken & rice bake",
+    "ingredients": [
+        "(10 3/4  ounce) can   cream of chicken soup",
+        "salsa",
+        "water",
+        "whole kernel corn",
+        "long-grain white rice",
+        "boneless chicken breast halves",
+        "chili powder",
+        "cup    shredded cheddar cheese",
+        "canned black beans"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

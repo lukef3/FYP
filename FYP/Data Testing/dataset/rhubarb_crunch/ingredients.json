@@ -1,0 +1,21 @@
+{
+    "dish_name": "rhubarb crunch",
+    "ingredients": [
+        "flour",
+        "rolled oats",
+        "brown sugar",
+        "margarine",
+        "cinnamon",
+        "rhubarb",
+        "sugar",
+        "cornstarch",
+        "water",
+        "vanilla"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

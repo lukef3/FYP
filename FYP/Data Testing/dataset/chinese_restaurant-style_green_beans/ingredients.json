@@ -1,0 +1,22 @@
+{
+    "dish_name": "chinese restaurant-style green beans",
+    "ingredients": [
+        "fresh green beans",
+        "vegetable oil cooking spray or 2   tablespoons    peanut oil",
+        "gingerroot",
+        "garlic clove",
+        "water",
+        "soy sauce",
+        "cornstarch",
+        "brown sugar",
+        "teaspoon    sesame oil",
+        "crushed red pepper flakes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

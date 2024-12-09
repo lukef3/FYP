@@ -1,0 +1,22 @@
+{
+    "dish_name": "kittencal's pizza sauce",
+    "ingredients": [
+        "canola oil",
+        "onion",
+        "fresh garlic",
+        "teaspoons    dried Italian seasoning (or to taste, I use 1 tablespoon)",
+        "oregano",
+        "tomato paste",
+        "crushed tomatoes",
+        "salt",
+        "black pepper",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

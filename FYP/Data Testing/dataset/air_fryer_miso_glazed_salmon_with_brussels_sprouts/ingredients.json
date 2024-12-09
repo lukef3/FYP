@@ -1,0 +1,17 @@
+{
+    "dish_name": "air fryer miso glazed salmon with brussels sprouts",
+    "ingredients": [
+        "white miso",
+        "honey",
+        "garlic",
+        "teaspoon    minced ginger",
+        "salmon",
+        "Brussels sprouts",
+        "kosher salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "marinated chicken wings",
+    "ingredients": [
+        "water",
+        "soy sauce",
+        "sugar",
+        "cup    pineapple juice (I use 1 small can, about 3/4 c.)",
+        "cup    vegetable oil",
+        "garlic powder",
+        "ginger",
+        "chicken wings"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

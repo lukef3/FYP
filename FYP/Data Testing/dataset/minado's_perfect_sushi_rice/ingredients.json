@@ -1,0 +1,19 @@
+{
+    "dish_name": "minado's perfect sushi rice",
+    "ingredients": [
+        "sushi rice",
+        "water",
+        "rice vinegar",
+        "sugar",
+        "salt",
+        "mirin",
+        "kelp, leaf  (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

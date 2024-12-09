@@ -1,0 +1,19 @@
+{
+    "dish_name": "mock tuna salad (chickpea salad)",
+    "ingredients": [
+        "chickpeas",
+        "mayonnaise",
+        "spicy brown mustard",
+        "tablespoon    sweet pickle relish",
+        "green onions",
+        "salt and pepper",
+        "yellow onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

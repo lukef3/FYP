@@ -1,0 +1,23 @@
+{
+    "dish_name": "italian chicken in a skillet",
+    "ingredients": [
+        "olive oil",
+        "boneless skinless chicken breast",
+        "onions",
+        "green peppers",
+        "chicken broth",
+        "diced tomatoes",
+        "teaspoon    italian seasoning",
+        "salt",
+        "oregano",
+        "pepper",
+        "small shell pasta"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

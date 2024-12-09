@@ -1,0 +1,20 @@
+{
+    "dish_name": "crock pot creamy italian chicken",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "(1 1/4  ounce) envelope   dried Italian salad dressing mix",
+        "water",
+        "cream cheese",
+        "(10 1/2  ounce) can   reduced-sodium cream of chicken soup, undiluted  (or regular soup)",
+        "mushroom stems and pieces",
+        "cooked rice",
+        "pasta"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

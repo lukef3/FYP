@@ -1,0 +1,20 @@
+{
+    "dish_name": "betty white's chicken wings",
+    "ingredients": [
+        "chicken wings",
+        "margarine",
+        "butter",
+        "soy sauce",
+        "brown sugar",
+        "water",
+        "dry mustard",
+        "garlic powder"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

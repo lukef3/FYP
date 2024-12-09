@@ -1,0 +1,18 @@
+{
+    "dish_name": "cake mix extender",
+    "ingredients": [
+        "flour",
+        "sugar",
+        "baking soda",
+        "water",
+        "cup    oil",
+        "egg"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "snickerdoodle blondies",
+    "ingredients": [
+        "all-purpose flour",
+        "baking powder",
+        "cinnamon",
+        "ground nutmeg",
+        "kosher salt",
+        "brown sugar",
+        "butter",
+        "eggs",
+        "vanilla extract",
+        "granulated sugar",
+        "cinnamon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

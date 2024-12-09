@@ -1,0 +1,18 @@
+{
+    "dish_name": "chocolate mint candy (fudge)",
+    "ingredients": [
+        "cups    semi-sweet chocolate chips (12 ounces)",
+        "sweetened condensed milk",
+        "vanilla extract",
+        "ounces    white candy coating (see note above)",
+        "teaspoons    peppermint extract",
+        "drops    green food coloring"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

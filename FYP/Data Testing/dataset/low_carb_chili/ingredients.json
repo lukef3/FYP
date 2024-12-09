@@ -1,0 +1,28 @@
+{
+    "dish_name": "low carb chili",
+    "ingredients": [
+        "water",
+        "ground beef",
+        "cinnamon",
+        "cumin",
+        "onion",
+        "Worcestershire sauce",
+        "garlic",
+        "salt",
+        "chili powder",
+        "black pepper",
+        "teaspoon    red pepper",
+        "allspice",
+        "tomato paste",
+        "bay leaves",
+        "mushrooms",
+        "green pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "hoagie rolls",
+    "ingredients": [
+        "active dry yeast",
+        "water",
+        "sugar",
+        "cup    vegetable oil",
+        "salt",
+        "all-purpose flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

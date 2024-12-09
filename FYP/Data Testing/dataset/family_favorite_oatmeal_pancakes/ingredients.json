@@ -1,0 +1,20 @@
+{
+    "dish_name": "family favorite oatmeal pancakes",
+    "ingredients": [
+        "milk",
+        "rolled oats",
+        "eggs",
+        "cup    oil",
+        "flour",
+        "sugar",
+        "baking powder",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

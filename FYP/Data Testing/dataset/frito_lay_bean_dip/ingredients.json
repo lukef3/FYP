@@ -1,0 +1,21 @@
+{
+    "dish_name": "frito lay bean dip",
+    "ingredients": [
+        "(15   ounce) can   refried beans",
+        "slices   bottled jalapenos (nacho slices)",
+        "tablespoon    brine, from bottled jalapeno slices",
+        "salt",
+        "granulated sugar",
+        "onion powder",
+        "paprika",
+        "garlic powder",
+        "cayenne pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

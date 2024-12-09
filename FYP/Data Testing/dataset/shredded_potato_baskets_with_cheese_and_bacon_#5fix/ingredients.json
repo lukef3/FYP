@@ -1,0 +1,16 @@
+{
+    "dish_name": "shredded potato baskets with cheese and bacon #5fix",
+    "ingredients": [
+        "(20   ounce) package   Simply Potatoes\u00ae Shredded Hash Browns",
+        "egg",
+        "flour",
+        "(12   ounce) package   shredded cheddar cheese",
+        "bacon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

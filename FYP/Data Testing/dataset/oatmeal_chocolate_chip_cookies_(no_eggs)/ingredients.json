@@ -1,0 +1,24 @@
+{
+    "dish_name": "oatmeal chocolate chip cookies (no eggs)",
+    "ingredients": [
+        "butter",
+        "margarine",
+        "brown sugar",
+        "white sugar",
+        "vanilla extract",
+        "all-purpose flour",
+        "salt",
+        "baking soda",
+        "boiling water",
+        "quick-cooking oats",
+        "raisins",
+        "cups    semi-sweet chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

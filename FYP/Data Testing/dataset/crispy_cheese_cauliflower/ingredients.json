@@ -1,0 +1,22 @@
+{
+    "dish_name": "crispy cheese cauliflower",
+    "ingredients": [
+        "olive oil",
+        "parmesan cheese",
+        "ground cumin",
+        "cayenne pepper",
+        "salt",
+        "pepper",
+        "head cauliflower",
+        "eggs",
+        "parsley",
+        "lemon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

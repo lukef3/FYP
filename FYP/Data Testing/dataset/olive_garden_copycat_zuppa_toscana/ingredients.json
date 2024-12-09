@@ -1,0 +1,28 @@
+{
+    "dish_name": "olive garden copycat zuppa toscana",
+    "ingredients": [
+        "Italian sausage",
+        "russet baking potatoes",
+        "large    vidalia onion, chopped",
+        "slices    cooked bacon, chopped",
+        "Accent seasoning",
+        "salt",
+        "black pepper",
+        "red pepper flakes",
+        "garlic cloves",
+        "kale",
+        "swiss chard",
+        "chicken broth",
+        "water",
+        "flour",
+        "cornstarch",
+        "heavy whipping cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

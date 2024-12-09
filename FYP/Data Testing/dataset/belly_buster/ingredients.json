@@ -1,0 +1,21 @@
+{
+    "dish_name": "belly buster",
+    "ingredients": [
+        "elbow macaroni",
+        "lean hamburger",
+        "Spanish onion",
+        "garlic",
+        "whole tomatoes",
+        "stewed tomatoes",
+        "(10 3/4  ounce) can   Campbell's cheddar cheese soup (Grandma & Mom used real grated cheese)",
+        "cheddar cheese",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

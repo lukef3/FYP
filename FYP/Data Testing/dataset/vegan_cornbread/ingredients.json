@@ -1,0 +1,21 @@
+{
+    "dish_name": "vegan cornbread",
+    "ingredients": [
+        "ground flax seeds",
+        "water",
+        "all-purpose flour",
+        "cornmeal",
+        "sugar",
+        "baking powder",
+        "table salt",
+        "soymilk",
+        "canola oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

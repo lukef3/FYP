@@ -1,0 +1,23 @@
+{
+    "dish_name": "dry rub for barbecued ribs",
+    "ingredients": [
+        "brown sugar",
+        "kosher salt",
+        "chili powder",
+        "pepper",
+        "cayenne pepper",
+        "teaspoon    Old Bay Seasoning",
+        "thyme",
+        "onion powder",
+        "garlic powder",
+        "lbs    baby back ribs",
+        "barbecue sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

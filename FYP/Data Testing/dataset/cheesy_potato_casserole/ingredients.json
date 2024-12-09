@@ -1,0 +1,19 @@
+{
+    "dish_name": "cheesy potato casserole",
+    "ingredients": [
+        "frozen hash browns",
+        "butter",
+        "(10 1/2  ounce) can   cream of chicken soup",
+        "sour cream",
+        "cup    shredded cheddar cheese",
+        "cup    diced onion",
+        "salt and pepper, to taste"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

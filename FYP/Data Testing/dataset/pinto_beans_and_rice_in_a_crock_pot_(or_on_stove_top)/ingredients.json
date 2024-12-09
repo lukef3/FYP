@@ -1,0 +1,23 @@
+{
+    "dish_name": "pinto beans and rice in a crock pot (or on stove top)",
+    "ingredients": [
+        "dried pinto bean",
+        "cup    picante sauce",
+        "salt",
+        "pepper",
+        "garlic powder",
+        "garlic",
+        "chili powder",
+        "cumin",
+        "oregano",
+        "bay leaves",
+        "cooked white rice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

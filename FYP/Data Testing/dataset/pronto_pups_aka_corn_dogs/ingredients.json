@@ -1,0 +1,21 @@
+{
+    "dish_name": "pronto pups aka corn dogs",
+    "ingredients": [
+        "cornmeal",
+        "flour",
+        "baking powder",
+        "salt",
+        "egg",
+        "sugar",
+        "milk",
+        "hot dogs (can use Soy, Chicken, Beef, any type of hotdog)",
+        "wooden skewers",
+        "oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

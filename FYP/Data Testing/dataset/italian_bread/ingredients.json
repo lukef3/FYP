@@ -1,0 +1,23 @@
+{
+    "dish_name": "italian bread",
+    "ingredients": [
+        "all-purpose flour",
+        "sugar",
+        "salt",
+        "active dry yeast",
+        "butter",
+        "margarine",
+        "water",
+        "cornmeal",
+        "light olive oil",
+        "egg white",
+        "cold water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

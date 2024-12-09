@@ -1,0 +1,22 @@
+{
+    "dish_name": "the best banana bread",
+    "ingredients": [
+        "butter",
+        "sugar",
+        "bananas",
+        "eggs",
+        "vanilla",
+        "baking soda",
+        "flour",
+        "salt",
+        "buttermilk",
+        "cup    mini chocolate chip"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

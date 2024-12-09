@@ -1,0 +1,26 @@
+{
+    "dish_name": "best beef barley soup",
+    "ingredients": [
+        "teaspoon    vegetable oil",
+        "onion",
+        "garlic clove",
+        "carrot",
+        "celery",
+        "beef broth",
+        "chicken broth",
+        "water",
+        "barley",
+        "Worcestershire sauce",
+        "dried thyme",
+        "salt",
+        "pepper",
+        "roast beef",
+        "demi-glace"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

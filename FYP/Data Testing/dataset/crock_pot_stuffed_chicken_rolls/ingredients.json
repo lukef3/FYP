@@ -1,0 +1,24 @@
+{
+    "dish_name": "crock pot stuffed chicken rolls",
+    "ingredients": [
+        "boneless skinless chicken breast halves",
+        "cooked ham",
+        "swiss cheese",
+        "flour",
+        "parmesan cheese",
+        "sage",
+        "paprika",
+        "salt",
+        "pepper",
+        "cup    vegetable oil",
+        "(10   ounce) can   cream of chicken soup",
+        "chicken broth"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

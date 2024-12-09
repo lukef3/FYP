@@ -1,0 +1,17 @@
+{
+    "dish_name": "ranch and bacon cheese ball",
+    "ingredients": [
+        "cream cheese",
+        "(1   ounce) package   hidden valley ranch dressing mix (dry)",
+        "colby-monterey jack cheese",
+        "cheddar cheese",
+        "(3   ounce) bottle   hormel real bacon bits (or use bacon crumbled)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

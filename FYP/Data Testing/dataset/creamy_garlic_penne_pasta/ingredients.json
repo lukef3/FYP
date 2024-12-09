@@ -1,0 +1,23 @@
+{
+    "dish_name": "creamy garlic penne pasta",
+    "ingredients": [
+        "penne",
+        "butter",
+        "margarine",
+        "garlic cloves",
+        "flour",
+        "chicken broth",
+        "beef broth",
+        "milk",
+        "parsley flakes",
+        "salt and pepper, to taste",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

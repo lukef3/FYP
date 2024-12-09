@@ -1,0 +1,18 @@
+{
+    "dish_name": "the thigh who loved me",
+    "ingredients": [
+        "boneless skinless chicken thighs",
+        "ketchup",
+        "salsa",
+        "honey",
+        "Dijon mustard",
+        "chili powder",
+        "ground cumin"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

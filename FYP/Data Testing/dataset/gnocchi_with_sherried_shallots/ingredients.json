@@ -1,0 +1,21 @@
+{
+    "dish_name": "gnocchi with sherried shallots",
+    "ingredients": [
+        "shallots",
+        "onions",
+        "dry sherry",
+        "nonfat sour cream",
+        "chicken broth",
+        "(18   ounce) package  refrigerated gnocchi",
+        "cups   shredded skinned cooked chicken",
+        "parsley",
+        "nutmeg",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

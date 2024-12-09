@@ -1,0 +1,24 @@
+{
+    "dish_name": "addictive mexican stew",
+    "ingredients": [
+        "onion",
+        "garlic clove",
+        "olive oil",
+        "cups    cooked chicken or 3   cups    cooked turkey, diced or shredded",
+        "(1 1/4  ounce) package   taco seasoning mix",
+        "diced tomatoes",
+        "black beans",
+        "kidney beans",
+        "whole kernel corn",
+        "diced green chilies",
+        "chicken broth",
+        "cornstarch"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

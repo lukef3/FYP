@@ -1,0 +1,17 @@
+{
+    "dish_name": "green bean casserole",
+    "ingredients": [
+        "(10 3/4  ounce) can   condensed cream of mushroom soup",
+        "milk",
+        "black pepper",
+        "(14 1/2  ounce) cans   cut green beans, drained",
+        "cups    French-fried onions (French's)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

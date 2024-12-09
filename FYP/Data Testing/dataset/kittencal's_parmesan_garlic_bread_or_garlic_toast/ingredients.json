@@ -1,0 +1,19 @@
+{
+    "dish_name": "kittencal's parmesan garlic bread or garlic toast",
+    "ingredients": [
+        "loaf    French bread (not the long thin kind)",
+        "butter",
+        "garlic",
+        "dried parsley",
+        "fresh parsley",
+        "parmesan cheese",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

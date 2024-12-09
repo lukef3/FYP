@@ -1,0 +1,18 @@
+{
+    "dish_name": "cracker barrel green beans",
+    "ingredients": [
+        "bacon",
+        "green beans",
+        "yellow onion",
+        "granulated sugar",
+        "salt",
+        "fresh ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

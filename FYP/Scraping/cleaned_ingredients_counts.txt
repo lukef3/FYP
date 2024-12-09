@@ -1,0 +1,2302 @@
+salt: 884
+butter: 591
+sugar: 503
+onion: 454
+garlic: 380
+water: 335
+eggs: 316
+flour: 314
+milk: 282
+pepper: 271
+olive oil: 244
+black pepper: 218
+brown sugar: 216
+allpurpose flour: 192
+parmesan cheese: 188
+baking powder: 188
+vanilla: 182
+baking soda: 173
+garlic powder: 169
+egg: 162
+margarine: 153
+parsley: 150
+cinnamon: 140
+vegetable oil: 137
+chicken broth: 121
+lemon juice: 120
+sour cream: 114
+oregano: 112
+cream cheese: 101
+paprika: 97
+salt and pepper: 96
+soy sauce: 94
+cheddar cheese: 93
+celery: 89
+basil: 89
+cumin: 85
+oil: 85
+sauce: 79
+mayonnaise: 79
+vanilla extract: 79
+cayenne pepper: 78
+potatoes: 77
+honey: 75
+corn starch: 74
+ginger: 74
+tomatoes: 72
+beef: 72
+thyme: 70
+chili powder: 69
+red pepper flakes: 66
+bacon: 58
+garlic clove: 57
+tomato sauce: 55
+carrot: 53
+granulated sugar: 53
+vinegar: 52
+mozzarella cheese: 52
+nutmeg: 51
+carrots: 49
+green onions: 49
+seasoning salt: 49
+boneless skinless chicken breasts: 48
+shortening: 44
+extra olive oil: 43
+onion powder: 43
+green onion: 42
+pecans: 42
+unsalted butter: 40
+kosher salt: 40
+mushrooms: 40
+cilantro: 39
+buttermilk: 36
+green pepper: 36
+walnuts: 36
+ketchup: 36
+boneless skinless chicken breast halves: 35
+tomato paste: 35
+bananas: 35
+rosemary: 34
+canola oil: 34
+chocolate chips: 33
+lean beef: 33
+heavy cream: 33
+powdered sugar: 32
+shrimp: 32
+rice: 32
+diced tomatoes: 30
+garlic salt: 30
+zucchini: 30
+white pepper: 29
+dijon mustard: 29
+italian seasoning: 28
+chicken breasts: 28
+salsa: 28
+black beans: 27
+sharp cheddar cheese: 27
+chicken: 27
+bay leaf: 26
+beef broth: 26
+barbecue sauce: 26
+lime juice: 26
+dry mustard: 26
+balsamic vinegar: 26
+celery ribs: 25
+peanut butter: 25
+warm water: 24
+can cream of mushroom soup: 24
+cider vinegar: 23
+monterey jack cheese: 23
+cheese: 23
+raisins: 23
+cocoa: 22
+boneless skinless chicken breast: 22
+nuts: 22
+bread flour: 22
+lemon: 22
+red bell pepper: 21
+active dry yeast: 21
+elbow macaroni: 21
+dry white wine: 21
+green bell pepper: 21
+swiss cheese: 20
+confectioners sugar: 20
+halfandhalf: 20
+red onion: 20
+ham: 19
+can cream of chicken soup: 19
+flour tortillas: 19
+shredded cheddar cheese: 19
+cabbage: 19
+breadcrumbs: 19
+cloves: 19
+corn: 19
+whole wheat flour: 18
+bay leaves: 18
+chives: 18
+cornmeal: 18
+prepared mustard: 17
+sesame oil: 17
+chicken stock: 17
+sweetened condensed milk: 17
+dill: 16
+corn syrup: 16
+whipping cream: 16
+salt and pepper to taste: 16
+turkey: 16
+cocoa powder: 16
+white vinegar: 16
+boiling water: 15
+yeast: 15
+cold water: 15
+coarse black pepper: 15
+parsley flakes: 15
+rolled oats: 15
+vegetable broth: 15
+feta cheese: 15
+dill weed: 15
+frozen spinach: 15
+blueberries: 14
+coarse salt: 14
+black olives: 14
+broccoli: 14
+quick oats: 14
+salt pepper: 14
+beer: 14
+spinach: 14
+tabasco sauce: 14
+evaporated milk: 14
+pumpkin: 14
+catsup: 13
+hot water: 13
+coriander: 13
+white wine: 13
+apples: 13
+allspice: 13
+curry powder: 13
+semisweet chocolate chips: 13
+sea salt: 13
+pure vanilla extract: 12
+whole kernel corn: 12
+cauliflower: 12
+cranberries: 12
+celery seed: 12
+strawberries: 12
+white rice: 12
+plain yogurt: 12
+chicken bouillon cubes: 11
+green beans: 11
+dry breadcrumbs: 11
+romano cheese: 11
+turmeric: 11
+skim milk: 11
+orange juice: 11
+sage: 11
+molasses: 10
+salt freshly black pepper: 10
+italian sausage: 10
+chicken wings: 10
+dry yeast: 10
+almond extract: 10
+scallion: 10
+salmon fillets: 10
+frozen corn: 10
+boneless chicken breasts: 10
+velveeta cheese: 10
+cool whip: 10
+cayenne: 10
+mustard: 10
+flat leaf parsley: 9
+ricotta cheese: 9
+sweet onion: 9
+asparagus: 9
+lowfat milk: 9
+bell pepper: 9
+oatmeal: 9
+marjoram: 9
+cream of tartar: 9
+sesame seeds: 9
+chicken thighs: 9
+pork chops: 9
+baking potatoes: 9
+stewed tomatoes: 9
+boneless skinless chicken thighs: 9
+long grain rice: 9
+spaghetti: 9
+creamy peanut butter: 9
+halfandhalf cream: 9
+old bay seasoning: 9
+whole milk: 9
+banana: 8
+poultry seasoning: 8
+plum tomatoes: 8
+potato: 8
+hot sauce: 8
+garam masala: 8
+chicken pieces: 8
+heavy whipping cream: 8
+red pepper: 8
+cherry tomatoes: 8
+corn tortillas: 8
+onion flakes: 8
+cream: 8
+chickpeas: 8
+scallions: 8
+sweet potatoes: 8
+pineapple: 8
+lemon juice of: 7
+whole tomatoes: 7
+miracle whip: 7
+lemon zest of: 7
+unbleached allpurpose flour: 7
+kidney beans: 7
+diced green chilies: 7
+tilapia fillets: 7
+rice wine: 7
+spray: 7
+angel hair pasta: 7
+chili sauce: 7
+apple: 7
+shallot: 7
+almonds: 7
+tomato puree: 7
+brown rice: 7
+italian seasoned breadcrumbs: 7
+maple syrup: 7
+basil leaves: 7
+red wine: 7
+beef stew meat: 7
+egg noodles: 7
+tomato: 7
+lowfat cheddar cheese: 7
+rotini pasta: 7
+coconut milk: 7
+pasta: 7
+peanut oil: 7
+green chilies: 7
+macaroni: 7
+icing sugar: 7
+hardboiled eggs: 7
+coconut: 7
+package taco seasoning: 7
+pumpkin puree: 7
+hamburger: 7
+egg yolks: 7
+bow tie pasta: 6
+package taco seasoning mix: 6
+egg whites: 6
+low sodium soy sauce: 6
+yellow mustard: 6
+can condensed cream of mushroom soup: 6
+mushroom: 6
+applesauce: 6
+spaghetti sauce: 6
+dry sherry: 6
+seasoned bread crumbs: 6
+can refried beans: 6
+cracked black pepper: 6
+real butter: 6
+fish sauce: 6
+sweet pickle relish: 6
+low sodium chicken broth: 6
+egg white: 6
+oregano leaves: 6
+shallots: 6
+apple cider vinegar: 6
+corned beef brisket: 6
+broth: 6
+salt and black pepper: 6
+red kidney beans: 6
+smoked sausage: 6
+american cheese: 6
+green peppers: 6
+lemon pepper: 6
+dry red wine: 6
+russet potatoes: 6
+great northern beans: 5
+slices bread: 5
+baking cocoa: 5
+liquid smoke: 5
+bisquick baking mix: 5
+jalapeno peppers: 5
+panko breadcrumbs: 5
+partskim mozzarella cheese: 5
+brussels sprouts: 5
+artichoke hearts: 5
+pork tenderloin: 5
+leek: 5
+eggplant: 5
+diced onion: 5
+chicken breast halves: 5
+couscous: 5
+clove: 5
+chicken bouillon: 5
+pine nuts: 5
+orzo pasta: 5
+beef bouillon cubes: 5
+whipped cream: 5
+prepared yellow mustard: 5
+lemon pepper seasoning: 5
+splenda sugar substitute: 5
+bisquick: 5
+bread machine yeast: 5
+mild cheddar cheese: 5
+broccoli florets: 5
+celery salt: 5
+lentils: 5
+green chili peppers: 5
+yellow cornmeal: 5
+gingerroot: 5
+vegetable shortening: 5
+can enchilada sauce: 5
+soymilk: 5
+vegetable oil spray: 5
+lime juice of: 5
+cucumber: 5
+frozen peas: 5
+provolone cheese: 5
+sherry wine: 5
+red potatoes: 5
+rubbed sage: 5
+oil or as called for by your cake mix: 5
+turkey broth: 5
+egg yolk: 5
+chicken drumsticks: 5
+strawberry: 5
+kale: 5
+kielbasa: 5
+tuna: 5
+lemon zest: 5
+tarragon: 5
+horseradish: 4
+celery leaves: 4
+cake flour: 4
+green bell peppers: 4
+avocados: 4
+lasagna noodles: 4
+sauerkraut: 4
+lowfat buttermilk: 4
+reduced sodium soy sauce: 4
+rice vinegar: 4
+fettuccine: 4
+lime: 4
+pear: 4
+lettuce: 4
+italian style breadcrumbs: 4
+package dry onion soup mix: 4
+tahini: 4
+water chestnuts: 4
+mustard powder: 4
+ziti pasta: 4
+lemon wedge: 4
+bell peppers: 4
+oats: 4
+white bread flour: 4
+beef bouillon granules: 4
+rump roast: 4
+frozen peas thawed: 4
+pastry for a doublecrust pie: 4
+roma tomatoes: 4
+canned pumpkin: 4
+egg substitute: 4
+frozen blueberries: 4
+mild green chilies: 4
+boneless pork chops: 4
+corn flakes: 4
+basmati rice: 4
+ranch dressing: 4
+white beans: 4
+green cabbage: 4
+yogurt: 4
+poppy seed: 4
+guacamole: 4
+maraschino cherries: 4
+white onion: 4
+pineapple chunks: 4
+fat free sour cream: 4
+envelope dry onion soup mix: 4
+oil for frying: 4
+bean sprouts: 4
+package semisweet chocolate chips: 4
+unsweetened cocoa powder: 4
+blue cheese: 4
+cinnamon sugar: 4
+lemons: 4
+slices white bread: 4
+flaked coconut: 4
+cottage cheese: 4
+can cream of celery soup: 4
+vanilla instant pudding mix: 4
+cucumbers: 4
+ginger powder: 4
+instant vanilla pudding: 4
+cardamom: 4
+pumpkin pie spice: 4
+onion salt: 4
+jar spaghetti sauce: 4
+plain breadcrumbs: 4
+peppercorns: 4
+unsweetened applesauce: 4
+xanthan gum: 4
+thyme leaves: 4
+soya sauce: 4
+cannellini beans: 4
+shell pasta: 4
+ice cubes: 4
+fast rising yeast: 4
+rhubarb: 4
+ham hocks: 3
+ham bone: 3
+frozen green pea: 3
+baking mix: 3
+taco seasoning mix: 3
+sprays butterflavored spray: 3
+egg white slightly beaten: 3
+salmon: 3
+sweet butter: 3
+whole grain mustard: 3
+can condensed tomato soup: 3
+pasta shells: 3
+package italian salad dressing mix: 3
+instant yeast: 3
+lamb: 3
+sausage: 3
+beef stock: 3
+spicy brown mustard: 3
+seasonall salt: 3
+salmon fillet: 3
+jumbo pasta shells: 3
+limes: 3
+package yeast: 3
+basil leaf: 3
+flax seeds: 3
+sweet unsalted butter: 3
+apple juice: 3
+brandy: 3
+boneless chicken breast halves: 3
+bacon bits: 3
+box yellow cake mix: 3
+colby cheese: 3
+chunky peanut butter: 3
+lemon extract: 3
+crouton: 3
+salted butter: 3
+green chili pepper: 3
+slices bacon: 3
+jalapeno pepper and finely: 3
+tortilla chips: 3
+eggplants: 3
+arborio rice: 3
+old fashioned oats: 3
+sweetened flaked coconut: 3
+frozen broccoli: 3
+longgrain rice: 3
+frozen orange juice concentrate: 3
+orange zest: 3
+marsala wine: 3
+sun tomato: 3
+diced chicken: 3
+jalapenos: 3
+tomatoes and green chilies: 3
+white onion finely: 3
+rotel tomatoes: 3
+hot dogs: 3
+sherry: 3
+bittersweet chocolate: 3
+iceberg lettuce: 3
+pork loin roast: 3
+wine vinegar: 3
+instant onion: 3
+cod fish fillets: 3
+can creamstyle corn: 3
+chuck roast: 3
+romaine lettuce: 3
+fatfree lowsodium chicken broth: 3
+toasted sesame seeds: 3
+penne: 3
+penne pasta: 3
+parmigianoreggiano cheese: 3
+fat free chicken broth: 3
+kitchen bouquet: 3
+beef bouillon cube: 3
+pork roast: 3
+can condensed cheddar cheese soup: 3
+can beef consomme: 3
+pinto beans: 3
+self rising flour: 3
+hot pepper sauce: 3
+sweet onions: 3
+dill pickle: 3
+olive: 3
+tamari soy sauce: 3
+round: 3
+white flour: 3
+lea perrins worcestershire sauce: 3
+tomato juice: 3
+peaches: 3
+peas: 3
+cans condensed cream of chicken soup: 3
+salt freshly black pepper to taste: 3
+vegetable oil for frying: 3
+unseasoned breadcrumbs: 3
+tapioca flour: 3
+powdered milk: 3
+garbanzo beans: 3
+flax seed meal: 3
+can tomato soup: 3
+whipped topping: 3
+spaghetti squash: 3
+strong coffee: 3
+baby carrots: 3
+salt pepper to taste: 3
+mashed potatoes: 3
+whole turkey: 3
+bulk pork sausage: 3
+lowfat mayonnaise: 3
+long grain white rice: 3
+colbymonterey jack cheese: 3
+black peppercorns: 3
+canned tomatoes: 3
+unbaked pie shells: 3
+plain flour: 3
+pork sausage: 3
+fennel seed: 3
+pineapple juice: 3
+dry active yeast: 2
+egg whites lightly beaten: 2
+russet potato: 2
+parsnip: 2
+wide egg noodles: 2
+package shredded cheddar cheese: 2
+countrystyle pork ribs: 2
+corned beef: 2
+thousand island dressing: 2
+caraway seeds: 2
+wonton wrappers: 2
+slices bacon crumbled: 2
+coarse sea salt: 2
+rice wine vinegar: 2
+waterpacked artichoke hearts: 2
+french baguette: 2
+snow peas: 2
+pecan halves: 2
+lettuce leaf: 2
+skinless chicken thighs: 2
+kidney bean: 2
+aluminum foil: 2
+cans condensed cream of mushroom soup: 2
+grape tomatoes: 2
+creme fraiche: 2
+can pork and beans: 2
+deli ham: 2
+basil pesto: 2
+lemonpepper seasoning: 2
+nonfat chicken broth: 2
+mashed banana: 2
+vanilla essence: 2
+okra: 2
+diced tomato: 2
+red potatoes quartered: 2
+beef round steak: 2
+barley: 2
+can refrigerated crescent dinner rolls: 2
+sirloin tip roast: 2
+package lipton onion soup mix: 2
+spanish onion: 2
+roast beef: 2
+mushroom stems and pieces: 2
+curd cottage cheese: 2
+heinz ketchup: 2
+albacore tuna: 2
+green peas: 2
+summer squash: 2
+anchovy paste: 2
+blackberries: 2
+cumin powder: 2
+chicken flavor instant bouillon: 2
+plain nonfat yogurt: 2
+sifted flour: 2
+mustard seeds: 2
+reducedsodium chicken broth: 2
+hellmanns mayonnaise: 2
+red curry paste: 2
+diced tomatoes with mild green chilies: 2
+cans refried beans: 2
+butterfinger candy bars: 2
+graham cracker crust: 2
+unsweetened cocoa: 2
+vegetable oil or spray: 2
+box chocolate cake mix: 2
+chicken legs: 2
+frank hot sauce or crystal hot sauce: 2
+cajun seasoning: 2
+sun tomatoes: 2
+dry lentils: 2
+cashews: 2
+pimiento: 2
+frozen whole kernel corn: 2
+chicken bouillon granules: 2
+frozen hash browns: 2
+cherries: 2
+cherry pie filling: 2
+dry vermouth: 2
+savoy cabbage: 2
+flax seed: 2
+semisweet vegan chocolate chips: 2
+grain rice: 2
+sweet paprika: 2
+cans cream of chicken soup: 2
+ritz cracker crumbs: 2
+can condensed cream of celery soup: 2
+chicken breast: 2
+chicken or turkey: 2
+can condensed cream of mushroom soup undiluted: 2
+can condensed cream of chicken soup undiluted: 2
+seasoned croutons: 2
+packages refrigerated crescent dinner rolls: 2
+cut up chicken: 2
+package frozen mixed vegetables: 2
+chicken cutlets: 2
+envelope taco seasoning: 2
+rotel tomatoes chilies: 2
+button mushroom: 2
+pimientos: 2
+fettuccine pasta: 2
+bacon grease: 2
+whole canned tomatoes: 2
+diced tomatoes with green chilies: 2
+chili beans: 2
+pork: 2
+chipotle chiles in adobo: 2
+package milk chocolate chips: 2
+egg yolks beaten: 2
+graham crackers: 2
+package ranch dressing mix: 2
+instant coffee granules: 2
+miniature semisweet chocolate chips: 2
+oranges: 2
+lime wedge: 2
+thin spaghetti: 2
+stew meat: 2
+simply potatoes traditional mashed potatoes: 2
+beef bouillon powder: 2
+smoked paprika: 2
+white cornmeal: 2
+box jiffy cornbread mix: 2
+white potatoes: 2
+beef bouillon: 2
+white shoepeg corn: 2
+cube steaks: 2
+hash browns: 2
+golden delicious apples: 2
+mandarin oranges: 2
+sweetened cranberries: 2
+wheat flour tortillas: 2
+lowfat sour cream: 2
+orange rind grated: 2
+baking potato: 2
+reducedfat sour cream: 2
+distilled white vinegar: 2
+extrasharp cheddar cheese: 2
+homemade bacon bits: 2
+vodka: 2
+asiago cheese: 2
+swiss chard: 2
+cans crescent roll dough: 2
+chocolate syrup: 2
+table salt: 2
+head cauliflower: 2
+bulk taco seasoning mix: 2
+cinnamon stick: 2
+ice cream: 2
+envelope italian salad dressing mix: 2
+package hidden valley ranch dressing mix: 2
+smoked ham: 2
+jar pasta sauce: 2
+red peppers: 2
+italian spices: 2
+envelope taco seasoning mix: 2
+lawrys seasoned salt: 2
+muenster cheese: 2
+instant chocolate pudding mix: 2
+jalapeno: 2
+nonstick spray: 2
+leeks: 2
+french vanilla instant pudding: 2
+diced pimentos: 2
+hamburger buns: 2
+bisquick reducedfat baking mix: 2
+nonfat milk: 2
+condensed chicken broth: 2
+ritz crackers: 2
+flour tortilla: 2
+jars spaghetti sauce: 2
+eggnog: 2
+red lentils: 2
+teriyaki sauce: 2
+package refrigerated crescent dinner rolls: 2
+gruyere cheese: 2
+white chocolate chips: 2
+cod fish fillet: 2
+boneless chuck roast: 2
+peaches and: 2
+hot italian sausage: 2
+grapes: 2
+raspberries: 2
+vegetable stock: 2
+bulgur: 2
+glutenfree flour blend: 2
+guar gum: 2
+unflavored gelatin: 2
+fast rise yeast: 2
+nonfat sour cream: 2
+egg yolks lightly beaten: 2
+condensed beef broth: 2
+avocado: 2
+package crescent rolls: 2
+navy beans: 2
+italian herb seasoning: 2
+crunchy peanut butter: 2
+wheat germ: 2
+quick oatmeal: 2
+graham cracker crumbs: 2
+butter flavor crisco: 2
+ice: 2
+tomatoes with juice: 2
+breadcrumb: 2
+red capsicums: 2
+hungarian paprika: 2
+boneless pork loin: 2
+whole cloves: 2
+coriander powder: 2
+yellow bell pepper: 2
+italian plum tomatoes: 2
+box white cake mix: 2
+jello gelatin: 2
+ice water: 2
+liquid smoke flavoring: 2
+marshmallows: 2
+liquid honey: 2
+whole chicken: 2
+mild chili powder: 2
+new kitty litter box: 2
+butterscotch chips: 2
+longgrain white rice: 2
+of mint: 2
+sea scallops: 2
+prosciutto: 2
+unbaked deep dish pie pastry: 2
+canned pumpkin puree: 2
+cracked pepper: 2
+lump crabmeat: 2
+reduced fat graham cracker crust: 2
+ice cube: 2
+crisco shortening: 2
+whole chickens: 2
+lean turkey: 2
+picante sauce: 2
+chocolate milk: 2
+turkey breast: 2
+bulk sausage: 2
+baby clams: 2
+canned tomato: 2
+peppercorn: 2
+plain lowfat yogurt: 2
+quick rolled oats: 2
+food coloring: 2
+egg yolks slightly beaten: 2
+clams: 2
+linguine: 2
+vidalia onion: 2
+accent seasoning: 2
+white kidney beans: 2
+white chocolate: 2
+instant garlic: 2
+fine dry breadcrumb: 2
+pork chops to thick: 2
+package onion soup mix: 2
+beef roast: 2
+pitted ripe olives: 2
+deli roast beef: 2
+cilantro leaf: 2
+pineapple tidbits: 2
+salad oil: 2
+portabella mushrooms: 2
+quickrising yeast: 2
+diced tomatoes with juice: 2
+dry milk: 2
+solid pack pumpkin: 2
+pumpkin seeds: 2
+watermelon: 2
+fatfree chicken broth: 2
+quinoa: 2
+turkey carcass: 2
+lemon wedges: 2
+boneless chicken: 2
+sweet red pepper: 2
+frozen mixed vegetables: 2
+chili peppers: 2
+canned chicken broth: 2
+capers: 2
+fine egg noodles: 2
+mexicanstyle tomatoes: 2
+canned black beans: 2
+stove top stuffing mix: 2
+hardboiled egg: 2
+caster sugar: 2
+frozen strawberries: 2
+miniature marshmallows: 2
+diced onions: 2
+spring onions: 2
+mini chocolate chip: 2
+sugarfree instant vanilla pudding mix: 2
+cremini mushrooms: 2
+pickling salt: 2
+whole grain wheat flour: 1
+bag regular bean soup mix or bag cajun bean soup mix: 1
+pesto sauce: 1
+spray for pan: 1
+chicken breast tenders: 1
+biscuit mix: 1
+bay leaves or bay leaves: 1
+good quality chicken stock: 1
+chicken breast tenders diced the average weight of package: 1
+steak seasoning montreal seasoning by mccormick is recommended: 1
+granulated yeast or packets granulated yeast: 1
+up soda any clear carbonated drink will work: 1
+pasta sauce: 1
+celery tops: 1
+cans bean dip: 1
+packages koolaid your favourite flavour: 1
+dr pepper cola not diet: 1
+chicken tenders: 1
+chicken or turkey diced or shredded: 1
+slices rye bread: 1
+tortilla: 1
+chili cheese hot dog: 1
+buns i use brownberry sandwich thins with everything: 1
+steady sprays spray: 1
+short sprays spray: 1
+pepperoni slices: 1
+lowfat parmesan cheese: 1
+sprays spray: 1
+sun fish fillets: 1
+california garlic salt: 1
+almond flour: 1
+sirloin beef: 1
+piece gingerroot and grated: 1
+turbinado sugar: 1
+chili paste such as sambal oelek: 1
+slice whole grain bread torn into pieces: 1
+baby spinach: 1
+hot sauce cholula brand recommended: 1
+marinara sauce: 1
+canola oil spray: 1
+bonein thin pork chops about: 1
+white miso: 1
+truffle salt: 1
+alfredo sauce: 1
+creole seasoning: 1
+sweet red pepper very thin into slivers: 1
+amaretto: 1
+anise extract: 1
+whole almond toasted and a few times not too fine: 1
+green chili: 1
+cumin seed: 1
+long grain brown rice: 1
+reducedfat peanut butter: 1
+package hormel pepperoni or any brand: 1
+packages pillsbury refrigerated crescent dinner rolls: 1
+breadcrumbs italian seasoned: 1
+diced tomatoes with their juice: 1
+package andes mint baking chips: 1
+can condensed golden mushroom soup: 1
+cream cheese with chives: 1
+egg whites must be room temperature: 1
+package capellini angel hair pasta: 1
+of your favorite fruit for cobbler: 1
+frozen meatballs or little smokies sausages: 1
+jar grape jelly: 1
+can apple fruit filling and topping or other fruit filling: 1
+slices italian bread thick: 1
+nonfat dry milk powder: 1
+loaf french bread: 1
+jar marinated artichoke hearts drained and: 1
+pork ribs: 1
+whole wheat spaghetti: 1
+almond butter: 1
+chiligarlic sauce such as sriracha: 1
+grated locatelli cheese: 1
+spicy mustard: 1
+apple cider: 1
+package long grain and wild rice blend: 1
+red seedless grapes: 1
+red delicious apple: 1
+honey mustard: 1
+butternut squash cut into cubes: 1
+thyme sprigs: 1
+diced rutabagas: 1
+pie pastry enough to fill muffin your own or from a mix: 1
+whole bonein ham i prefer cooks supertrim brand: 1
+package egg roll wrap: 1
+grey poupon dijon mustard: 1
+pot roast: 1
+beef eye round: 1
+flatleaf parsley: 1
+brinecured black olives such as kalamata: 1
+pork baby back ribs: 1
+granny smith apple: 1
+packages frozen butternut squash thawed or butternut squash and: 1
+container fatfree lowsodium chicken broth: 1
+red pepper for garnish: 1
+reynolds wrap foil: 1
+flakey biscuits: 1
+boursin cheese: 1
+smoked streaky bacon: 1
+pancetta: 1
+watercress: 1
+chive onion cream cheese: 1
+jalapeno pepper and diced: 1
+dashes hot sauce: 1
+cans of prepared pork and beans: 1
+slices of crispy bacon crumbled: 1
+butter beans: 1
+cans tomato soup: 1
+frozen puff pastry: 1
+package brie cheese round: 1
+toasted almond slices: 1
+raspberry preserves or your favorite preserves: 1
+fat free blue cheese dressing: 1
+seasoned stuffing mix: 1
+low sodium salt: 1
+vanilla yogurt: 1
+loaf french bread cut into slices: 1
+ritz cracker: 1
+spaghetti sauce jarred or homemade: 1
+egg yolk from a egg: 1
+parsley sprig: 1
+instant banana pudding mix: 1
+robin hood oats: 1
+old mill oats: 1
+thai sweet chili sauce: 1
+hot chili sauce: 1
+hot pepper sauce tabasco or cayenne pepper or to your taste: 1
+slices centre cut applesmoked bacon: 1
+box barilla noboil lasagna noodles: 1
+jars spaghetti sauce or jars pasta sauce: 1
+maple extract: 1
+frozen deep dish pie shell: 1
+seafood or poultry: 1
+proofed sourdough starter: 1
+regularsize foil oven bag: 1
+lemon rind of: 1
+prepared naan flat bread: 1
+smoked gouda cheese: 1
+prepared pizza crust your own or purchased tube or crust: 1
+gouda cheese: 1
+slices turkey bacon: 1
+beef chuck: 1
+frozen green beans: 1
+can condensed cheddar cheese soup undiluited: 1
+cans beef gravy: 1
+envelope onion soup mix: 1
+italian salad dressing: 1
+stew meat no need to brown: 1
+can condensed cream of onion soup: 1
+can mushrooms drained: 1
+package brown gravy mix: 1
+countrystyle boneless pork ribs: 1
+lean hamburger: 1
+can campbells cheddar cheese soup grandma mom used real grated cheese: 1
+gold medal allpurpose flour: 1
+package onion soup mix for or servings: 1
+split peas: 1
+cans bushs baked beans: 1
+demiglace: 1
+can cream of mushroom soup i always use the top name brand: 1
+bag egg noodles: 1
+tart cherries: 1
+red food coloring: 1
+boxes jiffy corn muffin mix: 1
+vegetable oil not olive oil: 1
+dashes hot pepper sauce: 1
+baguette: 1
+pie crusts unbaked: 1
+cream of chicken soup: 1
+pork loin chops fat removed: 1
+soy flour: 1
+vital wheat gluten flour: 1
+vegan mayonnaise: 1
+unsweetened soymilk: 1
+pork ribs membrane removed: 1
+hickory smoke salt: 1
+selfrising flour: 1
+package chocolate cake mix: 1
+vegetable oil or as directed in cake directions: 1
+jar mrs richardsons caramel topping or jar butterscotch topping: 1
+whipped topping extra creamy dream whip is good: 1
+heath candy bars skor bars or nestles heath bits will also work if you can find them: 1
+frozen corn kernels: 1
+lemon juice concentrate: 1
+other pastas: 1
+nonfat vanilla yogurt: 1
+doubleacting baking powder: 1
+package refrigerated pie crusts: 1
+bleached all purpose flour see note below: 1
+yellow squash diced: 1
+box jiffy corn muffin mix: 1
+polska kielbasa: 1
+slices dry bread: 1
+fryer chickens: 1
+envelope ranch dressing mix: 1
+pickling cucumbers: 1
+cracked ice: 1
+lightly packed bread cut in cubes about or slices of bread: 1
+miniature bagels: 1
+frozen hash brown potatoes: 1
+simply potatoes diced potatoes with onion: 1
+feta: 1
+canned jalapeno: 1
+cans corn beef hash: 1
+steelhead fillet with or without skin: 1
+additional oil for greasing baking pan: 1
+steaks: 1
+package fudge brownie mix: 1
+dry instant coffee: 1
+chocolate flavor instant pudding and pie filling mix: 1
+package english toffee bits reserving for garnish: 1
+instant vanilla flavor pudding and pie filling: 1
+saltine crumbs finely: 1
+red hot sauce: 1
+shredded cheddar cheese you decide how much: 1
+frito corn chip scoops: 1
+bottle hot sauce use whole bottle or just half if desired: 1
+bottle bleu cheese salad dressing or can use ranch or blue cheese and ranch: 1
+monterey jack and cheddar cheese blend: 1
+jar taco sauce: 1
+wylers chicken bouillon cubes: 1
+pillsbury refrigerated buttermilk biscuits: 1
+deep dish pie shell either your own recipe or storebought: 1
+butternut squash diced: 1
+swiss chard leaves: 1
+chicken stock for thinning soup: 1
+diced butternut squash dice: 1
+egg noodles according to directions on package: 1
+creamy caesar salad dressing: 1
+pork loin chops with bone thick: 1
+whole milk well chilled: 1
+cake mix: 1
+butterscotch chips or peanut butter chips: 1
+package pillsbury ready made pie dough crust: 1
+package frozen mixed vegetables rinsed to thaw: 1
+can cream of potato soup: 1
+butternut squash to total: 1
+slices bread dayold cut into cubes about: 1
+bag microwave popcorn or plain popped popcorn: 1
+peanuts: 1
+whole milk cottage cheese: 1
+artificial sweetener: 1
+chuck roast trimmed of fat and cut in bitesized pieces: 1
+jalapeno peppers and: 1
+oil for deep frying: 1
+ranch dressing or blue cheese dressing: 1
+caprino goat cheese or other goat cheese room temperature: 1
+catfish fillets: 1
+corn flake crumbs: 1
+roasted cumin seeds: 1
+amchoor powder: 1
+neutral vegetable oil: 1
+cellophane noodle: 1
+assorted cracker: 1
+package cheesefilled egg tortellini al dente drained or frozen: 1
+fatfree cheddar cheese: 1
+parmigiano: 1
+side bacon: 1
+chestnuts: 1
+peanut butter chips pkg or semisweet chocolate chips pkg: 1
+nestle toll house baking cocoa: 1
+unsifted allpurpose flour: 1
+crisco: 1
+crisp rice cereal rice krispies: 1
+bag semisweet chocolate chips: 1
+cans beef consomme broth: 1
+package good seasonings italian salad dressing mix: 1
+pepperoncini pepper jars depending on level of spiciness: 1
+giardiniera jars: 1
+sweet green peppers according to size: 1
+loaf long thin french bread: 1
+instant rice: 1
+andouille sausage: 1
+allspice berries: 1
+salt and pepper about a each: 1
+pignolis: 1
+frying chickens: 1
+fontina: 1
+breadcrumbs i use italian style: 1
+toothpick or butcher string: 1
+skinless chicken breasts: 1
+golden raisin: 1
+celery salt may use just iodized salt: 1
+nonfat yogurt: 1
+lowfat yogurt: 1
+gyro bread or pita bread: 1
+whole boneless skinless chicken breasts: 1
+instant chicken bouillon granules: 1
+thin spaghetti and drained: 1
+gingergarlic paste: 1
+cream sherry: 1
+chicken frozen breasts: 1
+parsnips: 1
+noodles about: 1
+package thin spaghetti can use regular spaghetti if desired: 1
+can condensed cream of celery soup undiluted or use cans cream of mushroom and can chicken: 1
+italian breadcrumbs: 1
+pesto sauce mix: 1
+package frozen stir fry vegetables: 1
+prepared pie crusts top crust and bottom crust: 1
+dill seed: 1
+wooden skewers soaked for mins: 1
+breadcrumb made from slices white bread: 1
+vegetable oil same amount to match the lemon juice: 1
+chicken breasts cubed: 1
+chicken bouillon granule: 1
+can fatfree cream of mushroom soup: 1
+chicken shredded turkey is good too: 1
+corn oil: 1
+packet taco seasoning i use mccormicks: 1
+chicken meat: 1
+corn tortilla chips: 1
+red apples: 1
+seedless grapes: 1
+puff pastry: 1
+pork roast prediced pork works well for a faster preparation just brown with onions: 1
+diced tomatillos or substitute with your favorite salsa verde: 1
+jalapenos canneddiced not pickled: 1
+breakfast sausage: 1
+mexican oregano: 1
+masa harina flour: 1
+can undiluted cheddar cheese soup: 1
+can undiluted cream of chicken soup: 1
+hot dog buns: 1
+can chili: 1
+count can refrigerated biscuits: 1
+oil to deep fry in: 1
+egg roll wraps: 1
+cabbage and carrot coleslaw mix: 1
+drops sesame oil: 1
+vegetable oil spray or peanut oil: 1
+fivespice powder: 1
+chuck roast trimmed of visible fat: 1
+salsa verde: 1
+package beef: 1
+lobster base: 1
+baby shrimp: 1
+packages imitation crabmeat flake style: 1
+semisweet chocolate chips or milk chocolate chips: 1
+sour milk put of vinegar in measuring fill with skim milk: 1
+milk chocolate chips: 1
+baked pastry shells: 1
+jello instant vanilla pudding mix: 1
+nondairy whipped topping: 1
+container chocolate frosting: 1
+box chocolate devils food cake mix: 1
+oil amount per cake mix directions: 1
+jar cajeta caramel topping or jar smucker caramel topping: 1
+espresso powder dissolved in: 1
+white candy coating see note above: 1
+peppermint extract: 1
+drops green food coloring: 1
+unsweetened chocolate squares melted: 1
+shredded cheddar cheese split into portions i prefer to grate it myself: 1
+baking chocolate: 1
+drops peppermint extract: 1
+package ritz cracker: 1
+vanilla wafers a 250g box of christies vanilla wafers equals: 1
+spiced rum: 1
+bourbon: 1
+white corn syrup: 1
+instant espresso: 1
+cinnamon baking chips if cinnamon chips are unavailable in your area use an additional miniature chocolate morsel: 1
+can spaghetti sauce: 1
+jar meatless sauce: 1
+package sazon goya without annato see note: 1
+wine: 1
+wheat bran or oat bran: 1
+soy buttermilk: 1
+vegetable oil can replace all or some with applesauce to make them lower fat: 1
+egg beaters egg substitute: 1
+saffron: 1
+chlorine bleach: 1
+hot sauce more if desired: 1
+package frozen peas thawed: 1
+slices bacon cut into pieces: 1
+collard greens tough stems removed and cleaned well: 1
+soft goat cheese cubed chevre: 1
+finely tarragon leaves or t: 1
+steaks of your choice especially good on rib eye sirloin and even rich filet mignon: 1
+package long grain and wild rice blend quick version you will use the seasoning packet i used uncle bens roasted chicken flavor: 1
+cream can lighten by substituting part or all of the cream with fatfree evaporated milk or halfandhalf: 1
+parmesanromano cheese mix: 1
+roasted garlic alfredo sauce: 1
+dry marsala: 1
+yellow potatoes: 1
+bottle guinness draught make sure you use guinness draught not stout as it will turn it bitter: 1
+caraway seed: 1
+package corn muffin mix recommended jiffy: 1
+cornbreadmuffin mix: 1
+corn flakes i use special k whole grain: 1
+salt and pepper this is for the roast: 1
+king crab legs: 1
+crabmeat picked: 1
+wonton wrapper: 1
+apple juice plus: 1
+apple pie spice: 1
+balsamic vinaigrette newmans own is great: 1
+mixed salad greens i use leaf lettuce endive and radiccio: 1
+walnut pieces: 1
+frozen cranberries: 1
+cream cheese spread: 1
+spinach tortillas: 1
+grated orange rind: 1
+orange rind of: 1
+bulk italian sausage: 1
+pizza sauce or spaghetti sauce: 1
+preshredded mozzarella cheese: 1
+whole corn: 1
+can creamed corn: 1
+package jiffy cornbread mix: 1
+cayenne powder: 1
+box orange cake mix: 1
+orange gelatin: 1
+beets: 1
+jarred hot sauce if desired to spice it up: 1
+rosemary leaf: 1
+garlic granules: 1
+red sweet bell pepper: 1
+pimento stuffed olive: 1
+hot pepper flakes: 1
+celery seeds: 1
+hardboiled egg coarsely: 1
+package ramen noodles any flavor with seasoning packet: 1
+sun tomato packed in oil: 1
+jar roasted red peppers drained and: 1
+noodles fusilli rotini or similar: 1
+package thin spaghetti: 1
+turkey meat: 1
+breadcrumbs i use panko: 1
+packages crescent roll dough i use the lowfat kind: 1
+skinon chicken leg quarters with bone: 1
+finely cracker crumbs or plain breadcrumbs: 1
+tilapia fillets about: 1
+can condensed cream of chicken soup: 1
+shredded chicken: 1
+package dry roasted salted peanuts: 1
+unsalted dry roasted peanuts: 1
+package semisweet chocolate bits: 1
+german chocolate bars: 1
+white almond bark: 1
+pepperidge farm herb stuffing: 1
+celery powder: 1
+hot pepper: 1
+tomato bisque: 1
+pork chops bone in preferred: 1
+dutchprocessed cocoa powder plus: 1
+dutchprocessed cocoa powder: 1
+pork chops each about thick: 1
+cola: 1
+boneless ham: 1
+cans cocacola: 1
+cornbread the box cornbread mixes such as jiffy will make this sweeter: 1
+slices day old bread: 1
+can reducedsodium cream of chicken soup undiluted or regular soup: 1
+taco seasoning i use taco bell or lawrys taco seasoning: 1
+sprite or up soda: 1
+ham hock: 1
+great northern bean: 1
+pork chops thick: 1
+frozen peaches undrained: 1
+jiffy white cake mix or package of a layer size cake mix: 1
+pork chops cut thick: 1
+mccormicks seasoning salt: 1
+cans condensed golden mushroom soup: 1
+bag beef ravioli: 1
+lean lamb stew meat: 1
+vegetable oil i use olive: 1
+baby carrots or as many as you want: 1
+stewing beef: 1
+tart apple: 1
+savory: 1
+lightly toasted bread cubes: 1
+chicken stock or vegetable stock: 1
+envelope hidden valley original ranch dressing and seasoning mix: 1
+cilantro salsa: 1
+roasting chicken: 1
+plain croissants: 1
+grits: 1
+crossrib roasts: 1
+potato hamburger buns or other bread or hot dog buns or other bread: 1
+chicken diced or shredded canned chicken breast works well too: 1
+red hot sauce or to taste: 1
+crackers for dipping or raw vegetables for dipping: 1
+can peach halves in syrup or heavy syrup: 1
+almonds coarsely: 1
+fruits if desired i usually add cherry flavored cranberries and dates: 1
+imitation crabmeat: 1
+evaporated skim milk: 1
+splenda sugar blend for baking: 1
+limes juice of: 1
+package onion gravy mix: 1
+package good seasons italian salad dressing mix: 1
+package rye cocktail bread: 1
+seedless european cucumber: 1
+salt and pepper to taste i like a lot of pepper: 1
+boneless skinless chicken: 1
+beef double bouillon cubes knorr: 1
+beef brisket: 1
+egg noodles or wide egg noodles: 1
+instant coffee: 1
+baking cocoa dutch process or cocoa preferably: 1
+package devils food cake mix: 1
+perfect chocolate frosting: 1
+black coffee: 1
+pie crusts either store bought or your own recipe: 1
+slices texas toast thick bread: 1
+syrup: 1
+diced gherkins: 1
+can diet cola i hear diet orange soda works well also: 1
+packages baby spinach leaves: 1
+salami or beef: 1
+kosher dill pickles: 1
+packages frozen meatballs italian style: 1
+loaves bakery italian bread: 1
+bags pepperidge farm chessmen cookies: 1
+container frozen whipped topping thawed or container sweetened whipped cream: 1
+tea bag: 1
+whiskey we use jack daniels: 1
+package orange jello: 1
+boneless beef chuck roast: 1
+lager beer: 1
+baby back ribs: 1
+box chocolate cake mix or box devils food cake mix unprepared: 1
+package salad macaroni or ditali pasta: 1
+cheddar: 1
+salami diced: 1
+olive black: 1
+thinly fruit of choice peaches nectarines strawberries raspberries blackberries blueberriesmangoes etc: 1
+box cake mix any flavor desired: 1
+chicken tenders raw: 1
+rotel: 1
+classico alfredo with sun tomatoes: 1
+italian tomatoes: 1
+bags checkerboard or windowpane shaped pretzels: 1
+bag holiday mms plain chocolate candy red green: 1
+bags hersheys hugs chocolates: 1
+bags hershey chocolate kisses: 1
+box cake mix yellow white spice: 1
+chicken cut into bite sized pieces: 1
+frozen vegetables thawed: 1
+can cream of chicken soup i use low sodium: 1
+chicken stove top stuffing mix: 1
+cubed ham or use bob evans sausage drained well and crumbled: 1
+box package cake mix any flavor: 1
+mushroom pieces: 1
+chow mein noodles: 1
+shredded coleslaw mix cabbage carrot onion bell pepper etc: 1
+bag coleslaw mix: 1
+can cream of chicken soup mushroom can be substituted: 1
+packages yeast do not use the quick rising in this recipe: 1
+can enchilada sauce i prefer the green sauce: 1
+slices toasted french bread: 1
+oleo: 1
+frozen peas or a part of ginger: 1
+additional herbs and spices as desired: 1
+unsweetened baking cocoa sifted: 1
+salad oil use canola or vegetable oil: 1
+semisweet mini chocolate chips: 1
+salt and pepper i use seasoned salt: 1
+granulated yeast: 1
+pineapple slices: 1
+walnut halves: 1
+pepperoni: 1
+envelope onion soup mix i use beefy onion flavor: 1
+regular sized snickers candy bars: 1
+graham cracker pie crust: 1
+pinto beans in chili sauce: 1
+can tomato soup undiluted: 1
+baked corn tortilla chips: 1
+granny smith apples: 1
+mixed italian herbs: 1
+mozzarellaparmesan cheese blend: 1
+breadcrumbs seasoned with garlic powder: 1
+lamb stock: 1
+whipping cream heavy cream: 1
+italian dressing: 1
+pork loin chops: 1
+cans cream of mushroom soup buy the name brand creamiercheaper soups stay lumpy: 1
+lawry seasoned pepper: 1
+box betty crocker or pillsbury lemon cake mix: 1
+instant lemon pudding: 1
+extra eggs: 1
+packet lipton onion soup mix: 1
+pork shoulder butt roast: 1
+unsweetened apple juice: 1
+instant flour: 1
+breadcrumbs buttered: 1
+corn chips coarsely or: 1
+marshmallow cream: 1
+karo syrup or: 1
+egg whites or plus egg beaters: 1
+ultra downy clean breeze fabric softener: 1
+spray bottle new and clean please dont reuse a cleaning product bottle unless it is an old febreeze bottle: 1
+baby spinach leaves i used 150grams measure firmly packed: 1
+pork loin cut into steaks: 1
+figs: 1
+dry rub seasonings: 1
+filet of beef: 1
+raw potatoes: 1
+frozen battered fish fillets: 1
+serrano chili: 1
+cumin seeds: 1
+tap water: 1
+egg whites unbeaten: 1
+liquid hand soap or joy dishwashing soap: 1
+frankfurters: 1
+onion soup mix: 1
+bouillon: 1
+french rolls split: 1
+slices french bread toasted: 1
+loaf texas toast thick bread: 1
+slices bread texas toast style or french: 1
+stock chicken beef or vegetable canned or bouillon is ok: 1
+orange: 1
+classic pie crust idiot proof stepbystep photo tutorial: 1
+breadcrumbs approximately: 1
+brussels sprout: 1
+white mushrooms: 1
+breadcrumbs panko if you can find them: 1
+jelly: 1
+slices bottled jalapenos nacho slices: 1
+brine from bottled jalapeno slices: 1
+piece of white paper: 1
+drop liquid dish soap: 1
+can peach slices undrained: 1
+kiwi fruits: 1
+fruit preserves any flavor: 1
+butterflavored spray: 1
+box devils food cake mix betty crocker super moist suggested: 1
+becel margarine: 1
+longhorn cheese grated firmly packed: 1
+vegetarian worcestershire sauce: 1
+new potatoes: 1
+garlic butter recipe follows: 1
+garlic butter: 1
+spaghetti noodles: 1
+herbs: 1
+firm tofu: 1
+stout beer: 1
+gram flour: 1
+fava bean flour: 1
+rice flour white: 1
+egg whites beaten slightly: 1
+potato starch: 1
+package refrigerated gnocchi: 1
+shredded skinned chicken: 1
+vegetable oil or beef drippings: 1
+jars strained baby food any flavor all natural and no preservatives: 1
+sourdough starter: 1
+beef kielbasa: 1
+firm bananas: 1
+pie shells baked: 1
+can condensed black bean soup or canned black beans in juice: 1
+vegetarian baked beans: 1
+chilies: 1
+jalapeno depending on how much heat you want: 1
+sunflower seeds: 1
+oat bran: 1
+dates: 1
+nuts almonds walnuts whatever you prefer: 1
+pizza dough: 1
+chicken tenders grilled: 1
+kalamata olive: 1
+green tomatoes: 1
+jalapenos with seeds: 1
+cans cut green beans drained: 1
+frenchfried onions frenchs: 1
+chicken breast fillets: 1
+baby swiss cheese: 1
+pieces rye bread or pieces whole grain wheat bread: 1
+lime zest: 1
+raw shrimp and deveined: 1
+tuna steak: 1
+steak sauce: 1
+browning sauce: 1
+creole seasoning tony chacheres: 1
+lean lamb: 1
+candy corn: 1
+salted peanuts: 1
+hash brown patties: 1
+can frenchfried onions: 1
+package noodles and drained: 1
+package ramen noodles i prefer beef flavor: 1
+vegetables frozen mixed veggies thawed peas and corn work perfect: 1
+bag dry beans my favorite is a bean mix: 1
+sweet relish: 1
+apple juice or water: 1
+unsweetened pineapple chunks: 1
+dry instant potato flakes: 1
+box cake mix unprepared any flavor: 1
+packages pork tenderloin: 1
+red grapes: 1
+toasted slivered almonds: 1
+whole milk no substitute: 1
+bottled creamy ranch dressing: 1
+packages yeast: 1
+spices: 1
+pork chops cut about thick: 1
+london broil beef: 1
+franks red hot sauce: 1
+package dry pectin i use ball but sure jell will work too: 1
+bag frozen mixed vegetables thawed: 1
+packages refrigerated pie crusts or use your favorite pie crust recipe: 1
+sandwich ziploc bag: 1
+gallon ziploc bag: 1
+rock salt: 1
+distilled vinegar: 1
+popcorn: 1
+lowfat cream cheese: 1
+pork tenderloin trimmed of silver skin: 1
+pear juice: 1
+frozen whole turkey thawed or frozen whole turkey: 1
+kraft mayonnaise dont use dukes or miracle whip: 1
+rice wine vinegar leave out if using for dip: 1
+skinless chicken piece: 1
+pork loin boneless: 1
+to taste salt and pepper: 1
+cocoa hersheys: 1
+hot pepper this amount can vary according to what type of peppers used and how hot you want your jelly: 1
+liquid certo packets: 1
+food coloring red or green i use red for hotter jellygreen for milder jelly: 1
+fatfree whipped topping to taste: 1
+your favorite sauce: 1
+can chocolate icing: 1
+sausages: 1
+pitted black olives: 1
+italian tomato: 1
+french baguettes: 1
+corn chex or rice chex: 1
+superfine sugar: 1
+drops red food coloring: 1
+chicken piece: 1
+red pepper cayenne: 1
+stock: 1
+hot pepper sauce louisiana is good: 1
+green ginger: 1
+cardamom pods: 1
+boneless lamb: 1
+black cardamom pod: 1
+cinnamon sticks: 1
+ginger paste: 1
+cilantro leaves: 1
+quicker quaker oats: 1
+envelopes dry ranch dressing mix: 1
+coarsely chicken: 1
+italian hard salami: 1
+roasted garlic vinaigrette dressing: 1
+celery flakes: 1
+pearl barley: 1
+italian seasoning or pizza seasoning: 1
+mutiflavored rotini noodles al dante: 1
+sweet italian sausage casings removed and crumbled: 1
+cheese tortellini: 1
+pie shell unbaked: 1
+escarole: 1
+jar of your favorite spaghetti sauce: 1
+ancho chile powder: 1
+jalapeno pepper to taste you can add more if you like em hot: 1
+vegetable oil for greasing: 1
+shredded mexican blend cheese: 1
+chorizo sausage: 1
+andouille sausages: 1
+hot chili pepper: 1
+fruit to match the jello flavor: 1
+dish detergent: 1
+piece aluminum foil: 1
+can creamed corn not drained: 1
+can crabmeat: 1
+idaho potatoes: 1
+loaf french bread baguette: 1
+tilapia fillet: 1
+fatfree italian salad dressing i use wishbone: 1
+jasmine rice: 1
+cornish hens halved: 1
+chuck: 1
+jumbo shrimp: 1
+shredded cheddar cheese fullfat works best: 1
+slices crumpled bacon or slices turkey bacon: 1
+pork butt: 1
+hawaiian sea salt: 1
+hot noodles: 1
+chuck roast trim fat as necessary or arm roast cubed trim fat as necessary: 1
+red potatoes unpeeled cut lg bitesized: 1
+smoked kielbasa: 1
+drops food coloring or for flavor and color use envelopes grams each duncan hines frosting creations: 1
+plain fatfree yogurt: 1
+powdered meat tenderizer: 1
+sesame oil you could omit but it is best to add in: 1
+wooden sticks: 1
+tart apples: 1
+dry breadcrumbs even better use panko breadcrumbs: 1
+prepared ranch salad dressing use bottled salad dressing you might need a bit more dressing: 1
+whipping cream any amount to desired texture start with or use table cream: 1
+pan drippings or see options below the recipe: 1
+butter flavored crackers broken in pieces such as ritz crackers: 1
+breadcrumbs or use enough to hold the meat together no dry breadcrumbs just soak slices of bread in the: 1
+kittencals italian meltinyourmouth meatballs: 1
+envelope dry onion soup mix can use the whole package if desired: 1
+dry breadcrumbs or soda cracker crumbs more if needed: 1
+franks red hot sauce or chili flakes or can adjust to heat level: 1
+seasoned dry bread crumb panko even better to use: 1
+oil can use olive oil or vegetable oil: 1
+whipping cream unwhipped or use milk: 1
+seasoned dry bread crumb seasoned or plain: 1
+shredded cheddar cheese and use any amount desired or can use shredded mozzarella cheese: 1
+cocoa sifted: 1
+unsweetened orange juice or use each juice and water or water: 1
+hot sauce or to taste: 1
+cake pastry flour or use all purpose: 1
+lard very cold: 1
+oil for frying i recommend to use vegetable oil olive oil will interact with the flavor: 1
+loaf french bread not the long thin kind: 1
+centercut prime rib roast nicely marbled and trimmed but leave a layer of fat on top of roast for flavor: 1
+beef stock or use a good quality beef broth: 1
+chicken stock might use less: 1
+prepared stuffing: 1
+italian seasoning or to taste i use: 1
+prepared biscuits: 1
+manicotti and drained you might use more shells so i would cook: 1
+kittencals marinara pasta sauce vegetarian: 1
+packages taco seasoning mix: 1
+nacho chips i use doritos: 1
+the best french salad dressing: 1
+ice cubes or use as much as desired: 1
+kittencals garlic croutons: 1
+solid white tuna packed in water: 1
+slices pumpernickel bread or slices rye bread slices: 1
+solid white tuna: 1
+sweet pickle relish or to taste: 1
+box spice cake mix or box german chocolate cake mix: 1
+package vanilla sandwich cookies: 1
+green food coloring: 1
+tootsie rolls: 1
+pooper scooper: 1
+sesame oil or vegetable oil: 1
+powdered ginger: 1
+dry roasted peanuts: 1
+lasagna noodles broken: 1
+bath soap grated into flakes approx a half a bar of soap fels naptha works great also zote or octagon: 1
+borax: 1
+washing soda: 1
+graham cracker: 1
+chicken from a store bought chicken: 1
+cans condensed cream of mushroom soup with roasted garlic: 1
+fines herbes chervil chives parsley and tarragon: 1
+canned whole tomatoes: 1
+crabmeat: 1
+oil or crisco for frying: 1
+thyme leave: 1
+hand ritz crackers: 1
+deep dish pie crust i use marie callenders frozen no need to defrost no need to prebake: 1
+lemon peel: 1
+lemon slice: 1
+package lemon cake mix: 1
+sweet creamy butter: 1
+poppy seeds: 1
+lemons zest of: 1
+liters liquid vegetable stock: 1
+carnation evaporated milk: 1
+grape jelly: 1
+little smokies sausage cocktail sausages: 1
+almonds fine in the blender: 1
+nestle semisweet and white chocolate swirled chocolate morsels you can also use semisweet or milk chocolate chips: 1
+steak cuts of your choice: 1
+lobster meat: 1
+lobster base better than boulion: 1
+lobsters: 1
+red potatoes russetsize: 1
+racks pork baby back ribs our favorite are baby back ribs but this works well with st louis style ribs too: 1
+taco seasoning i prefer homemade with no sugar added: 1
+sugar substitute: 1
+package jimmy dean sausage: 1
+box sugarfree jello serving size any flavor: 1
+cool whip free: 1
+macadamia nuts: 1
+saffron thread: 1
+risotto rice: 1
+fat free cream cheese: 1
+tilapia fillets orange roughy cod or red snapper can be substituted: 1
+slices white bread broken into pieces or you can use rolls or any stale bread you have and want to use up: 1
+italian seasoning or to taste: 1
+mangoes: 1
+salt and pepper to season: 1
+toasted almonds: 1
+sage leaf: 1
+delicata squash: 1
+red peppercorns: 1
+pineapple juice i use can about c: 1
+mini marshmallows: 1
+red potatoes unpeeled quartered: 1
+whole allspice: 1
+peanut oil or other vegetable oil for frying: 1
+chicken thigh: 1
+chili pods: 1
+loaf italian bread cut into slices: 1
+instant coconut pudding mix: 1
+cilantro stem: 1
+hamburger meat: 1
+bottle taco sauce: 1
+extra lean beef drained or rinsed: 1
+canned jalapeno slices: 1
+kernel corn: 1
+reducedfat mexican cheese blend shredded: 1
+fruit strawberries kiwi or other fruit: 1
+package manicotti: 1
+ripe olives: 1
+mexican blend cheese shredded or sharp cheddar: 1
+canned corn niblets: 1
+yellow squash: 1
+jar pace picante sauce i use hot: 1
+karo syrup: 1
+white karo: 1
+raw peanuts: 1
+slice bread toasted: 1
+bag coleslaw mix cabbage and carrots: 1
+bag simply potatoes diced potatoes with onion: 1
+cans cream of mushroom soup undiluted: 1
+cans refrigerated crescent dinner rolls: 1
+currants: 1
+sushi rice: 1
+mirin: 1
+kelp leaf: 1
+little smokies sausage: 1
+crescent roll: 1
+hardboiled egg and chilled: 1
+welldrained pickle relish i use sweet: 1
+cornbread stuffing mix: 1
+bread cubes: 1
+powdered coffee creamer: 1
+nestle nesquick powdered chocolate milk mix: 1
+round loaf french bread or oval peasant loaf or sourdough: 1
+jar marinated artichoke hearts drained liquid reserved you can use the hearts whole or roughly: 1
+thinly salami: 1
+cheese slice: 1
+purple onion: 1
+beef stock or vegetarian stock or chicken stock or vegetarian stock: 1
+syrup karo or pancake: 1
+mms plain chocolate candy or mms peanut chocolate candies: 1
+jarred pizza sauce or marinara sauce: 1
+sweet pickle juice: 1
+prepared spaghetti sauce homemade or bottled: 1
+spaghetti to serve: 1
+pork chop: 1
+jalapeno peppers and diced: 1
+mrs seasoning mix: 1
+jar cheez whiz: 1
+bag cheesy plain doritos or bag other corn chips: 1
+cubed steak pieces: 1
+cream of mushroom soup: 1
+mm: 1
+n y c irish soda bread: 1
+harp lager beer: 1
+pickle juice: 1
+cream i use half and half: 1
+blended oatmeal: 1
+hershey bars grated: 1
+nuts your choice: 1
+unsifted flour: 1
+oldfashioned quaker oats: 1
+package nestlé toll house butterscotch flavored morsels about: 1
+nuts i like pecans: 1
+corn flakes as bonding ingredient: 1
+shredded chicken breasts about: 1
+crispy rice cereal: 1
+rice krispies for a firmer bar increase up to: 1
+reducedfat peanut butter or can use regular peanut butter: 1
+raisin: 1
+mini chocolate chip to prevent melting refrigerate or freeze the chocolate chips before mixing in: 1
+boxes frozen broccoli thawed: 1
+cans cream of chicken soup or you use can each cream of chicken and cream of mushroom: 1
+unbeaten egg whites: 1
+lowsugar pizza sauce i use ragu: 1
+canadian bacon: 1
+lowfat pepperoni: 1
+turkey pepperoni: 1
+your favorite pizza seasoning to taste: 1
+nutella: 1
+dry ranch dressing mix or other seasoning: 1
+brewers yeast: 1
+pie crusts baked: 1
+baby carrots or a couple regular carrots: 1
+red potatoes cut in quarters: 1
+vidalia onions cut in wedges: 1
+ears frozen corn on the cob thawed i use birdseye little ears: 1
+vanilla wafer: 1
+berries: 1
+hash brown: 1
+russet baking potatoes: 1
+dry pasta shell macaroni: 1
+cans beef stock: 1
+potato gnocchi: 1
+spicy sausage: 1
+kale leaves: 1
+chicken base: 1
+packages cornbread mix: 1
+chicken wing sauce: 1
+stevia powder: 1
+red potatoes thick: 1
+burritosize flour tortilla: 1
+package oreo cookies: 1
+white chocolate bark: 1
+package chocolate bark: 1
+oreo cookies sleeves: 1
+milk chocolate: 1
+sirloin steaks: 1
+plain breadcrumbs like progresso: 1
+picante sauce for serving: 1
+ears corn on the cob in their husks or however many will fit in your oven: 1
+lean bacon: 1
+powdered chipotle pepper: 1
+pam spray: 1
+fatfree mayonnaise: 1
+rum: 1
+french bread cut into slices: 1
+package rice noodles: 1
+chiligarlic sauce sambal oelek: 1
+roasted peanuts: 1
+bags baby spinach: 1
+paneer cheese: 1
+crusty bread or bread bowl: 1
+red potatoes cut into chunks: 1
+seasoned bread crumbs approximately: 1
+tilapia fillets depending on size: 1
+breadcrumbs or ritz cracker: 1
+breadcrumbs i use progresso garlic and herb: 1
+lemon rind: 1
+pork chops about thick can use bone in or out ones: 1
+sweet italian sausage links: 1
+dry oregano: 1
+dry basil: 1
+vegetable stock or chicken stock: 1
+sweet italian sausage link: 1
+oil from sun tomatoes packed in oil: 1
+bag coarsely fritos chili cheese corn chips i could not find these so i mixed regular and barbeque corn chips: 1
+and peaches: 1
+peach for garnish if desired: 1
+peaches in juice canned this works out to about slices of peach and about of juice: 1
+dipping chocolate or confectioners coating: 1
+hershey chocolate kisses unwrapped: 1
+muscovado sugar: 1
+bittersweet chocolate chips: 1
+reeses miniature peanut butter unwrapped: 1
+graham cracker crusts: 1
+popped popcorn: 1
+cream or milk: 1
+pie crust: 1
+buffalo style hot sauce: 1
+plain greek yogurt: 1
+envelope hidden valley original ranch seasoning mix: 1
+ball traditional pizza dough: 1
+mild banana pepper ring drained and patted dry: 1
+candy canes into pieces: 1
+peppermint extract if using oil: 1
+package pepperoni thin: 1
+beef top round steak: 1
+pork shoulder butt: 1
+can pepsi: 1
+prime rib roast size doesnt matter: 1
+horseradish powder: 1
+old bay seasoning to taste: 1
+spices to own likingif desired: 1
+boneless pork tenderloin: 1
+dry seasoning of your choice thyme savory rosemary garlic powder onion powder italian seasoning or a mixture: 1
+envelope dry vegetable soup mix i use knorr: 1
+raw shrimp: 1
+whole turkey thawed up to: 1
+prepared horseradish: 1
+toothpicks with cellophane frilled tops: 1
+picnic pork shoulder: 1
+hoagie rolls or sub rolls: 1
+white onion thinly: 1
+empty sterilized glass jar: 1
+pickling spices: 1
+jalapeno peppers and finely: 1
+pineapple juice reserved: 1
+can old el paso mild enchilada sauce: 1
+maraschino cherry: 1
+package duncan hines supreme pineapple cake mix: 1
+pineapple juice from canned pineapple with a bit of water added: 1
+pinto bean: 1
+jimmy dean sausage country mild or other flavor if desired: 1
+jars spaghetti sauce i used bertollis tomato basil: 1
+of pepperoni: 1
+whole bay leaf: 1
+msg: 1
+pizza sauce: 1
+additional pizza sauce: 1
+loaf italian bread dough or loaf all purpose bread dough: 1
+apricot preserves: 1
+pork tenderloin thinly into strips: 1
+bok choy: 1
+sweet bell peppers: 1
+pork loin chops thick: 1
+pork chops lean and thick: 1
+boneless pork loin roast: 1
+pork roast butt loin etc: 1
+lard: 1
+pork steaks: 1
+cans cream of mushroom soup: 1
+whole berry cranberry sauce: 1
+red potatoes cooled and diced: 1
+refrigerated biscuit: 1
+hot dogs can use soy chicken beef any type of hotdog: 1
+wooden skewers: 1
+pork roast shoulder or butt: 1
+ginger ale: 1
+unprocessed oat bran: 1
+canned vegetable stock found on soup aisle i use vegan chicken broth here: 1
+vegetable oil yes: 1
+semisweet chocolate chips regular or mini i like mini best: 1
+eggnog do not used cannedit isnt thick enoughuse the type in the cartonfound in the dairy case: 1
+package yellow cake mix i use of a box: 1
+pumpkin pie filling: 1
+gingersnaps: 1
+vegetable oil i use oil and unsweetened applesauce: 1
+solidpack pumpkin: 1
+pumpkin ravioli: 1
+sage leaves: 1
+amaretti cookies: 1
+hazelnuts: 1
+hot stock chicken or vegetable: 1
+chex cereal any kind: 1
+semisweet chocolate chips or semisweet chocolate chips melted: 1
+smooth peanut butter melted: 1
+box crispix cereal or box similar cereal: 1
+pastry dough i use frozen: 1
+philadelphia cream cheese: 1
+marshmallow creme: 1
+butternut squash cubed: 1
+prepared pie crust: 1
+ice water i use refrigerated water: 1
+allpurpose white flour: 1
+yeast or x 7g pkts: 1
+jalapeno chiles: 1
+package of ramen noodles i think chicken or oriental flavored are the best for this recipe: 1
+package hidden valley ranch dressing mix dry: 1
+bottle hormel real bacon bits or use bacon crumbled: 1
+package frozen baby carrots: 1
+red potatoes thick about: 1
+ranch salad dressing: 1
+packet hidden valley ranch dressing mix seasoning and salad mix: 1
+seedless raspberry preserves: 1
+haddock fillets: 1
+bicarbonate of soda: 1
+good quality fat or oil: 1
+corn oil or plain vegetable oil: 1
+chilies such as anaheim new mexico california or pasilla: 1
+sweet pickle relish drained: 1
+buttermilk baking mix: 1
+bag milk chocolate chips: 1
+white rum: 1
+club soda chilled: 1
+jalapenos fine: 1
+rack of babyback pork ribs membrane removed: 1
+rice flour: 1
+whole milk i use: 1
+italian parsley: 1
+broccoli floret: 1
+cubed butternut squash: 1
+goat cheese crumbled: 1
+red potatoes left whole if halved or quartered if: 1
+prepared horseradish drained: 1
+leg of lamb: 1
+finely nuts: 1
+can condensed golden mushroom soup undiluted and: 1
+sheets aluminum foil wrap by: 1
+buttery cracker i use ritz: 1
+jalapeno finely: 1
+saltine crackers: 1
+carbonated lemonlime beverage such as up: 1
+lime slices: 1
+lemon slices: 1
+orange slices: 1
+cointreau liqueur: 1
+grenadine: 1
+hellmans dijonnaise mustard or each of mayo and dijon mustard: 1
+steak cut into thin slices: 1
+pillsbury grands refrigerated buttermilk biscuits: 1
+package refrigerator biscuits: 1
+mint: 1
+can mushroom soup: 1
+breadcrumbs depends on how moist the turkey is: 1
+oil if desired for: 1
+raw sugar: 1
+unbleached white flour: 1
+cans condensed cream of potato soup undiluted: 1
+jumbo eggs: 1
+roasted garlic cloves: 1
+tuna steaks: 1
+roasted sesame seeds: 1
+herbes de provence: 1
+lamb loin chops: 1
+pork back ribs: 1
+can french onion soup: 1
+kimmelwick rolls: 1
+package simply potatoes shredded hash browns: 1
+butternut squash cubes: 1
+spiral shaped pasta: 1
+seafood cocktail sauce: 1
+shrimp deveined: 1
+ghee: 1
+chicken cut up: 1
+sea bass cleaned and scaled: 1
+parsley leaves: 1
+slices bread homemade strongly recommended cracked wheat is my specific favorite: 1
+peaches finely: 1
+white cheddar cheese: 1
+sirloin tip steaks: 1
+au jus mix: 1
+your favorite marinara sauce or store bought spaghetti sauce: 1
+boneless beef short ribs: 1
+pork spareribs: 1
+roasting chickens: 1
+package split peas rinsed and sorted: 1
+ham shanks: 1
+smoked salmon: 1
+crackers or breadstick for serving: 1
+tomatillo cut into quarters: 1
+habanero pepper: 1
+chipotle chile in adobo: 1
+lowfat plain yogurt: 1
+fruit or frozen fruit thawed strawberries work best: 1
+flat iron steak: 1
+zesty italian dressing: 1
+package brown gravy mix packet size varies: 1
+mms plain chocolate candy: 1
+raw zucchini: 1
+sourdough starter freshly fed and active: 1
+nuts omit if you dont like nuts: 1
+package reducedsodium taco seasoning mix: 1
+canned salmon: 1
+tea bags: 1
+season with salt and pepper or anything else as you see fit: 1
+french style green beans: 1
+jar roasted red peppers: 1
+centercut pork loin chops: 1
+unsweetened coconut milk: 1
+golden delicious apple: 1
+package frozen shortcrust pastry dough: 1
+spinach leaves: 1
+hidden valley original ranch seasoning mix: 1
+package knorr vegetable soup mix or onion soup mix: 1
+envelope ranch dip mix: 1
+orange zest of: 1
+package split peas rinsed: 1
+v vegetable juice: 1
+can cut green beans drained: 1
+rib eye steaks in: 1
+box ritz crackers the roll size or the minis which crush easier you can substitute bread crumbs if you like or box chicken in a biscuit crackers you can substitute bread crumbs if you like: 1
+pork cutlets of chops trimmed: 1
+chinese wine: 1
+chicken liver: 1
+count package miniature peanut butter unwrapped: 1
+package refrigerated peanut butter cookie dough or package refrigerated sugar cookie dough: 1
+bread or cracker crumb: 1
+pork chops those thick costco size chops work too: 1
+package corn muffin mix: 1
+enriched flour: 1
+pastry crust with lattice top: 1
+angel food cake torn into bitesize pieces: 1
+pretzels: 1
+carton frozen whipped topping thawed: 1
+strawberry gelatin: 1
+pie crust prebaked: 1
+strawberry jello gelatin dessert: 1
+pace picante sauce: 1
+cabbage leaves: 1
+soft breadcrumbs: 1
+cans hormel chili with or without beans: 1
+cream of celery soup: 1
+dry ranch dressing mix: 1
+candy sprinkles: 1
+peaches pitted and: 1
+chuck roast or chuck tender roast: 1
+envelope lipton onion mushroom dry soup mix: 1
+white sauce: 1
+hot egg noodles: 1
+venison tenderloins a single deer loin or moose or elk or pork or beef: 1
+can bruce cut yams drained: 1
+mashed sweet potatoes: 1
+inches unbaked pie shells: 1
+apricot jam: 1
+dry red pepper: 1
+hoisin sauce: 1
+vermicelli: 1
+kikkomans teriyaki sauce: 1
+white onions: 1
+jack daniels whiskey: 1
+lemons juice of freshly squeeze: 1
+bag plain doritos: 1
+bottle catalina dressing: 1
+slivered almonds: 1
+onion flakes or: 1
+dry breadcrumbs i use whole wheat: 1
+liquid red pepper seasoning: 1
+hamburger buns to serve: 1
+frozen tater tots: 1
+drops hydrogen peroxide: 1
+drop mint extract: 1
+chuck roast trimmed: 1
+chicken stock or a combination or beef stock or a combination: 1
+oil or better yet bacon grease: 1
+chicken fillets: 1
+packet hokkien noodles use your favourite noodles: 1
+red chili powder: 1
+chili: 1
+lime rind: 1
+hot shortgrain white rice: 1
+grated gingerroot: 1
+salt and pepper to season flourto taste: 1
+sugar snap pea: 1
+thai red chili pepper: 1
+thai holy basil regular basil ok: 1
+crystallized ginger: 1
+packages stove topstyle seasoned stuffing mix: 1
+count packages pepperidge farm rolls in a pan in a package: 1
+dill pickles: 1
+turkey wings about separated at the joints: 1
+bottle rubbing alcohol: 1
+sudsy ammonia: 1
+liquid dish soap like dawn or joy: 1
+beef sirloin: 1
+boneless round steak: 1
+bottle kraft sun tomato salad dressing: 1
+pork loin chops with bone: 1
+peanut butter chips: 1
+chocolate: 1
+angostura bitters: 1
+rice krispies: 1
+good quality baking cocoa: 1
+container frozen whipped topping: 1
+angel food cake cut into cubes i buy the cake already made: 1
+can campbells french onion soup: 1
+beef round: 1
+fat like lard if meat is round or sirloin or crisco if meat is round or sirloin: 1
+cans cream of celery soup: 1
+pretzel twists: 1
+pieces rollo candies: 1
+whole pecans: 1
+serrano peppers thinly with seeds: 1
+chicken thigh pieces: 1
+thai basil: 1
+bag miniature chocolate chips for the eyes: 1
+package semisweet chocolate: 1
+paraffin wax: 1
+bag almonds: 1
+white icing: 1
+bag hershey chocolate kisses: 1
+oil can use of oil or melted butter: 1
+espresso coffee: 1
+tia maria or another liqueur but the coffee flavour is really enhanced: 1
+mascarpone cheese: 1
+cream anything that will hold the peaks heavy whipping cream works fine as will anything milkfat or hi: 1
+ladyfingers: 1
+dozen cheese ravioli or dozen other filled ravioli thawed if frozen: 1
+marinara sauce for dipping: 1
+slices italian bread cut about thick: 1
+pie crusts: 1
+package tortellini or package tortellini: 1
+tortellini filling of your choice: 1
+single cream: 1
+package brown gravy mix dry: 1
+package ranch dressing mix dry: 1
+mature cheddar cheese finely grated: 1
+english mustard: 1
+lasagna noodles and drained: 1
+pork shoulder or pork butt trimmed of fat and cut up: 1
+red chili sauce: 1
+red chili sauce to be used with traditional tamales: 1
+masa harina: 1
+corn husks about inches long: 1
+liquid blue dawn detergent: 1
+tuna in water: 1
+italianstyle seasoned dry bread crumb: 1
+diced turkey canned turkey works just as well i use about four of those tunafish sized cans: 1
+cut green beans or frozen: 1
+frozen deep dish pie shell thawed or homemade pastry for a double crust pie or box pillsbury refrigerated pie crusts: 1
+cubed turkey: 1
+red lentil: 1
+white potato: 1
+whole wheat pasta shells: 1
+baby spinach cleaned and trimmed: 1
+shredded cheddar cheese i used sharp cheddar: 1
+english cucumber: 1
+mint leaf: 1
+skinless chicken: 1
+miniature marshmallow: 1
+louisiana hot sauce: 1
+fine breadcrumbs: 1
+split green peas: 1
+soda crackers or fine dry breadcrumb: 1
+your choice spices granulated garlic powder seasoning salt cayenne pepper dill weed granulated garlic powder: 1
+vegetable oil for microwave bacon tray: 1
+canned plum tomatoes: 1
+red maraschino cherry: 1
+green maraschino cherry: 1
+unbaked deep dish pie shell: 1
+golden brown sugar: 1
+italian stewed tomatoes: 1
+jalapeno pepper and: 1
+spaghetti sauce your favorite homemade or jar spaghetti sauce: 1
+vegetable oil i used olive oil: 1
+crisp canned corn drained: 1
+wasabi: 1
+tamari: 1
+extra breadcrumbs: 1
+cans frozen lemonade concentrate: 1
+can vegall or can mixed vegetables drained: 1
+package egg noodles macaroni may be used: 1
+lowfat chicken broth: 1
+box spice cake mix: 1
+velveeta reduced fat cheese product: 1
+cream of mushroom soup undiluted: 1
+cans reducedfat reducedsodium condensed cream of mushroom soup: 1
+sugarfree lime gelatin: 1
+container fatfree whipped topping: 1
+key lime pie yogurt: 1
+natural applesauce: 1
+boxes white cake mix betty crocker or pillsbury: 1
+real vanilla: 1
+chicken to taste: 1
+white chips: 1
+white fish fillets i like true cod or orange roughy: 1
+green onions with tops: 1
+envelopes yeast: 1
+vital wheat gluten: 1
+diced jalapeno peppers or diced serrano pepper: 1
+jalapeno pepper: 1
+canning salt: 1
+nuts i use walnuts or pecans: 1
+beef steaks: 1
+can minestrone soup ready to serve: 1
+can mixed vegetables: 1
+box angel food cake mix: 1
+lean pork loin thinly against the grain: 1
+chinese wheat noodles udon noodles may be substituted: 1
+napa cabbage: 1
+liquid fat ie melted milk free margarine vegetable oil olive oil: 1
+cans cheddar cheese soup: 1
+nuts i dont use: 1
+can crescent rolls: 1
+hot peppers: 1
+slices rindless bacon finely: 1
+box yellow cake mix jiffy or box white cake mix jiffy: 1
+slices bread toasted and cut in cubes: 1

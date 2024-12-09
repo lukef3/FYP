@@ -1,0 +1,21 @@
+{
+    "dish_name": "very low-fat black bean and corn salad",
+    "ingredients": [
+        "canned black beans",
+        "cups   crisp canned corn, drained",
+        "red onion",
+        "fresh cilantro",
+        "lime juice",
+        "olive oil",
+        "salt",
+        "ground cumin",
+        "teaspoon    ground red pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

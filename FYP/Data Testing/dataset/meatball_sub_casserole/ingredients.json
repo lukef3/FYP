@@ -1,0 +1,25 @@
+{
+    "dish_name": "meatball sub casserole",
+    "ingredients": [
+        "green onion",
+        "cup    seasoned bread crumbs",
+        "parmesan cheese",
+        "ground beef",
+        "loaf    Italian bread, cut into 1 inch slices",
+        "cream cheese",
+        "mayonnaise",
+        "teaspoon    italian seasoning",
+        "pepper",
+        "mozzarella cheese",
+        "(28   ounce) jar   spaghetti sauce",
+        "water",
+        "garlic cloves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

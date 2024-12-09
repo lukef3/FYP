@@ -1,0 +1,29 @@
+{
+    "dish_name": "vegetarian chili",
+    "ingredients": [
+        "zucchini",
+        "onion",
+        "green pepper",
+        "cup   chopped sweet red pepper",
+        "garlic",
+        "olive oil",
+        "Italian stewed tomatoes",
+        "tomato sauce",
+        "pinto beans",
+        "black beans",
+        "jalapeno pepper, seeded and chopped",
+        "fresh cilantro",
+        "fresh parsley",
+        "chili powder",
+        "sugar",
+        "salt",
+        "cumin"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

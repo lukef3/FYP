@@ -1,0 +1,21 @@
+{
+    "dish_name": "master brine recipe for meats",
+    "ingredients": [
+        "garlic",
+        "water",
+        "kosher salt",
+        "black peppercorns",
+        "black peppercorns",
+        "sugar",
+        "sugar",
+        "dried thyme",
+        "whole allspice",
+        "bay leaf"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

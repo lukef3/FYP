@@ -1,0 +1,15 @@
+{
+    "dish_name": "dreamsicle jello salad",
+    "ingredients": [
+        "instant vanilla pudding",
+        "(3   ounce) package   orange Jell-O",
+        "boiling water",
+        "mandarin oranges",
+        "Cool Whip"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

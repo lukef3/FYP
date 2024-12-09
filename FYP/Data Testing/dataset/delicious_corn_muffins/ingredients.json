@@ -1,0 +1,22 @@
+{
+    "dish_name": "delicious corn muffins",
+    "ingredients": [
+        "butter",
+        "sugar",
+        "honey",
+        "eggs",
+        "salt",
+        "all-purpose flour",
+        "cornmeal",
+        "baking powder",
+        "milk",
+        "frozen corn"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

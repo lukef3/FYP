@@ -1,0 +1,18 @@
+{
+    "dish_name": "canned crust chicken pot pie",
+    "ingredients": [
+        "(15   ounce) package   Pillsbury ready made pie dough (2 crust)",
+        "(10   ounce) package   frozen mixed vegetables (rinsed to thaw)",
+        "cup    cooked chicken",
+        "(10 1/2  ounce) can   cream of potato soup",
+        "(10 1/2  ounce) can   cream of chicken soup",
+        "milk",
+        "seasoning salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

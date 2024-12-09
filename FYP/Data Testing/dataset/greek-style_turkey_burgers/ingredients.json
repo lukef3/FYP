@@ -1,0 +1,22 @@
+{
+    "dish_name": "greek-style turkey burgers",
+    "ingredients": [
+        "ground turkey",
+        "feta cheese",
+        "kalamata olive",
+        "dried oregano",
+        "teaspoon    italian seasoning",
+        "dried parsley",
+        "dried basil",
+        "onion powder",
+        "garlic powder",
+        "ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

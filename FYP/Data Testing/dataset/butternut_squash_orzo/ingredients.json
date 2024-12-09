@@ -1,0 +1,22 @@
+{
+    "dish_name": "butternut squash orzo",
+    "ingredients": [
+        "butter",
+        "olive oil",
+        "onion",
+        "garlic",
+        "cups   diced peeled butternut squash (1/2-inch dice)",
+        "vegetable broth",
+        "orzo pasta",
+        "parmesan cheese",
+        "fresh basil",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

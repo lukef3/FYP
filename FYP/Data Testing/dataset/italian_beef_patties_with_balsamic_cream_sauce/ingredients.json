@@ -1,0 +1,21 @@
+{
+    "dish_name": "italian beef patties with balsamic cream sauce",
+    "ingredients": [
+        "lb    ground round",
+        "parmesan cheese",
+        "egg yolks",
+        "salt & fresh ground pepper",
+        "butter",
+        "onion",
+        "olive oil",
+        "butter",
+        "heavy cream",
+        "tablespoon    balsamic vinegar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

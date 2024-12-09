@@ -1,0 +1,17 @@
+{
+    "dish_name": "jiffy corn casserole (5 ingredients) easy & delicious!",
+    "ingredients": [
+        "(8   ounce) box   Jiffy cornbread mix",
+        "whole kernel corn",
+        "(15   ounce) can   creamed corn (not drained)",
+        "sour cream",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

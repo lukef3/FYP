@@ -1,0 +1,24 @@
+{
+    "dish_name": "baja black beans, corn and rice",
+    "ingredients": [
+        "cooked brown rice",
+        "black beans",
+        "corn",
+        "fresh tomatoes",
+        "red onion",
+        "cilantro",
+        "jalapeno pepper, seeded and diced",
+        "fresh lime juice",
+        "olive oil",
+        "salt",
+        "fresh ground pepper",
+        "dashes    hot sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "spaghetti casserole",
+    "ingredients": [
+        "spaghetti",
+        "sour cream",
+        "cream cheese",
+        "ground beef",
+        "ounces    spaghetti sauce",
+        "mozzarella cheese",
+        "season with salt and pepper (or anything else as you see fit)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

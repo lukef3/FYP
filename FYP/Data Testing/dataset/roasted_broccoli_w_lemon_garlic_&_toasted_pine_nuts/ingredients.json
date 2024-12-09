@@ -1,0 +1,20 @@
+{
+    "dish_name": "roasted broccoli w lemon garlic & toasted pine nuts",
+    "ingredients": [
+        "broccoli floret",
+        "olive oil",
+        "salt & freshly ground black pepper",
+        "unsalted butter",
+        "garlic",
+        "lemon zest",
+        "fresh lemon juice",
+        "pine nuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

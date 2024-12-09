@@ -1,0 +1,21 @@
+{
+    "dish_name": "lemon garlic pasta",
+    "ingredients": [
+        "garlic",
+        "extra virgin olive oil",
+        "lemon juice",
+        "chicken flavor instant bouillon",
+        "pepper",
+        "spaghetti",
+        "angel hair pasta",
+        "parmesan cheese",
+        "parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

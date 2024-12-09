@@ -1,0 +1,19 @@
+{
+    "dish_name": "baked buffalo chicken breasts",
+    "ingredients": [
+        "chicken breast halves",
+        "cup    hot sauce",
+        "vinegar",
+        "margarine",
+        "celery seed",
+        "pepper",
+        "cup    fat free blue cheese dressing"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

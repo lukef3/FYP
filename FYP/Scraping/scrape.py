@@ -16,7 +16,6 @@ def scrape_recipe(url, root_folder="dataset"):
     # Scrape the dish name
     dish_name_tag = soup.find('h1', class_='svelte-1muv3s8')
     if not dish_name_tag:
-        print("Dish name not found. Using default name 'recipe'.")
         dish_name = "recipe"
     else:
         dish_name = dish_name_tag.get_text(strip=True).replace(" ", "_").lower()
@@ -34,23 +33,21 @@ def scrape_recipe(url, root_folder="dataset"):
             ingredient_text_span = item.find('span', class_='ingredient-text')
             # Find all <a> tags within the ingredient-text span for ingredient names
             ingredient_names = [a.get_text(strip=True) for a in ingredient_text_span.find_all('a')]
-            # If no <a> tag is found, it might be a plain text ingredient
+            # If no <a> tag is found, use plain text ingredient
             if not ingredient_names:
                 ingredient_names = [ingredient_text_span.get_text(strip=True)]
-            # Add names to ingredients list
+            # Add ingredient names to ingredients list
             ingredients.extend(ingredient_names)
 
-    # Initialize JSON data structure
+    # JSON structure
     json_data = {
         "dish_name": dish_name.replace("_", " "),  # Store human-readable dish name
         "ingredients": ingredients,
         "images": []
     }
 
-    # Image counter
-    image_counter = 1
-
     # Scrape main image
+    image_counter = 1
     main_image_tag = soup.find('img', class_='only-desktop')
     if main_image_tag:
         main_img_url = main_image_tag.get('src')
@@ -64,7 +61,6 @@ def scrape_recipe(url, root_folder="dataset"):
             print(f"Main image downloaded and saved as {main_img_path}")
             json_data["images"].append(f"images/{main_img_name}")
             image_counter += 1
-
     # Scrape additional images from 'other-images' section
     other_images_div = soup.find('div', class_='other-images')
     if other_images_div:
@@ -92,22 +88,13 @@ def scrape_recipe(url, root_folder="dataset"):
 
     return json_data
 
-def scrape_all_recipes_selenium(url):
-    """
-    Scrape all recipes using Selenium for pages where all content is initially loaded.
-
-    Args:
-        url (str): URL of the main page containing recipes.
-        root_folder (str): Folder to save scraped data.
-        delay (int): Delay in seconds after loading the page.
-    """
-    # Set up Selenium WebDriver
+def scrape_recipe_links(url):
     options = webdriver.ChromeOptions()
     options.add_argument('--headless')
     driver = webdriver.Chrome(options=options)  # Use the appropriate WebDriver for your browser
     driver.get(url)
-    time.sleep(2)  # Wait for the page to fully load
-    recipe_links = set()  # Use a set to avoid duplicates
+    time.sleep(2)  # Wait for the page to fully load. Page is loaded dynamically via javascript upon
+    recipe_links = set()
 
     # Parse the current page source with BeautifulSoup
     soup = BeautifulSoup(driver.page_source, 'html.parser')
@@ -118,7 +105,6 @@ def scrape_all_recipes_selenium(url):
         link = card.get('data-url')  # Extract the dynamically rendered `data-url` attribute
         if link and link not in recipe_links:
             recipe_links.add(link)
-
     driver.quit()
     return  recipe_links
 
@@ -129,19 +115,18 @@ def main():
     max_page = 210
 
     for page_number in range(start_page, max_page + 1):
-        # Construct the URL for the current page
+        # Append page number to search URL
         page_url = base_url.format(page_number)
-
-        # Scrape all recipes on the current page
-        recipe_links = scrape_all_recipes_selenium(page_url)
+        # Scrape links from current search page
+        recipe_links = scrape_recipe_links(page_url)
         print(f"Scraping page {page_number}")
-        # Process each recipe
+        # Scrape data from each recipe
         for i, recipe_url in enumerate(recipe_links, start=1):
             print(f"Processing recipe {i}/{len(recipe_links)}: {recipe_url}")
             try:
                 scrape_recipe(recipe_url)
             except Exception as e:
                 print(f"Error processing recipe {recipe_url}: {e}")
-    print(f"Finished scraping from page {start_page} and {max_page}")
+    print(f"Finished scraping from page {start_page} to {max_page}")
 
 main()

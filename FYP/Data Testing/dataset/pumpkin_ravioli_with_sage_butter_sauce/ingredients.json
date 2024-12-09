@@ -1,0 +1,20 @@
+{
+    "dish_name": "pumpkin ravioli with sage butter sauce",
+    "ingredients": [
+        "lb    fresh pumpkin ravioli",
+        "unsalted butter",
+        "fresh sage leaves",
+        "ground sage",
+        "nutmeg",
+        "parmesan cheese",
+        "amaretti cookies",
+        "hazelnuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dish_name": "easy cake mix cookies",
+    "ingredients": [
+        "(18   ounce) box  package cake mix (any flavor)",
+        "canola oil",
+        "eggs",
+        "chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

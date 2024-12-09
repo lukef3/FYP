@@ -1,0 +1,23 @@
+{
+    "dish_name": "pumpkin chocolate chip muffins",
+    "ingredients": [
+        "eggs",
+        "sugar",
+        "pumpkin",
+        "vanilla extract",
+        "cups    vegetable oil (yes, 1 1/4 cups)",
+        "flour",
+        "baking soda",
+        "baking powder",
+        "cinnamon",
+        "salt",
+        "ounces    semi-sweet chocolate chips (Regular or mini, I like mini best)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

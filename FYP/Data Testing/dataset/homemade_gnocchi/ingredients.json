@@ -1,0 +1,19 @@
+{
+    "dish_name": "homemade gnocchi",
+    "ingredients": [
+        "baking potato",
+        "eggs",
+        "salt",
+        "ricotta cheese",
+        "butter",
+        "romano cheese",
+        "flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

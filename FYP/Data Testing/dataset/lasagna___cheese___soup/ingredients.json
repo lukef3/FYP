@@ -1,0 +1,27 @@
+{
+    "dish_name": "lasagna   cheese   soup",
+    "ingredients": [
+        "ground beef",
+        "onion",
+        "chicken broth",
+        "diced tomatoes",
+        "tomato sauce",
+        "teaspoons    italian seasoning",
+        "Worcestershire sauce",
+        "garlic powder",
+        "brown sugar",
+        "salt",
+        "black pepper",
+        "parmesan cheese",
+        "cups    lasagna noodles, broken",
+        "seasoned croutons",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

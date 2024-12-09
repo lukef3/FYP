@@ -1,0 +1,19 @@
+{
+    "dish_name": "pernil (puerto rican pork shoulder)",
+    "ingredients": [
+        "lbs   picnic pork shoulder",
+        "minced garlic cloves",
+        "dried oregano",
+        "black pepper",
+        "olive oil",
+        "white vinegar",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

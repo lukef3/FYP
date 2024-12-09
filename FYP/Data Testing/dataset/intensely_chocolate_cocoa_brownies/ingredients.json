@@ -1,0 +1,22 @@
+{
+    "dish_name": "intensely chocolate cocoa brownies",
+    "ingredients": [
+        "butter",
+        "cup    cocoa",
+        "sugar",
+        "eggs",
+        "vanilla",
+        "flour",
+        "baking powder",
+        "salt",
+        "walnuts",
+        "chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

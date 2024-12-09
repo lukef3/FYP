@@ -1,0 +1,21 @@
+{
+    "dish_name": "easy ham carbonara",
+    "ingredients": [
+        "angel hair pasta",
+        "onion",
+        "cup    vegetable oil",
+        "ham",
+        "chicken broth",
+        "margarine",
+        "egg yolks, beaten",
+        "fresh parsley",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

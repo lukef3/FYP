@@ -1,0 +1,25 @@
+{
+    "dish_name": "drunken garlic crock pot roast",
+    "ingredients": [
+        "boneless beef chuck roast",
+        "tablespoons    vegetable oil",
+        "salt",
+        "pepper",
+        "onions",
+        "garlic cloves",
+        "beef bouillon cubes",
+        "hot water",
+        "lager beer",
+        "brown sugar",
+        "Dijon mustard",
+        "cider vinegar",
+        "cornstarch"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

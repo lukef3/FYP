@@ -1,0 +1,32 @@
+{
+    "dish_name": "jambalaya",
+    "ingredients": [
+        "shortening",
+        "onion",
+        "green pepper",
+        "celery",
+        "garlic cloves",
+        "chicken",
+        "chorizo sausage",
+        "andouille sausages",
+        "tomatoes",
+        "diced tomatoes",
+        "cups    chicken stock",
+        "thyme",
+        "oregano",
+        "parsley",
+        "cayenne",
+        "chili powder",
+        "salt",
+        "black pepper",
+        "cooked long-grain rice",
+        "cayenne",
+        "Tabasco sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

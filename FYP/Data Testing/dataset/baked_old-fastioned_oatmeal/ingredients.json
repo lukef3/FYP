@@ -1,0 +1,20 @@
+{
+    "dish_name": "baked old-fastioned oatmeal",
+    "ingredients": [
+        "oatmeal",
+        "baking powder",
+        "salt",
+        "milk",
+        "eggs",
+        "applesauce",
+        "brown sugar",
+        "vanilla yogurt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

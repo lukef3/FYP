@@ -1,0 +1,23 @@
+{
+    "dish_name": "chicken pot pie with 2 crusts",
+    "ingredients": [
+        "margarine",
+        "butter",
+        "flour",
+        "onion",
+        "salt",
+        "pepper",
+        "chicken broth",
+        "milk",
+        "cups   cut up cooked chicken",
+        "(10   ounce) package   frozen mixed vegetables",
+        "prepared pie crusts (1 top crust and 1 bottom crust)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

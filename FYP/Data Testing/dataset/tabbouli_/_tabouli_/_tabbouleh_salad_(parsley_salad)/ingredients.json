@@ -1,0 +1,23 @@
+{
+    "dish_name": "tabbouli / tabouli / tabbouleh salad (parsley salad)",
+    "ingredients": [
+        "flat leaf parsley",
+        "fresh parsley",
+        "spring onions",
+        "green onions",
+        "tomatoes",
+        "lemons, juice of (Freshly Squeeze)",
+        "olive oil",
+        "bulgur",
+        "water",
+        "ground black pepper",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

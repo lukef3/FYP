@@ -1,0 +1,21 @@
+{
+    "dish_name": "twice baked potato casserole",
+    "ingredients": [
+        "potatoes",
+        "garlic powder",
+        "salt",
+        "pepper",
+        "bacon",
+        "sour cream",
+        "light cream cheese",
+        "cups    shredded cheddar cheese (I used sharp cheddar)",
+        "green onions"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

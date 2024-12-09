@@ -1,0 +1,20 @@
+{
+    "dish_name": "marinade for flank steak",
+    "ingredients": [
+        "cup    oil",
+        "Worcestershire sauce",
+        "soy sauce",
+        "red wine vinegar",
+        "garlic",
+        "dry mustard",
+        "lemon juice",
+        "parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "lucky sweet and sour sauce",
+    "ingredients": [
+        "ketchup",
+        "sugar",
+        "vinegar",
+        "soy sauce",
+        "cornstarch",
+        "water",
+        "teaspoons    oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

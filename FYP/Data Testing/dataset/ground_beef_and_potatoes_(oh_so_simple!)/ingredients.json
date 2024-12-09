@@ -1,0 +1,16 @@
+{
+    "dish_name": "ground beef and potatoes (oh so simple!)",
+    "ingredients": [
+        "lean ground beef",
+        "potatoes",
+        "tablespoons    vegetable oil",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

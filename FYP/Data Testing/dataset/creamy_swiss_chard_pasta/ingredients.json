@@ -1,0 +1,23 @@
+{
+    "dish_name": "creamy swiss chard pasta",
+    "ingredients": [
+        "swiss chard",
+        "olive oil",
+        "garlic cloves",
+        "onion",
+        "tomatoes",
+        "fat free sour cream",
+        "plain yogurt",
+        "2% low-fat milk",
+        "parmesan cheese",
+        "fettuccine pasta",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

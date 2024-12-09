@@ -1,0 +1,19 @@
+{
+    "dish_name": "oven fried eggplant (aubergine)",
+    "ingredients": [
+        "fat-free mayonnaise",
+        "onion",
+        "eggplant",
+        "cup    fine dry breadcrumb",
+        "parmesan cheese",
+        "teaspoon    dried Italian seasoning",
+        "vegetable oil cooking spray"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

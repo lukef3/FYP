@@ -1,0 +1,20 @@
+{
+    "dish_name": "christmas rum balls(or bourbon balls)",
+    "ingredients": [
+        "cups    vanilla wafers, crushed  (a 250g box of Christies vanilla wafers equals 2 1/2 cups)",
+        "tablespoons    cocoa",
+        "icing sugar",
+        "spiced rum",
+        "Bourbon",
+        "white corn syrup",
+        "pecans",
+        "walnuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

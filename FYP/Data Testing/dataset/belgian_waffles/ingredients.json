@@ -1,0 +1,21 @@
+{
+    "dish_name": "belgian waffles",
+    "ingredients": [
+        "all-purpose flour",
+        "baking powder",
+        "confectioners' sugar",
+        "tablespoon    vegetable oil",
+        "milk",
+        "eggs",
+        "vanilla",
+        "salt",
+        "whipped cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

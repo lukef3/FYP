@@ -1,0 +1,23 @@
+{
+    "dish_name": "simply sour cream chicken enchiladas",
+    "ingredients": [
+        "chicken breast",
+        "onion",
+        "tablespoon    vegetable oil",
+        "flour tortillas",
+        "monterey jack cheese",
+        "butter",
+        "flour",
+        "chicken broth",
+        "sour cream",
+        "green chilies",
+        "fresh chili peppers"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

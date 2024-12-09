@@ -1,0 +1,26 @@
+{
+    "dish_name": "apple banana bread",
+    "ingredients": [
+        "butter",
+        "brown sugar",
+        "granulated sugar",
+        "eggs",
+        "sour cream",
+        "banana",
+        "vanilla",
+        "flour",
+        "baking powder",
+        "baking soda",
+        "salt",
+        "cinnamon",
+        "apples",
+        "walnuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

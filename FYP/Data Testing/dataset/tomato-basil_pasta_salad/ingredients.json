@@ -1,0 +1,20 @@
+{
+    "dish_name": "tomato-basil pasta salad",
+    "ingredients": [
+        "rotini pasta",
+        "plum tomatoes",
+        "roma tomatoes",
+        "garlic",
+        "salt",
+        "black pepper",
+        "olive oil",
+        "fresh basil leaf",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

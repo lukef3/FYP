@@ -1,0 +1,22 @@
+{
+    "dish_name": "broccoli and cheese soup",
+    "ingredients": [
+        "broccoli",
+        "butter",
+        "onion",
+        "flour",
+        "milk",
+        "mild cheddar cheese",
+        "sharp cheddar cheese",
+        "chicken broth",
+        "salt and pepper",
+        "Velveeta cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

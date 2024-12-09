@@ -1,0 +1,20 @@
+{
+    "dish_name": "dad's best brisket",
+    "ingredients": [
+        "beef brisket",
+        "celery salt",
+        "garlic salt",
+        "onion salt",
+        "pepper",
+        "liquid smoke",
+        "Worcestershire sauce",
+        "salt and pepper",
+        "barbecue sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

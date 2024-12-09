@@ -1,0 +1,19 @@
+{
+    "dish_name": "chicago italian beef",
+    "ingredients": [
+        "rump roast",
+        "(10 1/4  ounce) cans   beef consomme (Broth)",
+        "(1   ounce) package   Good Seasonings Italian salad dressing mix",
+        "pepperoncini pepper (1/2-1 jars depending on level of spiciness)",
+        "giardiniera (1/2-1 jars)",
+        "sweet green peppers (according to size)",
+        "loaf   long thin French bread"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

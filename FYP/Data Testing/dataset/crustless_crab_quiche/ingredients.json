@@ -1,0 +1,21 @@
+{
+    "dish_name": "crustless crab quiche",
+    "ingredients": [
+        "ounces    imitation crabmeat, chopped",
+        "low-fat cheddar cheese",
+        "onion",
+        "eggs",
+        "cup    evaporated skim milk",
+        "salt",
+        "dry mustard",
+        "pepper",
+        "paprika"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

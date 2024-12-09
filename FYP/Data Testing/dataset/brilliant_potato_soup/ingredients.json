@@ -1,0 +1,26 @@
+{
+    "dish_name": "brilliant potato soup",
+    "ingredients": [
+        "potatoes",
+        "water",
+        "chicken bouillon",
+        "celery",
+        "carrot",
+        "onion",
+        "parsley",
+        "salt",
+        "pepper",
+        "dill weed",
+        "milk",
+        "flour",
+        "butter",
+        "bacon bits"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

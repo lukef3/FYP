@@ -1,0 +1,26 @@
+{
+    "dish_name": "broccoli cheese and potato soup",
+    "ingredients": [
+        "onion",
+        "celery",
+        "butter",
+        "margarine",
+        "flour",
+        "potatoes",
+        "broccoli",
+        "chicken broth",
+        "cheddar cheese",
+        "skim milk",
+        "pepper",
+        "paprika",
+        "salt",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

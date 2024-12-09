@@ -1,0 +1,20 @@
+{
+    "dish_name": "green beans with cherry tomatoes",
+    "ingredients": [
+        "green beans",
+        "butter",
+        "teaspoon    garlic salt",
+        "sugar",
+        "basil",
+        "salt",
+        "pepper",
+        "cherry tomatoes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

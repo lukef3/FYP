@@ -1,0 +1,19 @@
+{
+    "dish_name": "instant oats no bake cookies",
+    "ingredients": [
+        "butter",
+        "sugar",
+        "milk",
+        "cup    cocoa",
+        "vanilla extract",
+        "peanut butter",
+        "Quicker Quaker Oats"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

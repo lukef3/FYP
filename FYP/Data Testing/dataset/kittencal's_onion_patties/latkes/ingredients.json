@@ -1,0 +1,23 @@
+{
+    "dish_name": "kittencal's onion patties/latkes",
+    "ingredients": [
+        "onions",
+        "green onion",
+        "flour",
+        "sugar",
+        "baking powder",
+        "seasoning salt",
+        "cayenne pepper",
+        "garlic powder",
+        "black pepper",
+        "milk",
+        "oil (for frying, I recommend to use vegetable oil olive oil will interact with the flavor)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

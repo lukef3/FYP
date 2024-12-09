@@ -1,0 +1,19 @@
+{
+    "dish_name": "top rated pecan pie",
+    "ingredients": [
+        "margarine",
+        "light brown sugar",
+        "eggs",
+        "(9   inch)    pie crusts",
+        "salt",
+        "vanilla",
+        "pecans"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

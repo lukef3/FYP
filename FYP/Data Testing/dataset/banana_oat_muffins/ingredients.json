@@ -1,0 +1,23 @@
+{
+    "dish_name": "banana oat muffins",
+    "ingredients": [
+        "Robin Hood oats",
+        "Old mill oats",
+        "all-purpose flour",
+        "granulated sugar",
+        "baking powder",
+        "baking soda",
+        "salt",
+        "egg",
+        "bananas",
+        "butter",
+        "cup   chopped nuts (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

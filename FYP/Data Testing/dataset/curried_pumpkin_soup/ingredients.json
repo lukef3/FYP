@@ -1,0 +1,25 @@
+{
+    "dish_name": "curried pumpkin soup",
+    "ingredients": [
+        "fresh mushrooms",
+        "onion",
+        "butter",
+        "margarine",
+        "all-purpose flour",
+        "curry powder",
+        "vegetable broth",
+        "pumpkin",
+        "evaporated milk",
+        "honey",
+        "salt",
+        "pepper",
+        "ground nutmeg"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

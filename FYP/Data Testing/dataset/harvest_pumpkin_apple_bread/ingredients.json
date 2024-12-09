@@ -1,0 +1,22 @@
+{
+    "dish_name": "harvest pumpkin apple bread",
+    "ingredients": [
+        "all-purpose flour",
+        "ground cinnamon",
+        "baking soda",
+        "salt",
+        "granulated sugar",
+        "pumpkin puree",
+        "eggs",
+        "cup    vegetable oil",
+        "cup    apple juice (or water)",
+        "apple"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

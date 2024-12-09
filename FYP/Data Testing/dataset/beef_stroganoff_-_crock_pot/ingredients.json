@@ -1,0 +1,21 @@
+{
+    "dish_name": "beef stroganoff - crock pot",
+    "ingredients": [
+        "beef stew meat",
+        "onion",
+        "can    condensed cream of mushroom soup",
+        "can   condensed cream of onion soup",
+        "(8   ounce) can   sliced mushrooms, drained",
+        "pepper",
+        "cream cheese",
+        "sour cream",
+        "rice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

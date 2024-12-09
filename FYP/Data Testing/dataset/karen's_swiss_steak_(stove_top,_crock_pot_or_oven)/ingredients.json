@@ -1,0 +1,29 @@
+{
+    "dish_name": "karen's swiss steak (stove top, crock pot or oven)",
+    "ingredients": [
+        "beef round steak",
+        "flour",
+        "salt",
+        "dry mustard",
+        "pepper",
+        "garlic powder",
+        "shortening",
+        "tomatoes",
+        "onion",
+        "celery",
+        "carrots",
+        "Worcestershire sauce",
+        "red wine",
+        "water",
+        "hot cooked noodles",
+        "mashed potatoes",
+        "cooked rice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

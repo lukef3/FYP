@@ -1,0 +1,25 @@
+{
+    "dish_name": "should be illegal oven bbq ribs",
+    "ingredients": [
+        "lbs    pork back ribs",
+        "honey",
+        "paprika",
+        "chili powder",
+        "garlic powder",
+        "tablespoons    Old Bay Seasoning",
+        "onion powder",
+        "teaspoon    celery salt",
+        "dark brown sugar",
+        "fresh ground pepper",
+        "onion",
+        "barbecue sauce",
+        "white sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

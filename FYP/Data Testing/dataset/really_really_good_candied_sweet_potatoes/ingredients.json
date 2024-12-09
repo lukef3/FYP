@@ -1,0 +1,17 @@
+{
+    "dish_name": "really really good candied sweet potatoes",
+    "ingredients": [
+        "sweet potatoes",
+        "butter",
+        "maple syrup",
+        "brown sugar",
+        "cinnamon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

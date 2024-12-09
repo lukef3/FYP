@@ -1,0 +1,22 @@
+{
+    "dish_name": "pumpkin pie crunch",
+    "ingredients": [
+        "(18   ounce) package   yellow cake mix (I use 2/3 of a box)",
+        "solid pack pumpkin",
+        "evaporated milk",
+        "eggs",
+        "sugar",
+        "pumpkin pie spice",
+        "salt",
+        "pecans",
+        "butter",
+        "whipped topping"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

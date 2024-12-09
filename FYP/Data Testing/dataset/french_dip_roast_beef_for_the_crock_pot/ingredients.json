@@ -1,0 +1,21 @@
+{
+    "dish_name": "french dip roast beef for the crock pot",
+    "ingredients": [
+        "lbs    boneless chuck roast",
+        "soy sauce",
+        "beef bouillon cube",
+        "bay leaf",
+        "peppercorns",
+        "dried rosemary",
+        "dried thyme",
+        "garlic powder",
+        "French rolls, split"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

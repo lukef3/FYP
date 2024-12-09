@@ -1,0 +1,22 @@
+{
+    "dish_name": "simple pasta toss",
+    "ingredients": [
+        "rotini pasta",
+        "boneless skinless chicken breast halves",
+        "olive oil",
+        "garlic cloves",
+        "salt",
+        "garlic powder",
+        "dried basil",
+        "dried oregano",
+        "sun-dried tomato",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

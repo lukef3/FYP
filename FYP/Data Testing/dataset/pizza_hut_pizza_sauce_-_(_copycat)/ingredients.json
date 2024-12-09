@@ -1,0 +1,23 @@
+{
+    "dish_name": "pizza hut pizza sauce - ( copycat)",
+    "ingredients": [
+        "tomato sauce",
+        "water",
+        "sugar",
+        "dried oregano",
+        "dried basil leaves",
+        "dried thyme",
+        "garlic powder",
+        "salt",
+        "black pepper",
+        "whole bay leaf",
+        "lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

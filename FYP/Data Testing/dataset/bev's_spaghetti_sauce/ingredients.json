@@ -1,0 +1,27 @@
+{
+    "dish_name": "bev's spaghetti sauce",
+    "ingredients": [
+        "ground beef",
+        "olive oil",
+        "onion",
+        "garlic",
+        "bay leaves",
+        "oregano",
+        "dried basil",
+        "teaspoon    italian seasoning",
+        "salt",
+        "ground pepper",
+        "tomato paste",
+        "tomato sauce",
+        "diced tomatoes",
+        "fresh mushrooms",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

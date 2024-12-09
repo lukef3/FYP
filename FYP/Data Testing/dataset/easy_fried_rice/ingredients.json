@@ -1,0 +1,21 @@
+{
+    "dish_name": "easy fried rice",
+    "ingredients": [
+        "cooked rice",
+        "oleo",
+        "onion",
+        "celery",
+        "carrots",
+        "cup    frozen peas (or a small-medium part of ginger)",
+        "eggs",
+        "soy sauce",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

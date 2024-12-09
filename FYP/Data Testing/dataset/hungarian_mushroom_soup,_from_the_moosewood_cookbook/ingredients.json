@@ -1,0 +1,26 @@
+{
+    "dish_name": "hungarian mushroom soup, from the moosewood cookbook",
+    "ingredients": [
+        "mushrooms",
+        "onions",
+        "butter",
+        "flour",
+        "milk",
+        "dill weed",
+        "Hungarian paprika",
+        "tamari soy sauce",
+        "salt",
+        "cups    stock",
+        "lemon juice",
+        "parsley",
+        "fresh ground black pepper",
+        "sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

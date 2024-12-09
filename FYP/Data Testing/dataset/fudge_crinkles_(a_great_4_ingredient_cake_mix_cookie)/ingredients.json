@@ -1,0 +1,17 @@
+{
+    "dish_name": "fudge crinkles (a great 4 ingredient cake mix cookie)",
+    "ingredients": [
+        "(18 1/4  ounce) box   devil's food cake mix (Betty Crocker Super Moist suggested)",
+        "cup    vegetable oil",
+        "eggs",
+        "confectioners' sugar",
+        "granulated sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

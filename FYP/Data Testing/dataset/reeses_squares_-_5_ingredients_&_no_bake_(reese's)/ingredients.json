@@ -1,0 +1,17 @@
+{
+    "dish_name": "reeses squares - 5 ingredients & no bake (reese's)",
+    "ingredients": [
+        "graham cracker crumbs",
+        "confectioners' sugar",
+        "peanut butter",
+        "butter",
+        "(12   ounce) bag   milk chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

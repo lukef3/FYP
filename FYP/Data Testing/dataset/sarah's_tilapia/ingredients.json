@@ -1,0 +1,20 @@
+{
+    "dish_name": "sarah's tilapia",
+    "ingredients": [
+        "tablespoons   hellman's Dijonnaise mustard (or 2 Tbsp each of Mayo and Dijon mustard)",
+        "panko breadcrumbs",
+        "salt",
+        "black pepper",
+        "fresh parsley",
+        "(6 -8   ounce)    tilapia fillets",
+        "lemon wedges",
+        "tablespoons    vegetable oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

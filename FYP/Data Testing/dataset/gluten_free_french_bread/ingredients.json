@@ -1,0 +1,25 @@
+{
+    "dish_name": "gluten free french bread",
+    "ingredients": [
+        "cups    rice flour (white)",
+        "tapioca flour",
+        "xanthan gum",
+        "salt",
+        "egg substitute",
+        "sugar",
+        "water",
+        "fast rise yeast",
+        "butter",
+        "margarine",
+        "egg whites, beaten slightly",
+        "vinegar",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

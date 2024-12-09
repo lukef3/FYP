@@ -1,0 +1,23 @@
+{
+    "dish_name": "make ahead mashed potatoes",
+    "ingredients": [
+        "potatoes",
+        "salt",
+        "butter",
+        "margarine",
+        "cream cheese",
+        "sour cream",
+        "milk",
+        "salt",
+        "butter",
+        "margarine",
+        "paprika"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

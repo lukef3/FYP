@@ -1,0 +1,23 @@
+{
+    "dish_name": "sesame crusted tuna steaks with balsamic sauce",
+    "ingredients": [
+        "tuna steaks",
+        "salt",
+        "fresh ground pepper",
+        "roasted sesame seeds",
+        "tablespoons    cooking oil",
+        "teaspoon    sesame oil",
+        "green onion",
+        "garlic",
+        "cup    balsamic vinegar",
+        "soy sauce",
+        "honey"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

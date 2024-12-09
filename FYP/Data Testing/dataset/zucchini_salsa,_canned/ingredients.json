@@ -1,0 +1,29 @@
+{
+    "dish_name": "zucchini salsa, canned",
+    "ingredients": [
+        "zucchini",
+        "onions",
+        "green peppers",
+        "red peppers, chopped",
+        "pickling salt",
+        "pickling salt",
+        "dry mustard",
+        "garlic powder",
+        "cumin",
+        "white vinegar",
+        "brown sugar",
+        "red pepper flakes",
+        "nutmeg",
+        "pepper",
+        "tomatoes",
+        "cornstarch",
+        "tomato paste"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

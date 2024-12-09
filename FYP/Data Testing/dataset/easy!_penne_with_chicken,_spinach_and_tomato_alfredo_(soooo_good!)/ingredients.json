@@ -1,0 +1,16 @@
+{
+    "dish_name": "easy! penne with chicken, spinach and tomato alfredo (soooo good!)",
+    "ingredients": [
+        "penne pasta",
+        "boneless chicken breasts",
+        "Classico Alfredo with sun dried tomatoes",
+        "frozen spinach",
+        "Italian tomatoes",
+        "salt and pepper, to taste"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

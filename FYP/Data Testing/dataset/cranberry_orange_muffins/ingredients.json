@@ -1,0 +1,22 @@
+{
+    "dish_name": "cranberry orange muffins",
+    "ingredients": [
+        "flour",
+        "sugar",
+        "baking powder",
+        "baking soda",
+        "salt",
+        "cranberries",
+        "egg",
+        "cup    orange juice",
+        "cup    vegetable oil",
+        "teaspoon   grated orange rind"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

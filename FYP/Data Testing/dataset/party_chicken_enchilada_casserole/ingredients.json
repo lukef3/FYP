@@ -1,0 +1,27 @@
+{
+    "dish_name": "party chicken enchilada casserole",
+    "ingredients": [
+        "onion",
+        "green pepper",
+        "butter",
+        "margarine",
+        "cups    cooked chicken or 2   cups    cooked turkey",
+        "green chili peppers",
+        "butter",
+        "margarine",
+        "flour",
+        "ground coriander",
+        "salt",
+        "chicken broth",
+        "sour cream",
+        "monterey jack cheese",
+        "flour tortillas"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

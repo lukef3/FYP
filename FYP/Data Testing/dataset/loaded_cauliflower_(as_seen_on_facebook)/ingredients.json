@@ -1,0 +1,18 @@
+{
+    "dish_name": "loaded cauliflower (as seen on facebook)",
+    "ingredients": [
+        "head cauliflower",
+        "slices    cooked bacon, crumbled",
+        "chives",
+        "mayonnaise",
+        "sour cream",
+        "colby-monterey jack cheese",
+        "cheddar cheese",
+        "ounces    sliced mushrooms (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

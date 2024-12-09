@@ -1,0 +1,23 @@
+{
+    "dish_name": "chewy pb chocolate chip oatmeal cookies",
+    "ingredients": [
+        "butter",
+        "sugar",
+        "brown sugar",
+        "peanut butter",
+        "egg",
+        "vanilla",
+        "unbleached all-purpose flour",
+        "oatmeal",
+        "baking soda",
+        "salt",
+        "(12   ounce) bag   semi-sweet chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "scalloped potatoes and ham",
+    "ingredients": [
+        "butter",
+        "flour",
+        "salt",
+        "pepper",
+        "milk",
+        "ham",
+        "green pepper",
+        "onion",
+        "cheddar cheese",
+        "potatoes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

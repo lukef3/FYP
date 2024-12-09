@@ -1,0 +1,21 @@
+{
+    "dish_name": "white wine-garlic sauteed mushrooms",
+    "ingredients": [
+        "green onions with tops",
+        "butter",
+        "margarine",
+        "fresh mushrooms",
+        "dry white wine",
+        "salt",
+        "pepper",
+        "garlic powder",
+        "Worcestershire sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "delicious blue cheese broccoli casserole",
+    "ingredients": [
+        "fresh broccoli florets",
+        "butter",
+        "flour",
+        "cream cheese",
+        "blue cheese",
+        "milk",
+        "half-and-half",
+        "fresh ground black pepper",
+        "cups    Ritz cracker crumbs",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

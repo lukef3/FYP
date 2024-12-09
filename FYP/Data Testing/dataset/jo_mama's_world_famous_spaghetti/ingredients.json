@@ -1,0 +1,28 @@
+{
+    "dish_name": "jo mama's world famous spaghetti",
+    "ingredients": [
+        "Italian sausage",
+        "onion",
+        "garlic cloves",
+        "diced tomatoes",
+        "tomato paste",
+        "tomato sauce",
+        "water",
+        "basil",
+        "dried parsley flakes",
+        "brown sugar",
+        "salt",
+        "crushed red pepper flakes",
+        "fresh coarse ground black pepper",
+        "red wine",
+        "lb    thin spaghetti",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

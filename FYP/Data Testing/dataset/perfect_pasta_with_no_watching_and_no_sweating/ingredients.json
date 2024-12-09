@@ -1,0 +1,14 @@
+{
+    "dish_name": "perfect pasta with no watching and no sweating",
+    "ingredients": [
+        "pasta",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "heavenly whole wheat potato bread (bread machine)",
+    "ingredients": [
+        "warm water",
+        "butter",
+        "margarine",
+        "whole wheat flour",
+        "bread flour",
+        "salt",
+        "granulated sugar",
+        "cup   dry instant potato flakes",
+        "active dry yeast"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

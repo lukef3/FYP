@@ -2,12 +2,15 @@ import json
 from collections import Counter
 import matplotlib.pyplot as plt
 
-# Load the final refined ingredients list
-with open("final_refined_ingredients.json", "r") as file:
+# Load the refined ingredients list
+with open("unique_ingredients.json", "r") as file:
     ingredients = json.load(file)
 
 # 1. Total Unique Ingredients
 total_unique_ingredients = len(ingredients)
+
+ingredient_counter = Counter(ingredients)
+top_ingredients = ingredient_counter.most_common(100)
 
 # 2. Analyze the Length of Each Ingredient Name
 ingredient_lengths = [len(ingredient) for ingredient in ingredients]
@@ -21,7 +24,7 @@ top_prefixes = prefix_counter.most_common(10)
 
 # 4. Most Common Words in Ingredients
 word_counter = Counter(word for ingredient in ingredients for word in ingredient.split())
-top_words = word_counter.most_common(10)
+top_words = word_counter.most_common(100)
 
 # Display Summary
 print(f"Total Unique Ingredients: {total_unique_ingredients}")
@@ -46,7 +49,12 @@ plt.figure(figsize=(10, 6))
 plt.bar(words, word_counts)
 plt.xlabel("Words")
 plt.ylabel("Count")
-plt.title("Top 10 Most Common Words in Ingredient Names")
+plt.title("Top 100 Most Common Words in Ingredient Names")
+
+# Rotate the x-axis labels by 90 degrees
+plt.xticks(rotation=90)
+
+plt.tight_layout()  # This helps ensure everything fits nicely
 plt.show()
 
 # 7. Length Distribution of Ingredient Names

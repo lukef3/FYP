@@ -1,0 +1,17 @@
+{
+    "dish_name": "perfect whole wheat pancakes",
+    "ingredients": [
+        "whole wheat flour",
+        "baking powder",
+        "salt",
+        "eggs",
+        "milk",
+        "cup    oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "simple caribbean jerk chicken",
+    "ingredients": [
+        "envelope    Italian salad dressing mix",
+        "brown sugar",
+        "tablespoons    oil",
+        "soy sauce",
+        "cinnamon",
+        "thyme",
+        "teaspoon    ground red pepper",
+        "chicken pieces"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

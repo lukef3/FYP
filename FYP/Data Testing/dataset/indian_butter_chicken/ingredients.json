@@ -1,0 +1,27 @@
+{
+    "dish_name": "indian butter chicken",
+    "ingredients": [
+        "tablespoons    peanut oil",
+        "boneless skinless chicken breast",
+        "butter",
+        "garam masala",
+        "sweet paprika",
+        "ground coriander",
+        "green ginger",
+        "chili powder",
+        "cinnamon stick",
+        "cardamom pods",
+        "tomato puree",
+        "sugar",
+        "plain yogurt",
+        "cup    cream",
+        "lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

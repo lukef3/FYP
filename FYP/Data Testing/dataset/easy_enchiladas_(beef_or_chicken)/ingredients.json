@@ -1,0 +1,28 @@
+{
+    "dish_name": "easy enchiladas (beef or chicken)",
+    "ingredients": [
+        "ground beef",
+        "boneless skinless chicken breast",
+        "onion",
+        "garlic powder",
+        "Worcestershire sauce",
+        "tomato sauce",
+        "paprika",
+        "oregano",
+        "chili powder",
+        "cumin",
+        "black pepper",
+        "cheese",
+        "(10   ounce) can   enchilada sauce (I prefer the green sauce)",
+        "olive (optional)",
+        "corn tortillas",
+        "oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

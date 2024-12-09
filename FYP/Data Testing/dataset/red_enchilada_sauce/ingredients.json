@@ -1,0 +1,20 @@
+{
+    "dish_name": "red enchilada sauce",
+    "ingredients": [
+        "olive oil",
+        "garlic powder",
+        "onion powder",
+        "cumin",
+        "mild chili powder",
+        "flour",
+        "chicken broth",
+        "tomato sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}
