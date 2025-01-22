@@ -1,0 +1,19 @@
+{
+    "dish_name": "reuben casserole",
+    "ingredients": [
+        "loaf    rye bread (toast lightly & cut into cubes)",
+        "sauerkraut",
+        "swiss cheese",
+        "mayonnaise",
+        "cup    Russian salad dressing",
+        "corned beef",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

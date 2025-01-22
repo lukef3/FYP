@@ -1,0 +1,25 @@
+{
+    "dish_name": "hearty beef stew with red wine",
+    "ingredients": [
+        "flour",
+        "pepper",
+        "beef chuck",
+        "olive oil",
+        "coarse onions",
+        "celery",
+        "garlic cloves",
+        "condensed beef broth",
+        "bay leaf",
+        "dried thyme leaves",
+        "parsley",
+        "potatoes",
+        "carrots",
+        "onions",
+        "mushroom",
+        "water",
+        "beef broth"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

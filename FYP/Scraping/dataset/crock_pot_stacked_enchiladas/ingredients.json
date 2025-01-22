@@ -1,0 +1,21 @@
+{
+    "dish_name": "crock pot stacked enchiladas",
+    "ingredients": [
+        "corn tortillas",
+        "flour tortillas",
+        "3   cups   shredded cooked chicken or 3   cups   shredded cooked pot roast",
+        "(20   ounce) can   enchilada sauce",
+        "cumin",
+        "light cream cheese",
+        "onion",
+        "cheddar cheese",
+        "monterey jack pepper cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

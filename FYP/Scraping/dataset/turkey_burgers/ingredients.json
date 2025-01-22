@@ -1,0 +1,16 @@
+{
+    "dish_name": "turkey burgers",
+    "ingredients": [
+        "ground turkey",
+        "scallions",
+        "green onions",
+        "soy sauce",
+        "ketchup",
+        "garlic powder",
+        "pepper",
+        "monterey jack cheese"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

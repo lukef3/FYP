@@ -1,0 +1,22 @@
+{
+    "dish_name": "egg yolk cookies",
+    "ingredients": [
+        "butter",
+        "sugar",
+        "egg yolks (or 3 whole eggs)",
+        "all-purpose flour",
+        "baking soda",
+        "cream of tartar",
+        "vanilla extract",
+        "teaspoon    lemon extract",
+        "teaspoon    orange extract",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

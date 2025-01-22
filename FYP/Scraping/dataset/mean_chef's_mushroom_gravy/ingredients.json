@@ -1,0 +1,17 @@
+{
+    "dish_name": "mean chef's mushroom gravy",
+    "ingredients": [
+        "unsalted butter",
+        "mushrooms",
+        "unbleached flour",
+        "cups    vegetable stock, store-bought or homemade",
+        "dry red wine",
+        "tamari soy sauce",
+        "fresh ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

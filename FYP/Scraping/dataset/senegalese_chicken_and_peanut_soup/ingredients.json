@@ -1,0 +1,25 @@
+{
+    "dish_name": "senegalese chicken and peanut soup",
+    "ingredients": [
+        "onion",
+        "garlic cloves",
+        "cayenne",
+        "tablespoons    vegetable oil",
+        "curry powder",
+        "tablespoon    yellow curry paste",
+        "quart    chicken stock",
+        "diced tomatoes with juice",
+        "cups    cooked chicken, diced  (I used one whole cooked chicken)",
+        "teaspoon    sambal oelek chili paste (red chile paste)",
+        "chunky peanut butter",
+        "coconut milk",
+        "cilantro",
+        "lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

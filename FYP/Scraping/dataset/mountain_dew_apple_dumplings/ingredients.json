@@ -1,0 +1,18 @@
+{
+    "dish_name": "mountain dew apple dumplings",
+    "ingredients": [
+        "(8   count) cans   crescent rolls",
+        "tart apples",
+        "sugar",
+        "butter",
+        "cinnamon",
+        "(12   ounce) can   Mountain Dew soda"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

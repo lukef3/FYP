@@ -1,0 +1,16 @@
+{
+    "dish_name": "fat free pumpkin pudding",
+    "ingredients": [
+        "pumpkin",
+        "sugar-free vanilla pudding mix",
+        "pumpkin pie spice",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

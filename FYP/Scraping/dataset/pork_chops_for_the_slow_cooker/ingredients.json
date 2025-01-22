@@ -1,0 +1,19 @@
+{
+    "dish_name": "pork chops for the slow cooker",
+    "ingredients": [
+        "boneless pork chops",
+        "brown sugar",
+        "ground ginger",
+        "soy sauce",
+        "ketchup",
+        "garlic cloves",
+        "salt & pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

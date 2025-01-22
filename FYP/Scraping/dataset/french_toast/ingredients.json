@@ -1,0 +1,20 @@
+{
+    "dish_name": "french toast",
+    "ingredients": [
+        "slices   homemade-type bread",
+        "eggs",
+        "milk",
+        "tablespoons    orange juice",
+        "sugar",
+        "vanilla extract",
+        "salt",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

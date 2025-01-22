@@ -1,0 +1,15 @@
+{
+    "dish_name": "blue (bleu) cheese dressing for dummies",
+    "ingredients": [
+        "mayonnaise",
+        "sour cream",
+        "lemon juice",
+        "cracked black pepper",
+        "salt",
+        "blue cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

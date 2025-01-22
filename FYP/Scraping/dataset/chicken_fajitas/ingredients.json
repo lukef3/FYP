@@ -1,0 +1,21 @@
+{
+    "dish_name": "chicken fajitas",
+    "ingredients": [
+        "lime juice",
+        "garlic",
+        "chili powder",
+        "cumin",
+        "chicken breasts",
+        "onion",
+        "bell peppers",
+        "salsa",
+        "8-inch flour tortillas",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

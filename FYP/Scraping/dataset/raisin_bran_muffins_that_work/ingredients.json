@@ -1,0 +1,24 @@
+{
+    "dish_name": "raisin bran muffins that work",
+    "ingredients": [
+        "eggs",
+        "1% low-fat milk",
+        "canola oil",
+        "molasses",
+        "brown sugar",
+        "vanilla extract",
+        "cups    wheat bran",
+        "all-purpose flour",
+        "baking powder",
+        "salt",
+        "baking soda",
+        "raisins"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "baked steak",
+    "ingredients": [
+        "beef top round steak",
+        "flour",
+        "salt",
+        "olive oil",
+        "cups    beef stock",
+        "Worcestershire sauce",
+        "onions"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

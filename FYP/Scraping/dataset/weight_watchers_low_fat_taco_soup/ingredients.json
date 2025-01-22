@@ -1,0 +1,21 @@
+{
+    "dish_name": "weight watchers low fat taco soup",
+    "ingredients": [
+        "lb    ground turkey breast",
+        "onion",
+        "(1 1/4  ounce) package   hidden valley ranch dressing mix",
+        "(1 1/4  ounce) package   taco seasoning mix",
+        "pinto beans",
+        "hot chili beans",
+        "whole kernel corn",
+        "stewed tomatoes",
+        "stewed tomatoes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

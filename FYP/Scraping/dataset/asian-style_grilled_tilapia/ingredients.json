@@ -1,0 +1,18 @@
+{
+    "dish_name": "asian-style grilled tilapia",
+    "ingredients": [
+        "soy sauce",
+        "sugar",
+        "garlic cloves",
+        "lime, juice of",
+        "fresh ginger",
+        "crushed red pepper flakes",
+        "lb    tilapia fillet (or other thin mild fish)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

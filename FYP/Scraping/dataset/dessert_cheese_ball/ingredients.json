@@ -1,0 +1,18 @@
+{
+    "dish_name": "dessert cheese ball",
+    "ingredients": [
+        "cream cheese",
+        "unsalted butter",
+        "vanilla extract",
+        "powdered sugar",
+        "brown sugar",
+        "cup    miniature semisweet chocolate chips",
+        "chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

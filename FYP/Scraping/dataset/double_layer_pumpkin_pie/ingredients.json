@@ -1,0 +1,26 @@
+{
+    "dish_name": "double layer pumpkin pie",
+    "ingredients": [
+        "cream cheese",
+        "half-and-half",
+        "skim milk",
+        "sugar",
+        "cups   thawed whipped topping (such as Cool Whip)",
+        "graham cracker crust",
+        "half-and-half",
+        "skim milk",
+        "pumpkin puree",
+        "vanilla flavor instant pudding and pie filling mix",
+        "vegetarian instant vanilla pudding mix",
+        "ground cinnamon",
+        "ground ginger",
+        "ground cloves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

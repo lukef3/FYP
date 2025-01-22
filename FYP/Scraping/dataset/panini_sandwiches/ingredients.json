@@ -1,0 +1,22 @@
+{
+    "dish_name": "panini sandwiches",
+    "ingredients": [
+        "slices    sourdough bread (or other round loaf bread)",
+        "mozzarella cheese",
+        "provolone cheese",
+        "cheddar cheese",
+        "lb    deli turkey",
+        "deli ham",
+        "lb   sandwich pepperoni",
+        "lb    genoa salami",
+        "pepperoncini pepper, cut into rings",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

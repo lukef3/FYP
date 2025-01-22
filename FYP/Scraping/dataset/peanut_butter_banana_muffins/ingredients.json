@@ -1,0 +1,21 @@
+{
+    "dish_name": "peanut butter banana muffins",
+    "ingredients": [
+        "all-purpose flour",
+        "brown sugar",
+        "baking powder",
+        "salt",
+        "peanut butter",
+        "tablespoons    vegetable oil",
+        "eggs",
+        "milk",
+        "bananas"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

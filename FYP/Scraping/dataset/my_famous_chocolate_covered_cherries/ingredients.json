@@ -1,0 +1,19 @@
+{
+    "dish_name": "my famous chocolate covered cherries",
+    "ingredients": [
+        "powdered sugar",
+        "margarine",
+        "sweetened condensed milk",
+        "vanilla",
+        "salt",
+        "maraschino cherry",
+        "milk dipping chocolate (I use giridelli's)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

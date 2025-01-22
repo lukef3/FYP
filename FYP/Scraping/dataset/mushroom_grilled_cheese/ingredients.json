@@ -1,0 +1,24 @@
+{
+    "dish_name": "mushroom grilled cheese",
+    "ingredients": [
+        "white mushrooms",
+        "brown button mushroom",
+        "butter",
+        "fresh thyme",
+        "chives",
+        "salt and pepper, to taste",
+        "slices   crusted bread",
+        "raclette cheese",
+        "smoked gouda cheese",
+        "Dijon mustard",
+        "butter",
+        "olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

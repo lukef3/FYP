@@ -1,0 +1,16 @@
+{
+    "dish_name": "ya ya punch",
+    "ingredients": [
+        "ounces    pineapple juice",
+        "cranberry juice",
+        "vodka",
+        "ounces    peach schnapps",
+        "ounces    coconut rum",
+        "dash    grenadine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

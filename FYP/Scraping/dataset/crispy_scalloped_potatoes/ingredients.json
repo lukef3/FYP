@@ -1,0 +1,19 @@
+{
+    "dish_name": "crispy scalloped potatoes",
+    "ingredients": [
+        "potatoes",
+        "onion",
+        "all-purpose flour",
+        "salt",
+        "pepper",
+        "butter",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

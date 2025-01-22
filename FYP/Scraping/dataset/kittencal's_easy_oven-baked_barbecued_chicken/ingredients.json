@@ -1,0 +1,16 @@
+{
+    "dish_name": "kittencal's easy oven-baked barbecued chicken",
+    "ingredients": [
+        "whole chickens",
+        "seasoning salt",
+        "garlic powder",
+        "ground black pepper",
+        "barbecue sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

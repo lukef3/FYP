@@ -1,0 +1,19 @@
+{
+    "dish_name": "cheesy garlic pull aparts",
+    "ingredients": [
+        "butter",
+        "garlic cloves",
+        "dried parsley",
+        "garlic powder",
+        "(8   ounce) can   biscuits (10 biscuits)",
+        "mozzarella cheese",
+        "parmesan cheese",
+        "pizza sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

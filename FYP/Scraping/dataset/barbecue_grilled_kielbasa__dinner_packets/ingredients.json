@@ -1,0 +1,19 @@
+{
+    "dish_name": "barbecue grilled kielbasa  dinner packets",
+    "ingredients": [
+        "kielbasa",
+        "large    red potatoes, chopped into 1 inch pieces",
+        "yellow onion",
+        "olive oil",
+        "salt and pepper",
+        "fresh rosemary",
+        "sheets   heavy duty aluminum foil, 18 x 16 inches"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

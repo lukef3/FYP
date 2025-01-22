@@ -1,0 +1,22 @@
+{
+    "dish_name": "blue ribbon peanut butter cookies",
+    "ingredients": [
+        "butter",
+        "margarine",
+        "peanut butter",
+        "granulated sugar",
+        "brown sugar",
+        "egg",
+        "vanilla extract",
+        "all-purpose flour",
+        "baking soda",
+        "salt",
+        "granulated sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

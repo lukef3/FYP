@@ -1,0 +1,18 @@
+{
+    "dish_name": "bisquick burrito bake",
+    "ingredients": [
+        "Bisquick",
+        "can    refried beans",
+        "water",
+        "lb    ground chuck",
+        "(16   ounce) jar   taco sauce (not Salsa)",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

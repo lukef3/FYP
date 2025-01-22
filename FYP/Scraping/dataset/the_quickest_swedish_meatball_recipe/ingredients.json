@@ -1,0 +1,16 @@
+{
+    "dish_name": "the quickest swedish meatball recipe",
+    "ingredients": [
+        "(38   ounce) package  frozen meatballs",
+        "(10 3/4  ounce) cans   cream of mushroom soup (you can mix and match the soups, like cream of celery, cream of chicken, golden mushroom soup, etc)",
+        "sour cream",
+        "soy sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

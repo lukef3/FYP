@@ -1,0 +1,29 @@
+{
+    "dish_name": "sweet and sour pork",
+    "ingredients": [
+        "oil, for deep fat frying",
+        "lbs    pork tenderloin (amount depends on the number of people you are feeding. This also freezes well.)",
+        "flour",
+        "cornstarch",
+        "cold water",
+        "salt",
+        "egg",
+        "pineapple chunks",
+        "brown sugar",
+        "white vinegar",
+        "salt",
+        "soy sauce",
+        "carrots",
+        "garlic clove",
+        "cornstarch",
+        "cold water",
+        "green pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

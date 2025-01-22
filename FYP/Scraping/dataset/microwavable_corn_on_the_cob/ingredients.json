@@ -1,0 +1,12 @@
+{
+    "dish_name": "microwavable corn on the cob",
+    "ingredients": [
+        "ear of corn, not shucked",
+        "salt",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

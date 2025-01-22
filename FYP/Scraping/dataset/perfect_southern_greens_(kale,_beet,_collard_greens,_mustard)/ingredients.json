@@ -1,0 +1,24 @@
+{
+    "dish_name": "perfect southern greens (kale, beet, collard greens, mustard)",
+    "ingredients": [
+        "kale",
+        "greens",
+        "onion",
+        "olive oil",
+        "garlic cloves",
+        "jalapeno peppers, minced  (discard seeds for less heat)",
+        "crushed red pepper flakes",
+        "ham",
+        "bacon",
+        "water",
+        "salt and pepper",
+        "balsamic vinegar (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

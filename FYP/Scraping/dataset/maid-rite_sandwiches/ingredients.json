@@ -1,0 +1,20 @@
+{
+    "dish_name": "maid-rite sandwiches",
+    "ingredients": [
+        "onions",
+        "water",
+        "lean ground beef",
+        "chicken broth",
+        "salt",
+        "pepper",
+        "hamburger buns",
+        "mustard",
+        "fresh onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

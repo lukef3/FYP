@@ -1,0 +1,24 @@
+{
+    "dish_name": "died & went to pimento cheese heaven (pimiento)",
+    "ingredients": [
+        "cream cheese",
+        "sharp white cheddar cheese",
+        "sharp cheddar cheese",
+        "monterey jack cheese",
+        "mayonnaise",
+        "red wine vinegar",
+        "pimientos",
+        "onion powder",
+        "garlic powder",
+        "paprika",
+        "dash    hot sauce (or more!)",
+        "fresh ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

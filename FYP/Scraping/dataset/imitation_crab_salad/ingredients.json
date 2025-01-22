@@ -1,0 +1,22 @@
+{
+    "dish_name": "imitation crab salad",
+    "ingredients": [
+        "(8   ounce) package   imitation crabmeat",
+        "green onions",
+        "celery",
+        "lemon juice",
+        "light mayonnaise",
+        "dill weed",
+        "horseradish",
+        "cups    salad greens",
+        "parsley",
+        "lemon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

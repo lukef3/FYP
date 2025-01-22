@@ -1,0 +1,18 @@
+{
+    "dish_name": "greek lemon chicken soup",
+    "ingredients": [
+        "chicken broth",
+        "(10 3/4  ounce) can   condensed cream of chicken soup",
+        "cup    uncooked rice",
+        "cups   diced cooked chicken",
+        "fresh lemon juice",
+        "lemon rind"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

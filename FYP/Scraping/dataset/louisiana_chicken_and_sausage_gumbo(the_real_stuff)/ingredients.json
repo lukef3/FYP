@@ -1,0 +1,25 @@
+{
+    "dish_name": "louisiana chicken and sausage gumbo(the real stuff)",
+    "ingredients": [
+        "whole chicken",
+        "sausage",
+        "water",
+        "chicken broth",
+        "butter",
+        "flour",
+        "onion",
+        "green pepper",
+        "garlic",
+        "celery",
+        "salt",
+        "pepper",
+        "cajun seasoning (I use Tony Chachere's, it is available on the internet) or   creole seasoning (I use Tony Chachere's, it is available on the internet)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

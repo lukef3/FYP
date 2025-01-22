@@ -1,0 +1,15 @@
+{
+    "dish_name": "chicken hurry",
+    "ingredients": [
+        "chicken",
+        "ketchup",
+        "water",
+        "brown sugar",
+        "(2   ounce) envelope   dry onion soup mix"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

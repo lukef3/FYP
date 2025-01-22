@@ -1,0 +1,29 @@
+{
+    "dish_name": "authentic mexican pozole",
+    "ingredients": [
+        "lbs    pork shoulder",
+        "garlic cloves",
+        "cumin powder",
+        "onion",
+        "garlic cloves",
+        "tablespoons    oil",
+        "black pepper",
+        "cayenne",
+        "chili powder",
+        "salt",
+        "oregano",
+        "white hominy",
+        "pork broth",
+        "diced green chilis",
+        "salt",
+        "whole fresh jalapenos, chopped  (optional)",
+        "ancho chilies"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

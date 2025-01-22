@@ -1,0 +1,18 @@
+{
+    "dish_name": "french toast roll-ups",
+    "ingredients": [
+        "cream cheese",
+        "egg yolk",
+        "sugar",
+        "slices    white bread",
+        "ground cinnamon",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

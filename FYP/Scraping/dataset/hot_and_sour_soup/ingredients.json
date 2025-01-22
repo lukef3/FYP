@@ -1,0 +1,28 @@
+{
+    "dish_name": "hot and sour soup",
+    "ingredients": [
+        "cups    chicken stock",
+        "chicken",
+        "tablespoons    garlic and red chile paste",
+        "soy sauce",
+        "ground pepper",
+        "eggs",
+        "cornstarch",
+        "shiitake mushroom",
+        "(15   ounce) can  peeled straw mushrooms",
+        "ounce    dried black fungus (soak in water for an hour before using)",
+        "bamboo shoots",
+        "sliced water chestnuts",
+        "(15   ounce) can   baby sweet corn cobs",
+        "soft tofu",
+        "white vinegar",
+        "teaspoon    sesame oil",
+        "scallion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

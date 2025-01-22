@@ -1,0 +1,17 @@
+{
+    "dish_name": "korean pork strips",
+    "ingredients": [
+        "garlic",
+        "sesame seeds",
+        "reduced sodium soy sauce",
+        "sugar",
+        "tablespoons    onion flakes",
+        "ginger",
+        "lbs    pork tenderloin, cut lenghtwise in half"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

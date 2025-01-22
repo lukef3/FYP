@@ -1,0 +1,22 @@
+{
+    "dish_name": "szechuan pork",
+    "ingredients": [
+        "soy sauce",
+        "cornstarch",
+        "boneless pork loin",
+        "dry sherry",
+        "crushed red pepper flakes",
+        "butter",
+        "red bell pepper",
+        "green onion",
+        "gingerroot",
+        "cooked rice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

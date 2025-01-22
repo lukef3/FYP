@@ -1,0 +1,20 @@
+{
+    "dish_name": "creamy beef stroganoff over rice",
+    "ingredients": [
+        "ground beef",
+        "onions",
+        "garlic",
+        "mushrooms",
+        "salt",
+        "pepper",
+        "cup    beef bouillon or 1   cup    consomme",
+        "tomato paste",
+        "flour",
+        "sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

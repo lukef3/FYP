@@ -1,0 +1,20 @@
+{
+    "dish_name": "slow cooker lasagna",
+    "ingredients": [
+        "lasagna noodles, uncooked",
+        "ground beef",
+        "teaspoon    italian seasoning",
+        "(28   ounce) jar   spaghetti sauce",
+        "water",
+        "mushrooms",
+        "ricotta cheese",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

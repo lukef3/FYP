@@ -1,0 +1,22 @@
+{
+    "dish_name": "deli rotisserie chicken",
+    "ingredients": [
+        "roasting chickens",
+        "salt",
+        "black pepper",
+        "chili powder",
+        "garlic powder",
+        "onion powder",
+        "dried thyme",
+        "sugar",
+        "paprika",
+        "olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

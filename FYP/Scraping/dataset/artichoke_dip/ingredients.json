@@ -1,0 +1,18 @@
+{
+    "dish_name": "artichoke dip",
+    "ingredients": [
+        "artichoke hearts",
+        "cream cheese",
+        "mayonnaise",
+        "parmesan cheese",
+        "garlic powder",
+        "parsley flakes",
+        "cayenne pepper",
+        "baguette"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

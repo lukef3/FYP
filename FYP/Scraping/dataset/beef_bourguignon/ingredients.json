@@ -1,0 +1,27 @@
+{
+    "dish_name": "beef bourguignon",
+    "ingredients": [
+        "all-purpose flour",
+        "salt",
+        "ground black pepper",
+        "lbs   cubed stew meat",
+        "butter",
+        "onion",
+        "red pepper, diced",
+        "garlic cloves",
+        "button mushroom",
+        "lb    white pearl onion, peeled",
+        "carrots",
+        "red wine",
+        "bay leaf",
+        "fresh parsley",
+        "dried thyme"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

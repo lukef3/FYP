@@ -1,0 +1,21 @@
+{
+    "dish_name": "chicken thighs oven fried",
+    "ingredients": [
+        "chicken thighs",
+        "egg",
+        "half-and-half",
+        "cup    seasoned bread crumbs",
+        "cup    instant potato flakes",
+        "teaspoon    garlic salt",
+        "ground black pepper",
+        "butter",
+        "tablespoon    vegetable oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

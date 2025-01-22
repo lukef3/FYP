@@ -1,0 +1,19 @@
+{
+    "dish_name": "caprese salad tomatoes (italian marinated tomatoes)",
+    "ingredients": [
+        "roma tomatoes",
+        "garlic clove",
+        "extra virgin olive oil",
+        "salt",
+        "dried basil",
+        "oregano",
+        "lemon, juice of"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

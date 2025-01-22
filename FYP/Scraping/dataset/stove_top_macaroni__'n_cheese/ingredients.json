@@ -1,0 +1,21 @@
+{
+    "dish_name": "stove top macaroni  'n cheese",
+    "ingredients": [
+        "elbow macaroni",
+        "butter",
+        "eggs",
+        "evaporated milk",
+        "teaspoon    hot sauce",
+        "kosher salt",
+        "fresh black pepper",
+        "dry mustard",
+        "sharp cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

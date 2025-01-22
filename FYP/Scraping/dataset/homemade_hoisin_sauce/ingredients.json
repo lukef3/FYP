@@ -1,0 +1,21 @@
+{
+    "dish_name": "homemade hoisin sauce",
+    "ingredients": [
+        "soy sauce",
+        "peanut butter",
+        "molasses",
+        "honey",
+        "seasoned rice vinegar",
+        "garlic clove",
+        "teaspoons    sesame seed oil",
+        "teaspoon   chinese hot sauce (more or less to taste)",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

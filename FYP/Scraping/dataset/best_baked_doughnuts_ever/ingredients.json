@@ -1,0 +1,22 @@
+{
+    "dish_name": "best baked doughnuts ever",
+    "ingredients": [
+        "butter",
+        "margarine",
+        "sugar",
+        "eggs",
+        "flour",
+        "baking powder",
+        "salt",
+        "nutmeg",
+        "milk",
+        "cinnamon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

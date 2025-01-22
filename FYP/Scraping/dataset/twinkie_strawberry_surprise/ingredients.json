@@ -1,0 +1,15 @@
+{
+    "dish_name": "twinkie strawberry surprise",
+    "ingredients": [
+        "Hostess Twinkies",
+        "instant vanilla pudding",
+        "milk",
+        "(8   ounce) container   frozen whipped topping, thawed",
+        "frozen strawberries"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

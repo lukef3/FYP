@@ -1,0 +1,26 @@
+{
+    "dish_name": "marinated chickpea and artichoke salad with feta",
+    "ingredients": [
+        "chickpeas",
+        "artichoke hearts",
+        "(7   ounce) jar   roasted sweet red peppers, drained and diced",
+        "kalamata olive",
+        "feta cheese",
+        "scallions",
+        "fresh parsley",
+        "red wine vinegar",
+        "of fresh mint",
+        "za'atar spice mix",
+        "sugar",
+        "kosher salt",
+        "black pepper",
+        "extra virgin olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

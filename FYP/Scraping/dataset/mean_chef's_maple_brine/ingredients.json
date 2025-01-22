@@ -1,0 +1,21 @@
+{
+    "dish_name": "mean chef's maple brine",
+    "ingredients": [
+        "brown sugar",
+        "maple syrup",
+        "kosher salt",
+        "garlic",
+        "bay leaves",
+        "fresh ginger",
+        "teaspoons    dried chili pepper flakes",
+        "soy sauce",
+        "fresh thyme",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

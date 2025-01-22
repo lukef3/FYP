@@ -1,0 +1,21 @@
+{
+    "dish_name": "quick and easy stove-top tuna noodle casserole",
+    "ingredients": [
+        "butter",
+        "all-purpose flour",
+        "cups    whole milk",
+        "kosher salt",
+        "ground pepper",
+        "fresh herbs",
+        "parsley",
+        "tuna",
+        "cups    frozen peas",
+        "ounces    wide egg noodles, cooked"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

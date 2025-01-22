@@ -1,0 +1,20 @@
+{
+    "dish_name": "haricot vert - french green beans with garlic and sliced almonds",
+    "ingredients": [
+        "French style green bean",
+        "garlic cloves",
+        "cup    sliced almonds",
+        "olive oil",
+        "water",
+        "chicken broth",
+        "coarse sea salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

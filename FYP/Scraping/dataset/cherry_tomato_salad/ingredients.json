@@ -1,0 +1,19 @@
+{
+    "dish_name": "cherry tomato salad",
+    "ingredients": [
+        "mayonnaise",
+        "red wine vinegar",
+        "Dijon mustard",
+        "cherry tomatoes",
+        "red onion",
+        "fresh parsley",
+        "salt and pepper, to taste"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

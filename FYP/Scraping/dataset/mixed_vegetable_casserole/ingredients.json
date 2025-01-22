@@ -1,0 +1,20 @@
+{
+    "dish_name": "mixed vegetable casserole",
+    "ingredients": [
+        "(20   ounce) package   frozen mixed vegetables",
+        "onion",
+        "celery",
+        "cheddar cheese",
+        "mayonnaise",
+        "cups    Ritz cracker crumbs",
+        "butter",
+        "margarine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

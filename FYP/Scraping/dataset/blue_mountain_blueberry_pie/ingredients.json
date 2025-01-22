@@ -1,0 +1,22 @@
+{
+    "dish_name": "blue mountain blueberry pie",
+    "ingredients": [
+        "pie dough (1 batch, enough for two-crust pie)",
+        "blueberries",
+        "lemon juice",
+        "sugar",
+        "all-purpose flour",
+        "lemon zest",
+        "cinnamon",
+        "nutmeg",
+        "salt",
+        "margarine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

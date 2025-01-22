@@ -1,0 +1,23 @@
+{
+    "dish_name": "cherry mash  bars",
+    "ingredients": [
+        "sugar",
+        "butter",
+        "margarine",
+        "salt",
+        "half-and-half",
+        "evaporated milk",
+        "miniature marshmallow",
+        "cup    cherry chips",
+        "chocolate chips",
+        "bittersweet chocolate",
+        "peanut butter",
+        "salted peanuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

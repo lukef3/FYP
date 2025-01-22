@@ -1,0 +1,20 @@
+{
+    "dish_name": "thai dipping sauce for spring wrap or egg rolls",
+    "ingredients": [
+        "water",
+        "cornstarch",
+        "seasoned rice vinegar",
+        "brown sugar",
+        "reduced sodium soy sauce",
+        "fresh ginger",
+        "garlic",
+        "crushed red pepper flakes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

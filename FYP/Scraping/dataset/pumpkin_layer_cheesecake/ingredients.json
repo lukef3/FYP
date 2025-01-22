@@ -1,0 +1,21 @@
+{
+    "dish_name": "pumpkin layer cheesecake",
+    "ingredients": [
+        "cream cheese",
+        "sugar",
+        "vanilla",
+        "eggs",
+        "canned pumpkin",
+        "ground cinnamon",
+        "ground cloves",
+        "nutmeg",
+        "graham cracker crumb crust"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

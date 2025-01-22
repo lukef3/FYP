@@ -1,0 +1,17 @@
+{
+    "dish_name": "easy cheesy ground beef enchiladas",
+    "ingredients": [
+        "ground beef",
+        "(10   ounce) cans   red enchilada sauce",
+        "ounces   shredded Mexican blend cheese",
+        "cheddar cheese",
+        "flour tortillas"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

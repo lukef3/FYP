@@ -1,0 +1,28 @@
+{
+    "dish_name": "stir-fried shrimp in garlic sauce",
+    "ingredients": [
+        "large shrimp",
+        "cups    assorted fresh vegetables, chopped  (your choice)",
+        "chicken broth",
+        "teaspoon    rice wine vinegar",
+        "light soy sauce",
+        "teaspoon    sesame oil",
+        "teaspoon    chili paste (sambal oelek) (optional)",
+        "dry sherry",
+        "sake",
+        "tablespoons    vegetable oil",
+        "garlic",
+        "ginger",
+        "Thai chiles, stemmed and left whole  (optional)",
+        "cornstarch",
+        "water",
+        "steamed rice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

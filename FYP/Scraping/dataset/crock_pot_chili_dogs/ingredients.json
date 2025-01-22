@@ -1,0 +1,18 @@
+{
+    "dish_name": "crock pot chili dogs",
+    "ingredients": [
+        "hot dogs",
+        "(15   ounce) cans   chili without beans",
+        "(10 3/4  ounce) can   condensed cheddar cheese soup, undiluted",
+        "hot dog buns, split",
+        "onion",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

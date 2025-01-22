@@ -1,0 +1,17 @@
+{
+    "dish_name": "lemony rice pilaf",
+    "ingredients": [
+        "teaspoon    vegetable oil, preferably canola oil",
+        "onion",
+        "long grain white rice",
+        "cups    chicken stock (vegetable stock makes this vegetarian/vegan)",
+        "lemon, rind of",
+        "lemon juice",
+        "flat-leaf Italian parsley",
+        "fresh ground pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

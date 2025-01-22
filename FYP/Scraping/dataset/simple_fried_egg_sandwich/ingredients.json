@@ -1,0 +1,18 @@
+{
+    "dish_name": "simple fried egg sandwich",
+    "ingredients": [
+        "egg",
+        "salt and pepper",
+        "cheddar cheese",
+        "cheese",
+        "hamburger bun (the Italian hamburger buns)",
+        "prepared mustard"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

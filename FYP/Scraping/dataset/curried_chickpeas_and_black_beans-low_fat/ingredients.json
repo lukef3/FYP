@@ -1,0 +1,23 @@
+{
+    "dish_name": "curried chickpeas and black beans-low fat",
+    "ingredients": [
+        "olive oil",
+        "onion",
+        "ginger",
+        "curry powder",
+        "diced tomatoes",
+        "salt",
+        "black beans",
+        "chickpeas",
+        "fresh cilantro",
+        "parsley",
+        "fresh lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

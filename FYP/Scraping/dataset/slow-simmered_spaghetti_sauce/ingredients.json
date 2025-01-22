@@ -1,0 +1,19 @@
+{
+    "dish_name": "slow-simmered spaghetti sauce",
+    "ingredients": [
+        "garlic",
+        "onion",
+        "Italian-style tomatoes",
+        "tomato sauce",
+        "tomato paste",
+        "dried basil",
+        "dried oregano",
+        "dry crushed red pepper",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

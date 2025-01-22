@@ -1,0 +1,18 @@
+{
+    "dish_name": "crock pot pork butt roast",
+    "ingredients": [
+        "lbs    boneless pork butt (shoulder)",
+        "soy sauce",
+        "yellow onion",
+        "salt and pepper",
+        "any other dry seasoning, your family likes  (i use season salt, lemon pepper, garlic powder, onion powder and cayenne pepper)",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

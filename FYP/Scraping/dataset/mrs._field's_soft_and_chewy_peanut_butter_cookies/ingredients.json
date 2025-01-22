@@ -1,0 +1,21 @@
+{
+    "dish_name": "mrs. field's soft and chewy peanut butter cookies",
+    "ingredients": [
+        "flour",
+        "baking soda",
+        "salt",
+        "dark brown sugar",
+        "granulated sugar",
+        "butter",
+        "eggs",
+        "creamy peanut butter",
+        "vanilla extract"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

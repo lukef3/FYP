@@ -1,0 +1,20 @@
+{
+    "dish_name": "southern black-eyed peas",
+    "ingredients": [
+        "cups   fresh or frozen black-eyed peas",
+        "bacon",
+        "onion",
+        "celery",
+        "garlic cloves",
+        "chicken broth",
+        "salt",
+        "ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "spicy meat and cheese stromboli",
+    "ingredients": [
+        "pizza dough, refrigerated  (recommend Pillsbury)",
+        "slices    pepperoni",
+        "provolone cheese",
+        "slices    hot italian ham",
+        "slices    genoa salami",
+        "extra virgin olive oil",
+        "sesame seeds",
+        "teaspoons    italian seasoning",
+        "parmesan cheese",
+        "crushed red pepper flakes",
+        "garlic powder"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

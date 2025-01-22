@@ -1,0 +1,16 @@
+{
+    "dish_name": "donna's seasoned hamburger patties",
+    "ingredients": [
+        "ground beef",
+        "teaspoons    A.1. Original Sauce",
+        "Worcestershire sauce",
+        "teaspoon    garlic salt",
+        "onion powder",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

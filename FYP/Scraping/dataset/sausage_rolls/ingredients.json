@@ -1,0 +1,21 @@
+{
+    "dish_name": "sausage rolls",
+    "ingredients": [
+        "pre-rolled puff pastry sheets",
+        "ground sausage",
+        "cup    fresh breadcrumbs or 1   cup    dried breadcrumbs",
+        "onion",
+        "parsley",
+        "milk",
+        "salt and pepper",
+        "egg",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

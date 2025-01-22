@@ -1,0 +1,18 @@
+{
+    "dish_name": "oven baked pork chops",
+    "ingredients": [
+        "butter",
+        "margarine",
+        "egg",
+        "milk",
+        "cup    cornbread mix or 1   cup    pork stuffing mix",
+        "pork chops"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

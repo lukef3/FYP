@@ -1,22 +1,20 @@
 {
     "dish_name": "crab rangoon",
     "ingredients": [
-        "sour cream",
+        "(6   ounce) can   crabmeat",
         "cream cheese",
-        "cup    crabmeat, picked",
-        "green onions",
         "garlic",
-        "ginger",
-        "soy sauce",
-        "sugar",
-        "wonton wrapper",
-        "oil (for frying)"
+        "Worcestershire sauce",
+        "salt",
+        "white pepper",
+        "wonton skins",
+        "egg",
+        "deep frying oil"
     ],
     "images": [
         "images/image_1.jpg",
         "images/image_2.jpg",
         "images/image_3.jpg",
-        "images/image_4.jpg",
-        "images/image_5.jpg"
+        "images/image_4.jpg"
     ]
 }

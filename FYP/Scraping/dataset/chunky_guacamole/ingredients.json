@@ -1,0 +1,20 @@
+{
+    "dish_name": "chunky guacamole",
+    "ingredients": [
+        "medium    white onion, very finely chopped",
+        "serrano peppers, stemmed, seeded and very finely chopped",
+        "tomatoes",
+        "garlic clove",
+        "fresh cilantro",
+        "avocados",
+        "salt",
+        "lime, juice of"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

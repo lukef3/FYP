@@ -1,0 +1,19 @@
+{
+    "dish_name": "no-flour cornbread",
+    "ingredients": [
+        "eggs",
+        "white cornmeal",
+        "buttermilk",
+        "baking powder",
+        "baking soda",
+        "bacon grease",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

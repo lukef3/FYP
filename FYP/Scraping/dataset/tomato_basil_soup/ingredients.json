@@ -1,0 +1,18 @@
+{
+    "dish_name": "tomato basil soup",
+    "ingredients": [
+        "olive oil",
+        "sweet onion",
+        "tomatoes",
+        "cups    vegetable stock or 5   cups    chicken stock",
+        "salt & freshly ground black pepper (use kosher salt--much better!)",
+        "fresh basil",
+        "garlic"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "dish_name": "iced coffee (dunkin donuts)",
+    "ingredients": [
+        "ice cubes",
+        "coffee",
+        "milk",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

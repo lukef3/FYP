@@ -1,0 +1,18 @@
+{
+    "dish_name": "linda's tuna and olive sandwich (sandwiches) or finger rolls",
+    "ingredients": [
+        "solid white tuna",
+        "mayonnaise",
+        "green olives",
+        "onion",
+        "lettuce",
+        "slices    bread, for 2-3 sandwiches  or 3 -4      finger rolls, for finger sandwiches"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

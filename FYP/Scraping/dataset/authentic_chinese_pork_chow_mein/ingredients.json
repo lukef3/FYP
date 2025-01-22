@@ -1,0 +1,26 @@
+{
+    "dish_name": "authentic chinese pork chow mein",
+    "ingredients": [
+        "lbs    lean pork, thinly sliced",
+        "garlic cloves",
+        "cornstarch",
+        "sugar",
+        "soy sauce",
+        "tablespoons    vegetable oil",
+        "shortening",
+        "water",
+        "celery",
+        "onion",
+        "molasses",
+        "sliced water chestnuts",
+        "bean sprouts",
+        "mushrooms",
+        "salt and pepper",
+        "green onion",
+        "blanched almond, lightly toasted"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

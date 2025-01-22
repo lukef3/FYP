@@ -1,0 +1,27 @@
+{
+    "dish_name": "max & erma's chicken tortilla soup",
+    "ingredients": [
+        "(10 1/2  ounce) cans   cream of mushroom soup",
+        "(10 1/2  ounce) cans   cream of chicken soup",
+        "(10 1/2  ounce) cans   cream of celery soup",
+        "(10 1/2  ounce) cans   cheddar cheese soup",
+        "chicken broth",
+        "diced tomatoes",
+        "salsa",
+        "diced green chilies",
+        "onion",
+        "fresh cilantro",
+        "garlic cloves",
+        "red chili powder",
+        "salt",
+        "pepper",
+        "chicken breasts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "panko crusted tilapia",
+    "ingredients": [
+        "tilapia fillets, rinsed & patted dry",
+        "margarine",
+        "garlic powder",
+        "lemon juice",
+        "panko breadcrumbs",
+        "teaspoon    Old Bay Seasoning",
+        "lemon wedge"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

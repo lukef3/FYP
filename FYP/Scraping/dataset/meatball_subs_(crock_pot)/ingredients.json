@@ -1,0 +1,23 @@
+{
+    "dish_name": "meatball subs (crock pot)",
+    "ingredients": [
+        "lean ground beef",
+        "cup    dry breadcrumbs",
+        "onions",
+        "onion powder",
+        "salt",
+        "Worcestershire sauce",
+        "egg",
+        "parmesan cheese",
+        "(32   ounce) jar   spaghetti sauce",
+        "sub rolls (hoagie rolls) or 6 -8       hot dog buns",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

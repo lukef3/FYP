@@ -1,0 +1,20 @@
+{
+    "dish_name": "chinese chicken lo mein",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "salt and pepper",
+        "olive oil",
+        "teaspoons    sesame oil, divided",
+        "(3   ounce) packages   oriental-flavor instant ramen noodles, reserve 2 seasoning packets",
+        "tablespoons    sesame oil",
+        "soy sauce",
+        "cups    coleslaw mix, packed",
+        "eggs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

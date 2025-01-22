@@ -1,0 +1,18 @@
+{
+    "dish_name": "corn maque choux (fried corn)",
+    "ingredients": [
+        "onion",
+        "green bell pepper",
+        "red bell pepper",
+        "corn kernel",
+        "unsalted butter",
+        "kosher salt",
+        "fresh ground black pepper",
+        "cayenne"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "dish_name": "copycat lawry's seasoned salt",
+    "ingredients": [
+        "salt",
+        "sugar",
+        "paprika",
+        "turmeric",
+        "onion powder",
+        "garlic powder",
+        "cornstarch"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

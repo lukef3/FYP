@@ -1,0 +1,18 @@
+{
+    "dish_name": "ramen noodle salad",
+    "ingredients": [
+        "(8   ounce) bag   coleslaw mix (I used half of a 16 oz. bag)",
+        "package    ramen noodles, raw & crushed  (I like the Oriental Flavor)",
+        "sunflower seeds",
+        "cup    oil",
+        "cider vinegar",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "moist roasted whole chicken",
+    "ingredients": [
+        "roasting chicken",
+        "olive oil",
+        "salt",
+        "ground black pepper",
+        "dried oregano",
+        "dried basil",
+        "paprika"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

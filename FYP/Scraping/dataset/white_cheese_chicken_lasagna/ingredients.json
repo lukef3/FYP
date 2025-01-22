@@ -1,0 +1,30 @@
+{
+    "dish_name": "white cheese chicken lasagna",
+    "ingredients": [
+        "butter",
+        "onion",
+        "garlic",
+        "all-purpose flour",
+        "salt",
+        "chicken broth",
+        "milk",
+        "mozzarella cheese",
+        "parmesan cheese",
+        "dried basil",
+        "dried oregano",
+        "ground black pepper",
+        "lasagna noodles",
+        "ricotta cheese",
+        "chicken meat",
+        "frozen chopped spinach",
+        "fresh parsley",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

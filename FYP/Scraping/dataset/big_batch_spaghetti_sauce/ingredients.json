@@ -1,0 +1,18 @@
+{
+    "dish_name": "big batch spaghetti sauce",
+    "ingredients": [
+        "olive oil",
+        "onions",
+        "garlic",
+        "tomatoes",
+        "tomato paste",
+        "brown sugar",
+        "dried oregano",
+        "salt",
+        "dried basil",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

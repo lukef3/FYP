@@ -1,0 +1,23 @@
+{
+    "dish_name": "the best marinade for kabobs! (beef, pork and lamb)",
+    "ingredients": [
+        "cups    oil",
+        "soy sauce",
+        "Worcestershire sauce",
+        "salt",
+        "fresh parsley",
+        "dry parsley flakes",
+        "fresh ground black pepper",
+        "wine vinegar",
+        "garlic",
+        "cup   store-bought teriyaki sauce",
+        "honey",
+        "green onions"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

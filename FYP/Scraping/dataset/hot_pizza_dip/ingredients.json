@@ -1,0 +1,21 @@
+{
+    "dish_name": "hot pizza dip",
+    "ingredients": [
+        "cream cheese",
+        "teaspoon    italian seasoning",
+        "garlic powder",
+        "mozzarella cheese",
+        "cheddar cheese",
+        "cup    pizza sauce (I used 1 cup)",
+        "green bell pepper",
+        "red bell pepper",
+        "tortillas"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

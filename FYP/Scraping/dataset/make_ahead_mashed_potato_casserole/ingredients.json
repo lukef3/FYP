@@ -1,0 +1,21 @@
+{
+    "dish_name": "make ahead mashed potato casserole",
+    "ingredients": [
+        "potatoes",
+        "cream cheese",
+        "butter",
+        "green onion",
+        "sour cream",
+        "fresh parsley",
+        "dried marjoram",
+        "salt and pepper",
+        "cup   coarse fresh breadcrumb"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

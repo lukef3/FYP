@@ -1,0 +1,22 @@
+{
+    "dish_name": "chicken verde",
+    "ingredients": [
+        "chicken",
+        "onions",
+        "red pepper, finely chopped",
+        "garlic",
+        "cumin seed",
+        "cilantro",
+        "green chilies",
+        "salt and pepper",
+        "water",
+        "tomatillo salsa"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

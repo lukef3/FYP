@@ -1,0 +1,22 @@
+{
+    "dish_name": "beef noodle paprikash",
+    "ingredients": [
+        "ground beef",
+        "garlic",
+        "onion",
+        "green pepper",
+        "paprika",
+        "thyme",
+        "beef broth",
+        "ounces    medium egg noodles",
+        "sour cream",
+        "flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

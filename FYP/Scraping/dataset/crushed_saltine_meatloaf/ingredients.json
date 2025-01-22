@@ -1,0 +1,21 @@
+{
+    "dish_name": "crushed saltine meatloaf",
+    "ingredients": [
+        "lean ground beef",
+        "saltines, crushed  (1/2 package)",
+        "onion",
+        "green pepper",
+        "egg",
+        "tomato sauce",
+        "Worcestershire sauce",
+        "salt and pepper",
+        "Heinz ketchup"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

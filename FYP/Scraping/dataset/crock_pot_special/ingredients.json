@@ -1,0 +1,15 @@
+{
+    "dish_name": "crock pot special",
+    "ingredients": [
+        "lbs    pot roast",
+        "(11   ounce) can   cheddar cheese soup",
+        "(11   ounce) can   condensed golden mushroom soup",
+        "(11   ounce) can   French onion soup"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

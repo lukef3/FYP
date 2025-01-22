@@ -1,0 +1,19 @@
+{
+    "dish_name": "simple homemade egg salad sandwich",
+    "ingredients": [
+        "hard-boiled eggs",
+        "mayonnaise",
+        "mustard",
+        "tablespoon    relish",
+        "pepper",
+        "lettuce",
+        "slices    whole wheat bread (any type will do)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

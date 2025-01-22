@@ -1,0 +1,18 @@
+{
+    "dish_name": "creamy italian dressing",
+    "ingredients": [
+        "mayonnaise",
+        "milk",
+        "cider vinegar",
+        "oregano",
+        "basil",
+        "rosemary",
+        "sugar",
+        "garlic powder",
+        "teaspoon    garlic salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

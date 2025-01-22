@@ -1,0 +1,23 @@
+{
+    "dish_name": "chicken piccata",
+    "ingredients": [
+        "lemons",
+        "1 1/2  lbs    turkey cutlets or 1 1/2  lbs    veal cutlets",
+        "salt",
+        "fresh ground pepper",
+        "flour",
+        "olive oil",
+        "shallot",
+        "cup    chicken stock",
+        "small capers",
+        "unsalted butter",
+        "fresh parsley leaves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

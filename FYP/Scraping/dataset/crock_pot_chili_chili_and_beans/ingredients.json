@@ -1,0 +1,30 @@
+{
+    "dish_name": "crock pot chili chili and beans",
+    "ingredients": [
+        "beef broth",
+        "diced tomatoes",
+        "tomato sauce",
+        "green chili peppers",
+        "chili powder",
+        "teaspoons    unsweetened cocoa powder",
+        "chipotle chile",
+        "ground cumin",
+        "dried oregano",
+        "fennel seed",
+        "fresh ground black pepper",
+        "salt",
+        "cayenne pepper",
+        "sugar",
+        "pinto beans",
+        "olive oil",
+        "garlic",
+        "yellow onion",
+        "green bell pepper",
+        "beef stew meat",
+        "all-purpose flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

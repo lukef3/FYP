@@ -1,0 +1,23 @@
+{
+    "dish_name": "crock pot chicken or turkey  stock",
+    "ingredients": [
+        "lbs    chicken bones (raw or cooked, boiling fowl or chicken or carcasses)",
+        "onions",
+        "celery",
+        "carrot",
+        "leek",
+        "black peppercorns",
+        "garlic clove",
+        "bay leaves",
+        "bouquet garni",
+        "parsley",
+        "boiling water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

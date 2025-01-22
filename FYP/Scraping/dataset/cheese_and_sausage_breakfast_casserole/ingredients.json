@@ -1,0 +1,20 @@
+{
+    "dish_name": "cheese and sausage breakfast casserole",
+    "ingredients": [
+        "slices    white bread, cut into cubes",
+        "pork sausage",
+        "sharp cheddar cheese",
+        "eggs",
+        "milk",
+        "dry mustard",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

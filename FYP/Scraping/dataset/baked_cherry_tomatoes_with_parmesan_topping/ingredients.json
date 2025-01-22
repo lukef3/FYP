@@ -1,0 +1,18 @@
+{
+    "dish_name": "baked cherry tomatoes with parmesan topping",
+    "ingredients": [
+        "extra virgin olive oil",
+        "cherry tomatoes",
+        "salt",
+        "ground black pepper",
+        "fresh parsley",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

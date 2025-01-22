@@ -1,0 +1,16 @@
+{
+    "dish_name": "sesame broccoli, really..it's good!",
+    "ingredients": [
+        "broccoli",
+        "tablespoon    sesame oil",
+        "sesame seeds",
+        "soy sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

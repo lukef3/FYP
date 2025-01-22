@@ -1,0 +1,18 @@
+{
+    "dish_name": "easy key lime pie",
+    "ingredients": [
+        "sweetened condensed milk",
+        "key lime juice",
+        "lime juice",
+        "(8   ounce) container   frozen whipped topping, thawed",
+        "graham cracker pie crusts",
+        "lime zest"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

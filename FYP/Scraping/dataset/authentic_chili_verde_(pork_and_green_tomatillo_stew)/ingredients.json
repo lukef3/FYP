@@ -1,0 +1,22 @@
+{
+    "dish_name": "authentic chili verde (pork and green tomatillo stew)",
+    "ingredients": [
+        "lbs   cubed pork stew meat",
+        "cup    vegetable oil",
+        "yellow onions",
+        "garlic",
+        "sea salt",
+        "fresh ground pepper",
+        "ground cumin",
+        "chicken broth",
+        "poblano chiles",
+        "fresh jalapeno peppers, seeded and chopped",
+        "yellow bell peppers",
+        "lbs   fresh tomatillos, husks removed",
+        "cilantro leaf"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

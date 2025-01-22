@@ -1,0 +1,18 @@
+{
+    "dish_name": "whole wheat pizza crust",
+    "ingredients": [
+        "water",
+        "honey",
+        "olive oil",
+        "salt",
+        "whole wheat flour",
+        "vital wheat gluten",
+        "tablespoons    yeast",
+        "garlic powder"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

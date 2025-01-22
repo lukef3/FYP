@@ -1,0 +1,18 @@
+{
+    "dish_name": "orzo with parmesan and basil",
+    "ingredients": [
+        "butter",
+        "orzo pasta",
+        "chicken broth",
+        "parmesan cheese",
+        "fresh basil",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

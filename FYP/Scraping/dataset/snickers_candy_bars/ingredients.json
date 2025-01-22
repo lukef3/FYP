@@ -1,0 +1,23 @@
+{
+    "dish_name": "snickers candy bars",
+    "ingredients": [
+        "cups    milk chocolate chips",
+        "cup    butterscotch chips",
+        "creamy peanut butter",
+        "butter",
+        "sugar",
+        "evaporated milk",
+        "marshmallow creme",
+        "vanilla",
+        "salted peanuts",
+        "(14   ounce) package   caramels",
+        "cup    whipping cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

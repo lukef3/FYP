@@ -1,0 +1,23 @@
+{
+    "dish_name": "chicken parmesan express",
+    "ingredients": [
+        "angel hair pasta",
+        "boneless skinless chicken breast halves",
+        "egg",
+        "cup    Italian seasoned breadcrumbs",
+        "butter",
+        "margarine",
+        "(14   ounce) jar   spaghetti sauce",
+        "mozzarella cheese",
+        "parmesan cheese",
+        "fresh parsley",
+        "basil sprig"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

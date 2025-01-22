@@ -1,0 +1,27 @@
+{
+    "dish_name": "tandoori style chicken",
+    "ingredients": [
+        "fresh lime juice",
+        "plain yogurt",
+        "jalapeno chiles",
+        "serrano chili",
+        "salt",
+        "ground turmeric",
+        "ground coriander",
+        "ground cumin",
+        "ground ginger",
+        "garlic powder",
+        "cayenne pepper",
+        "ground cinnamon",
+        "ground cloves",
+        "tablespoons    vegetable oil",
+        "skinless chicken thighs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

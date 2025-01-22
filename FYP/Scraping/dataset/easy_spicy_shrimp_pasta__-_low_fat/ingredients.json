@@ -1,0 +1,26 @@
+{
+    "dish_name": "easy spicy shrimp pasta  - low fat",
+    "ingredients": [
+        "shrimp",
+        "pasta",
+        "garlic cloves",
+        "green onions",
+        "lemon",
+        "red pepper flakes",
+        "dried basil",
+        "fresh basil",
+        "salt",
+        "dry white wine",
+        "tomatoes",
+        "cherry tomatoes",
+        "salt",
+        "fresh cracked pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,17 +1,13 @@
 {
     "dish_name": "buttermilk pancakes",
     "ingredients": [
-        "eggs",
-        "all-purpose flour",
-        "sugar",
-        "baking powder",
-        "baking soda",
+        "flour",
         "salt",
+        "baking soda",
+        "baking powder",
+        "eggs",
         "buttermilk",
-        "unsalted butter",
-        "vanilla extract",
-        "tablespoon    vegetable oil or 1 -2   tablespoon    cooking spray",
-        "maple syrup"
+        "butter"
     ],
     "images": [
         "images/image_1.jpg",

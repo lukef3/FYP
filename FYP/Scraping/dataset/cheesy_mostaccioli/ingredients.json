@@ -1,0 +1,19 @@
+{
+    "dish_name": "cheesy mostaccioli",
+    "ingredients": [
+        "mostaccioli pasta",
+        "ground beef",
+        "(28   ounce) jar   spaghetti sauce",
+        "(11   ounce) can   condensed cheddar cheese soup",
+        "ground black pepper",
+        "teaspoon    dried Italian seasoning",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "eggs benedict casserole",
+    "ingredients": [
+        "English muffins",
+        "Canadian bacon",
+        "eggs",
+        "reduced-fat milk",
+        "onion powder",
+        "cooking spray",
+        "paprika",
+        "Easy Hollandaise Sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

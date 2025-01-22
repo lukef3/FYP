@@ -1,0 +1,19 @@
+{
+    "dish_name": "fannie farmer's scalloped potatoes",
+    "ingredients": [
+        "potatoes",
+        "onion",
+        "salt",
+        "fresh ground pepper",
+        "flour",
+        "butter",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

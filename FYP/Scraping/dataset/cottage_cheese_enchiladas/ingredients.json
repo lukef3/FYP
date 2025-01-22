@@ -1,0 +1,26 @@
+{
+    "dish_name": "cottage cheese enchiladas",
+    "ingredients": [
+        "tablespoon    vegetable oil",
+        "boneless skinless chicken breast halves",
+        "ground beef",
+        "onion",
+        "(1   ounce) package   taco seasoning mix",
+        "sour cream",
+        "cottage cheese",
+        "salt",
+        "ground black pepper",
+        "flour tortillas",
+        "corn tortillas",
+        "cheddar cheese",
+        "monterey jack cheese",
+        "(10   ounce) can   red enchilada sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

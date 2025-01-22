@@ -1,0 +1,20 @@
+{
+    "dish_name": "penne arrabiatta",
+    "ingredients": [
+        "tomatoes",
+        "garlic",
+        "onion",
+        "olive oil",
+        "salt & pepper",
+        "oregano",
+        "fresh basil",
+        "fresh parsley",
+        "red pepper flakes",
+        "penne"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

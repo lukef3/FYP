@@ -1,0 +1,24 @@
+{
+    "dish_name": "cold sesame noodles",
+    "ingredients": [
+        "soy sauce",
+        "rice vinegar",
+        "teaspoon    hot pepper flakes",
+        "brown sugar",
+        "creamy peanut butter",
+        "tablespoon    toasted sesame oil",
+        "gingerroot",
+        "chicken broth",
+        "linguine",
+        "scallion",
+        "cucumber",
+        "sesame seeds"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

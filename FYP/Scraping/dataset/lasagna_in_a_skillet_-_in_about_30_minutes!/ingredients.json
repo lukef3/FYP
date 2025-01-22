@@ -1,0 +1,23 @@
+{
+    "dish_name": "lasagna in a skillet - in about 30 minutes!",
+    "ingredients": [
+        "lb    meatloaf mix (ground beef, ground pork and ground veal)",
+        "garlic cloves",
+        "red pepper flakes",
+        "salt & fresh ground pepper, to taste",
+        "ounces   curly-edged lasagna noodles, broken into 2-inch pieces.  (8 noodles)",
+        "ounces    marinara sauce (I like Barilla)",
+        "water",
+        "mozzarella cheese",
+        "parmesan cheese",
+        "whole milk ricotta cheese",
+        "fresh basil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "best low carb coleslaw",
+    "ingredients": [
+        "(16   ounce) package   coleslaw mix",
+        "onion",
+        "Splenda sugar substitute",
+        "salt",
+        "fresh ground black pepper",
+        "celery seed",
+        "mayonnaise",
+        "heavy cream",
+        "white vinegar",
+        "lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "dish_name": "spinach-artichoke cheesy tortellini",
+    "ingredients": [
+        "frozen spinach",
+        "olive oil",
+        "butter",
+        "garlic cloves",
+        "onion",
+        "flour",
+        "chicken broth",
+        "heavy cream",
+        "nutmeg",
+        "water-packed artichoke hearts",
+        "parmesan cheese",
+        "romano cheese",
+        "lb    cheese tortellini"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

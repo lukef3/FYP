@@ -1,0 +1,21 @@
+{
+    "dish_name": "herbed corn on the cob grilled in foil",
+    "ingredients": [
+        "fresh corn",
+        "sweet butter",
+        "salt",
+        "sugar",
+        "fresh basil",
+        "fresh thyme",
+        "fresh parsley",
+        "fresh rosemary",
+        "pieces    aluminum foil, big enough to wrap corn"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

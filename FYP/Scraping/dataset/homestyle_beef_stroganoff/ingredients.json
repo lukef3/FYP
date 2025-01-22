@@ -1,0 +1,24 @@
+{
+    "dish_name": "homestyle beef stroganoff",
+    "ingredients": [
+        "lb    sirloin steak, cut into 1/4 in. slices",
+        "lb    sliced mushrooms",
+        "paprika",
+        "parsley",
+        "to taste    salt and pepper",
+        "sour cream",
+        "onion",
+        "red wine",
+        "can    cream of mushroom soup",
+        "olive oil",
+        "butter",
+        "package   of medium egg noodles (wide if desired)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

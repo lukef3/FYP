@@ -1,0 +1,20 @@
+{
+    "dish_name": "tender pork chops in gravy",
+    "ingredients": [
+        "center-cut pork chops",
+        "(3/4  ounce) package   brown gravy mix",
+        "(10   ounce) can   cream of mushroom soup",
+        "water",
+        "potatoes",
+        "onion",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

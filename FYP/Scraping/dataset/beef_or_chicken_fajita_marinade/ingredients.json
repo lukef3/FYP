@@ -1,0 +1,22 @@
+{
+    "dish_name": "beef or chicken fajita marinade",
+    "ingredients": [
+        "olive oil",
+        "lime zest",
+        "Worcestershire sauce",
+        "cumin",
+        "salt",
+        "fresh cilantro",
+        "dried oregano",
+        "pepper",
+        "garlic",
+        "low sodium beef broth"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

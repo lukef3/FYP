@@ -1,0 +1,23 @@
+{
+    "dish_name": "pakistani kima (hamburger curry)",
+    "ingredients": [
+        "butter",
+        "onion",
+        "garlic clove",
+        "ground beef",
+        "curry powder",
+        "salt",
+        "black pepper",
+        "cinnamon",
+        "ginger",
+        "turmeric",
+        "tomatoes",
+        "potatoes",
+        "green beans"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

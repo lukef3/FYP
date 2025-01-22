@@ -1,0 +1,15 @@
+{
+    "dish_name": "daddy's kettle corn",
+    "ingredients": [
+        "cup    popcorn",
+        "cup    cooking oil",
+        "sugar",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

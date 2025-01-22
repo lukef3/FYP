@@ -1,0 +1,19 @@
+{
+    "dish_name": "chocolate bundt cake",
+    "ingredients": [
+        "(18   ounce) package  double fudge cake mix",
+        "instant chocolate pudding mix",
+        "eggs",
+        "cup    oil",
+        "water",
+        "sour cream",
+        "chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "dish_name": "another mock mashed potatoes (mashed cauliflower)-low carb",
+    "ingredients": [
+        "cauliflower",
+        "water",
+        "fresh garlic",
+        "roasted garlic",
+        "fresh rosemary",
+        "tablespoon    whipped cream cheese",
+        "parmesan cheese",
+        "chicken bouillon powder",
+        "low sodium salt",
+        "salt",
+        "black pepper",
+        "unsalted butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

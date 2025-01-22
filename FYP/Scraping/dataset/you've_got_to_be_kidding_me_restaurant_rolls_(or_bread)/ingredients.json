@@ -1,0 +1,15 @@
+{
+    "dish_name": "you've got to be kidding me restaurant rolls (or bread)",
+    "ingredients": [
+        "lb    frozen bread dough, thawed according to package directions  (honey wheat or white)",
+        "margarine",
+        "honey"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

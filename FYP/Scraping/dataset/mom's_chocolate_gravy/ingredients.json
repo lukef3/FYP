@@ -1,0 +1,17 @@
+{
+    "dish_name": "mom's chocolate gravy",
+    "ingredients": [
+        "granulated sugar",
+        "Splenda sugar substitute",
+        "butter",
+        "milk",
+        "flour",
+        "tablespoons    unsweetened cocoa powder (we prefer Hershey's)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

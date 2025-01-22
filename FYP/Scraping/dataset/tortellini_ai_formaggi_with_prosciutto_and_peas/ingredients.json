@@ -1,0 +1,22 @@
+{
+    "dish_name": "tortellini ai formaggi with prosciutto and peas",
+    "ingredients": [
+        "ounces    cheese tortellini",
+        "water",
+        "butter",
+        "garlic cloves",
+        "prosciutto",
+        "heavy cream",
+        "nutmeg",
+        "parmesan cheese",
+        "frozen baby peas",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

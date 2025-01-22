@@ -1,0 +1,23 @@
+{
+    "dish_name": "antipasto wraps",
+    "ingredients": [
+        "light cream cheese",
+        "fresh basil",
+        "garlic clove",
+        "(8   inch)    sun-dried tomato tortillas",
+        "romaine lettuce leaves",
+        "mozzarella cheese",
+        "pitted ripe olives",
+        "cup    roasted red pepper, diced",
+        "water-packed artichoke hearts",
+        "ounces    salami",
+        "ham"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "wacky cake",
+    "ingredients": [
+        "unbleached all-purpose flour",
+        "sugar",
+        "tablespoons    cocoa",
+        "baking soda",
+        "salt",
+        "vanilla",
+        "vinegar",
+        "tablespoons    vegetable oil",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

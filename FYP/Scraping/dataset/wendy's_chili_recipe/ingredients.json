@@ -1,0 +1,22 @@
+{
+    "dish_name": "wendy's chili recipe",
+    "ingredients": [
+        "onion",
+        "bell pepper",
+        "stewed tomatoes",
+        "tomato sauce",
+        "(14   ounce) can   ranch style beans",
+        "pinto beans",
+        "kidney beans",
+        "Rotel diced tomatoes",
+        "(1 1/4  ounce) package   McCormick mild chili seasoning",
+        "lbs    ground chuck"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

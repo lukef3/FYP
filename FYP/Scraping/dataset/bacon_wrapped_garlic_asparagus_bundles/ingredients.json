@@ -1,0 +1,18 @@
+{
+    "dish_name": "bacon wrapped garlic asparagus bundles",
+    "ingredients": [
+        "garlic",
+        "fresh parsley",
+        "olive oil",
+        "fresh asparagus",
+        "bacon",
+        "salt and black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

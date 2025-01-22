@@ -1,0 +1,24 @@
+{
+    "dish_name": "low-carb slaw",
+    "ingredients": [
+        "ground beef",
+        "salt and pepper",
+        "tablespoons    toasted sesame oil",
+        "garlic cloves",
+        "green onions",
+        "ounces    coleslaw mix (if you don't want the carrots use the angel hair cole slaw or just shred up a head of cabbage)",
+        "low sodium soy sauce",
+        "sriracha sauce",
+        "(1   g)    Splenda quick pack",
+        "ginger paste",
+        "white vinegar",
+        "sriracha sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

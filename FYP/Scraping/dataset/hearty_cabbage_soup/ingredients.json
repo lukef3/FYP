@@ -1,0 +1,20 @@
+{
+    "dish_name": "hearty cabbage soup",
+    "ingredients": [
+        "butter",
+        "onion",
+        "celery",
+        "cabbage",
+        "potatoes",
+        "cups    chicken stock, divided",
+        "fresh dill",
+        "flour",
+        "sour cream",
+        "salt and pepper, to taste"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

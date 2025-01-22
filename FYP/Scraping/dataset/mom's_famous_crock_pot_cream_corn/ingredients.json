@@ -1,0 +1,15 @@
+{
+    "dish_name": "mom's famous crock pot cream corn",
+    "ingredients": [
+        "frozen corn",
+        "oleo",
+        "cream cheese",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

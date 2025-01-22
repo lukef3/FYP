@@ -1,0 +1,17 @@
+{
+    "dish_name": "adult popcorn",
+    "ingredients": [
+        "parmesan cheese",
+        "cayenne pepper",
+        "salt",
+        "cumin",
+        "thyme",
+        "butter",
+        "cup    popcorn, unpopped"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

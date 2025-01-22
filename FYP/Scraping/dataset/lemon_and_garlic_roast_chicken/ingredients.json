@@ -1,0 +1,23 @@
+{
+    "dish_name": "lemon and garlic roast chicken",
+    "ingredients": [
+        "garlic cloves",
+        "kosher salt",
+        "lemon",
+        "rosemary",
+        "sweet paprika",
+        "ground cumin",
+        "hot paprika",
+        "fresh ground pepper",
+        "extra virgin olive oil",
+        "chicken",
+        "unsalted butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

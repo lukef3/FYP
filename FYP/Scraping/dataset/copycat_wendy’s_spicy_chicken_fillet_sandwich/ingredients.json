@@ -1,0 +1,26 @@
+{
+    "dish_name": "copycat wendy\u2019s spicy chicken fillet sandwich",
+    "ingredients": [
+        "chicken breasts",
+        "cup   pickled jalapeno juice",
+        "buttermilk",
+        "dashes    hot sauce",
+        "all-purpose flour",
+        "salt",
+        "black pepper",
+        "teaspoon    granulated onion",
+        "teaspoon    granulated garlic",
+        "chili powder",
+        "canola oil",
+        "potato buns",
+        "butter",
+        "mayonnaise",
+        "lettuce leaves",
+        "tomatoes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

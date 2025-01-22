@@ -1,0 +1,26 @@
+{
+    "dish_name": "lean white chicken chili",
+    "ingredients": [
+        "olive oil",
+        "boneless skinless chicken breast",
+        "onion",
+        "garlic",
+        "dry white wine",
+        "chicken broth",
+        "great northern beans",
+        "mustard powder",
+        "ground cumin",
+        "salt",
+        "ground black pepper",
+        "baked corn tortilla chips",
+        "reduced-fat sharp cheddar cheese",
+        "sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

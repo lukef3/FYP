@@ -1,0 +1,20 @@
+{
+    "dish_name": "caesar chicken pasta",
+    "ingredients": [
+        "dry penne pasta",
+        "cups   chopped cooked chicken",
+        "cup   creamy caesar salad dressing",
+        "reduced-sodium chicken broth",
+        "green onion",
+        "cup   finely chopped red pepper",
+        "mozzarella cheese",
+        "caesar-flavor croutons",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "cake balls",
+    "ingredients": [
+        "ounces    lemon cake mix, any brand",
+        "eggs",
+        "cup    oil (or as called for by your cake mix)",
+        "water",
+        "(15   ounce) container  ready made lemon frosting, any brand",
+        "(20   ounce) package   almond bark (vanilla confectioner's coating)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

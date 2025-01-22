@@ -1,0 +1,24 @@
+{
+    "dish_name": "ricotta cheese cookies",
+    "ingredients": [
+        "sugar",
+        "margarine",
+        "butter",
+        "ricotta cheese",
+        "vanilla extract",
+        "eggs",
+        "all-purpose flour",
+        "baking powder",
+        "salt",
+        "confectioners' sugar",
+        "milk",
+        "colored sprinkles (red and green)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

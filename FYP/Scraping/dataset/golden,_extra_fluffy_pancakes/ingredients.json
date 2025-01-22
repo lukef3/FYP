@@ -1,0 +1,18 @@
+{
+    "dish_name": "golden, extra fluffy pancakes",
+    "ingredients": [
+        "flour",
+        "sugar",
+        "salt",
+        "baking powder",
+        "egg",
+        "milk",
+        "tablespoons    oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

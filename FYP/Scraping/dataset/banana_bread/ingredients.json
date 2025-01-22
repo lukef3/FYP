@@ -2,17 +2,20 @@
     "dish_name": "banana bread",
     "ingredients": [
         "sugar",
+        "shortening",
         "bananas",
+        "vanilla",
+        "eggs",
         "flour",
-        "salt",
-        "egg",
-        "cup    oil",
         "baking soda",
-        "butter",
+        "salt",
         "walnuts"
     ],
     "images": [
         "images/image_1.jpg",
-        "images/image_2.jpg"
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
     ]
 }

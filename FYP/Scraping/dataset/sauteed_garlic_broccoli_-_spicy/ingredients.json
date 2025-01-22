@@ -1,0 +1,16 @@
+{
+    "dish_name": "sauteed garlic broccoli - spicy",
+    "ingredients": [
+        "olive oil",
+        "dried red pepper flakes",
+        "garlic cloves",
+        "chicken broth",
+        "broccoli"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

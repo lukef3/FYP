@@ -1,0 +1,25 @@
+{
+    "dish_name": "beef pot roast (pot, oven or slow cooker)",
+    "ingredients": [
+        "boneless beef roast",
+        "tablespoons    oil",
+        "salt and pepper, to taste",
+        "Worcestershire sauce",
+        "instant beef bouillon",
+        "dried basil",
+        "new potatoes",
+        "sweet potatoes",
+        "carrots",
+        "parsnips",
+        "onions",
+        "celery ribs",
+        "flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

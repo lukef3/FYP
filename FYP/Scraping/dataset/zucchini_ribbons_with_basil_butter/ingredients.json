@@ -1,0 +1,18 @@
+{
+    "dish_name": "zucchini ribbons with basil butter",
+    "ingredients": [
+        "zucchini",
+        "butter",
+        "olive oil",
+        "parmesan cheese",
+        "fresh basil leaves",
+        "red pepper flakes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "south beach muffin",
+    "ingredients": [
+        "egg",
+        "Splenda sugar substitute",
+        "cinnamon",
+        "plain fat-free yogurt",
+        "baking powder",
+        "ground flax seeds"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

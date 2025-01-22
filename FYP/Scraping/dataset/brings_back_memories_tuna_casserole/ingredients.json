@@ -1,0 +1,18 @@
+{
+    "dish_name": "brings back memories tuna casserole",
+    "ingredients": [
+        "(12   ounce) bag   egg noodles",
+        "can    condensed cream of mushroom soup, not diluted",
+        "milk",
+        "tuna",
+        "canned peas",
+        "cup   crushed potato chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

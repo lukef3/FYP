@@ -1,0 +1,21 @@
+{
+    "dish_name": "sesame bok choy",
+    "ingredients": [
+        "bok choy",
+        "green onion",
+        "ground ginger",
+        "rice wine",
+        "light soy sauce",
+        "soy sauce",
+        "brown sugar",
+        "canola oil",
+        "sesame seeds"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

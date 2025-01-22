@@ -1,0 +1,14 @@
+{
+    "dish_name": "fried bologna sandwich",
+    "ingredients": [
+        "slices    white bread",
+        "slice    bologna (depending on preference)",
+        "teaspoon    oil",
+        "American cheese",
+        "mustard"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

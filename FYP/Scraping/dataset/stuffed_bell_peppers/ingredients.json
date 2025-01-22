@@ -1,0 +1,20 @@
+{
+    "dish_name": "stuffed bell peppers",
+    "ingredients": [
+        "green peppers",
+        "ground beef",
+        "onion",
+        "Spanish rice mix",
+        "tomato sauce",
+        "sugar",
+        "tomatoes",
+        "American cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

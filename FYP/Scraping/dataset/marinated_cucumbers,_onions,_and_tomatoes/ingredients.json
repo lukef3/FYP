@@ -1,0 +1,21 @@
+{
+    "dish_name": "marinated cucumbers, onions, and tomatoes",
+    "ingredients": [
+        "cucumbers",
+        "onion",
+        "tomatoes",
+        "vinegar",
+        "sugar",
+        "salt",
+        "fresh coarse ground black pepper",
+        "cup    oil",
+        "of fresh mint"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

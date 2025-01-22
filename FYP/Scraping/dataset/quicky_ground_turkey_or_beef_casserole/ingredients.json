@@ -1,0 +1,23 @@
+{
+    "dish_name": "quicky ground turkey or beef casserole",
+    "ingredients": [
+        "ground turkey",
+        "ground beef",
+        "garlic cloves",
+        "oregano",
+        "tomato sauce",
+        "salt",
+        "pepper",
+        "cheese",
+        "macaroni",
+        "rotini pasta",
+        "sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "fresh green beans with garlic",
+    "ingredients": [
+        "fresh green beans",
+        "butter",
+        "olive oil",
+        "onion",
+        "garlic",
+        "fresh thyme",
+        "oregano",
+        "salt",
+        "cayenne pepper",
+        "hazelnuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

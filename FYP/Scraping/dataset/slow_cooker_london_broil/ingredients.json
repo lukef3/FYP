@@ -1,0 +1,16 @@
+{
+    "dish_name": "slow cooker london broil",
+    "ingredients": [
+        "lbs    flank steaks",
+        "(10 3/4  ounce) can   cream of mushroom soup",
+        "(10 3/4  ounce) can   tomato soup",
+        "(1 1/4  ounce) package   dry onion soup mix"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "classic san francisco sourdough bread",
+    "ingredients": [
+        "warm water",
+        "flour",
+        "cup    sourdough starter (unproofed)",
+        "salt",
+        "sugar",
+        "water",
+        "cornstarch"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "dish_name": "chicken tortilla soup",
+    "ingredients": [
+        "onion",
+        "garlic cloves",
+        "olive oil",
+        "chili powder",
+        "oregano",
+        "tomatoes",
+        "chicken broth",
+        "water",
+        "corn",
+        "white hominy",
+        "green chili peppers",
+        "black beans",
+        "cilantro",
+        "boneless chicken breasts",
+        "avocado",
+        "monterey jack cheese",
+        "green onion",
+        "tortilla chips"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

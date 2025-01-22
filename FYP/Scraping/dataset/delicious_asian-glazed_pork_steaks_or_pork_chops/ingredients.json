@@ -1,0 +1,22 @@
+{
+    "dish_name": "delicious asian-glazed pork steaks or pork chops",
+    "ingredients": [
+        "pork steaks (or use 6-8 center-cut pork chops about 3/4-1-inch thick)",
+        "black pepper",
+        "brown sugar",
+        "cornstarch",
+        "ginger",
+        "ketchup",
+        "Heinz Chili Sauce",
+        "garlic",
+        "low sodium soy sauce",
+        "cooked rice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

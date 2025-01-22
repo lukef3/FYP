@@ -1,0 +1,20 @@
+{
+    "dish_name": "mandarin pork chops",
+    "ingredients": [
+        "pork chops",
+        "tablespoon    vegetable oil",
+        "cup    orange juice",
+        "water",
+        "brown sugar",
+        "lemon juice",
+        "cornflour",
+        "teaspoons    chicken stock powder",
+        "mandarin oranges",
+        "green pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

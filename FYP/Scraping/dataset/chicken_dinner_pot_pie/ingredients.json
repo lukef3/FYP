@@ -1,0 +1,22 @@
+{
+    "dish_name": "chicken dinner pot pie",
+    "ingredients": [
+        "pastry for a double-crust 9-inch pie",
+        "butter",
+        "flour",
+        "salt",
+        "pepper",
+        "teaspoon    ground thyme",
+        "chicken broth",
+        "heavy cream",
+        "cups   cubed cooked chicken",
+        "(10   ounce) package   frozen peas and carrots, cooked and drained  (I have started using about 1/2 a package)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

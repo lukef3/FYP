@@ -1,0 +1,17 @@
+{
+    "dish_name": "marinated coleslaw",
+    "ingredients": [
+        "(1   lb) packages   coleslaw mix",
+        "onion",
+        "sugar",
+        "salt",
+        "garlic powder",
+        "cider vinegar",
+        "cup    Crisco cooking oil (I use canola oil)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

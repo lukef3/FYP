@@ -1,0 +1,27 @@
+{
+    "dish_name": "gluten-free flax bread",
+    "ingredients": [
+        "cups    gluten-free flour",
+        "cup    garfava flour",
+        "potato starch",
+        "cornstarch",
+        "flax seed meal",
+        "xanthan gum",
+        "active dry yeast",
+        "salt",
+        "eggs",
+        "egg whites",
+        "water",
+        "milk",
+        "tablespoons    vegetable oil",
+        "honey",
+        "vinegar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

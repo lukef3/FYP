@@ -1,0 +1,24 @@
+{
+    "dish_name": "delicious crock pot barbecued pulled pork",
+    "ingredients": [
+        "(4   lb)    pork shoulder or  (4   lb)    pork butt",
+        "fresh garlic",
+        "seasoning salt",
+        "black pepper",
+        "garlic powder",
+        "cumin",
+        "paprika",
+        "cayenne pepper",
+        "onions",
+        "green bell pepper",
+        "barbecue sauce",
+        "light brown sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

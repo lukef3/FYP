@@ -1,0 +1,17 @@
+{
+    "dish_name": "mexican hot cocoa",
+    "ingredients": [
+        "granulated sugar",
+        "tablespoons    Nestle Toll House Baking Cocoa",
+        "ground cinnamon",
+        "milk",
+        "vanilla extract"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

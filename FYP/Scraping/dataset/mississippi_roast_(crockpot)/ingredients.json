@@ -1,0 +1,18 @@
+{
+    "dish_name": "mississippi roast (crockpot)",
+    "ingredients": [
+        "lbs    chuck roast",
+        "(1   ounce) envelope   ranch dressing mix",
+        "(1 1/4  ounce) envelope   au jus mix",
+        "butter",
+        "pepperoncini peppers",
+        "fresh ground pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

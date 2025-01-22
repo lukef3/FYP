@@ -1,0 +1,19 @@
+{
+    "dish_name": "honey oat bread (bread machine)",
+    "ingredients": [
+        "water",
+        "honey",
+        "canola oil",
+        "white bread flour",
+        "oatmeal",
+        "salt",
+        "active dry yeast"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

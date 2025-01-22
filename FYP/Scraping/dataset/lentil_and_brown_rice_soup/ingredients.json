@@ -1,0 +1,28 @@
+{
+    "dish_name": "lentil and brown rice soup",
+    "ingredients": [
+        "chicken broth",
+        "vegetable broth",
+        "lentils",
+        "brown rice",
+        "tomatoes",
+        "carrots",
+        "onion",
+        "celery",
+        "garlic",
+        "dried basil",
+        "oregano",
+        "dried thyme",
+        "bay leaf",
+        "fresh parsley",
+        "cider vinegar",
+        "smoked sausage"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

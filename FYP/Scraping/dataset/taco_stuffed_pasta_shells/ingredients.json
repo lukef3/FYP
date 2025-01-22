@@ -1,0 +1,23 @@
+{
+    "dish_name": "taco stuffed pasta shells",
+    "ingredients": [
+        "ground beef",
+        "envelope    taco seasoning",
+        "cream cheese",
+        "pasta shells",
+        "salsa",
+        "cup    taco sauce",
+        "cheddar cheese",
+        "monterey jack cheese",
+        "tortilla chips",
+        "sour cream",
+        "green onions"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

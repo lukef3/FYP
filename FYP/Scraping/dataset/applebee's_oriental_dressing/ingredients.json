@@ -1,0 +1,17 @@
+{
+    "dish_name": "applebee's oriental dressing",
+    "ingredients": [
+        "honey",
+        "tablespoons    rice wine vinegar",
+        "mayonnaise",
+        "Dijon mustard",
+        "teaspoon    sesame oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

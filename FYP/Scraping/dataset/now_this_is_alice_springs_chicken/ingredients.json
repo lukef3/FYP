@@ -1,0 +1,26 @@
+{
+    "dish_name": "now this is alice springs chicken",
+    "ingredients": [
+        "Dijon mustard",
+        "honey",
+        "canola oil",
+        "lemon juice",
+        "boneless skinless chicken breasts",
+        "tablespoon    vegetable oil",
+        "cups    sliced mushrooms",
+        "butter",
+        "salt",
+        "pepper",
+        "paprika",
+        "bacon",
+        "cups   shredded Mexican blend cheese",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

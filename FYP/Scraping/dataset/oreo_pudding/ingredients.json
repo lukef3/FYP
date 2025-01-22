@@ -1,0 +1,20 @@
+{
+    "dish_name": "oreo pudding",
+    "ingredients": [
+        "cream cheese",
+        "powdered sugar",
+        "milk",
+        "vanilla",
+        "Cool Whip",
+        "(1   lb) package   Oreo cookies, crushed into chunks",
+        "butter",
+        "instant vanilla pudding"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

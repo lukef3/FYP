@@ -1,0 +1,17 @@
+{
+    "dish_name": "quick and easy chicken enchiladas",
+    "ingredients": [
+        "chicken breasts",
+        "white corn tortillas",
+        "flour tortillas",
+        "(10   ounce) cans   green enchilada sauce (I use Old El Paso)",
+        "monterey jack pepper cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

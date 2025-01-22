@@ -1,0 +1,18 @@
+{
+    "dish_name": "crock pot black bean salsa chicken (oamc)",
+    "ingredients": [
+        "boneless chicken breasts",
+        "corn",
+        "black beans",
+        "salsa",
+        "cream cheese",
+        "salt and pepper, to taste",
+        "rice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

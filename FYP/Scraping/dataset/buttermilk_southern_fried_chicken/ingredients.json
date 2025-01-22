@@ -1,0 +1,19 @@
+{
+    "dish_name": "buttermilk southern fried chicken",
+    "ingredients": [
+        "frying chickens",
+        "buttermilk",
+        "all-purpose flour",
+        "salt",
+        "black pepper",
+        "paprika",
+        "garlic powder",
+        "onion powder",
+        "to taste    vegetable oil (for frying)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

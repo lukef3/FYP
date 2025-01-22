@@ -1,0 +1,33 @@
+{
+    "dish_name": "our lasagna",
+    "ingredients": [
+        "ground pork",
+        "ground sausage",
+        "ground beef",
+        "canned tomato sauce",
+        "crushed tomatoes",
+        "fresh parsley",
+        "dried parsley",
+        "garlic cloves",
+        "dried oregano",
+        "onion",
+        "sugar",
+        "dried basil",
+        "salt",
+        "small curd cottage cheese",
+        "ricotta cheese",
+        "eggs",
+        "parmesan cheese",
+        "salt",
+        "ground black pepper",
+        "dry lasagna noodles",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

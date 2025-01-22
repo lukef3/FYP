@@ -1,0 +1,25 @@
+{
+    "dish_name": "carol's dal curry (curried lentils)",
+    "ingredients": [
+        "lentils",
+        "yellow onion",
+        "cilantro",
+        "tomatoes",
+        "coconut milk",
+        "tomato sauce",
+        "curry powder",
+        "turmeric",
+        "ginger",
+        "ground cloves",
+        "cumin",
+        "cayenne",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

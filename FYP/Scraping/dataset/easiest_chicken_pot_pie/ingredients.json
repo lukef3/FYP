@@ -1,0 +1,17 @@
+{
+    "dish_name": "easiest chicken pot pie",
+    "ingredients": [
+        "chicken",
+        "(10 1/2  ounce) cans   cream of potato soup",
+        "(16   ounce) bag   frozen mixed vegetables or  (15   ounce) cans   Veg-All",
+        "pie crusts (top and bottom)",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

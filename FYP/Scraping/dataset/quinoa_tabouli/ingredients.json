@@ -1,0 +1,21 @@
+{
+    "dish_name": "quinoa tabouli",
+    "ingredients": [
+        "water",
+        "fresh lemon juice",
+        "quinoa",
+        "olive oil",
+        "tomatoes",
+        "of fresh mint",
+        "parsley",
+        "scallion",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

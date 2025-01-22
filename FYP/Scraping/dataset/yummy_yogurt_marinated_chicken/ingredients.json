@@ -1,0 +1,23 @@
+{
+    "dish_name": "yummy yogurt marinated chicken",
+    "ingredients": [
+        "plain fat-free yogurt",
+        "minced garlic cloves",
+        "lemon juice",
+        "canola oil",
+        "sugar",
+        "chili powder",
+        "ground ginger",
+        "fresh ginger",
+        "salt",
+        "ground cumin",
+        "boneless chicken breasts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

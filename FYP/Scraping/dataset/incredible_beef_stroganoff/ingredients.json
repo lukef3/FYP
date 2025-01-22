@@ -1,0 +1,23 @@
+{
+    "dish_name": "incredible beef stroganoff",
+    "ingredients": [
+        "top round steaks",
+        "onion",
+        "butter",
+        "butter",
+        "flour",
+        "can    beef consomme",
+        "catsup",
+        "Worcestershire sauce",
+        "pepper",
+        "dried basil",
+        "nutmeg",
+        "mushrooms",
+        "fresh mushrooms",
+        "sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "peanut butter chocolate dessert",
+    "ingredients": [
+        "chocolate cream-filled chocolate sandwich cookies, divided",
+        "butter",
+        "margarine",
+        "cream cheese",
+        "peanut butter",
+        "powdered sugar",
+        "Cool Whip",
+        "miniature peanut butter cups, chopped",
+        "milk",
+        "chocolate fudge instant pudding mix"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

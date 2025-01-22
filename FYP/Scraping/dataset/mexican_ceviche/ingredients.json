@@ -1,0 +1,30 @@
+{
+    "dish_name": "mexican ceviche",
+    "ingredients": [
+        "sea bass fillets",
+        "red snapper fillet",
+        "limes",
+        "fresh tomato",
+        "green pepper",
+        "parsley",
+        "cilantro",
+        "salt",
+        "pepper",
+        "oregano",
+        "jalapeno peppers, chopped  (or more to suit your taste)",
+        "white vinegar",
+        "onion",
+        "fresh cilantro",
+        "Tabasco sauce",
+        "lettuce leaf",
+        "avocado",
+        "black olives"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

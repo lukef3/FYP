@@ -1,0 +1,24 @@
+{
+    "dish_name": "dixie stampede homestyle cream of vegetable soup - authentic",
+    "ingredients": [
+        "margarine",
+        "onion powder",
+        "garlic powder",
+        "corn syrup",
+        "all-purpose flour",
+        "white pepper",
+        "salt",
+        "chicken broth",
+        "water",
+        "cup   finely chopped cooked vegetables (I use diced canned potatoes and canned carrot slices diced very small, Veg-All will work)",
+        "half-and-half cream",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

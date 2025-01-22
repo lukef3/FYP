@@ -1,0 +1,21 @@
+{
+    "dish_name": "amy's chocolate chip zucchini bread",
+    "ingredients": [
+        "eggs",
+        "sugar",
+        "cups    oil",
+        "zucchini",
+        "flour",
+        "baking soda",
+        "baking powder",
+        "salt",
+        "cinnamon",
+        "vanilla",
+        "(12   ounce) package   miniature chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

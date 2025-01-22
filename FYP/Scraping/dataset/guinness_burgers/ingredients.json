@@ -1,0 +1,20 @@
+{
+    "dish_name": "guinness burgers",
+    "ingredients": [
+        "ground beef",
+        "pepper",
+        "Tabasco sauce",
+        "garlic",
+        "chili sauce",
+        "ounce package   Knorr french onion soup mix",
+        "cup    Guinness stout (or other stout)",
+        "hamburger buns"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

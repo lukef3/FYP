@@ -1,0 +1,19 @@
+{
+    "dish_name": "mexican charro beans",
+    "ingredients": [
+        "dried pinto bean",
+        "bacon",
+        "garlic",
+        "plum tomatoes",
+        "onions",
+        "green pepper",
+        "beer",
+        "fresh cilantro",
+        "jalapeno peppers, seeded and chopped",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

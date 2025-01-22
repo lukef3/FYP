@@ -1,0 +1,19 @@
+{
+    "dish_name": "d's roasted butternut squash",
+    "ingredients": [
+        "large    butternut squash",
+        "honey",
+        "brown sugar",
+        "garlic cloves",
+        "salt and pepper",
+        "olive oil",
+        "vegetable oil cooking spray, like pam"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

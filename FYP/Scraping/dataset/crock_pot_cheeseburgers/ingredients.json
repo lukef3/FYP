@@ -1,0 +1,21 @@
+{
+    "dish_name": "crock pot cheeseburgers",
+    "ingredients": [
+        "lean ground beef",
+        "ground black pepper",
+        "Velveeta cheese",
+        "milk",
+        "tablespoons    pickle relish",
+        "prepared mustard",
+        "ketchup",
+        "green bell pepper",
+        "onion",
+        "garlic cloves",
+        "sandwich buns",
+        "lettuce",
+        "tomatoes"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

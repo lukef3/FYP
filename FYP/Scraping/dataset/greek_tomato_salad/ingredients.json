@@ -1,0 +1,23 @@
+{
+    "dish_name": "greek tomato salad",
+    "ingredients": [
+        "fresh tomatoes",
+        "cucumber",
+        "green bell pepper",
+        "red onion",
+        "vinegar",
+        "vinegar",
+        "extra virgin olive oil",
+        "salt",
+        "fresh oregano",
+        "kalamata olive",
+        "feta cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

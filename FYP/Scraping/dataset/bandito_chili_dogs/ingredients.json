@@ -1,0 +1,17 @@
+{
+    "dish_name": "bandito chili dogs",
+    "ingredients": [
+        "(1   lb) package   hot dog",
+        "(15   ounce) cans   chili without beans",
+        "(10 3/4  ounce) can   cheddar cheese soup",
+        "green chilies",
+        "hot dog buns",
+        "onion",
+        "cup    corn chips, coarsely chopped",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

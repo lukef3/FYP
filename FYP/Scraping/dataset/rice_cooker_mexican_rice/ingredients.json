@@ -1,0 +1,19 @@
+{
+    "dish_name": "rice cooker mexican rice",
+    "ingredients": [
+        "rice",
+        "low sodium chicken broth",
+        "tomato paste",
+        "butter",
+        "onion",
+        "garlic clove",
+        "diced green chilies",
+        "pepper",
+        "red pepper flakes",
+        "cilantro",
+        "parsley"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

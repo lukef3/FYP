@@ -1,0 +1,22 @@
+{
+    "dish_name": "vegan lentil burgers",
+    "ingredients": [
+        "dry lentils",
+        "water",
+        "salt",
+        "olive oil",
+        "onion",
+        "carrot",
+        "pepper",
+        "soy sauce",
+        "rolled oats",
+        "cup    breadcrumbs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

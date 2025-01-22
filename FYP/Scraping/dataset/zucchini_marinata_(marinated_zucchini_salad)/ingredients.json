@@ -1,0 +1,20 @@
+{
+    "dish_name": "zucchini marinata (marinated zucchini salad)",
+    "ingredients": [
+        "zucchini",
+        "large    lemon, juice of, more to taste",
+        "garlic cloves",
+        "extra virgin olive oil",
+        "salt",
+        "fresh ground black pepper",
+        "fresh basil",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

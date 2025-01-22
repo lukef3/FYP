@@ -1,0 +1,23 @@
+{
+    "dish_name": "pasta with roasted garlic and cherry tomatoes",
+    "ingredients": [
+        "cherry tomatoes",
+        "garlic cloves",
+        "extra virgin olive oil",
+        "dried basil",
+        "salt",
+        "teaspoon    hot pepper flakes",
+        "ground pepper",
+        "bucatini pasta",
+        "pasta",
+        "fresh parsley",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

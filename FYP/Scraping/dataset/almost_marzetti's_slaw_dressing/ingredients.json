@@ -1,0 +1,17 @@
+{
+    "dish_name": "almost marzetti's slaw dressing",
+    "ingredients": [
+        "light mayonnaise",
+        "sugar",
+        "white distilled vinegar",
+        "prepared yellow mustard",
+        "cabbage",
+        "carrot",
+        "celery salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

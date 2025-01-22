@@ -1,0 +1,17 @@
+{
+    "dish_name": "bbq pulled pork sandwiches",
+    "ingredients": [
+        "lbs    pork shoulder",
+        "water",
+        "dried basil",
+        "dried rosemary",
+        "barbecue sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

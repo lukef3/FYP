@@ -1,0 +1,18 @@
+{
+    "dish_name": "mushrooms and onions for steak",
+    "ingredients": [
+        "lb    sliced mushrooms (I use crimini but white work as well)",
+        "onion",
+        "butter",
+        "olive oil",
+        "Worcestershire sauce",
+        "teaspoon    garlic salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "bruschetta chicken bake",
+    "ingredients": [
+        "diced tomatoes",
+        "garlic cloves",
+        "(6   ounce) package   chicken flavor stuffing mix",
+        "water",
+        "boneless skinless chicken breasts",
+        "dried basil leaves",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

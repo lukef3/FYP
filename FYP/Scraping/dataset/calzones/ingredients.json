@@ -1,0 +1,28 @@
+{
+    "dish_name": "calzones",
+    "ingredients": [
+        "package    yeast",
+        "sugar",
+        "tablespoons    oil",
+        "salt",
+        "flour",
+        "mushroom",
+        "green pepper",
+        "onions",
+        "jar    Ragu pizza sauce (any flavor you like)",
+        "teaspoon    italian seasoning",
+        "oregano",
+        "basil",
+        "teaspoon    garlic salt",
+        "Italian sausage",
+        "pepperoni",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

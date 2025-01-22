@@ -1,0 +1,28 @@
+{
+    "dish_name": "tasty crock pot bbq country style pork ribs",
+    "ingredients": [
+        "country-style pork ribs",
+        "celery",
+        "onions",
+        "green bell pepper",
+        "ketchup",
+        "yellow mustard",
+        "barbecue sauce",
+        "water",
+        "cider vinegar",
+        "Worcestershire sauce",
+        "brown sugar",
+        "salt",
+        "black pepper",
+        "cayenne pepper",
+        "teaspoon    garlic salt",
+        "diced tomatoes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

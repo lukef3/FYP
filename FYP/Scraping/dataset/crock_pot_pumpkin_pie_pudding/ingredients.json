@@ -1,0 +1,21 @@
+{
+    "dish_name": "crock pot pumpkin pie pudding",
+    "ingredients": [
+        "solid pack pumpkin",
+        "evaporated milk",
+        "sugar",
+        "Bisquick",
+        "eggs",
+        "butter",
+        "margarine",
+        "pumpkin pie spice",
+        "vanilla",
+        "whipped topping (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

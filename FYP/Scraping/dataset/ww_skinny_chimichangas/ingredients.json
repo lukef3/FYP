@@ -1,0 +1,22 @@
+{
+    "dish_name": "ww skinny chimichangas",
+    "ingredients": [
+        "lb    ground turkey breast",
+        "onion",
+        "garlic clove",
+        "chili powder",
+        "dried oregano",
+        "ground cumin",
+        "tomato sauce",
+        "mild green chilies",
+        "reduced-fat cheddar cheese",
+        "fat free tortillas"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

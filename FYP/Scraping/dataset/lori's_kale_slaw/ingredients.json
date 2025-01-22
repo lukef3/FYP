@@ -1,0 +1,26 @@
+{
+    "dish_name": "lori's kale slaw",
+    "ingredients": [
+        "kale",
+        "carrot",
+        "walnuts",
+        "mayonnaise",
+        "cider vinegar",
+        "sugar",
+        "ground allspice",
+        "dried oregano",
+        "dried thyme",
+        "paprika",
+        "cayenne",
+        "curry powder",
+        "sugar",
+        "salt",
+        "fresh cracked pepper",
+        "ground nutmeg",
+        "ground cinnamon",
+        "clove"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

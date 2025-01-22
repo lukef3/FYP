@@ -1,0 +1,13 @@
+{
+    "dish_name": "easy mustard chicken",
+    "ingredients": [
+        "boneless skinless chicken breast",
+        "French's mustard",
+        "cup    soft breadcrumbs",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

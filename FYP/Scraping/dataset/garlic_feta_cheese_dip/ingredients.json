@@ -1,0 +1,20 @@
+{
+    "dish_name": "garlic feta cheese dip",
+    "ingredients": [
+        "feta cheese",
+        "cream cheese",
+        "mayonnaise",
+        "garlic clove",
+        "dried basil",
+        "dried oregano",
+        "dill weed",
+        "dried thyme"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

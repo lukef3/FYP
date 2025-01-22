@@ -1,0 +1,25 @@
+{
+    "dish_name": "top secret recipes version of doubletree hotel's chocolate chip",
+    "ingredients": [
+        "rolled oats",
+        "flour",
+        "baking soda",
+        "salt",
+        "cinnamon",
+        "butter",
+        "brown sugar",
+        "granulated sugar",
+        "pure vanilla extract",
+        "lemon juice",
+        "eggs",
+        "cups    semi-sweet chocolate chips",
+        "cups   chopped macadamia nuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

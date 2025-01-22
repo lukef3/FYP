@@ -1,0 +1,21 @@
+{
+    "dish_name": "dublin coddle - irish sausage, bacon, onion and potato hotpot",
+    "ingredients": [
+        "potatoes",
+        "onions",
+        "sausages",
+        "bacon",
+        "water",
+        "beef",
+        "fresh parsley",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

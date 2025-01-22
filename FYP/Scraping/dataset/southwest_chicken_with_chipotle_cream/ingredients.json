@@ -1,0 +1,23 @@
+{
+    "dish_name": "southwest chicken with chipotle cream",
+    "ingredients": [
+        "lbs    chicken legs with thigh",
+        "milk",
+        "chipotle chiles",
+        "garlic",
+        "ground cumin",
+        "onion powder",
+        "salt",
+        "butter",
+        "margarine",
+        "flour",
+        "heavy cream",
+        "sour cream",
+        "cheese",
+        "chipotle chile"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

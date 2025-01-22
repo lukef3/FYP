@@ -1,0 +1,23 @@
+{
+    "dish_name": "baked chicken teriyaki",
+    "ingredients": [
+        "cornstarch",
+        "water",
+        "white sugar",
+        "brown sugar",
+        "low sodium soy sauce",
+        "cider vinegar",
+        "cup    orange juice or 1/4  cup    pineapple juice",
+        "garlic powder",
+        "ground ginger",
+        "ground black pepper",
+        "skinless chicken thighs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

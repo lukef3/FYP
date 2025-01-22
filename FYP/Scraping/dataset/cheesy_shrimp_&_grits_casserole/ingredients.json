@@ -1,0 +1,26 @@
+{
+    "dish_name": "cheesy shrimp & grits casserole",
+    "ingredients": [
+        "chicken broth",
+        "salt",
+        "grits",
+        "sharp cheddar cheese",
+        "monterey jack pepper cheese",
+        "butter",
+        "margarine",
+        "green onions",
+        "green bell pepper",
+        "garlic clove",
+        "fresh small shrimp",
+        "tomatoes and green chilies",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

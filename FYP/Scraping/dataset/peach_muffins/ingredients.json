@@ -1,0 +1,23 @@
+{
+    "dish_name": "peach muffins",
+    "ingredients": [
+        "flour",
+        "salt",
+        "baking soda",
+        "sugar",
+        "light brown sugar",
+        "cinnamon",
+        "eggs",
+        "cup    oil",
+        "vanilla",
+        "cup   chopped almonds (optional)",
+        "cups   chopped peaches"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

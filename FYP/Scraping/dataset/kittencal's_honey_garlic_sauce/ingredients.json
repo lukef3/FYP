@@ -1,0 +1,20 @@
+{
+    "dish_name": "kittencal's honey garlic sauce",
+    "ingredients": [
+        "fresh garlic",
+        "crushed red pepper flakes",
+        "tablespoons    oil",
+        "canned chicken broth",
+        "honey",
+        "soy sauce",
+        "white vinegar",
+        "brown sugar",
+        "cornstarch"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "dish_name": "wet burrito casserole",
+    "ingredients": [
+        "sour cream",
+        "(10 3/4  ounce) can   cream of mushroom soup",
+        "lean ground beef",
+        "onion",
+        "red bell pepper",
+        "(1 1/4  ounce) package   taco seasoning mix",
+        "mushroom",
+        "(16   ounce) can   refried beans",
+        "flour tortillas",
+        "cheddar cheese",
+        "black olives",
+        "sliced jalapeno (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "lemon pepper fish greek style",
+    "ingredients": [
+        "garlic cloves",
+        "olive oil",
+        "lemon juice",
+        "lemon zest",
+        "cracked black pepper",
+        "sea salt",
+        "dried oregano leaves",
+        "fish fillets (1 pound/1/2 kilo estimate)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

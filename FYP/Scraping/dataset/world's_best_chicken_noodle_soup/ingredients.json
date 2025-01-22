@@ -1,0 +1,19 @@
+{
+    "dish_name": "world's best chicken noodle soup",
+    "ingredients": [
+        "chicken",
+        "water",
+        "chicken bouillon cubes",
+        "(12   ounce) bag   egg noodles",
+        "(10 1/2  ounce) cans   cream of chicken soup",
+        "sour cream",
+        "salt and pepper, to taste"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

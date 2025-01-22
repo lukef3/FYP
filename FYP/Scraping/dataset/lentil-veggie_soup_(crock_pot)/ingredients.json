@@ -1,0 +1,26 @@
+{
+    "dish_name": "lentil-veggie soup (crock pot)",
+    "ingredients": [
+        "dry lentils",
+        "carrots",
+        "celery",
+        "onions",
+        "garlic cloves",
+        "dried basil",
+        "dried oregano",
+        "dried thyme",
+        "dried parsley",
+        "bay leaves",
+        "vegetable broth",
+        "water",
+        "diced tomatoes",
+        "fresh ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

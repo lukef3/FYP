@@ -1,0 +1,23 @@
+{
+    "dish_name": "oprah winfrey's deviled eggs",
+    "ingredients": [
+        "eggs",
+        "mayonnaise",
+        "mustard",
+        "sweet pickle",
+        "Worcestershire sauce",
+        "salt & fresh ground pepper",
+        "lemon juice",
+        "dash    horseradish sauce",
+        "Tabasco sauce",
+        "parsley",
+        "paprika"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

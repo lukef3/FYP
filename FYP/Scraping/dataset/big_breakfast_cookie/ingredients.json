@@ -1,0 +1,20 @@
+{
+    "dish_name": "big breakfast cookie",
+    "ingredients": [
+        "oatmeal",
+        "raisins",
+        "flour",
+        "non-fat powdered milk",
+        "applesauce",
+        "cinnamon",
+        "baking powder",
+        "Splenda granular"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "fluffy eggless pancakes",
+    "ingredients": [
+        "all-purpose flour",
+        "sugar",
+        "cinnamon",
+        "baking powder",
+        "cup    whole milk",
+        "tablespoon    vegetable oil",
+        "water",
+        "vanilla extract",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

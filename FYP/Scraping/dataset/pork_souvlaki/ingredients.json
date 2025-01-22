@@ -1,0 +1,21 @@
+{
+    "dish_name": "pork souvlaki",
+    "ingredients": [
+        "boneless pork loin",
+        "lemon juice",
+        "olive oil",
+        "garlic cloves",
+        "dried oregano",
+        "salt",
+        "pepper",
+        "cup   prepared tzatziki, sauce  (make your own, recipe in'zaar)",
+        "Greek pita breads"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

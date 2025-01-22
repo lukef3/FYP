@@ -1,0 +1,21 @@
+{
+    "dish_name": "mac's meatloaf",
+    "ingredients": [
+        "ground beef",
+        "onion",
+        "egg",
+        "salt",
+        "pepper",
+        "green pepper",
+        "(10 1/2  ounce) can   condensed golden mushroom soup",
+        "cup    seasoned stuffing mix, i use pepperidge farms",
+        "evaporated milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

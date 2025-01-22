@@ -1,0 +1,21 @@
+{
+    "dish_name": "seared ahi tuna glazed with wasabi butter",
+    "ingredients": [
+        "ahi tuna steaks",
+        "tablespoons    dark sesame oil",
+        "salt and pepper",
+        "butter",
+        "soy sauce",
+        "wasabi paste",
+        "green onions",
+        "fresh lemon juice",
+        "lemon slice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

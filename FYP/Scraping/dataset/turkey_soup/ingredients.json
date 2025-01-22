@@ -1,0 +1,26 @@
+{
+    "dish_name": "turkey soup",
+    "ingredients": [
+        "cups   diced cooked turkey",
+        "yellow onion",
+        "celery",
+        "carrot",
+        "cup   fresh sliced mushrooms",
+        "dried basil",
+        "dried rosemary",
+        "garlic clove",
+        "butter",
+        "chicken broth",
+        "potatoes",
+        "cup    whole milk",
+        "sour cream",
+        "parsley flakes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dish_name": "cottage cheese-banana breakfast delite",
+    "ingredients": [
+        "English muffins",
+        "banana",
+        "low fat cottage cheese",
+        "fat-free cottage cheese",
+        "sugar substitute",
+        "ground cinnamon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

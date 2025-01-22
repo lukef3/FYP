@@ -1,0 +1,14 @@
+{
+    "dish_name": "homemade hershey's chocolate syrup",
+    "ingredients": [
+        "cocoa powder",
+        "milk",
+        "sugar",
+        "salt",
+        "vanilla extract"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

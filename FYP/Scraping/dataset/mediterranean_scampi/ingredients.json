@@ -1,0 +1,26 @@
+{
+    "dish_name": "mediterranean scampi",
+    "ingredients": [
+        "large shrimp",
+        "unsalted butter",
+        "garlic",
+        "green onion",
+        "red bell peppers",
+        "plum tomatoes",
+        "flat-leaf Italian parsley",
+        "oregano leaves",
+        "fresh basil leaf",
+        "kalamata olive",
+        "capers",
+        "lemons",
+        "lemon, juice of",
+        "dry white wine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

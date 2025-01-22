@@ -1,0 +1,26 @@
+{
+    "dish_name": "kittencal's italian breaded baked parmesan pork chops",
+    "ingredients": [
+        "eggs",
+        "milk",
+        "cups    dry breadcrumbs",
+        "parmesan cheese",
+        "garlic powder",
+        "salt",
+        "black pepper",
+        "cayenne pepper",
+        "dried parsley",
+        "teaspoon    dried Italian seasoning (rubbed between fingers to release the flavor)",
+        "tablespoons    oil",
+        "butter",
+        "thick-cut pork chops",
+        "seasoning salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

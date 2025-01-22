@@ -1,0 +1,29 @@
+{
+    "dish_name": "crab stuffed mushrooms",
+    "ingredients": [
+        "olive oil",
+        "butter",
+        "white mushrooms",
+        "ounces   flaked crabmeat",
+        "onions",
+        "dry mustard",
+        "parmesan cheese",
+        "cup    soft breadcrumbs or 1/2  cup    dry breadcrumbs",
+        "parsley",
+        "teaspoon    ground red pepper",
+        "black pepper",
+        "teaspoon    garlic salt",
+        "egg",
+        "mayonnaise",
+        "butter",
+        "teaspoon    garlic salt",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

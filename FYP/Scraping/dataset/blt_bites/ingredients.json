@@ -1,0 +1,19 @@
+{
+    "dish_name": "blt bites",
+    "ingredients": [
+        "cherry tomatoes",
+        "bacon",
+        "mayonnaise",
+        "green onion",
+        "parmesan cheese",
+        "cheddar cheese",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

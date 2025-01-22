@@ -1,0 +1,16 @@
+{
+    "dish_name": "1,2,3,4, tater tot casserole",
+    "ingredients": [
+        "lbs    extra lean ground beef",
+        "(10   ounce) can   cream of mushroom soup",
+        "cheddar cheese",
+        "(2   lb) package  frozen frozen tater tots"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

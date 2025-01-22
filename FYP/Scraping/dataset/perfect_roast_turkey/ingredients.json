@@ -1,0 +1,22 @@
+{
+    "dish_name": "perfect roast turkey",
+    "ingredients": [
+        "unsalted butter",
+        "lemon, juice and zest of",
+        "fresh thyme leave",
+        "turkey",
+        "kosher salt",
+        "fresh ground black pepper",
+        "fresh thyme",
+        "lemon",
+        "Spanish onion",
+        "garlic"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

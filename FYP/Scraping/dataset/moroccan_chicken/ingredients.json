@@ -1,0 +1,21 @@
+{
+    "dish_name": "moroccan chicken",
+    "ingredients": [
+        "cumin",
+        "ground coriander",
+        "salt",
+        "ground ginger",
+        "cinnamon",
+        "black pepper",
+        "boneless skinless chicken breasts",
+        "olive oil",
+        "garlic clove"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

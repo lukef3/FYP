@@ -1,0 +1,21 @@
+{
+    "dish_name": "make your own boursin cheese - paula deen",
+    "ingredients": [
+        "cream cheese",
+        "whipped butter",
+        "teaspoon    garlic salt",
+        "dried oregano",
+        "dried basil",
+        "dried dill",
+        "dried marjoram",
+        "black pepper",
+        "dried thyme"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

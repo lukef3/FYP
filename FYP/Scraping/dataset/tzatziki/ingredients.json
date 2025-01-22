@@ -1,13 +1,18 @@
 {
     "dish_name": "tzatziki",
     "ingredients": [
-        "sour cream",
-        "English cucumber",
-        "garlic cloves",
+        "cucumbers",
+        "white onion, diced",
+        "tomatoes",
+        "plain yogurt",
         "olive oil",
-        "red wine vinegar",
-        "fresh dill",
-        "salt"
+        "lemon juice",
+        "white wine vinegar",
+        "salt",
+        "dill",
+        "salt and pepper",
+        "oregano",
+        "garlic clove"
     ],
     "images": [
         "images/image_1.jpg",

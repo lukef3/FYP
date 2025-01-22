@@ -1,0 +1,23 @@
+{
+    "dish_name": "best baked ziti",
+    "ingredients": [
+        "ziti pasta",
+        "cups    spaghetti sauce",
+        "ricotta cheese",
+        "mozzarella cheese",
+        "fresh parsley",
+        "egg",
+        "oregano",
+        "garlic powder",
+        "pepper",
+        "parmesan cheese",
+        "cooking spray"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "dish_name": "fragrant moroccan beef, date, honey and prune tagine - crock pot",
+    "ingredients": [
+        "beef",
+        "olive oil",
+        "onion",
+        "garlic cloves",
+        "carrot",
+        "canned tomatoes",
+        "dates",
+        "prunes",
+        "honey",
+        "pint    beef stock",
+        "cinnamon stick",
+        "ras el hanout spice mix",
+        "salt & pepper",
+        "ounces    toasted sliced almonds",
+        "fresh coriander"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

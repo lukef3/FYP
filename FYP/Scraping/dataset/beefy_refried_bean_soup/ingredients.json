@@ -1,0 +1,27 @@
+{
+    "dish_name": "beefy refried bean soup",
+    "ingredients": [
+        "onion",
+        "celery",
+        "celery seeds",
+        "red bell pepper",
+        "tablespoons    oil",
+        "ground beef",
+        "tomatoes",
+        "(15   ounce) can   refried beans",
+        "ground cumin",
+        "chili powder",
+        "garlic",
+        "cinnamon",
+        "cayenne",
+        "cups    beef stock",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

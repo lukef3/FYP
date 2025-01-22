@@ -1,0 +1,19 @@
+{
+    "dish_name": "curried cranberry chicken salad",
+    "ingredients": [
+        "low-fat mayonnaise",
+        "lime juice",
+        "curry powder",
+        "cups    cooked chicken, chopped",
+        "apples",
+        "granny smith apples",
+        "dried sweetened cranberries",
+        "celery",
+        "pecans",
+        "scallion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

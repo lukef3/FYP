@@ -1,0 +1,21 @@
+{
+    "dish_name": "addicting chicken parmesan",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "cup   dry Italian seasoned breadcrumbs",
+        "salt",
+        "pepper",
+        "egg",
+        "olive oil",
+        "cups    spaghetti sauce, divided",
+        "mozzarella cheese",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

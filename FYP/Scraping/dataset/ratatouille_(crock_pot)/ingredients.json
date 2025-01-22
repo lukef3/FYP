@@ -1,0 +1,27 @@
+{
+    "dish_name": "ratatouille (crock pot)",
+    "ingredients": [
+        "eggplant",
+        "salt",
+        "onions",
+        "fresh tomatoes",
+        "green bell pepper",
+        "red bell peppers",
+        "yellow bell pepper",
+        "zucchini",
+        "olive oil",
+        "dried basil",
+        "garlic cloves",
+        "fresh ground pepper",
+        "tomato paste",
+        "pitted ripe olives",
+        "fresh basil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

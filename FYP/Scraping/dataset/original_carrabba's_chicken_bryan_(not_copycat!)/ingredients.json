@@ -1,0 +1,24 @@
+{
+    "dish_name": "original carrabba's chicken bryan (not copycat!)",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "kosher salt",
+        "fresh ground pepper",
+        "olive oil",
+        "ounces    goat cheese",
+        "sun-dried tomatoes",
+        "fresh basil",
+        "onions",
+        "garlic",
+        "butter",
+        "white wine",
+        "fresh lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

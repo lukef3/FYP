@@ -1,0 +1,18 @@
+{
+    "dish_name": "copycat of t.g.i. friday's hot artichoke and spinach dip",
+    "ingredients": [
+        "sour cream",
+        "mayonnaise",
+        "parmesan cheese",
+        "mozzarella cheese",
+        "garlic",
+        "frozen spinach",
+        "artichoke hearts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

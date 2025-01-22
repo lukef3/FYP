@@ -1,0 +1,19 @@
+{
+    "dish_name": "zucchini",
+    "ingredients": [
+        "zucchini",
+        "egg",
+        "butter",
+        "margarine",
+        "cup    seasoned bread crumbs",
+        "onion",
+        "teaspoon    Old Bay Seasoning (may add more)",
+        "all-purpose flour",
+        "cup    vegetable oil (for frying)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "niku jaga (japanese beef stew in the crock pot)",
+    "ingredients": [
+        "beef stew meat",
+        "water",
+        "Japanese sake",
+        "sugar",
+        "soy sauce",
+        "salt",
+        "lb    baby carrots",
+        "potatoes",
+        "white onion, diced"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

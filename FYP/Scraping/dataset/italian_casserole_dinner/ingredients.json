@@ -1,0 +1,23 @@
+{
+    "dish_name": "italian casserole dinner",
+    "ingredients": [
+        "ground sausage",
+        "ground beef",
+        "onion",
+        "green pepper",
+        "garlic",
+        "tomato sauce",
+        "tomato paste",
+        "water",
+        "basil",
+        "oregano",
+        "garlic powder",
+        "teaspoon    salt and pepper",
+        "ounces    wide egg noodles, cooked and drained",
+        "cheddar cheese",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

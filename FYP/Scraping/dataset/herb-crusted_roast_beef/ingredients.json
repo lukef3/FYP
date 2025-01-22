@@ -1,0 +1,27 @@
+{
+    "dish_name": "herb-crusted roast beef",
+    "ingredients": [
+        "rump roast",
+        "garlic",
+        "Dijon mustard",
+        "lemon juice",
+        "olive oil",
+        "Worcestershire sauce",
+        "dried parsley flakes",
+        "dried basil",
+        "salt",
+        "pepper",
+        "dried tarragon",
+        "dried thyme",
+        "water",
+        "beef bouillon granules",
+        "flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

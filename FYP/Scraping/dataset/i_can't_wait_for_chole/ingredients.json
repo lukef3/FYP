@@ -1,0 +1,26 @@
+{
+    "dish_name": "i can't wait for chole",
+    "ingredients": [
+        "onions",
+        "fresh ginger",
+        "garlic",
+        "cumin seeds",
+        "bay leaf",
+        "cinnamon stick",
+        "tomatoes",
+        "ground coriander",
+        "turmeric",
+        "salt",
+        "cayenne pepper",
+        "garbanzo beans",
+        "garam masala",
+        "fresh lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

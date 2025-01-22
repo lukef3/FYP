@@ -1,0 +1,28 @@
+{
+    "dish_name": "bread bowl potato soup",
+    "ingredients": [
+        "potatoes",
+        "bacon",
+        "yellow onion",
+        "celery",
+        "milk",
+        "water",
+        "tablespoons    chicken base",
+        "salt",
+        "black pepper",
+        "margarine",
+        "flour",
+        "parsley",
+        "cup    whipping cream",
+        "bacon",
+        "green onion",
+        "colby"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

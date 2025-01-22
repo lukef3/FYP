@@ -1,0 +1,18 @@
+{
+    "dish_name": "honey garlic chicken",
+    "ingredients": [
+        "teaspoon    garlic salt",
+        "brown sugar",
+        "salt",
+        "dry mustard",
+        "soy sauce",
+        "vinegar",
+        "honey",
+        "ketchup",
+        "chicken legs-thighs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

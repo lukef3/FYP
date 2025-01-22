@@ -1,0 +1,18 @@
+{
+    "dish_name": "bacon rollups",
+    "ingredients": [
+        "cream cheese with chives",
+        "milk",
+        "mayonnaise",
+        "slices    mixed grain bread (crusts removed & cut in half)",
+        "bacon",
+        "parsley sprig"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

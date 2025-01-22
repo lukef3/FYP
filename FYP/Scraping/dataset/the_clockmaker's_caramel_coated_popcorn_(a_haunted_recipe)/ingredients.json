@@ -1,0 +1,19 @@
+{
+    "dish_name": "the clockmaker's caramel coated popcorn (a haunted recipe)",
+    "ingredients": [
+        "margarine",
+        "brown sugar",
+        "cup    Karo syrup",
+        "salt",
+        "baking soda",
+        "vanilla",
+        "cups    popped popcorn"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

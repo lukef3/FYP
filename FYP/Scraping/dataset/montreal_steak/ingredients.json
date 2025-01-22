@@ -1,0 +1,16 @@
+{
+    "dish_name": "montreal steak",
+    "ingredients": [
+        "olive oil",
+        "soy sauce",
+        "teaspoons    McCormick's Montreal Brand steak seasoning",
+        "lbs    sirloin or 2   lbs    strip steaks"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

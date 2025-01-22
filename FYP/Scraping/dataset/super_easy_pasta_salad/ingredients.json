@@ -1,0 +1,18 @@
+{
+    "dish_name": "super easy pasta salad",
+    "ingredients": [
+        "pasta",
+        "celery",
+        "tomatoes",
+        "cup    Italian salad dressing (to taste)",
+        "mayonnaise",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "dish_name": "scones to die for",
+    "ingredients": [
+        "flour",
+        "sugar",
+        "baking powder",
+        "salt",
+        "butter",
+        "dried cranberries",
+        "currants",
+        "lemon, zest of",
+        "egg",
+        "cup    whipping cream",
+        "milk",
+        "cinnamon",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

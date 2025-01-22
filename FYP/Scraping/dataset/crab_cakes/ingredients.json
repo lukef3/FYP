@@ -1,0 +1,29 @@
+{
+    "dish_name": "crab cakes",
+    "ingredients": [
+        "butter",
+        "cup    red pepper, diced",
+        "celery",
+        "yellow onion",
+        "cup    dried breadcrumbs",
+        "scallion",
+        "mayonnaise",
+        "egg",
+        "parsley",
+        "Worcestershire sauce",
+        "lemon juice",
+        "teaspoons    Old Bay Seasoning",
+        "dry mustard",
+        "salt",
+        "fresh ground pepper",
+        "Tabasco sauce",
+        "lump crabmeat"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

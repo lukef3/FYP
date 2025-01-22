@@ -1,0 +1,24 @@
+{
+    "dish_name": "o'charley's loaded potato soup",
+    "ingredients": [
+        "lbs    red potatoes",
+        "butter",
+        "flour",
+        "half-and-half",
+        "Velveeta cheese",
+        "white pepper",
+        "garlic powder",
+        "teaspoon    hot pepper sauce",
+        "bacon",
+        "cheddar cheese",
+        "fresh chives",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

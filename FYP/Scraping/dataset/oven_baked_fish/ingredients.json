@@ -1,0 +1,20 @@
+{
+    "dish_name": "oven baked fish",
+    "ingredients": [
+        "all-purpose flour",
+        "pepper",
+        "egg",
+        "water",
+        "cup   crushed corn flakes",
+        "parmesan cheese",
+        "cayenne pepper",
+        "haddock fillets"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

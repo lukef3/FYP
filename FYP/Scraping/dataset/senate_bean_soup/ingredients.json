@@ -1,0 +1,23 @@
+{
+    "dish_name": "senate bean soup",
+    "ingredients": [
+        "navy beans",
+        "ham bone",
+        "onion",
+        "garlic cloves",
+        "celery",
+        "mashed potatoes",
+        "parsley",
+        "pepper",
+        "ground nutmeg",
+        "oregano",
+        "basil",
+        "bay leaf",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

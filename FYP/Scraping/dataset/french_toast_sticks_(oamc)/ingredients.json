@@ -1,0 +1,21 @@
+{
+    "dish_name": "french toast sticks (oamc)",
+    "ingredients": [
+        "eggs",
+        "icing sugar",
+        "milk",
+        "maple syrup",
+        "brown sugar",
+        "ground cinnamon",
+        "nutmeg",
+        "slices    white bread, each cut into 4 strips",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "dish_name": "celery cream soup",
+    "ingredients": [
+        "butter",
+        "celery ribs",
+        "onions",
+        "garlic",
+        "flour",
+        "chicken broth",
+        "bay leaf",
+        "heavy cream",
+        "lemon juice",
+        "dashes    hot sauce",
+        "salt",
+        "white pepper",
+        "celery leaves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

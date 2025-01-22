@@ -1,0 +1,19 @@
+{
+    "dish_name": "spinach ricotta pie with a hint of feta",
+    "ingredients": [
+        "olive oil",
+        "onion",
+        "spinach",
+        "ricotta cheese",
+        "eggs",
+        "feta cheese",
+        "dried oregano",
+        "salt and pepper, to taste"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "instant chai tea mix",
+    "ingredients": [
+        "cup    nonfat dry milk powder",
+        "cup    non-dairy powdered coffee creamer",
+        "cup   french vanilla-flavored non-dairy powdered coffee creamer",
+        "white sugar",
+        "cups    unsweetened instant tea",
+        "ground ginger",
+        "ground cinnamon",
+        "ground cloves",
+        "ground cardamom"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

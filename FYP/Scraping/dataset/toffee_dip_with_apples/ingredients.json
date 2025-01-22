@@ -1,0 +1,20 @@
+{
+    "dish_name": "toffee dip with apples",
+    "ingredients": [
+        "brown sugar",
+        "powdered sugar",
+        "vanilla extract",
+        "reduced-fat cream cheese",
+        "cup    toffee pieces (such as Skor)",
+        "cup    pineapple juice",
+        "Red Delicious apples",
+        "granny smith apples"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "dish_name": "mom's danish potato salad",
+    "ingredients": [
+        "vinegar",
+        "water",
+        "sugar",
+        "salt",
+        "pepper",
+        "mustard",
+        "eggs",
+        "cup    salad dressing (I use Miracle Whip, but you can you mayo or anything you like)",
+        "potatoes",
+        "hard-boiled eggs",
+        "celery",
+        "onions",
+        "cup    sweet pickle relish"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

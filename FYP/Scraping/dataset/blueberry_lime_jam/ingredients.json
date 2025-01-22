@@ -1,0 +1,15 @@
+{
+    "dish_name": "blueberry lime jam",
+    "ingredients": [
+        "blueberries",
+        "package    dry pectin",
+        "sugar",
+        "lime zest",
+        "lime juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

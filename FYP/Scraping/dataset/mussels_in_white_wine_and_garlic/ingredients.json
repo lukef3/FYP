@@ -1,0 +1,19 @@
+{
+    "dish_name": "mussels in white wine and garlic",
+    "ingredients": [
+        "mussels",
+        "butter",
+        "shallots",
+        "garlic cloves",
+        "salt",
+        "dry white wine",
+        "mixed fresh herbs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "inside-out stuffed green bell peppers",
+    "ingredients": [
+        "ground beef",
+        "onion",
+        "stewed tomatoes",
+        "green pepper",
+        "long grain rice",
+        "water",
+        "Worcestershire sauce",
+        "salt",
+        "pepper",
+        "cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

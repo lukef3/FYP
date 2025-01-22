@@ -1,0 +1,19 @@
+{
+    "dish_name": "garlic ricotta stuffed mushrooms",
+    "ingredients": [
+        "white mushrooms",
+        "garlic cloves",
+        "part-skim ricotta cheese",
+        "salt",
+        "cracked black pepper",
+        "olive oil",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

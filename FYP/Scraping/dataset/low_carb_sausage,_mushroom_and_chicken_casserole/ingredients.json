@@ -1,0 +1,23 @@
+{
+    "dish_name": "low carb sausage, mushroom and chicken casserole",
+    "ingredients": [
+        "cups   diced cooked chicken",
+        "pork sausage",
+        "celery",
+        "onion",
+        "mushroom",
+        "cream cheese",
+        "frozen cauliflower",
+        "cheddar cheese",
+        "salt",
+        "pepper",
+        "paprika"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

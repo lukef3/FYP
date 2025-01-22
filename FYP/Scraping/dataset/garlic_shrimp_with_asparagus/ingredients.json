@@ -1,0 +1,20 @@
+{
+    "dish_name": "garlic shrimp with asparagus",
+    "ingredients": [
+        "olive oil",
+        "asparagus",
+        "garlic",
+        "salt and pepper",
+        "crushed red pepper flakes",
+        "shrimp",
+        "dry white wine",
+        "lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

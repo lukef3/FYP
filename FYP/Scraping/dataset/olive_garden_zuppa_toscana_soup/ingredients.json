@@ -1,0 +1,23 @@
+{
+    "dish_name": "olive garden zuppa toscana soup",
+    "ingredients": [
+        "water",
+        "chicken bouillon cubes",
+        "salt",
+        "crushed red pepper flakes",
+        "garlic paste",
+        "russet potato",
+        "Italian sausage",
+        "large    white onion, diced",
+        "fresh kale",
+        "heavy cream",
+        "bacon bits"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

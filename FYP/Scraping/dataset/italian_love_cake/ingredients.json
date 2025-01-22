@@ -1,0 +1,20 @@
+{
+    "dish_name": "italian love cake",
+    "ingredients": [
+        "ricotta cheese",
+        "sugar",
+        "eggs",
+        "vanilla",
+        "instant chocolate pudding mix",
+        "milk",
+        "non-dairy whipped topping",
+        "box    fudge marble cake mix"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

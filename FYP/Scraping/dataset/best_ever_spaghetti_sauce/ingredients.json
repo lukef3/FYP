@@ -1,0 +1,20 @@
+{
+    "dish_name": "best ever spaghetti sauce",
+    "ingredients": [
+        "Italian sausage",
+        "onion",
+        "tomato paste",
+        "tomato sauce",
+        "water",
+        "garlic",
+        "bay leaves",
+        "sugar",
+        "dried basil",
+        "dried oregano",
+        "fresh parsley",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "dish_name": "brown rice (baked)",
+    "ingredients": [
+        "brown rice",
+        "canola oil",
+        "water",
+        "bay leaves",
+        "chicken bouillon cubes",
+        "poultry seasoning",
+        "black pepper",
+        "teaspoons    dried onion flakes",
+        "dried parsley",
+        "dried oregano",
+        "dried basil",
+        "dried thyme",
+        "red pepper flakes",
+        "fresh cilantro",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

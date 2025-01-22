@@ -1,0 +1,19 @@
+{
+    "dish_name": "maria's best crock pot roast",
+    "ingredients": [
+        "beef roast",
+        "bacon",
+        "garlic cloves",
+        "sea salt",
+        "olive oil",
+        "paprika",
+        "parsley",
+        "oregano",
+        "thyme",
+        "red wine vinegar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "thanksgiving pumpkin pie (uses fresh pumpkin)",
+    "ingredients": [
+        "unbaked 9-inch deep dish pie pastry (9-10-inch)",
+        "cups   freshly cooked pumpkin, seeded, peeled, mashed",
+        "granulated sugar",
+        "salt",
+        "ground cinnamon",
+        "ground ginger",
+        "ground nutmeg",
+        "ground cloves",
+        "eggs",
+        "(12   ounce) can   evaporated skim milk",
+        "skim milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}
