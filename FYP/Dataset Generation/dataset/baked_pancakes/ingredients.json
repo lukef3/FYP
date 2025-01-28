@@ -1,0 +1,17 @@
+{
+    "dish_name": "baked pancakes",
+    "ingredients": [
+        "Bisquick",
+        "milk",
+        "egg",
+        "tablespoons    oil",
+        "cup    mini chocolate chip (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

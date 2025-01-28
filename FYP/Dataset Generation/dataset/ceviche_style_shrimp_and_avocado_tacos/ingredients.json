@@ -1,0 +1,22 @@
+{
+    "dish_name": "ceviche style shrimp and avocado tacos",
+    "ingredients": [
+        "limes",
+        "tomatoes",
+        "avocado",
+        "cilantro",
+        "salt",
+        "black pepper",
+        "lb    cooked shrimp, peeled med. in size",
+        "jalapeno, chopped very fine  (my own addition)",
+        "garlic clove",
+        "corn tortillas"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

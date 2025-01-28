@@ -1,0 +1,18 @@
+{
+    "dish_name": "chicken with laughing cow cheese",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "cup    seasoned bread crumbs",
+        "seasoning salt",
+        "cooking spray",
+        "pieces    Laughing Cow cheese",
+        "lean ham"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

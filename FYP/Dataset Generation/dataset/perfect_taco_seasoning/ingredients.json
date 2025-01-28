@@ -1,0 +1,19 @@
+{
+    "dish_name": "perfect taco seasoning",
+    "ingredients": [
+        "paprika",
+        "tablespoons    dried onion flakes",
+        "cornstarch",
+        "chili powder",
+        "ground cumin",
+        "garlic powder",
+        "crushed red pepper flakes",
+        "cayenne pepper",
+        "dried oregano",
+        "teaspoon    coriander"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

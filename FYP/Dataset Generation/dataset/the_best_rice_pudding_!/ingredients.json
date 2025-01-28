@@ -1,0 +1,19 @@
+{
+    "dish_name": "the best rice pudding !",
+    "ingredients": [
+        "white rice",
+        "sugar",
+        "cornstarch",
+        "salt",
+        "nutmeg",
+        "milk",
+        "egg yolks",
+        "vanilla"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

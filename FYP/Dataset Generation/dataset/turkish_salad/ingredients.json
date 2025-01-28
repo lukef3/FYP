@@ -1,0 +1,22 @@
+{
+    "dish_name": "turkish salad",
+    "ingredients": [
+        "tomatoes",
+        "green bell pepper",
+        "cucumber",
+        "fresh parsley",
+        "green onion",
+        "fresh lemon juice",
+        "water",
+        "olive oil",
+        "salt",
+        "fresh ground pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

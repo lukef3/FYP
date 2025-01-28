@@ -1,0 +1,21 @@
+{
+    "dish_name": "chevy's sweet corn tamalitos",
+    "ingredients": [
+        "margarine",
+        "masa harina flour",
+        "sugar",
+        "corn kernels",
+        "cornmeal",
+        "water",
+        "baking powder",
+        "salt",
+        "milk",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

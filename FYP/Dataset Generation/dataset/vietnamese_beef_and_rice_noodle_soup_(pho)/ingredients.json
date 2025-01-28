@@ -1,0 +1,34 @@
+{
+    "dish_name": "vietnamese beef and rice noodle soup (pho)",
+    "ingredients": [
+        "lbs    oxtails",
+        "water",
+        "ginger",
+        "onions",
+        "nuoc nam",
+        "star anise",
+        "cloves",
+        "cinnamon stick",
+        "fennel seed",
+        "salt",
+        "bay leaves",
+        "lb    rice noodles (preferably \"1/4 inch\")",
+        "scallion",
+        "cilantro",
+        "basil leaves",
+        "mint leaf",
+        "onion",
+        "bean sprouts",
+        "limes",
+        "lb    filet mignon or 1   lb    top sirloin steak, sliced very thinly",
+        "hoisin sauce",
+        "sriracha sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

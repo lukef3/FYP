@@ -1,0 +1,17 @@
+{
+    "dish_name": "pralines",
+    "ingredients": [
+        "light brown sugar",
+        "cup    whipping cream",
+        "light corn syrup",
+        "salt",
+        "butter",
+        "margarine",
+        "pecans",
+        "vanilla extract"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

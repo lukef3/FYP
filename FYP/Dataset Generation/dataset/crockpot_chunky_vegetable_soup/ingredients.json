@@ -1,0 +1,23 @@
+{
+    "dish_name": "crockpot chunky vegetable soup",
+    "ingredients": [
+        "boneless round steak",
+        "diced tomatoes",
+        "beef broth",
+        "beef bouillon cubes",
+        "potatoes",
+        "onions",
+        "celery ribs",
+        "carrots",
+        "basil",
+        "oregano",
+        "thyme",
+        "bay leaf",
+        "pepper",
+        "fresh peas"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

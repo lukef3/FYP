@@ -1,0 +1,23 @@
+{
+    "dish_name": "the last red enchilada sauce you'll need",
+    "allergens": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

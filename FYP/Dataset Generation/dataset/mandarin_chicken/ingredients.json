@@ -1,0 +1,21 @@
+{
+    "dish_name": "mandarin chicken",
+    "ingredients": [
+        "whole boneless skinless chicken breast, cut into 4 equal pieces  (1lb)",
+        "vegetable oil cooking spray",
+        "sugar",
+        "soy sauce",
+        "lemon juice",
+        "tablespoon    vegetable oil",
+        "fresh garlic",
+        "fresh ginger",
+        "water",
+        "cornstarch"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

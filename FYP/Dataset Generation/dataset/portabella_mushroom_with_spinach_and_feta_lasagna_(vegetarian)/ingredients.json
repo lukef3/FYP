@@ -1,0 +1,26 @@
+{
+    "dish_name": "portabella mushroom with spinach and feta lasagna (vegetarian)",
+    "ingredients": [
+        "lasagna noodles, uncooked",
+        "diced tomatoes with juice",
+        "tomato sauce",
+        "tomato paste",
+        "tablespoon    balsamic vinegar (optional)",
+        "dried basil",
+        "dried oregano",
+        "garlic powder",
+        "salt and pepper",
+        "mozzarella cheese",
+        "feta cheese",
+        "frozen chopped spinach",
+        "egg",
+        "portabella mushroom"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

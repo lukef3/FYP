@@ -1,0 +1,23 @@
+{
+    "dish_name": "best ever bloody mary",
+    "ingredients": [
+        "tomato juice",
+        "lemon juice",
+        "lime juice",
+        "tablespoon    prepared horseradish",
+        "Worcestershire sauce",
+        "garlic powder",
+        "Tabasco sauce",
+        "teaspoon    celery salt",
+        "coarse black pepper",
+        "pickle juice",
+        "vodka"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

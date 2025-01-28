@@ -1,0 +1,22 @@
+{
+    "dish_name": "easy crispy taco turnovers",
+    "ingredients": [
+        "lean ground beef",
+        "onion",
+        "garlic",
+        "salt",
+        "chili powder",
+        "monterey jack cheese",
+        "diced tomato",
+        "green chili",
+        "wheat flour tortillas",
+        "oil, for frying"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

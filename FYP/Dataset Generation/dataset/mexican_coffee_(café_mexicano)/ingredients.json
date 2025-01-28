@@ -1,0 +1,18 @@
+{
+    "dish_name": "mexican coffee (caf\u00e9 mexicano)",
+    "ingredients": [
+        "Kahlua",
+        "brandy",
+        "teaspoon    chocolate syrup",
+        "ground cinnamon",
+        "hot coffee",
+        "sweetened whipped cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "best-ever beef barley soup",
+    "ingredients": [
+        "lean ground beef",
+        "water",
+        "beef bouillon cubes",
+        "carrots",
+        "onions",
+        "green peppers",
+        "celery",
+        "garlic",
+        "barley",
+        "salt",
+        "pepper",
+        "bay leaf",
+        "catsup",
+        "crushed tomatoes",
+        "tomato sauce"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "quick and easy eggless banana bread",
+    "ingredients": [
+        "bananas",
+        "all-purpose flour",
+        "butter",
+        "brown sugar",
+        "milk",
+        "buttermilk",
+        "baking soda",
+        "vanilla essence",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

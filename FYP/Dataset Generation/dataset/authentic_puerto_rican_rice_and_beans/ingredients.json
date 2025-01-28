@@ -1,0 +1,22 @@
+{
+    "dish_name": "authentic puerto rican rice and beans",
+    "ingredients": [
+        "red kidney beans",
+        "pink beans",
+        "adobo seasoning",
+        "tablespoon    vegetable oil",
+        "salt pork",
+        "Canadian bacon",
+        "garlic powder",
+        "(5   g) packet   sazon con azafran seasoning (comes in envelopes in a box, gives color and a distinct flavor to latin dishes)",
+        "tablespoons    sofrito sauce (comes in a jar, a necessary ingredient in Puerto Rican cooking)",
+        "white rice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

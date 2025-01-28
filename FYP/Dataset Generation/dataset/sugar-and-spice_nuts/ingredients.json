@@ -1,0 +1,18 @@
+{
+    "dish_name": "sugar-and-spice nuts",
+    "ingredients": [
+        "egg white",
+        "cashews",
+        "pecan halves",
+        "cup    almonds, unsalted",
+        "white sugar",
+        "ground cinnamon",
+        "cayenne pepper",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

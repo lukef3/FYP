@@ -1,0 +1,21 @@
+{
+    "dish_name": "dorito taco salad",
+    "ingredients": [
+        "ground beef",
+        "lettuce",
+        "chopped tomato",
+        "cheddar cheese",
+        "red onion",
+        "(1 1/4  ounce) package   taco seasoning (I use El Paso, but any will do)",
+        "(15   ounce) can   ranch style beans (you cant get these everywhere, so you can also use any brand of chilli beans)",
+        "(16   ounce) bottle   Catalina dressing",
+        "(12 1/2  ounce) bag   Doritos"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

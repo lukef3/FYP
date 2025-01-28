@@ -1,0 +1,23 @@
+{
+    "dish_name": "amazing homemade pizza rolls!",
+    "ingredients": [
+        "mozzarella cheese",
+        "sausage",
+        "(3   ounce) packages  sliced pepperoni, chopped",
+        "green pepper",
+        "cup   fresh sliced mushrooms, coarsely chopped",
+        "onion",
+        "black olives",
+        "crushed pineapple",
+        "(14   ounce) jars   pizza sauce",
+        "egg roll wraps",
+        "oil (for frying)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

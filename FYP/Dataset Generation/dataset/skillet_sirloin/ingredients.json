@@ -1,0 +1,18 @@
+{
+    "dish_name": "skillet sirloin",
+    "ingredients": [
+        "boneless beef top sirloin steaks",
+        "tablespoons    oil",
+        "onion",
+        "fresh mushrooms",
+        "beef broth",
+        "Dijon mustard",
+        "Worcestershire sauce",
+        "thyme",
+        "garlic powder"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

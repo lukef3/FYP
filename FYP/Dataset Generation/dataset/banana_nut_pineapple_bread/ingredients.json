@@ -1,0 +1,23 @@
+{
+    "dish_name": "banana nut pineapple bread",
+    "ingredients": [
+        "all-purpose flour",
+        "sugar",
+        "baking soda",
+        "ground cinnamon",
+        "salt",
+        "walnuts",
+        "eggs",
+        "canola oil",
+        "bananas",
+        "vanilla extract",
+        "(8   ounce) can   unsweetened crushed canned pineapple, drained"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

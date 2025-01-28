@@ -1,0 +1,21 @@
+{
+    "dish_name": "persian eggs poached in tomato sauce",
+    "ingredients": [
+        "olive oil",
+        "butter",
+        "onion",
+        "garlic clove",
+        "tomatoes",
+        "salt",
+        "pepper",
+        "eggs",
+        "chives"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

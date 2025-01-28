@@ -1,0 +1,22 @@
+{
+    "dish_name": "basic black beans",
+    "ingredients": [
+        "black beans",
+        "black beans",
+        "diced tomatoes",
+        "fresh tomatoes",
+        "olive oil",
+        "onions",
+        "garlic",
+        "cayenne pepper",
+        "black pepper",
+        "ground cumin",
+        "ground coriander",
+        "oregano",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

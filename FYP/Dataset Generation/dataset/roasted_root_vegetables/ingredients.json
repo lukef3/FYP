@@ -1,0 +1,20 @@
+{
+    "dish_name": "roasted root vegetables",
+    "ingredients": [
+        "lbs   root vegetables, peeled and cut into 1 inch pieces  (use potatoes, carrots, parsnips, turnips, rutabagas, beets)",
+        "onion",
+        "olive oil",
+        "salt",
+        "garlic",
+        "fresh herb",
+        "balsamic vinegar",
+        "vinegar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

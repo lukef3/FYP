@@ -1,0 +1,23 @@
+{
+    "dish_name": "the bomb burgers",
+    "ingredients": [
+        "lean hamburger",
+        "cup    breadcrumbs (fine)",
+        "green onion",
+        "teaspoons   chopped coriander",
+        "hoisin sauce",
+        "garlic",
+        "gingerroot",
+        "egg",
+        "water",
+        "hoisin sauce",
+        "teaspoon    sesame oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

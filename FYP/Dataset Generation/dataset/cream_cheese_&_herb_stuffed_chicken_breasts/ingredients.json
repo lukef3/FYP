@@ -1,0 +1,28 @@
+{
+    "dish_name": "cream cheese & herb stuffed chicken breasts",
+    "ingredients": [
+        "boneless skinless chicken breast halves",
+        "cream cheese",
+        "green onions",
+        "fresh sage",
+        "fresh basil",
+        "salt and pepper",
+        "salt",
+        "black pepper",
+        "paprika",
+        "flour",
+        "egg",
+        "water",
+        "cup   plain dried breadcrumbs (like Progresso)",
+        "parmesan cheese",
+        "garlic powder",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

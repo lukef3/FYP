@@ -1,0 +1,17 @@
+{
+    "dish_name": "ice cream jello",
+    "ingredients": [
+        "(3   ounce) package   cherry Jell-O",
+        "(3   ounce) package   lemon Jell-O gelatin",
+        "lime Jell-O gelatin",
+        "(3   ounce) package   orange Jell-O",
+        "vanilla ice cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

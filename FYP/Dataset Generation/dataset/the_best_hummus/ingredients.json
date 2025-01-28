@@ -1,0 +1,17 @@
+{
+    "dish_name": "the best hummus",
+    "ingredients": [
+        "garlic",
+        "garbanzo beans",
+        "lemon juice",
+        "tahini",
+        "ground cumin",
+        "salt",
+        "paprika",
+        "light sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

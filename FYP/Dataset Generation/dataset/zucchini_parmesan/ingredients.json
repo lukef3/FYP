@@ -1,0 +1,19 @@
+{
+    "dish_name": "zucchini parmesan",
+    "ingredients": [
+        "zucchini",
+        "eggs",
+        "cups   dry Italian seasoned breadcrumbs",
+        "mozzarella cheese",
+        "parmesan cheese",
+        "cups   of your favorite marinara sauce",
+        "olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

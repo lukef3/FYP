@@ -1,0 +1,21 @@
+{
+    "dish_name": "herb-roasted chicken",
+    "ingredients": [
+        "roasting chickens",
+        "kosher salt",
+        "water",
+        "butter",
+        "garlic cloves",
+        "dried basil",
+        "salt",
+        "ground sage",
+        "dried thyme",
+        "lemon-pepper seasoning",
+        "ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

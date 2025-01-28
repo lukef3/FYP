@@ -1,0 +1,16 @@
+{
+    "dish_name": "most simple vegetarian white gravy",
+    "ingredients": [
+        "milk",
+        "flour",
+        "butter",
+        "pepper",
+        "salt",
+        "teaspoon    garlic salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

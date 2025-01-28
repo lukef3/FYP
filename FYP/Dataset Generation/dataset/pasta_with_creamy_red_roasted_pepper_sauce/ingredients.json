@@ -1,0 +1,14 @@
+{
+    "dish_name": "pasta with creamy red roasted pepper sauce",
+    "ingredients": [
+        "pasta",
+        "(12   ounce) jar   roasted red peppers (drained)",
+        "container    garlic & herb spreadable cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

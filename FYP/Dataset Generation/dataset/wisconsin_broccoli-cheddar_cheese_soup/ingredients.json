@@ -1,0 +1,23 @@
+{
+    "dish_name": "wisconsin broccoli-cheddar cheese soup",
+    "ingredients": [
+        "butter",
+        "all-purpose flour",
+        "milk",
+        "salt",
+        "dry mustard",
+        "cayenne pepper",
+        "frozen broccoli",
+        "red bell pepper",
+        "sharp cheddar cheese",
+        "extra-sharp cheddar cheese",
+        "chives",
+        "green onion tops"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

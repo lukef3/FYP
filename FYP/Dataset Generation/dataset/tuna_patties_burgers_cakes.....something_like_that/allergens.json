@@ -1,0 +1,23 @@
+{
+    "dish_name": "tuna patties burgers cakes.....something like that",
+    "allergens": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "tartar sauce that makes you scream... oh yes!",
+    "allergens": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

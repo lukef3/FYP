@@ -1,0 +1,21 @@
+{
+    "dish_name": "creamy rye (bread machine)",
+    "ingredients": [
+        "water",
+        "white bread flour",
+        "caraway seeds",
+        "salt",
+        "butter",
+        "brown sugar",
+        "cup    rye flour",
+        "cocoa powder",
+        "sour cream",
+        "molasses",
+        "fast rise yeast",
+        "active dry yeast"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "pizza bagel bites (oamc)",
+    "ingredients": [
+        "miniature bagels",
+        "mozzarella cheese",
+        "cup    pepperoni, finely diced  (or finely diced ham)",
+        "cup    pizza sauce, your favourite",
+        "teaspoon    italian seasoning",
+        "oregano"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

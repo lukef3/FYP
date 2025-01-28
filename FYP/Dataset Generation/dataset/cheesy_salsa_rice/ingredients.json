@@ -1,0 +1,17 @@
+{
+    "dish_name": "cheesy salsa rice",
+    "ingredients": [
+        "long grain rice",
+        "water",
+        "salsa",
+        "cheddar cheese",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "decadent banana nut bread",
+    "ingredients": [
+        "bananas",
+        "eggs",
+        "shortening",
+        "sugar",
+        "flour",
+        "baking soda",
+        "baking powder",
+        "salt",
+        "walnuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

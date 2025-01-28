@@ -1,0 +1,14 @@
+{
+    "dish_name": "chicken nuggets",
+    "ingredients": [
+        "boneless chicken",
+        "olive oil",
+        "garlic",
+        "cup    seasoned bread crumbs",
+        "ground black pepper",
+        "cayenne pepper"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

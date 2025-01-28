@@ -1,0 +1,21 @@
+{
+    "dish_name": "nat's oven baked zucchini sticks",
+    "ingredients": [
+        "zucchini",
+        "cup    whole wheat breadcrumbs (any kind will do)",
+        "parmesan cheese",
+        "fresh oregano",
+        "fresh ground pepper",
+        "garlic powder",
+        "salt",
+        "extra virgin olive oil",
+        "Creamy Horseradish Dip"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

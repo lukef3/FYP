@@ -1,0 +1,29 @@
+{
+    "dish_name": "the better butter chicken",
+    "ingredients": [
+        "butter",
+        "onion",
+        "garlic",
+        "gingerroot",
+        "chili powder",
+        "ground turmeric",
+        "ground cinnamon",
+        "crushed tomatoes",
+        "tomato paste",
+        "brown sugar",
+        "salt",
+        "fresh ground black pepper",
+        "whole rotisserie-cooked chicken, skin removed and meat cut up",
+        "cup    light cream (5%)",
+        "light sour cream",
+        "fresh cilantro",
+        "cooked basmati rice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

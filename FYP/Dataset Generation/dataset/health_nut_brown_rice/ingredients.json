@@ -1,0 +1,22 @@
+{
+    "dish_name": "health nut brown rice",
+    "ingredients": [
+        "long grain brown rice",
+        "reduced-sodium chicken broth",
+        "carrot",
+        "zucchini",
+        "sunflower seeds",
+        "tablespoons    sliced almonds",
+        "red pepper flakes",
+        "olive oil",
+        "fresh parsley",
+        "parsley flakes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "cinnamon mocha coffee from taste of home",
+    "ingredients": [
+        "ground coffee",
+        "ground cinnamon",
+        "milk",
+        "sugar",
+        "tablespoons    baking cocoa",
+        "vanilla extract",
+        "cinnamon sticks",
+        "whipped cream (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

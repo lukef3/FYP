@@ -1,0 +1,16 @@
+{
+    "dish_name": "baked salsa chicken breast",
+    "ingredients": [
+        "boneless skinless chicken breast halves",
+        "salsa",
+        "brown sugar",
+        "tablespoons    balsamic vinegar",
+        "Dijon mustard"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

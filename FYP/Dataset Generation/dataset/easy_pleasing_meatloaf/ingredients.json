@@ -1,0 +1,18 @@
+{
+    "dish_name": "easy pleasing meatloaf",
+    "ingredients": [
+        "water",
+        "lean ground beef",
+        "onion",
+        "Stove Top stuffing mix",
+        "eggs",
+        "ketchup"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

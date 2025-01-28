@@ -1,0 +1,19 @@
+{
+    "dish_name": "smothered chicken with creamy mushroom gravy",
+    "ingredients": [
+        "all-purpose flour",
+        "dried thyme",
+        "ground allspice",
+        "boneless skinless chicken breast halves",
+        "butter",
+        "mushroom",
+        "onion",
+        "cup    whipping cream",
+        "low sodium chicken broth"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

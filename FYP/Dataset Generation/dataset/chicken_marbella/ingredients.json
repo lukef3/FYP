@@ -1,0 +1,29 @@
+{
+    "dish_name": "chicken marbella",
+    "ingredients": [
+        "chicken thigh pieces",
+        "garlic",
+        "dried oregano",
+        "coarse salt",
+        "fresh ground black pepper",
+        "red wine vinegar",
+        "olive oil",
+        "pitted prunes (I cut them in half)",
+        "dried apricots, cut in half  (optional)",
+        "green olives",
+        "capers",
+        "bay leaves",
+        "brown sugar",
+        "white wine",
+        "chili powder",
+        "Italian parsley",
+        "fresh coriander"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

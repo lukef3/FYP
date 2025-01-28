@@ -1,0 +1,18 @@
+{
+    "dish_name": "new potatoes, green beans and ham",
+    "ingredients": [
+        "red potatoes, scrubbed and halved",
+        "frozen green beans",
+        "onion",
+        "ham",
+        "vegetable broth",
+        "chicken broth",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

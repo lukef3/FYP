@@ -1,0 +1,20 @@
+{
+    "dish_name": "chocolate sponge cake",
+    "ingredients": [
+        "egg whites",
+        "cream of tartar",
+        "salt",
+        "sugar",
+        "egg yolks",
+        "vanilla",
+        "all-purpose flour",
+        "cup    cocoa"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

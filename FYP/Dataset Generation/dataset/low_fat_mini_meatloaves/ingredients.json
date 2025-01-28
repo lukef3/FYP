@@ -1,0 +1,23 @@
+{
+    "dish_name": "low fat mini meatloaves",
+    "ingredients": [
+        "ground turkey",
+        "carrot",
+        "zucchini",
+        "onion",
+        "bell pepper",
+        "teaspoon    italian seasoning",
+        "Worcestershire sauce",
+        "slice    whole wheat bread",
+        "egg substitute",
+        "egg",
+        "tomato ketchup"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

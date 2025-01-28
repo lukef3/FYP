@@ -1,0 +1,16 @@
+{
+    "dish_name": "healthy whole wheat pita bread (no oil or sugar)",
+    "ingredients": [
+        "whole wheat flour",
+        "dry yeast",
+        "warm water",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "easier-than-making-tacos taco salad",
+    "ingredients": [
+        "tortilla chips",
+        "hamburger",
+        "(1 1/4  ounce) package  old el paso taco seasoning mix",
+        "water",
+        "lettuce",
+        "tomatoes",
+        "onion",
+        "cheddar cheese",
+        "black olives",
+        "salsa",
+        "sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

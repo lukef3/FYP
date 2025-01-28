@@ -1,0 +1,22 @@
+{
+    "dish_name": "amazing breakfast pizza",
+    "ingredients": [
+        "pizza dough",
+        "eggs",
+        "milk",
+        "cheddar cheese",
+        "mozzarella cheese",
+        "deli ham",
+        "ounces    cooked bacon, crumbled",
+        "breakfast sausage links, chunked",
+        "onion",
+        "chives"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

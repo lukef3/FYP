@@ -1,0 +1,24 @@
+{
+    "dish_name": "marge's zucchini pie",
+    "ingredients": [
+        "zucchini",
+        "sweet onion",
+        "olive oil",
+        "flat leaf parsley",
+        "garlic cloves",
+        "teaspoon    herbes de provence (or use oregano)",
+        "kosher salt",
+        "black pepper",
+        "Dijon mustard",
+        "eggs",
+        "monterey jack cheese",
+        "prepared pie crust"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

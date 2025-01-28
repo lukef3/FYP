@@ -1,0 +1,19 @@
+{
+    "dish_name": "applesauce muffins",
+    "ingredients": [
+        "butter",
+        "sugar",
+        "eggs",
+        "vanilla",
+        "applesauce",
+        "flour",
+        "baking soda",
+        "cinnamon",
+        "allspice",
+        "clove",
+        "walnuts"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

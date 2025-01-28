@@ -1,0 +1,21 @@
+{
+    "dish_name": "spinach gratin",
+    "ingredients": [
+        "unsalted butter",
+        "yellow onions",
+        "flour",
+        "nutmeg",
+        "heavy cream",
+        "milk",
+        "frozen chopped spinach",
+        "parmesan cheese",
+        "kosher salt",
+        "ground black pepper",
+        "gruyere cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

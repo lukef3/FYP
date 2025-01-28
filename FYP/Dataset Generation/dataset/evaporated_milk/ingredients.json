@@ -1,0 +1,11 @@
+{
+    "dish_name": "evaporated milk",
+    "ingredients": [
+        "warm water",
+        "powdered milk",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

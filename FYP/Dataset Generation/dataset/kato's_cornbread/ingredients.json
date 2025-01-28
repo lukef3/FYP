@@ -1,0 +1,23 @@
+{
+    "dish_name": "kato's cornbread",
+    "ingredients": [
+        "cornmeal",
+        "milk",
+        "flour",
+        "sugar",
+        "baking powder",
+        "salt",
+        "egg",
+        "shortening",
+        "bacon",
+        "cheddar cheese",
+        "hot pepper (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

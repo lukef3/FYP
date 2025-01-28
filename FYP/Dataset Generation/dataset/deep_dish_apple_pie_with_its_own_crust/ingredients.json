@@ -1,0 +1,18 @@
+{
+    "dish_name": "deep dish apple pie with its own crust",
+    "ingredients": [
+        "apple",
+        "sugar",
+        "cinnamon",
+        "butter",
+        "sugar",
+        "egg",
+        "flour",
+        "pecans",
+        "walnuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

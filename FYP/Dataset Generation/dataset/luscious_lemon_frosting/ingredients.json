@@ -1,0 +1,14 @@
+{
+    "dish_name": "luscious lemon frosting",
+    "ingredients": [
+        "fresh lemon rind",
+        "butter",
+        "confectioners' sugar",
+        "lemon juice",
+        "water",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "bread machine pizza dough with whole wheat flour",
+    "ingredients": [
+        "water",
+        "olive oil",
+        "salt",
+        "all-purpose flour",
+        "whole wheat flour",
+        "teaspoons    yeast"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "dish_name": "mom's thai fried rice",
+    "ingredients": [
+        "cups   cooked cold jasmine rice (cold rice is essential so the grains will not stick together when stir frying)",
+        "tablespoons    peanut oil",
+        "garlic",
+        "beef",
+        "eggs",
+        "green onions",
+        "palm sugar",
+        "Thai fish sauce",
+        "oyster sauce",
+        "cup    frozen peas (not traditional but I like to add them anyway)",
+        "cucumber",
+        "limes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

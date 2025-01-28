@@ -1,0 +1,26 @@
+{
+    "dish_name": "mexican lasagna with black beans and corn",
+    "ingredients": [
+        "cooking spray",
+        "flour tortillas",
+        "corn kernels",
+        "black beans",
+        "diced tomatoes with mild green chilies",
+        "tomato sauce",
+        "chili powder",
+        "ground cumin",
+        "garlic powder",
+        "sugar",
+        "egg",
+        "sour cream",
+        "cups   shredded Mexican blend cheese, divided use",
+        "green onion",
+        "black olives"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

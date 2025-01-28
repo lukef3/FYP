@@ -1,0 +1,20 @@
+{
+    "dish_name": "cajun bourbon chicken bites",
+    "ingredients": [
+        "boneless skinless chicken thighs",
+        "soy sauce",
+        "brown sugar",
+        "garlic powder",
+        "powdered ginger",
+        "tablespoons    dried onion flakes",
+        "Bourbon",
+        "white wine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

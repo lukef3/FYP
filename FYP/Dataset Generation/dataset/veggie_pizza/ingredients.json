@@ -1,0 +1,19 @@
+{
+    "dish_name": "veggie pizza",
+    "ingredients": [
+        "(8   ounce) cans   Pillsbury Refrigerated Crescent Dinner Rolls",
+        "cream cheese",
+        "sour cream",
+        "(1   ounce) packet   hidden valley ranch dressing mix",
+        "Miracle Whip",
+        "cheddar cheese",
+        "vegetables (any that you desire such as green peppers, tomatos, carrots, celery, and green onions)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

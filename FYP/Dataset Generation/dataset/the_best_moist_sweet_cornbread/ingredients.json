@@ -1,0 +1,21 @@
+{
+    "dish_name": "the best moist sweet cornbread",
+    "ingredients": [
+        "all-purpose flour",
+        "sugar",
+        "yellow cornmeal",
+        "baking powder",
+        "salt",
+        "cayenne pepper",
+        "half-and-half cream",
+        "milk",
+        "eggs",
+        "cup    oil (use vegetable or olive oil)",
+        "butter",
+        "corn kernels"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

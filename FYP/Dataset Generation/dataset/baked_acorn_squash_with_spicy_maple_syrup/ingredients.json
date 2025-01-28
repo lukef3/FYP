@@ -1,0 +1,17 @@
+{
+    "dish_name": "baked acorn squash with spicy maple syrup",
+    "ingredients": [
+        "acorn squash",
+        "unsalted butter",
+        "pure maple syrup",
+        "cinnamon",
+        "nutmeg"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

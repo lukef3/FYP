@@ -1,0 +1,23 @@
+{
+    "dish_name": "picnic bread (from south africa)",
+    "ingredients": [
+        "flour",
+        "baking powder",
+        "spring onion",
+        "cheddar cheese",
+        "lean bacon",
+        "eggs",
+        "seasoning salt",
+        "fresh coarse ground black pepper",
+        "chili sauce",
+        "butter",
+        "buttermilk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

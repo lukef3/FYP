@@ -1,0 +1,17 @@
+{
+    "dish_name": "weight watcher's deep-dish pizza casserole",
+    "ingredients": [
+        "lb    ground round",
+        "Italian-style tomatoes",
+        "cooking spray (Pam)",
+        "(10   ounce) can  refrigerated pizza dough",
+        "part-skim mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

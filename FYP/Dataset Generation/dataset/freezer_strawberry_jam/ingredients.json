@@ -1,0 +1,16 @@
+{
+    "dish_name": "freezer strawberry jam",
+    "ingredients": [
+        "strawberry",
+        "sugar",
+        "water",
+        "box    fruit pectin (like Sure Jell)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

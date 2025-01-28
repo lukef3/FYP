@@ -1,0 +1,17 @@
+{
+    "dish_name": "homemade italian salad dressing",
+    "ingredients": [
+        "cup    salad oil",
+        "wine vinegar",
+        "salt",
+        "sugar",
+        "dried oregano leaves",
+        "dry mustard",
+        "paprika",
+        "garlic clove"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

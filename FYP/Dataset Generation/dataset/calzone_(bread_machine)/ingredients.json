@@ -1,0 +1,23 @@
+{
+    "dish_name": "calzone (bread machine)",
+    "ingredients": [
+        "water",
+        "salt",
+        "oregano",
+        "basil",
+        "garlic powder",
+        "bread flour",
+        "powdered milk",
+        "white sugar",
+        "active dry yeast",
+        "cup    pizza sauce",
+        "ounces    pepperoni, chopped",
+        "mozzarella cheese",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

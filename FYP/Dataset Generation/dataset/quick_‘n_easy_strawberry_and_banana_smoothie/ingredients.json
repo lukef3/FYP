@@ -1,0 +1,17 @@
+{
+    "dish_name": "quick \u2018n easy strawberry and banana smoothie",
+    "ingredients": [
+        "strawberries",
+        "banana",
+        "1% low-fat milk",
+        "ml    natural yoghurt",
+        "clear honey"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

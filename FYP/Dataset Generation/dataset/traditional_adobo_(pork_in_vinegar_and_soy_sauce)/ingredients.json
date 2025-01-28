@@ -1,0 +1,22 @@
+{
+    "dish_name": "traditional adobo (pork in vinegar and soy sauce)",
+    "ingredients": [
+        "lbs    pork shoulder or 1 1/2  lbs    pork butt, cut into 1-1/2\" cubes",
+        "vinegar",
+        "soy sauce",
+        "salt",
+        "garlic",
+        "bay leaf",
+        "pepper",
+        "sugar",
+        "water",
+        "tablespoons    cooking oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

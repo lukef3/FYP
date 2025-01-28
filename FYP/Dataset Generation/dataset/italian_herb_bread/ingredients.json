@@ -1,0 +1,23 @@
+{
+    "dish_name": "italian herb bread",
+    "ingredients": [
+        "dry yeast",
+        "water",
+        "sugar",
+        "olive oil",
+        "sea salt",
+        "fresh basil",
+        "fresh oregano",
+        "garlic powder",
+        "onion powder",
+        "pecorino romano cheese",
+        "all-purpose flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

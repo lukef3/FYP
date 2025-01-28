@@ -1,0 +1,21 @@
+{
+    "dish_name": "balsamic chicken and mushrooms",
+    "ingredients": [
+        "teaspoons    vegetable oil",
+        "tablespoons    balsamic vinegar",
+        "Dijon mustard",
+        "garlic",
+        "boneless skinless chicken breasts",
+        "small mushrooms",
+        "chicken broth",
+        "white wine",
+        "dried thyme leaves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

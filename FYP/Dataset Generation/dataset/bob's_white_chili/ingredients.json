@@ -1,0 +1,20 @@
+{
+    "dish_name": "bob's white chili",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "chicken broth",
+        "great northern beans",
+        "onion",
+        "garlic",
+        "green chilies",
+        "ground cumin",
+        "ground oregano",
+        "salt",
+        "black pepper",
+        "cayenne pepper",
+        "green onion"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

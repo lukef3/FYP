@@ -1,0 +1,21 @@
+{
+    "dish_name": "peanut brittle",
+    "ingredients": [
+        "baking soda",
+        "water",
+        "vanilla",
+        "sugar",
+        "water",
+        "light corn syrup",
+        "margarine",
+        "butter",
+        "peanuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

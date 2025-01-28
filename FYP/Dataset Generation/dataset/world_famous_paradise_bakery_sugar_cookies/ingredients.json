@@ -1,0 +1,22 @@
+{
+    "dish_name": "world famous paradise bakery sugar cookies",
+    "ingredients": [
+        "granulated sugar",
+        "powdered sugar",
+        "shortening",
+        "vanilla",
+        "egg",
+        "cake flour",
+        "baking soda",
+        "baking powder",
+        "salt",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "dish_name": "louisiana crawfish casserole",
+    "ingredients": [
+        "crawfish tail",
+        "(10 3/4  ounce) can   French onion soup",
+        "(10 3/4  ounce) can   cream of mushroom soup",
+        "Rotel tomatoes & chilies",
+        "rice",
+        "butter",
+        "bell pepper",
+        "green onion",
+        "fresh parsley",
+        "celery",
+        "salt and pepper",
+        "monterey jack cheese",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

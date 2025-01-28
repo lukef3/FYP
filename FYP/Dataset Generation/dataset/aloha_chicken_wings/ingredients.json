@@ -1,0 +1,21 @@
+{
+    "dish_name": "aloha chicken wings",
+    "ingredients": [
+        "chicken wings",
+        "cup    pineapple preserves",
+        "dry sherry",
+        "cup    frozen orange juice concentrate",
+        "soy sauce",
+        "brown sugar",
+        "cup    vegetable oil",
+        "garlic powder",
+        "ground ginger"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

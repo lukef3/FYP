@@ -1,0 +1,19 @@
+{
+    "dish_name": "hot mamas",
+    "ingredients": [
+        "cheddar cheese",
+        "monterey jack cheese",
+        "(4   ounce) can   jalapeno peppers, chopped",
+        "eggs",
+        "evaporated milk",
+        "flour",
+        "cooking spray"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

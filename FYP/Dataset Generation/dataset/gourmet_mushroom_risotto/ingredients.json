@@ -1,0 +1,24 @@
+{
+    "dish_name": "gourmet mushroom risotto",
+    "ingredients": [
+        "chicken broth",
+        "tablespoons    oil",
+        "white mushrooms",
+        "shallots",
+        "arborio rice",
+        "dry white wine",
+        "White Wine Substitute (non-alcoholic Substitute)",
+        "salt",
+        "black pepper",
+        "chives",
+        "butter",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

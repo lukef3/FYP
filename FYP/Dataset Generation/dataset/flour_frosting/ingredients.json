@@ -1,0 +1,15 @@
+{
+    "dish_name": "flour frosting",
+    "ingredients": [
+        "flour",
+        "milk",
+        "shortening",
+        "margarine",
+        "sugar",
+        "vanilla",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

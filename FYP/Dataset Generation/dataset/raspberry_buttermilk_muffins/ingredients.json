@@ -1,0 +1,20 @@
+{
+    "dish_name": "raspberry buttermilk muffins",
+    "ingredients": [
+        "all-purpose flour",
+        "sugar",
+        "baking powder",
+        "salt",
+        "butter",
+        "egg",
+        "buttermilk",
+        "fresh raspberry"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

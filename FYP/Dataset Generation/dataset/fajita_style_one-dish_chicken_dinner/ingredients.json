@@ -1,0 +1,19 @@
+{
+    "dish_name": "fajita style one-dish chicken dinner",
+    "ingredients": [
+        "(1 1/4  ounce) package   fajita seasoning mix",
+        "boneless skinless chicken breasts",
+        "red pepper",
+        "yellow pepper",
+        "cheddar cheese",
+        "cooked rice",
+        "vegetable oil (for frying)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

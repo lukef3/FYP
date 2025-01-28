@@ -1,0 +1,19 @@
+{
+    "dish_name": "outrageously good broiled shrimp!",
+    "ingredients": [
+        "shrimp",
+        "butter",
+        "garlic salt",
+        "cup    unseasoned breadcrumbs",
+        "parmesan cheese",
+        "dried parsley",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

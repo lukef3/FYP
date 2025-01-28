@@ -1,0 +1,21 @@
+{
+    "dish_name": "kelly's french silk chocolate pie",
+    "ingredients": [
+        "8-inch graham cracker crust",
+        "unsalted butter",
+        "sugar",
+        "ounces    unsweetened chocolate squares",
+        "vanilla",
+        "eggs",
+        "Cool Whip",
+        "Plain Hershey Bar, room temp",
+        "maraschino cherry"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "perfectly chocolate hershey's hot cocoa",
+    "ingredients": [
+        "sugar",
+        "Splenda sugar substitute",
+        "teaspoons   hershey\"s cocoa",
+        "salt",
+        "milk",
+        "vanilla extract"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

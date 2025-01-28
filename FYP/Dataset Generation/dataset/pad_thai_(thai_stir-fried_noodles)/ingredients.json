@@ -1,0 +1,29 @@
+{
+    "dish_name": "pad thai (thai stir-fried noodles)",
+    "ingredients": [
+        "(454   g) package   rice noodles",
+        "boneless skinless chicken breasts",
+        "garlic",
+        "shallot",
+        "eggs",
+        "black pepper",
+        "tablespoons    vegetable oil, divided",
+        "brown sugar",
+        "oyster sauce",
+        "fish sauce",
+        "white vinegar",
+        "soy sauce",
+        "green onion",
+        "bean sprouts",
+        "roasted peanuts",
+        "fresh cilantro",
+        "fresh lime juice",
+        "jar    paad Thai sauce (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

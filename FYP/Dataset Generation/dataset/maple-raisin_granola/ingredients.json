@@ -1,0 +1,21 @@
+{
+    "dish_name": "maple-raisin granola",
+    "ingredients": [
+        "rolled oats",
+        "cup    slivered almonds",
+        "cashews",
+        "sweetened coconut",
+        "dark brown sugar",
+        "maple syrup",
+        "cup    vegetable oil",
+        "salt",
+        "raisins"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

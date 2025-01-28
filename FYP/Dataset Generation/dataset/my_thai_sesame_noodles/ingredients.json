@@ -1,0 +1,21 @@
+{
+    "dish_name": "my thai sesame noodles",
+    "ingredients": [
+        "spaghetti",
+        "peanut butter",
+        "soy sauce",
+        "tablespoons    seasoned rice wine vinegar",
+        "tablespoon    sesame oil",
+        "sambal oelek",
+        "honey",
+        "green onions",
+        "sesame seeds"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

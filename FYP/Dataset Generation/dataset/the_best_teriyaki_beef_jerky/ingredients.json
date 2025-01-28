@@ -1,0 +1,28 @@
+{
+    "dish_name": "the best teriyaki beef jerky",
+    "ingredients": [
+        "beef flank steak",
+        "Worcestershire sauce",
+        "cups    teriyaki sauce",
+        "liquid smoke",
+        "soy sauce",
+        "onion powder",
+        "garlic powder",
+        "cayenne powder",
+        "black pepper",
+        "sea salt",
+        "red pepper flakes",
+        "brown sugar",
+        "honey",
+        "maple syrup",
+        "bamboo skewers",
+        "aluminum foil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

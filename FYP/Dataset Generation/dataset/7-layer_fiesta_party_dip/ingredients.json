@@ -1,0 +1,22 @@
+{
+    "dish_name": "7-layer fiesta party dip",
+    "ingredients": [
+        "(16   ounce) cans   refried beans (nonfat, if you prefer)",
+        "salsa",
+        "(1   ounce) package  powdered taco seasoning (and cayenne, to taste)",
+        "sour cream",
+        "cups    guacamole",
+        "cheddar cheese",
+        "monterey jack cheese",
+        "roma tomatoes",
+        "black olives",
+        "green onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

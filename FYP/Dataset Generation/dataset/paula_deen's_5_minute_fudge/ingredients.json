@@ -1,0 +1,19 @@
+{
+    "dish_name": "paula deen's 5 minute fudge",
+    "ingredients": [
+        "white sugar",
+        "evaporated milk",
+        "unsalted butter",
+        "salt",
+        "(6   ounce) package   milk chocolate chips",
+        "marshmallows",
+        "pure vanilla extract",
+        "cup   chopped nuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

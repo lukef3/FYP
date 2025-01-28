@@ -1,0 +1,16 @@
+{
+    "dish_name": "grammie bea's special vanilla frosting",
+    "ingredients": [
+        "Crisco shortening",
+        "salt",
+        "vanilla",
+        "confectioners' sugar",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

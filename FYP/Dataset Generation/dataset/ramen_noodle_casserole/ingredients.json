@@ -1,0 +1,18 @@
+{
+    "dish_name": "ramen noodle casserole",
+    "ingredients": [
+        "lb    ground chuck",
+        "onion",
+        "diced tomatoes",
+        "(3   ounce) packages   beef-flavor ramen noodles",
+        "water",
+        "Velveeta cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

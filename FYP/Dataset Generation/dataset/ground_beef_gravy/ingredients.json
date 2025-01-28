@@ -1,0 +1,19 @@
+{
+    "dish_name": "ground beef gravy",
+    "ingredients": [
+        "ground beef",
+        "beef broth",
+        "onion",
+        "dried parsley flakes",
+        "dried basil",
+        "garlic powder",
+        "seasoning salt",
+        "pepper",
+        "cornstarch",
+        "mashed potatoes",
+        "cooked pasta"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "kittencal's almond biscotti",
+    "ingredients": [
+        "flour",
+        "baking powder",
+        "cup    unblanched whole almonds",
+        "eggs",
+        "sugar",
+        "butter",
+        "vanilla",
+        "teaspoon    almond extract",
+        "teaspoons   grated orange rind, finely grated",
+        "egg white, lightly beaten"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

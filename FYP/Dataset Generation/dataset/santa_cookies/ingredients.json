@@ -1,0 +1,18 @@
+{
+    "dish_name": "santa cookies",
+    "ingredients": [
+        "white chocolate baking squares",
+        "(1   lb) package   Nutter Butter sandwich cookies",
+        "red sugar crystals",
+        "white chocolate chips",
+        "miniature semisweet chocolate chips",
+        "red-hot candies"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "dish_name": "quinoa pudding",
+    "ingredients": [
+        "quinoa",
+        "water",
+        "eggs",
+        "egg whites",
+        "nonfat milk",
+        "non-fat powdered milk",
+        "vanilla",
+        "sugar",
+        "sugar",
+        "salt",
+        "cup    slivered almonds or 1/4  cup   chopped almonds",
+        "dried currant",
+        "cinnamon",
+        "cooking spray"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

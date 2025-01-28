@@ -1,0 +1,18 @@
+{
+    "dish_name": "pumpkin dog cookies",
+    "ingredients": [
+        "canned pumpkin",
+        "water",
+        "canola oil",
+        "ground cinnamon",
+        "oatmeal",
+        "whole wheat flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

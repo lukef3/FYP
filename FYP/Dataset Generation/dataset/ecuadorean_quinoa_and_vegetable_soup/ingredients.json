@@ -1,0 +1,27 @@
+{
+    "dish_name": "ecuadorean quinoa and vegetable soup",
+    "ingredients": [
+        "quinoa",
+        "olive oil",
+        "onions",
+        "salt",
+        "potato",
+        "red bell peppers",
+        "green bell pepper",
+        "ground coriander",
+        "ground cumin",
+        "dried oregano",
+        "pepper",
+        "water",
+        "fresh tomatoes",
+        "zucchini",
+        "fresh lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

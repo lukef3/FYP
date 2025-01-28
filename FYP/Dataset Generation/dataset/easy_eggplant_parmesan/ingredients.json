@@ -1,0 +1,19 @@
+{
+    "dish_name": "easy eggplant parmesan",
+    "ingredients": [
+        "eggplant",
+        "eggs",
+        "cups    seasoned dry bread crumbs",
+        "olive oil",
+        "cups    spaghetti sauce",
+        "mozzarella cheese",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

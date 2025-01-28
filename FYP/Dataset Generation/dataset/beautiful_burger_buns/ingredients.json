@@ -1,0 +1,21 @@
+{
+    "dish_name": "beautiful burger buns",
+    "ingredients": [
+        "water",
+        "butter",
+        "egg",
+        "unbleached flour",
+        "sugar",
+        "salt",
+        "quick-rising yeast",
+        "onion powder",
+        "teaspoon    dried onion flakes (onion)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

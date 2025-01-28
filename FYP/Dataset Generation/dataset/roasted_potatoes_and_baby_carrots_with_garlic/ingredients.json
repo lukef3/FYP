@@ -1,0 +1,18 @@
+{
+    "dish_name": "roasted potatoes and baby carrots with garlic",
+    "ingredients": [
+        "lbs    red potatoes, peeled and cut into about 2-inch pieces",
+        "cups    baby carrots (can use more or less)",
+        "garlic cloves",
+        "olive oil",
+        "coarse salt",
+        "fresh ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

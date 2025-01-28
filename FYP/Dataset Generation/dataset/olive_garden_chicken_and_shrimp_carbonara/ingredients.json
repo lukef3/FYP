@@ -1,0 +1,38 @@
+{
+    "dish_name": "olive garden chicken and shrimp carbonara",
+    "ingredients": [
+        "extra virgin olive oil",
+        "hot water",
+        "tablespoon    italian seasoning",
+        "garlic",
+        "shrimp",
+        "butter",
+        "garlic",
+        "bacon bits",
+        "all-purpose flour",
+        "parmesan cheese",
+        "heavy cream",
+        "milk",
+        "bacon",
+        "cooked pasta",
+        "black pepper",
+        "pasta",
+        "salt",
+        "romano cheese",
+        "parmesan cheese",
+        "mozzarella cheese",
+        "panko breadcrumbs",
+        "garlic",
+        "butter",
+        "parsley",
+        "cups    roasted red peppers, cut into small strips",
+        "bacon bits"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

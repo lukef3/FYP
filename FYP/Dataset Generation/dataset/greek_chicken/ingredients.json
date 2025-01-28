@@ -1,0 +1,21 @@
+{
+    "dish_name": "greek chicken",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "olive oil",
+        "tomatoes",
+        "frozen spinach",
+        "mushroom",
+        "onion",
+        "garlic",
+        "dry red wine",
+        "salt and pepper",
+        "oregano",
+        "black olives",
+        "green olives",
+        "feta cheese"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

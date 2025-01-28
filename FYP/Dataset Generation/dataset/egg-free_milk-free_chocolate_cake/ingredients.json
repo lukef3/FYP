@@ -1,0 +1,19 @@
+{
+    "dish_name": "egg-free milk-free chocolate cake",
+    "ingredients": [
+        "all-purpose flour",
+        "white sugar",
+        "tablespoons    cocoa",
+        "baking soda",
+        "baking powder",
+        "salt",
+        "canola oil",
+        "white vinegar",
+        "pure vanilla extract",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

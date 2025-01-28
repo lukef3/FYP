@@ -1,0 +1,17 @@
+{
+    "dish_name": "cinnamon applesauce pancakes",
+    "ingredients": [
+        "flour",
+        "baking powder",
+        "salt",
+        "sugar",
+        "water",
+        "cup    cinnamon applesauce",
+        "vanilla extract"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "dish_name": "beef taquitos (oamc)",
+    "ingredients": [
+        "lbs    roast",
+        "onion soup mix (optional)",
+        "cheddar cheese",
+        "garlic powder",
+        "onion powder",
+        "salsa",
+        "diced tomatoes",
+        "onion",
+        "corn tortillas",
+        "cheese sauce (optional)",
+        "salsa",
+        "sour cream",
+        "guacamole (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "dish_name": "fabulous penne a la vodka",
+    "ingredients": [
+        "olive oil",
+        "onion",
+        "crushed tomatoes",
+        "dried oregano",
+        "fresh basil leaves",
+        "dried basil leaves",
+        "salt",
+        "fresh ground pepper",
+        "butter",
+        "fresh white mushrooms",
+        "crushed red pepper flakes",
+        "vodka",
+        "heavy cream",
+        "kosher salt",
+        "rigatoni pasta",
+        "penne",
+        "dry parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

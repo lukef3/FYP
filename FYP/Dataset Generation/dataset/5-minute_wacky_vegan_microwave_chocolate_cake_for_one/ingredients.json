@@ -1,0 +1,21 @@
+{
+    "dish_name": "5-minute wacky vegan microwave chocolate cake for one",
+    "ingredients": [
+        "flour",
+        "sugar",
+        "tablespoon    unsweetened cocoa powder",
+        "baking soda",
+        "salt",
+        "tablespoon    vegetable oil",
+        "white vinegar",
+        "vanilla",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

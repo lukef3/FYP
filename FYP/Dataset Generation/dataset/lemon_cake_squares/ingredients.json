@@ -1,0 +1,19 @@
+{
+    "dish_name": "lemon cake squares",
+    "ingredients": [
+        "margarine",
+        "sugar",
+        "eggs",
+        "all-purpose flour",
+        "baking powder",
+        "salt",
+        "milk",
+        "vanilla",
+        "lemon juice",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

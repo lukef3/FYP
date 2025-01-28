@@ -1,0 +1,17 @@
+{
+    "dish_name": "easter nests with jelly bean eggs",
+    "ingredients": [
+        "cups    chow mein noodles",
+        "light corn syrup",
+        "sugar",
+        "peanut butter",
+        "jelly beans"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

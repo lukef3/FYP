@@ -1,0 +1,17 @@
+{
+    "dish_name": "sweet & savory broccoli salad",
+    "ingredients": [
+        "broccoli",
+        "onion",
+        "raisins",
+        "sunflower seeds",
+        "bacon",
+        "Miracle Whip",
+        "sugar",
+        "vinegar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "cheesy-garlic grilled zucchini",
+    "ingredients": [
+        "zucchini",
+        "butter",
+        "margarine",
+        "parmesan cheese",
+        "cheese",
+        "garlic",
+        "oregano",
+        "basil",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

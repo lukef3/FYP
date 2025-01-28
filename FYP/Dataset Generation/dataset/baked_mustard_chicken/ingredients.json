@@ -1,0 +1,18 @@
+{
+    "dish_name": "baked mustard chicken",
+    "ingredients": [
+        "chicken breast halves",
+        "brown mustard",
+        "cup    Italian breadcrumbs",
+        "margarine",
+        "lemon juice",
+        "white wine",
+        "paprika"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

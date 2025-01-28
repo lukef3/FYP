@@ -1,0 +1,21 @@
+{
+    "dish_name": "easy turkey chili - crock pot",
+    "ingredients": [
+        "ground turkey",
+        "onion",
+        "chilies",
+        "black beans",
+        "chickpeas",
+        "kidney beans",
+        "diced tomatoes",
+        "tomato sauce",
+        "chili powder"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

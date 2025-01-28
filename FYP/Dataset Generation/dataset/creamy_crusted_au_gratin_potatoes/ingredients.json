@@ -1,0 +1,19 @@
+{
+    "dish_name": "creamy crusted au gratin potatoes",
+    "ingredients": [
+        "russet potatoes",
+        "butter",
+        "all-purpose flour",
+        "salt",
+        "milk",
+        "cups    shredded cheddar cheese",
+        "paprika",
+        "cayenne"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

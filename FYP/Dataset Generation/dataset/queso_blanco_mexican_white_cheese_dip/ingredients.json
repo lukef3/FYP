@@ -1,0 +1,21 @@
+{
+    "dish_name": "queso blanco mexican white cheese dip",
+    "ingredients": [
+        "asadero cheese",
+        "chihuahua cheese",
+        "green chilies",
+        "half-and-half",
+        "onions",
+        "ground cumin",
+        "salt",
+        "serrano pepper, chopped fine  (optional)",
+        "fresh cilantro"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

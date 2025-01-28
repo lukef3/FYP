@@ -1,0 +1,18 @@
+{
+    "dish_name": "peanut butter pumpkins",
+    "ingredients": [
+        "butter",
+        "peanut butter",
+        "confectioners' sugar",
+        "red food coloring",
+        "yellow food coloring",
+        "green decorators icing"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

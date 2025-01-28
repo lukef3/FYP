@@ -1,0 +1,20 @@
+{
+    "dish_name": "brown sugar brownies (blondies)",
+    "ingredients": [
+        "margarine",
+        "milk",
+        "brown sugar",
+        "egg",
+        "flour",
+        "baking powder",
+        "salt",
+        "vanilla",
+        "cup    nuts (or other mix-ins) (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

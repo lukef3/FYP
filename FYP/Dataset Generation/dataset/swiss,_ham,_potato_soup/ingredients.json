@@ -1,0 +1,17 @@
+{
+    "dish_name": "swiss, ham, potato soup",
+    "ingredients": [
+        "potatoes",
+        "margarine",
+        "flour",
+        "green onions",
+        "milk",
+        "swiss cheese",
+        "cooked ham",
+        "salt and black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

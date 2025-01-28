@@ -1,0 +1,22 @@
+{
+    "dish_name": "pumpkin bread pudding (low fat)",
+    "ingredients": [
+        "slices    whole wheat bread",
+        "egg substitute",
+        "skim milk",
+        "pumpkin",
+        "brown sugar",
+        "cinnamon",
+        "pumpkin pie spice",
+        "nutmeg",
+        "vanilla",
+        "raisins"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

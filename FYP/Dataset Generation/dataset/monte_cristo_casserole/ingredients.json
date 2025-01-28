@@ -1,0 +1,23 @@
+{
+    "dish_name": "monte cristo casserole",
+    "ingredients": [
+        "nonfat milk",
+        "eggs",
+        "egg substitute",
+        "(12 1/2  ounce) packages   frozen French toast, slices,thawed",
+        "deli ham",
+        "ounces    deli turkey, diced",
+        "swiss cheese",
+        "fresh parsley",
+        "powdered sugar",
+        "fresh strawberries",
+        "cup    strawberry ice cream topping"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

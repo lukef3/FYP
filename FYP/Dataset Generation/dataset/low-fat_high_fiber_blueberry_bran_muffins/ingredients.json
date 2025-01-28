@@ -1,0 +1,23 @@
+{
+    "dish_name": "low-fat high fiber blueberry bran muffins",
+    "ingredients": [
+        "cups    wheat bran (I used oat bran)",
+        "nonfat milk",
+        "unsweetened applesauce",
+        "egg",
+        "brown sugar",
+        "vanilla extract",
+        "all-purpose flour",
+        "whole wheat flour",
+        "baking soda",
+        "baking powder",
+        "salt",
+        "blueberries"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

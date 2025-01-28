@@ -1,0 +1,25 @@
+{
+    "dish_name": "mexican-style green chile chicken casserole",
+    "ingredients": [
+        "butter",
+        "onion",
+        "garlic",
+        "jalapeno pepper, seeded and finely chopped  (optional)",
+        "chicken broth",
+        "green chilies",
+        "cumin",
+        "(10   ounce) cans   cream of chicken soup, undiluted",
+        "salt and pepper",
+        "corn tortillas",
+        "cups    cooked chicken (or use cooked turkey)",
+        "cheddar cheese",
+        "monterey jack and cheddar cheese blend"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

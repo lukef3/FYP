@@ -1,0 +1,23 @@
+{
+    "dish_name": "easy italian sausage and peppers",
+    "ingredients": [
+        "italian sweet sausage",
+        "olive oil",
+        "onion",
+        "large    red peppers, seeded and sliced",
+        "green pepper",
+        "garlic cloves",
+        "salt and pepper, to taste",
+        "crushed red pepper flakes",
+        "dried oregano",
+        "Italian rolls",
+        "mustard"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

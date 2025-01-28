@@ -1,0 +1,15 @@
+{
+    "dish_name": "sweet butternut squash",
+    "ingredients": [
+        "medium    butternut squash",
+        "brown sugar",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

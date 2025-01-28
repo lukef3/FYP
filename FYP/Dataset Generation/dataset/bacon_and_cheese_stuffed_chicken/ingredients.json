@@ -1,0 +1,22 @@
+{
+    "dish_name": "bacon and cheese stuffed chicken",
+    "ingredients": [
+        "boneless skinless chicken breast halves",
+        "bacon",
+        "sharp cheddar cheese",
+        "salt",
+        "pepper",
+        "paprika",
+        "olive oil",
+        "cornstarch",
+        "reduced-sodium chicken broth",
+        "parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

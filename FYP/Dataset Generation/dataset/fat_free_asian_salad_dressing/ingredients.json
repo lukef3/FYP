@@ -1,0 +1,16 @@
+{
+    "dish_name": "fat free asian salad dressing",
+    "ingredients": [
+        "garlic cloves",
+        "fresh ginger",
+        "soy sauce",
+        "red wine vinegar",
+        "sugar",
+        "drops    sesame oil",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

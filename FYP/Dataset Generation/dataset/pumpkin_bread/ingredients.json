@@ -1,0 +1,19 @@
+{
+    "dish_name": "pumpkin bread",
+    "ingredients": [
+        "flour",
+        "baking soda",
+        "salt",
+        "cinnamon",
+        "sugar",
+        "pumpkin",
+        "eggs",
+        "cups    cooking oil",
+        "cup    nuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

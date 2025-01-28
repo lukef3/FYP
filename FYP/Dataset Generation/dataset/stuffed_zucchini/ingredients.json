@@ -1,0 +1,23 @@
+{
+    "dish_name": "stuffed zucchini",
+    "ingredients": [
+        "fresh zucchini",
+        "onion",
+        "olive oil",
+        "fresh mushrooms",
+        "garlic clove",
+        "cream cheese",
+        "egg",
+        "parmesan cheese",
+        "fresh parsley",
+        "pepper",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

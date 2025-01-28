@@ -1,0 +1,17 @@
+{
+    "dish_name": "simple apple crisp",
+    "ingredients": [
+        "apples",
+        "cinnamon",
+        "nutmeg",
+        "water",
+        "lemon juice",
+        "butter",
+        "sugar",
+        "flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

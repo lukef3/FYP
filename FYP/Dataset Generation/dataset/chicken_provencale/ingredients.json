@@ -1,0 +1,23 @@
+{
+    "dish_name": "chicken provencale",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "butter",
+        "olive oil",
+        "onion",
+        "green onions",
+        "garlic",
+        "tomatoes",
+        "bay leaf",
+        "oregano",
+        "cumin",
+        "chili powder",
+        "diced green chilies",
+        "ripe olives",
+        "red wine",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

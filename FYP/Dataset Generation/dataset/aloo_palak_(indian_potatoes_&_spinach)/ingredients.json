@@ -1,0 +1,26 @@
+{
+    "dish_name": "aloo palak (indian potatoes & spinach)",
+    "ingredients": [
+        "spinach",
+        "garlic cloves",
+        "fresh ginger",
+        "onions",
+        "green chili",
+        "potatoes",
+        "turmeric",
+        "ghee",
+        "butter",
+        "cumin seed",
+        "garam masala",
+        "ground coriander",
+        "ground cumin",
+        "tablespoon    fresh cream (optional)",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

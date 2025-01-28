@@ -1,0 +1,23 @@
+{
+    "dish_name": "creamy macaroni & cheese - for two or one",
+    "ingredients": [
+        "pasta",
+        "butter",
+        "salt",
+        "ground black pepper",
+        "onion",
+        "flour",
+        "milk",
+        "sharp cheddar cheese",
+        "sharp cheddar cheese",
+        "chives",
+        "red pepper flakes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

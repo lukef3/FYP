@@ -1,0 +1,21 @@
+{
+    "dish_name": "absolute best most excellent soft oatmeal raisin cookies",
+    "ingredients": [
+        "raisins",
+        "butter",
+        "brown sugar",
+        "eggs",
+        "flour",
+        "baking soda",
+        "baking powder",
+        "cinnamon",
+        "oatmeal"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

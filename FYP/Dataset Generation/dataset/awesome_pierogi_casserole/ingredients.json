@@ -1,0 +1,22 @@
+{
+    "dish_name": "awesome pierogi casserole",
+    "ingredients": [
+        "potatoes",
+        "milk",
+        "butter",
+        "bacon",
+        "onion",
+        "garlic",
+        "ounces packages   lasagna noodles",
+        "cheddar cheese",
+        "salt and pepper",
+        "sour cream",
+        "fresh chives"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

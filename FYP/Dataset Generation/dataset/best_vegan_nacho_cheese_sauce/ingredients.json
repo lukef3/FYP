@@ -1,0 +1,21 @@
+{
+    "dish_name": "best vegan nacho cheese sauce",
+    "ingredients": [
+        "water",
+        "raw cashews",
+        "lemons, juice of",
+        "paprika",
+        "garlic powder",
+        "onion powder",
+        "salt",
+        "pimientos",
+        "nutritional yeast"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

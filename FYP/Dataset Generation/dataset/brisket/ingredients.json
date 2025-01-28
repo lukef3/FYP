@@ -1,0 +1,22 @@
+{
+    "dish_name": "brisket",
+    "ingredients": [
+        "beef brisket",
+        "liquid smoke",
+        "soy sauce",
+        "garlic powder",
+        "celery seeds",
+        "pepper",
+        "Worcestershire sauce",
+        "lemon juice",
+        "onion powder",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

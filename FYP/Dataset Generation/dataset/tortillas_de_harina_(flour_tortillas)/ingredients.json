@@ -1,0 +1,18 @@
+{
+    "dish_name": "tortillas de harina (flour tortillas)",
+    "ingredients": [
+        "flour",
+        "shortening",
+        "baking powder",
+        "salt",
+        "sugar",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

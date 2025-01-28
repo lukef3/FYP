@@ -1,0 +1,23 @@
+{
+    "dish_name": "stir fried garlic beef with broccoli",
+    "ingredients": [
+        "lb    round steak, thinly sliced",
+        "garlic",
+        "medium sherry",
+        "cornstarch",
+        "lite olive oil",
+        "broccoli",
+        "cup    chicken stock",
+        "green onions",
+        "small mushrooms",
+        "soy sauce",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

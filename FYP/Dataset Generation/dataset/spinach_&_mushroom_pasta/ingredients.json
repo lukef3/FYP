@@ -1,0 +1,23 @@
+{
+    "dish_name": "spinach & mushroom pasta",
+    "ingredients": [
+        "ounces    rotini noodles",
+        "olive oil",
+        "garlic",
+        "onion",
+        "fresh thyme",
+        "fresh mushrooms",
+        "all-purpose flour",
+        "milk",
+        "fresh spinach",
+        "fresh basil",
+        "salt",
+        "fresh ground pepper",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

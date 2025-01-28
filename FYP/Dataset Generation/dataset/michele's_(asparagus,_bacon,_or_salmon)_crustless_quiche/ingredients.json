@@ -1,0 +1,22 @@
+{
+    "dish_name": "michele's (asparagus, bacon, or salmon) crustless quiche",
+    "ingredients": [
+        "eggs",
+        "milk",
+        "butter",
+        "cheddar cheese",
+        "onion",
+        "self-rising flour",
+        "salt & pepper",
+        "asparagus",
+        "salmon",
+        "bacon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

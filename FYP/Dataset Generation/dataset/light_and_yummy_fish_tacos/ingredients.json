@@ -1,0 +1,24 @@
+{
+    "dish_name": "light and yummy fish tacos",
+    "ingredients": [
+        "halibut fillets",
+        "olive oil",
+        "green cabbage",
+        "cup   chopped white onion",
+        "English cucumber",
+        "cilantro",
+        "lime, juice of",
+        "salt and pepper",
+        "Chunky Guacamole",
+        "salsa",
+        "Salsa Fresca",
+        "corn tortillas",
+        "Corn Tortillas"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "bruschetta pasta",
+    "ingredients": [
+        "linguine",
+        "roma tomatoes",
+        "green onions",
+        "minced garlic cloves",
+        "basil leaves",
+        "olive oil",
+        "parmesan cheese",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "dish_name": "smothered pork chops",
+    "ingredients": [
+        "brown sugar",
+        "salt",
+        "pepper",
+        "sage",
+        "pork chops, 3/4 inch thick",
+        "all-purpose flour",
+        "olive oil",
+        "butter",
+        "onion",
+        "garlic clove",
+        "ounces    sliced mushrooms",
+        "cups    chicken stock",
+        "tomato paste",
+        "Worcestershire sauce",
+        "heavy cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

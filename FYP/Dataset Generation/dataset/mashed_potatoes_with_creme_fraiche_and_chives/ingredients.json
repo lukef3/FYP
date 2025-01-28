@@ -1,0 +1,19 @@
+{
+    "dish_name": "mashed potatoes with creme fraiche and chives",
+    "ingredients": [
+        "yukon gold potatoes",
+        "cups    whole milk",
+        "unsalted butter",
+        "kosher salt",
+        "creme fraiche",
+        "chives",
+        "kosher salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

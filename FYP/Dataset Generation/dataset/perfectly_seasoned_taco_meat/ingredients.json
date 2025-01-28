@@ -1,0 +1,21 @@
+{
+    "dish_name": "perfectly seasoned taco meat",
+    "ingredients": [
+        "ground beef",
+        "tablespoons    dried onion flakes (dried, or 1 fresh, medium onion, chopped)",
+        "chili powder",
+        "basil",
+        "oregano",
+        "garlic powder",
+        "salt",
+        "pepper",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

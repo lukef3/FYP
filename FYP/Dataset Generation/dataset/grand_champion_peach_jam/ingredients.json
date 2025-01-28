@@ -1,0 +1,23 @@
+{
+    "dish_name": "grand champion peach jam",
+    "ingredients": [
+        "cups   pitted peeled, chopped, slightly mashed peaches",
+        "fresh lemon juice",
+        "tablespoons    powdered fruit pectin",
+        "sugar",
+        "crystallized ginger",
+        "gingerroot",
+        "nutmeg",
+        "ground cinnamon",
+        "ground cloves",
+        "ground allspice",
+        "lemon, zest of"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

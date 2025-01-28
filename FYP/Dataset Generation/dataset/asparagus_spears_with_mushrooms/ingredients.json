@@ -1,0 +1,16 @@
+{
+    "dish_name": "asparagus spears with mushrooms",
+    "ingredients": [
+        "asparagus spear",
+        "butter",
+        "fresh mushrooms",
+        "Dijon mustard",
+        "fresh ground black pepper",
+        "garlic",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

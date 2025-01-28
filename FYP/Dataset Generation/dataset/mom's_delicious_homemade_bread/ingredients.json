@@ -1,0 +1,19 @@
+{
+    "dish_name": "mom's delicious homemade bread",
+    "ingredients": [
+        "warm water",
+        "active dry yeast",
+        "cup    oil",
+        "honey",
+        "salt",
+        "egg",
+        "all-purpose flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

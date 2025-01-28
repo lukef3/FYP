@@ -1,0 +1,18 @@
+{
+    "dish_name": "indian cucumber salad",
+    "ingredients": [
+        "cucumbers",
+        "plain low-fat yogurt",
+        "fresh lemon juice",
+        "sugar",
+        "ground cumin",
+        "mint"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

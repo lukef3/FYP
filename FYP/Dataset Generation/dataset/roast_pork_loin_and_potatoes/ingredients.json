@@ -1,0 +1,19 @@
+{
+    "dish_name": "roast pork loin and potatoes",
+    "ingredients": [
+        "extra virgin olive oil",
+        "garlic cloves",
+        "butter",
+        "sage",
+        "fresh rosemary",
+        "lbs   center-cut bone-in pork loin roast (rib)",
+        "russet potatoes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

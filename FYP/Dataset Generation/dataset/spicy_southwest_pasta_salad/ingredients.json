@@ -1,0 +1,23 @@
+{
+    "dish_name": "spicy southwest pasta salad",
+    "ingredients": [
+        "bow tie pasta",
+        "hardboiled egg, chopped",
+        "celery",
+        "salsa",
+        "scallions",
+        "buttermilk",
+        "Miracle Whip",
+        "garlic powder",
+        "cayenne pepper",
+        "salt",
+        "fresh ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dish_name": "coleslaw",
+    "ingredients": [
+        "napa cabbage",
+        "carrots",
+        "apple cider vinegar",
+        "honey",
+        "salt",
+        "mayonnaise",
+        "Dijon mustard",
+        "celery seed"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

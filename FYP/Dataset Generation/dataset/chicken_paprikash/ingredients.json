@@ -1,0 +1,15 @@
+{
+    "dish_name": "chicken paprikash",
+    "ingredients": [
+        "chicken",
+        "onion",
+        "paprika",
+        "butter",
+        "chicken broth",
+        "sour cream",
+        "flour"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

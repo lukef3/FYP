@@ -1,0 +1,18 @@
+{
+    "dish_name": "parmesan roasted asparagus",
+    "ingredients": [
+        "fresh asparagus",
+        "olive oil",
+        "kosher salt",
+        "ground black pepper",
+        "parmesan cheese",
+        "lemon wedge"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

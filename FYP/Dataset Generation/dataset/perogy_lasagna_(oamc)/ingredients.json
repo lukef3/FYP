@@ -1,0 +1,20 @@
+{
+    "dish_name": "perogy lasagna (oamc)",
+    "ingredients": [
+        "cooked lasagna noodles",
+        "cottage cheese",
+        "egg",
+        "teaspoon    onion salt",
+        "cheddar cheese",
+        "mashed potatoes",
+        "bacon bits",
+        "onion",
+        "bacon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

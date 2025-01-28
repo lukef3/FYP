@@ -1,0 +1,16 @@
+{
+    "dish_name": "microwave scalloped potatoes",
+    "ingredients": [
+        "milk",
+        "(10   ounce) can   cream of mushroom soup",
+        "potatoes",
+        "cheddar cheese",
+        "onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

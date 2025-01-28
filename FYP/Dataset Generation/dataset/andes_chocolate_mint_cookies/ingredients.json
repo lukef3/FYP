@@ -1,0 +1,21 @@
+{
+    "dish_name": "andes chocolate mint cookies",
+    "ingredients": [
+        "butter",
+        "brown sugar",
+        "water",
+        "ounces    semi-sweet chocolate chips",
+        "eggs",
+        "flour",
+        "salt",
+        "baking soda",
+        "Andes mints candies, broken in half"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

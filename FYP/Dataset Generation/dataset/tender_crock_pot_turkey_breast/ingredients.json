@@ -1,0 +1,16 @@
+{
+    "dish_name": "tender crock pot turkey breast",
+    "ingredients": [
+        "lbs    boneless turkey breast",
+        "chicken broth",
+        "butter",
+        "Worcestershire sauce",
+        "thyme"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

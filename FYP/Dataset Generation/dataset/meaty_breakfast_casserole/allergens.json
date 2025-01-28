@@ -1,0 +1,22 @@
+{
+    "dish_name": "meaty breakfast casserole",
+    "allergens": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

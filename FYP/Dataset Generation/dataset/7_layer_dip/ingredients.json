@@ -1,0 +1,21 @@
+{
+    "dish_name": "7 layer dip",
+    "ingredients": [
+        "ounces    refried beans",
+        "(1 1/4  ounce) package   taco seasoning",
+        "sour cream",
+        "cup    guacamole",
+        "salsa",
+        "lettuce",
+        "cup    Mexican blend cheese",
+        "ounces   sliced olives",
+        "tomatoes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

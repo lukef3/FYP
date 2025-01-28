@@ -1,0 +1,14 @@
+{
+    "dish_name": "dangerously delicious microwave chocolate pudding for one!",
+    "ingredients": [
+        "milk",
+        "cornstarch",
+        "salt",
+        "chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

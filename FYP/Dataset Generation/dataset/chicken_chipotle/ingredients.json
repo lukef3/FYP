@@ -1,0 +1,21 @@
+{
+    "dish_name": "chicken chipotle",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "yellow onion",
+        "garlic cloves",
+        "salt",
+        "cream cheese",
+        "milk",
+        "canned chipotle chiles",
+        "salt and pepper",
+        "paprika"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

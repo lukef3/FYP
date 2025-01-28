@@ -1,0 +1,27 @@
+{
+    "dish_name": "saag chicken",
+    "ingredients": [
+        "skinless chicken pieces",
+        "tablespoons    oil",
+        "spinach",
+        "water",
+        "tablespoons    oil",
+        "gingerroot",
+        "garlic cloves",
+        "onions",
+        "crushed tomatoes",
+        "salt",
+        "cayenne pepper",
+        "ground coriander",
+        "turmeric powder",
+        "whole cloves",
+        "cardamom pods",
+        "water",
+        "milk",
+        "garam masala",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

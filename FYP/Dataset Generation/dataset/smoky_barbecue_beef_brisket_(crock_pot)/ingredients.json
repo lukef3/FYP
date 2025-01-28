@@ -1,0 +1,24 @@
+{
+    "dish_name": "smoky barbecue beef brisket (crock pot)",
+    "ingredients": [
+        "beef brisket",
+        "chili powder",
+        "garlic powder",
+        "celery seed",
+        "pepper",
+        "catsup",
+        "chili sauce",
+        "brown sugar",
+        "vinegar",
+        "Worcestershire sauce",
+        "liquid smoke",
+        "dry mustard"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

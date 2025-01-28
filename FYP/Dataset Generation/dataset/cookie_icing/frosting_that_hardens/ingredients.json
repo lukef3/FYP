@@ -1,0 +1,18 @@
+{
+    "dish_name": "cookie icing/frosting that hardens",
+    "ingredients": [
+        "confectioners' sugar",
+        "low-fat milk",
+        "corn syrup",
+        "teaspoon    almond extract",
+        "vanilla",
+        "food coloring (use colors of choice)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

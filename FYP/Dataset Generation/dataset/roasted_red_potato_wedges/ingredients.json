@@ -1,0 +1,15 @@
+{
+    "dish_name": "roasted red potato wedges",
+    "ingredients": [
+        "large    red potatoes, cut into wedges",
+        "butter",
+        "parmesan cheese",
+        "garlic",
+        "salt",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

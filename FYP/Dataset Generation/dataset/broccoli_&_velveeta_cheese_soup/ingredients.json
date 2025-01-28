@@ -1,0 +1,21 @@
+{
+    "dish_name": "broccoli & velveeta cheese soup",
+    "ingredients": [
+        "cooking spray",
+        "onion",
+        "garlic cloves",
+        "cups    fat-free low-sodium chicken broth",
+        "broccoli florets",
+        "1% low-fat milk",
+        "all-purpose flour",
+        "black pepper",
+        "light processed cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

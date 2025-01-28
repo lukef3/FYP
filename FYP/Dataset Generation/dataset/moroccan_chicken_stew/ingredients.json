@@ -1,0 +1,24 @@
+{
+    "dish_name": "moroccan chicken stew",
+    "ingredients": [
+        "chicken broth",
+        "tomato paste",
+        "ground cumin",
+        "salt",
+        "teaspoon    ground red pepper (cayenne)",
+        "ground cinnamon",
+        "raisins",
+        "onion",
+        "fresh garlic",
+        "lbs    butternut squash, peeled, seeded, and cut into 1 1/2 inch chunks  (5 cups)",
+        "frozen green peas",
+        "chickpeas",
+        "skinless chicken thighs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

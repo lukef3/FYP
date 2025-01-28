@@ -1,0 +1,23 @@
+{
+    "dish_name": "bow ties alfredo with ham and peas (or broccoli)",
+    "ingredients": [
+        "bow tie pasta",
+        "broccoli florets",
+        "flour",
+        "milk",
+        "butter",
+        "garlic cloves",
+        "cream cheese",
+        "parmesan cheese",
+        "salt",
+        "black pepper",
+        "lean ham"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "oven baked white rice,  perfect every time!",
+    "ingredients": [
+        "butter",
+        "olive oil",
+        "onion",
+        "long-grain white rice",
+        "cups    chicken stock or 2   cups    vegetable stock",
+        "salt",
+        "fresh ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

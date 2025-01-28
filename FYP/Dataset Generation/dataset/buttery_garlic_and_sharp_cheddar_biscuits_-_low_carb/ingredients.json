@@ -1,0 +1,19 @@
+{
+    "dish_name": "buttery garlic and sharp cheddar biscuits - low carb",
+    "ingredients": [
+        "butter",
+        "cup   sifted coconut flour",
+        "eggs",
+        "salt",
+        "garlic powder",
+        "baking powder",
+        "sharp cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "mango muffins",
+    "ingredients": [
+        "flour",
+        "baking powder",
+        "salt",
+        "sugar",
+        "honey",
+        "cup    vegetable oil",
+        "milk",
+        "egg",
+        "mango"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

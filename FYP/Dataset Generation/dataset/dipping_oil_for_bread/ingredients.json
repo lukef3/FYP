@@ -1,0 +1,18 @@
+{
+    "dish_name": "dipping oil for bread",
+    "ingredients": [
+        "extra virgin olive oil",
+        "cup    balsamic vinegar",
+        "parmesan cheese",
+        "dried basil",
+        "salt",
+        "pepper",
+        "garlic",
+        "crusty bread"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "amazing baked lemon garlic chicken thighs and potatoes",
+    "ingredients": [
+        "chicken thighs",
+        "garlic cloves",
+        "salt",
+        "russet potatoes",
+        "salt and pepper",
+        "lemon, juice of",
+        "olive oil",
+        "chicken broth"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "lemon chive rice",
+    "ingredients": [
+        "margarine",
+        "onion",
+        "rice",
+        "curry",
+        "turmeric",
+        "lemon zest",
+        "chicken broth",
+        "chives",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "dish_name": "nat's always requested garlic butter",
+    "ingredients": [
+        "salted butter",
+        "dried parsley",
+        "fresh ground pepper",
+        "garlic",
+        "salt",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

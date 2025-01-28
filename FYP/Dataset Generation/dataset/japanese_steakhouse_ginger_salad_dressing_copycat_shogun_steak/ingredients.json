@@ -1,0 +1,24 @@
+{
+    "dish_name": "japanese steakhouse ginger salad dressing copycat shogun steak",
+    "ingredients": [
+        "onion",
+        "cup    peanut oil",
+        "rice vinegar",
+        "water",
+        "fresh ginger",
+        "celery",
+        "ketchup",
+        "soy sauce",
+        "sugar",
+        "lemon juice",
+        "garlic",
+        "salt",
+        "fresh ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

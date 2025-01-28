@@ -1,0 +1,17 @@
+{
+    "dish_name": "soy balsamic chicken thighs",
+    "ingredients": [
+        "soy sauce",
+        "tablespoons    balsamic vinegar",
+        "sugar",
+        "garlic cloves",
+        "salt",
+        "pepper",
+        "chicken thighs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

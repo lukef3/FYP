@@ -1,0 +1,20 @@
+{
+    "dish_name": "delicious zucchini casserole",
+    "ingredients": [
+        "zucchini",
+        "butter",
+        "cheddar cheese",
+        "sour cream",
+        "salt",
+        "paprika",
+        "chives",
+        "cup    breadcrumbs or 1   cup   crushed cracker",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

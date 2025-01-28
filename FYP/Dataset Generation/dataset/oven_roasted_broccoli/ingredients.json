@@ -1,0 +1,18 @@
+{
+    "dish_name": "oven roasted broccoli",
+    "ingredients": [
+        "broccoli",
+        "olive oil",
+        "garlic cloves",
+        "red pepper flakes",
+        "salt and pepper",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

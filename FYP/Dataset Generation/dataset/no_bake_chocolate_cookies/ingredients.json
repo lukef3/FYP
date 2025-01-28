@@ -1,0 +1,16 @@
+{
+    "dish_name": "no bake chocolate cookies",
+    "ingredients": [
+        "cup    cocoa",
+        "sugar",
+        "milk",
+        "margarine",
+        "peanut butter",
+        "quick-cooking oatmeal",
+        "vanilla",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "lentil & bacon soup",
+    "ingredients": [
+        "dried lentils",
+        "cold water",
+        "tomatoes",
+        "bacon",
+        "onion",
+        "carrots",
+        "parsley",
+        "wine vinegar",
+        "garlic clove",
+        "salt",
+        "dried oregano",
+        "pepper",
+        "bay leaf"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

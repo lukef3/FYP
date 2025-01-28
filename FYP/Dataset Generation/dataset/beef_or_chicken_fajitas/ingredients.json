@@ -1,0 +1,26 @@
+{
+    "dish_name": "beef or chicken fajitas",
+    "ingredients": [
+        "garlic powder",
+        "seasoning salt",
+        "ground cumin",
+        "chili powder",
+        "crushed red pepper flakes",
+        "tablespoons    vegetable oil",
+        "lemon juice",
+        "beef",
+        "chicken",
+        "tablespoons    vegetable oil",
+        "onion",
+        "green pepper",
+        "flour tortillas",
+        "avocados",
+        "salsa",
+        "sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

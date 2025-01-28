@@ -1,0 +1,19 @@
+{
+    "dish_name": "crispy fried eggplant (aubergine)",
+    "ingredients": [
+        "eggplant",
+        "eggs",
+        "salt",
+        "fresh breadcrumb",
+        "parmesan cheese",
+        "cornstarch",
+        "oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

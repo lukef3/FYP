@@ -1,0 +1,20 @@
+{
+    "dish_name": "anniversary chicken",
+    "ingredients": [
+        "tablespoons    vegetable oil",
+        "boneless skinless chicken breast halves",
+        "cup    teriyaki sauce (I recommend low-sodium, it seems to be too salty with regular teriyaki)",
+        "cup    ranch salad dressing",
+        "cheddar cheese",
+        "green onions",
+        "bacon bits",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

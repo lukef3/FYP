@@ -1,0 +1,22 @@
+{
+    "dish_name": "sesame roasted green beans",
+    "ingredients": [
+        "green beans",
+        "olive oil",
+        "salt",
+        "pepper",
+        "garlic",
+        "ground ginger",
+        "honey",
+        "teaspoon    sesame oil",
+        "hot red pepper flakes",
+        "toasted sesame seeds"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

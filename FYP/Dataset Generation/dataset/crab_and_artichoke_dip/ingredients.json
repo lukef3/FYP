@@ -1,0 +1,24 @@
+{
+    "dish_name": "crab and artichoke dip",
+    "ingredients": [
+        "mayonnaise",
+        "sour cream",
+        "cup   extra old cheddar cheese, grated",
+        "parmesan cheese",
+        "lemon",
+        "artichoke hearts",
+        "lb    crabmeat, picked over for shells  or  (7   ounce) cans   crab, well drained and squeezed",
+        "garlic clove",
+        "coarse grain mustard",
+        "Dijon mustard",
+        "fresh dill",
+        "dried dill"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

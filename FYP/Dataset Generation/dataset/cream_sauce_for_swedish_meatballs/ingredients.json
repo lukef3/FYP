@@ -1,0 +1,18 @@
+{
+    "dish_name": "cream sauce for swedish meatballs",
+    "ingredients": [
+        "pint    cream",
+        "pint    beef stock",
+        "soy sauce",
+        "white flour",
+        "water",
+        "salt",
+        "white pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

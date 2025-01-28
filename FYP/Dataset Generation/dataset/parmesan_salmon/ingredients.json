@@ -1,0 +1,15 @@
+{
+    "dish_name": "parmesan salmon",
+    "ingredients": [
+        "mayonnaise",
+        "parmesan cheese",
+        "green onion",
+        "white wine worcestershire sauce",
+        "salmon fillet"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

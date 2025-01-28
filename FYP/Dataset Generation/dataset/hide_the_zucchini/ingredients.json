@@ -1,0 +1,21 @@
+{
+    "dish_name": "hide the zucchini",
+    "ingredients": [
+        "zucchini",
+        "onion",
+        "butter",
+        "eggs",
+        "salt",
+        "pepper",
+        "sharp cheddar cheese",
+        "extra-sharp cheddar cheese",
+        "flour",
+        "baking soda",
+        "baking powder"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

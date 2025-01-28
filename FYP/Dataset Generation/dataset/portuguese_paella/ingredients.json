@@ -1,0 +1,31 @@
+{
+    "dish_name": "portuguese paella",
+    "ingredients": [
+        "skinless chicken thighs",
+        "fresh rosemary",
+        "dried rosemary",
+        "salt",
+        "fresh ground black pepper",
+        "canola oil",
+        "link    Portuguese chourico, sliced in rounds",
+        "onion",
+        "red bell pepper",
+        "arborio rice",
+        "medium grain rice",
+        "plum tomato",
+        "sweet paprika",
+        "saffron thread",
+        "garlic clove",
+        "chicken broth",
+        "large shrimp",
+        "asparagus",
+        "cup    frozen peas, thawed"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

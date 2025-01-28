@@ -1,0 +1,22 @@
+{
+    "dish_name": "broccoli and cheese stuffed chicken breast",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "broccoli",
+        "butter",
+        "flour",
+        "milk",
+        "cheddar cheese",
+        "cream cheese",
+        "cheddar cheese",
+        "salt and pepper",
+        "garlic powder"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "balsamic roasted asparagus",
+    "ingredients": [
+        "asparagus spears",
+        "cooking spray",
+        "salt",
+        "pepper",
+        "butter",
+        "soy sauce",
+        "teaspoon    balsamic vinegar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "halibut onion crunch",
+    "ingredients": [
+        "halibut fillets",
+        "tablespoons    oil",
+        "lemon juice",
+        "marjoram",
+        "garlic powder",
+        "dry mustard",
+        "kosher salt",
+        "fresh ground pepper",
+        "parmesan cheese",
+        "tablespoons   canned crumbled French's French fried onions"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

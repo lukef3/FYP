@@ -1,0 +1,26 @@
+{
+    "dish_name": "orange pumpkin bread",
+    "ingredients": [
+        "shortening",
+        "sugar",
+        "eggs",
+        "all-purpose flour",
+        "baking soda",
+        "baking powder",
+        "salt",
+        "ground cinnamon",
+        "ground cloves",
+        "pumpkin",
+        "water",
+        "cup    orange juice",
+        "raisins",
+        "teaspoons   grated orange rind"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

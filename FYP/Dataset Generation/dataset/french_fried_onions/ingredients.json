@@ -1,0 +1,17 @@
+{
+    "dish_name": "french fried onions",
+    "ingredients": [
+        "onions",
+        "milk",
+        "all-purpose flour",
+        "oil (for frying)",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

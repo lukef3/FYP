@@ -1,0 +1,21 @@
+{
+    "dish_name": "slow cooked shredded beef tacos",
+    "ingredients": [
+        "boneless beef chuck roast",
+        "onion",
+        "water",
+        "(1 1/4  ounce) package   taco seasoning mix",
+        "(16   ounce) jar   taco sauce",
+        "green chilies",
+        "package    taco shell (12)",
+        "lettuce",
+        "chopped tomato",
+        "cheddar cheese",
+        "sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

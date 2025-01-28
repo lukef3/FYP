@@ -1,0 +1,23 @@
+{
+    "dish_name": "like mom's pineapple upside down cake",
+    "ingredients": [
+        "butter",
+        "brown sugar",
+        "pineapple slices",
+        "eggs",
+        "sugar",
+        "milk",
+        "cup    pineapple juice (or can use 1/2 cup pineapple juice-omit milk)",
+        "vanilla",
+        "flour",
+        "baking powder",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

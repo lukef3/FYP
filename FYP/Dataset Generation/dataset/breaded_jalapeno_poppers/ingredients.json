@@ -1,0 +1,19 @@
+{
+    "dish_name": "breaded jalapeno poppers",
+    "ingredients": [
+        "cream cheese",
+        "monterey jack pepper cheese",
+        "jalapeno peppers, seeded and halved",
+        "milk",
+        "all-purpose flour",
+        "cup    dry breadcrumbs",
+        "oil (for frying)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

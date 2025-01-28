@@ -1,0 +1,18 @@
+{
+    "dish_name": "cheesy eggplant (aubergine) pesto stacks",
+    "ingredients": [
+        "eggplant",
+        "salt",
+        "pesto sauce",
+        "mozzarella cheese",
+        "fresh parmesan cheese",
+        "romano cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

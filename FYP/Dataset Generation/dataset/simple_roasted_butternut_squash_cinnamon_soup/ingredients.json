@@ -1,0 +1,24 @@
+{
+    "dish_name": "simple roasted butternut squash cinnamon soup",
+    "ingredients": [
+        "butter",
+        "onion",
+        "garlic cloves",
+        "large    butternut squash (at least 2 1/2 lbs)",
+        "heavy cream",
+        "half-and-half",
+        "fresh ginger",
+        "chicken broth",
+        "cinnamon",
+        "salt",
+        "pepper",
+        "sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

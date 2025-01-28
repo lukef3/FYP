@@ -1,0 +1,20 @@
+{
+    "dish_name": "gluten free pumpkin bread",
+    "ingredients": [
+        "butter",
+        "sugar",
+        "eggs",
+        "vanilla",
+        "pumpkin",
+        "cups    gluten-free flour, blend  (recipe below)",
+        "pumpkin pie spice",
+        "baking soda",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

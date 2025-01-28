@@ -1,0 +1,28 @@
+{
+    "dish_name": "beef of eye-round roast",
+    "ingredients": [
+        "beef eye round",
+        "water",
+        "red wine",
+        "bay leaves",
+        "tablespoons    au jus mix",
+        "tablespoons    au jus mix (for sauce)",
+        "Dijon mustard",
+        "garlic",
+        "onions",
+        "onion powder",
+        "dried basil",
+        "dried rosemary",
+        "dried tarragon",
+        "salt",
+        "salt",
+        "ground black pepper",
+        "black pepper",
+        "extra virgin olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

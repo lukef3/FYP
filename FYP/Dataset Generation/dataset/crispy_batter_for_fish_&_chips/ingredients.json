@@ -1,0 +1,15 @@
+{
+    "dish_name": "crispy batter for fish & chips",
+    "ingredients": [
+        "all-purpose flour",
+        "baking powder",
+        "salt",
+        "water",
+        "cod fish fillets"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

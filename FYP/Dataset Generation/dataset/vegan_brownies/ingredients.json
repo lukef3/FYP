@@ -1,0 +1,23 @@
+{
+    "dish_name": "vegan brownies",
+    "ingredients": [
+        "flour",
+        "water",
+        "brown sugar",
+        "white sugar",
+        "salt",
+        "vanilla",
+        "cocoa powder",
+        "cup    vegetable oil",
+        "baking powder",
+        "cup    nuts (optional)",
+        "chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

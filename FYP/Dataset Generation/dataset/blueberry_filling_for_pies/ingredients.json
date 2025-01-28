@@ -1,0 +1,17 @@
+{
+    "dish_name": "blueberry filling for pies",
+    "ingredients": [
+        "blueberries",
+        "sugar",
+        "lemon juice",
+        "cornstarch",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

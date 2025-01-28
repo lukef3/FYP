@@ -1,0 +1,22 @@
+{
+    "dish_name": "belizean style habanero sauce - hot sauce",
+    "ingredients": [
+        "onion",
+        "garlic cloves",
+        "carrot",
+        "water",
+        "habanero peppers",
+        "lime juice",
+        "white vinegar",
+        "salt",
+        "papayas",
+        "mango"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

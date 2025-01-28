@@ -1,0 +1,23 @@
+{
+    "dish_name": "lemon cookies iii",
+    "ingredients": [
+        "white sugar",
+        "shortening",
+        "eggs",
+        "vanilla extract",
+        "milk",
+        "teaspoon    lemon extract",
+        "all-purpose flour",
+        "baking powder",
+        "salt",
+        "confectioners' sugar",
+        "water",
+        "teaspoons    lemon extract"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

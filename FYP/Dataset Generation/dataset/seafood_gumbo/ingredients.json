@@ -1,0 +1,30 @@
+{
+    "dish_name": "seafood gumbo",
+    "ingredients": [
+        "undefined",
+        "cup    oil",
+        "flour",
+        "onions",
+        "celery",
+        "okra",
+        "chicken broth",
+        "whole tomatoes",
+        "garlic",
+        "bay leaves",
+        "tablespoons    crab boil, tied in cheesecloth",
+        "salt & pepper",
+        "hot pepper sauce",
+        "raw shrimp",
+        "lb    crabmeat or 2   cans    crabmeat",
+        "pint    oyster (OPTIONAL)",
+        "lb   firm white fish fillet (halibut, white fish, cod)",
+        "file powder"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

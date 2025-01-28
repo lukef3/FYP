@@ -1,0 +1,18 @@
+{
+    "dish_name": "honey pizza dough  (awesome)",
+    "ingredients": [
+        "active dry yeast",
+        "honey",
+        "warm water",
+        "all-purpose flour",
+        "salt",
+        "extra virgin olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

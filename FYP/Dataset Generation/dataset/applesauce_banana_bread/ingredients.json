@@ -1,0 +1,21 @@
+{
+    "dish_name": "applesauce banana bread",
+    "ingredients": [
+        "bananas",
+        "sugar",
+        "applesauce",
+        "vanilla extract",
+        "eggs",
+        "baking soda",
+        "baking powder",
+        "salt",
+        "flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dish_name": "greek yoghurt and fruit salad",
+    "ingredients": [
+        "g    Greek yogurt, 8 oz  (FAGE brand is available overseas, you can get a variety of fat contents, they are all delicious or y)",
+        "fresh fruit salad, of your choice  (try to use a variety of fresh, seasonal fruit, cut into little pieces)",
+        "honey",
+        "walnut pieces",
+        "cinnamon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

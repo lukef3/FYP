@@ -1,0 +1,23 @@
+{
+    "dish_name": "rice pudding -- mexican style, arroz con leche",
+    "ingredients": [
+        "long-grain white rice",
+        "water",
+        "cinnamon sticks",
+        "ground cinnamon",
+        "lime peel",
+        "salt",
+        "milk",
+        "egg",
+        "sugar",
+        "raisins",
+        "vanilla extract"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "bacon deviled eggs",
+    "ingredients": [
+        "hard-boiled eggs",
+        "slices   crisp cooked bacon, crumbled",
+        "butter",
+        "onions",
+        "tablespoons    sweet pickle relish, drained well",
+        "yellow mustard",
+        "salt and pepper",
+        "mayonnaise"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

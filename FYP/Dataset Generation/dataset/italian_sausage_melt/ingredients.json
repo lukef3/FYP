@@ -1,0 +1,19 @@
+{
+    "dish_name": "italian sausage melt",
+    "ingredients": [
+        "hot Italian sausage",
+        "mild Italian sausage",
+        "green peppers",
+        "cups    pasta sauce, your favorite",
+        "mozzarella cheese",
+        "provolone cheese",
+        "panini buns, split in half"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

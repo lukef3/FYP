@@ -1,0 +1,24 @@
+{
+    "dish_name": "curried red lentils",
+    "ingredients": [
+        "red lentil",
+        "onion",
+        "teaspoons    vegetable oil",
+        "curry paste",
+        "ground turmeric",
+        "ground cumin",
+        "chili powder",
+        "salt",
+        "sugar",
+        "garlic",
+        "fresh ginger",
+        "tomato puree"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "dish_name": "cajun chicken pasta",
+    "ingredients": [
+        "linguine",
+        "boneless skinless chicken breasts",
+        "teaspoons    cajun seasoning (or to taste)",
+        "butter",
+        "margarine",
+        "green bell pepper",
+        "red bell pepper",
+        "mushrooms",
+        "green onion",
+        "heavy cream",
+        "salt",
+        "dried basil",
+        "lemon pepper",
+        "garlic powder",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

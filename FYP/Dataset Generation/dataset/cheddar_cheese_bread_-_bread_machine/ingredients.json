@@ -1,0 +1,19 @@
+{
+    "dish_name": "cheddar cheese bread - bread machine",
+    "ingredients": [
+        "package    yeast",
+        "bread flour",
+        "cup    nonfat dry milk powder",
+        "butter",
+        "salt",
+        "sugar",
+        "water",
+        "sharp cheddar cheese",
+        "parmesan cheese",
+        "coarse black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

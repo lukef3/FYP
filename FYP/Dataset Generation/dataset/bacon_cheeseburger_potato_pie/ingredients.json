@@ -1,0 +1,28 @@
+{
+    "dish_name": "bacon cheeseburger potato pie",
+    "ingredients": [
+        "lean ground beef",
+        "cup    plain breadcrumbs",
+        "onion",
+        "ketchup",
+        "prepared mustard",
+        "salt",
+        "bacon",
+        "water",
+        "margarine",
+        "butter",
+        "teaspoon    garlic salt (I use garlic powder though, and extra of it)",
+        "milk",
+        "instant mashed potatoes",
+        "cheddar cheese",
+        "tomatoes",
+        "green onions"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

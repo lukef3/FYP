@@ -1,0 +1,22 @@
+{
+    "dish_name": "thai rice noodles with chicken and asparagus",
+    "ingredients": [
+        "lb    rice noodles",
+        "tablespoons    oil",
+        "garlic cloves",
+        "boneless skinless chicken",
+        "tablespoon    chili-garlic sauce",
+        "fish sauce",
+        "salt",
+        "soy sauce",
+        "brown sugar",
+        "asparagus spear"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

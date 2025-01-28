@@ -1,0 +1,23 @@
+{
+    "dish_name": "baked pasta with asparagus (pasta al forno con asparagi)",
+    "allergens": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

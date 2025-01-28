@@ -1,0 +1,23 @@
+{
+    "dish_name": "cheesy french bread onion soup",
+    "ingredients": [
+        "butter",
+        "cooking onions",
+        "sugar",
+        "all-purpose flour",
+        "dry white wine",
+        "beef broth",
+        "pepper",
+        "slices    day-old French bread",
+        "swiss cheese",
+        "parmesan cheese",
+        "paprika"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "dish_name": "chicken in balsamic barbecue sauce",
+    "ingredients": [
+        "chicken breasts",
+        "onion",
+        "olive oil",
+        "cup    balsamic vinegar",
+        "sugar",
+        "ketchup",
+        "Worcestershire sauce",
+        "green onions",
+        "chicken bouillon cube",
+        "salt",
+        "pepper",
+        "dry mustard",
+        "garlic cloves",
+        "Tabasco sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

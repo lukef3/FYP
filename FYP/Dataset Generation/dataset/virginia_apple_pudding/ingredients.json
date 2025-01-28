@@ -1,0 +1,20 @@
+{
+    "dish_name": "virginia apple pudding",
+    "ingredients": [
+        "apples",
+        "sugar",
+        "baking powder",
+        "cinnamon",
+        "flour",
+        "salt",
+        "milk",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "oreo cookie turkeys",
+    "ingredients": [
+        "Oreo Double Stuff cookies",
+        "miniature peanut butter cups",
+        "malted milk balls",
+        "cup    candy corn",
+        "ounces    chocolate frosting",
+        "ounces    white frosting",
+        "red food coloring"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

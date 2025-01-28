@@ -1,0 +1,13 @@
+{
+    "dish_name": "salt potatoes new york style",
+    "ingredients": [
+        "small potatoes",
+        "water",
+        "salt",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

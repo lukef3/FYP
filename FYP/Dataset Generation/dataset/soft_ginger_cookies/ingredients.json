@@ -1,0 +1,23 @@
+{
+    "dish_name": "soft ginger cookies",
+    "ingredients": [
+        "all-purpose flour",
+        "ginger",
+        "baking soda",
+        "ground cinnamon",
+        "ground cloves",
+        "salt",
+        "butter",
+        "sugar",
+        "egg",
+        "molasses",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

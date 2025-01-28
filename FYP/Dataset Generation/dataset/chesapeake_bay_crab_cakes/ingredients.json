@@ -1,0 +1,28 @@
+{
+    "dish_name": "chesapeake bay crab cakes",
+    "ingredients": [
+        "onion",
+        "green bell peppers",
+        "butter",
+        "margarine",
+        "fresh crabmeat",
+        "cup    fine dry breadcrumb",
+        "egg",
+        "mayonnaise",
+        "dried parsley flakes",
+        "lemon juice",
+        "Worcestershire sauce",
+        "teaspoon    Old Bay Seasoning",
+        "dry mustard",
+        "cayenne pepper",
+        "cup    fine dry breadcrumb",
+        "vegetable oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

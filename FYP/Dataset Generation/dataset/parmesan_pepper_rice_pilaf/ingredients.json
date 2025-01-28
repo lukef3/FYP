@@ -1,0 +1,17 @@
+{
+    "dish_name": "parmesan pepper rice pilaf",
+    "ingredients": [
+        "converted rice",
+        "chicken broth",
+        "olive oil",
+        "crushed red pepper flakes",
+        "parmesan cheese",
+        "fresh ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

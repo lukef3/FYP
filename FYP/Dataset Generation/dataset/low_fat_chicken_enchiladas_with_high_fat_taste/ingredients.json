@@ -1,0 +1,23 @@
+{
+    "dish_name": "low fat chicken enchiladas with high fat taste.",
+    "ingredients": [
+        "boneless skinless chicken breast",
+        "fresh cilantro",
+        "fat free salsa",
+        "low-fat cream cheese",
+        "nonfat sour cream",
+        "green onions",
+        "cumin",
+        "green chilies",
+        "jalapeno pepper, seeded and finely chopped  (optional)",
+        "low-fat cheddar cheese",
+        "tortillas"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

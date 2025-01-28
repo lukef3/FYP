@@ -1,0 +1,17 @@
+{
+    "dish_name": "chicken satay kabobs",
+    "ingredients": [
+        "boneless chicken breasts",
+        "creamy peanut butter",
+        "soy sauce",
+        "brown sugar",
+        "curry powder",
+        "garlic",
+        "tablespoon    hot pepper sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

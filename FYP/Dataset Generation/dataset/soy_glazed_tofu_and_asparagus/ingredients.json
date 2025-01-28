@@ -1,0 +1,18 @@
+{
+    "dish_name": "soy glazed tofu and asparagus",
+    "ingredients": [
+        "tablespoons    sesame oil",
+        "teaspoon   cayenne chili pepper flakes",
+        "asparagus",
+        "extra firm tofu",
+        "button mushroom",
+        "garlic",
+        "granulated sugar",
+        "soy sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

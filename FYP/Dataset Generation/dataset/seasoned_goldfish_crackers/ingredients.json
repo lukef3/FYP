@@ -1,0 +1,19 @@
+{
+    "dish_name": "seasoned goldfish crackers",
+    "ingredients": [
+        "ounces   cheddar cheese goldfish crackers",
+        "ounce    ranch dressing mix",
+        "dill weed",
+        "garlic powder",
+        "lemon-pepper seasoning",
+        "cayenne pepper",
+        "cup    vegetable oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

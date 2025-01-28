@@ -1,0 +1,20 @@
+{
+    "dish_name": "garlic lentil soup",
+    "ingredients": [
+        "red lentil",
+        "onions",
+        "garlic cloves",
+        "carrot",
+        "olive oil",
+        "bay leaves",
+        "dried marjoram",
+        "oregano",
+        "cups    vegetable stock",
+        "red wine vinegar",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

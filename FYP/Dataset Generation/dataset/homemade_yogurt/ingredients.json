@@ -1,0 +1,14 @@
+{
+    "dish_name": "homemade yogurt",
+    "ingredients": [
+        "gallon    whole milk (can use lowfat or skim milk)",
+        "cup    mahdzoon or 1/2  cup    yogurt starter (off the shelf of the supermarket plain yogurt will do as long as it contains \"live cultures\")"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "dish_name": "kittencal's creamy macaroni and cheese",
+    "ingredients": [
+        "elbow macaroni",
+        "butter",
+        "garlic cloves",
+        "onion powder",
+        "mustard powder",
+        "cayenne pepper",
+        "flour",
+        "half-and-half cream",
+        "cups   old shredded cheddar cheese",
+        "Velveeta cheese",
+        "salt & freshly ground black pepper (to taste)",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

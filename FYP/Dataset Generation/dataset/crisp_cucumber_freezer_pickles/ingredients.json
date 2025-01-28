@@ -1,0 +1,17 @@
+{
+    "dish_name": "crisp cucumber freezer pickles",
+    "ingredients": [
+        "cucumbers",
+        "sweet onion",
+        "green pepper",
+        "red sweet pepper",
+        "pickling salt",
+        "celery seed",
+        "white vinegar",
+        "white sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

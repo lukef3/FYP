@@ -1,0 +1,22 @@
+{
+    "dish_name": "southern fried cabbage with sausage",
+    "ingredients": [
+        "butter",
+        "bacon fat",
+        "green cabbage",
+        "onion",
+        "smoked sausage",
+        "diced tomatoes",
+        "teaspoon    garlic salt, to taste",
+        "teaspoon    Tony Chachere's Seasoning, to taste  (optional)",
+        "salt",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

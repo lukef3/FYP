@@ -1,0 +1,24 @@
+{
+    "dish_name": "gluten-free rolls",
+    "ingredients": [
+        "shortening",
+        "honey",
+        "eggs",
+        "packet    yeast (about 1 T)",
+        "sour cream",
+        "potato starch",
+        "cornstarch",
+        "baking soda",
+        "baking powder",
+        "xanthan gum",
+        "salt",
+        "vinegar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

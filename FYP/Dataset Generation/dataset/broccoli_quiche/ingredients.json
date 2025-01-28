@@ -1,0 +1,21 @@
+{
+    "dish_name": "broccoli quiche",
+    "ingredients": [
+        "unbaked pie shell",
+        "butter",
+        "onion",
+        "garlic",
+        "fresh broccoli",
+        "cheese",
+        "eggs",
+        "skim evaporated milk",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

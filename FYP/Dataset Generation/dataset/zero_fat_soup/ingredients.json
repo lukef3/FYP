@@ -1,0 +1,30 @@
+{
+    "dish_name": "zero fat soup",
+    "ingredients": [
+        "vegetable broth",
+        "vegetarian chicken broth",
+        "cups    diced onions",
+        "celery",
+        "carrot",
+        "green beans",
+        "green cabbage",
+        "red bell pepper",
+        "garlic cloves",
+        "diced tomatoes with juice",
+        "soy sauce",
+        "cider vinegar",
+        "dried basil",
+        "dried oregano",
+        "dried dill",
+        "dried thyme",
+        "ground black pepper",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

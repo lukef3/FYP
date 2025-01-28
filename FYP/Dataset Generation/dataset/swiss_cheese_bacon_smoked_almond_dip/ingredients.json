@@ -1,0 +1,19 @@
+{
+    "dish_name": "swiss cheese bacon smoked almond dip",
+    "ingredients": [
+        "bacon",
+        "cream cheese",
+        "mayonnaise",
+        "dijon-style mustard",
+        "swiss cheese",
+        "green onions",
+        "cup    smoked almonds, Chopped"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "easy peanut butter buttercream frosting",
+    "ingredients": [
+        "unsalted butter",
+        "cup    smooth peanut butter, don't use old-fashioned or natural brand",
+        "confectioners' sugar",
+        "table salt",
+        "vanilla extract",
+        "heavy cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

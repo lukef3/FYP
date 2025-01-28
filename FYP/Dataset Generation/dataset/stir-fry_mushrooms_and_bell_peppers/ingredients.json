@@ -1,0 +1,20 @@
+{
+    "dish_name": "stir-fry mushrooms and bell peppers",
+    "ingredients": [
+        "olive oil",
+        "green onions",
+        "garlic cloves",
+        "bell peppers",
+        "champignon mushrooms",
+        "tablespoon    chinese rice wine",
+        "soy sauce",
+        "teaspoon    sesame oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

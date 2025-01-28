@@ -1,0 +1,21 @@
+{
+    "dish_name": "quinoa stir fry with spinach & walnuts",
+    "ingredients": [
+        "quinoa",
+        "extra virgin olive oil",
+        "minced garlic clove",
+        "walnut pieces",
+        "baby spinach leaves",
+        "grape tomatoes",
+        "cherry tomatoes",
+        "parmigiano-reggiano cheese",
+        "fresh basil leaf"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

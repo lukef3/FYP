@@ -1,0 +1,18 @@
+{
+    "dish_name": "stuffed dill pickles",
+    "ingredients": [
+        "dill pickles",
+        "kosher dill pickles",
+        "cream cheese",
+        "onion",
+        "garlic cloves",
+        "Tabasco sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

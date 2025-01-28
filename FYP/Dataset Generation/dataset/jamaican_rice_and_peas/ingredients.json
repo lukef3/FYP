@@ -1,0 +1,26 @@
+{
+    "dish_name": "jamaican rice and peas",
+    "ingredients": [
+        "red kidney beans",
+        "water",
+        "water",
+        "coconut cream",
+        "fresh thyme leaves",
+        "ground allspice",
+        "scallions",
+        "cup    white onion, chopped",
+        "minced garlic cloves",
+        "black pepper",
+        "kosher salt",
+        "scotch bonnet pepper",
+        "brown sugar",
+        "long grain rice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

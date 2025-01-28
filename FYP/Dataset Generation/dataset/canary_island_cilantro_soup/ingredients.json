@@ -1,0 +1,21 @@
+{
+    "dish_name": "canary island cilantro soup",
+    "ingredients": [
+        "onion",
+        "tomatoes",
+        "garlic",
+        "potatoes",
+        "rice",
+        "fresh cilantro",
+        "green pepper",
+        "bouillon cubes",
+        "sea salt",
+        "paprika",
+        "olive oil",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

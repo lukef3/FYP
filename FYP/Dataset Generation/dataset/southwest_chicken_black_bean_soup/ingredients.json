@@ -1,0 +1,27 @@
+{
+    "dish_name": "southwest chicken black bean soup",
+    "ingredients": [
+        "boneless skinless chicken breast",
+        "crushed tomatoes",
+        "chicken broth",
+        "black beans",
+        "green bell pepper",
+        "red bell pepper",
+        "onion",
+        "lemon juice",
+        "slices    jalapeno peppers (the pickled kind from a jar)",
+        "margarine",
+        "season salt",
+        "bay leaf",
+        "tarragon",
+        "oregano",
+        "cinnamon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

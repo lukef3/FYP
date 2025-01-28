@@ -1,0 +1,20 @@
+{
+    "dish_name": "eggstatic egg salad",
+    "ingredients": [
+        "eggs",
+        "celery",
+        "fresh chives",
+        "fresh Italian parsley",
+        "coarse black pepper",
+        "teaspoon    balsamic vinegar",
+        "mayonnaise",
+        "24 -40   slices    rye bread or 24 -40   slices    crackers"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

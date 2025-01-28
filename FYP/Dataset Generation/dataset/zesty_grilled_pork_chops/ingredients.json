@@ -1,0 +1,18 @@
+{
+    "dish_name": "zesty grilled pork chops",
+    "ingredients": [
+        "soy sauce",
+        "lemon juice",
+        "chili sauce",
+        "brown sugar",
+        "garlic powder",
+        "ribs (3/4 inch thick) or 6       pork loin chops (3/4 inch thick)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "dish_name": "easy orange marmalade",
+    "ingredients": [
+        "navel orange",
+        "water",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

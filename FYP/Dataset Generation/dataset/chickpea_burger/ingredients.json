@@ -1,0 +1,24 @@
+{
+    "dish_name": "chickpea burger",
+    "ingredients": [
+        "carrot",
+        "garlic clove",
+        "chickpeas",
+        "ground cumin",
+        "ground coriander",
+        "salt & pepper",
+        "egg",
+        "plain flour",
+        "oil (for frying)",
+        "slices    whole wheat bread (cut in round shapes)",
+        "tomatoes",
+        "red onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

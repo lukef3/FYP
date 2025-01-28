@@ -1,0 +1,21 @@
+{
+    "dish_name": "jolean's chicken broccoli casserole",
+    "ingredients": [
+        "chicken breasts",
+        "(8   ounce) package   frozen broccoli florets",
+        "herb seasoned stuffing mix",
+        "oleo",
+        "(10 1/2  ounce) can   cream of chicken soup",
+        "Hellmann's mayonnaise",
+        "cup   broccoli juice (reserved from cooking the broccoli)",
+        "lemon juice",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

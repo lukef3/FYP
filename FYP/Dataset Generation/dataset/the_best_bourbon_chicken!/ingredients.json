@@ -1,0 +1,21 @@
+{
+    "dish_name": "the best bourbon chicken!",
+    "ingredients": [
+        "lbs    boneless chicken thighs",
+        "soy sauce",
+        "rice vinegar",
+        "Bourbon",
+        "brown sugar",
+        "scallion",
+        "powdered ginger",
+        "garlic cloves",
+        "tablespoons    peanut oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "batter-fried shrimp",
+    "ingredients": [
+        "shrimp",
+        "cup    oil",
+        "egg",
+        "all-purpose flour",
+        "milk",
+        "seasoning salt",
+        "salt",
+        "oil (for deep frying)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

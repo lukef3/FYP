@@ -1,0 +1,19 @@
+{
+    "dish_name": "mean chef's steak au poivre",
+    "ingredients": [
+        "(6 -8   ounce)    New York strip steaks or 4       sirloin steaks, 3/4 inch thick, patted dry",
+        "salt",
+        "black peppercorns",
+        "peppercorn",
+        "olive oil",
+        "red wine",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

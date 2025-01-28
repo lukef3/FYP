@@ -1,0 +1,23 @@
+{
+    "dish_name": "hawaiian banana nut bread",
+    "ingredients": [
+        "flour",
+        "salt",
+        "baking soda",
+        "sugar",
+        "cinnamon",
+        "eggs",
+        "cup    oil",
+        "bananas",
+        "crushed pineapple with juice",
+        "vanilla",
+        "walnuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "lemon roast potatoes",
+    "ingredients": [
+        "cups    chicken stock",
+        "olive oil",
+        "lemon juice",
+        "dry mustard",
+        "salt and pepper",
+        "potatoes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

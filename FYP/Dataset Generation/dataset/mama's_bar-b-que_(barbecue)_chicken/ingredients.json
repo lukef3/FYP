@@ -1,0 +1,23 @@
+{
+    "dish_name": "mama's bar-b-que (barbecue) chicken",
+    "ingredients": [
+        "chicken",
+        "cup    salad oil",
+        "onion",
+        "celery",
+        "ketchup",
+        "water",
+        "lemon juice",
+        "brown sugar",
+        "Worcestershire sauce",
+        "vinegar",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

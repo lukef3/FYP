@@ -1,0 +1,18 @@
+{
+    "dish_name": "best ever egg & cheese sandwich",
+    "ingredients": [
+        "egg",
+        "margarine",
+        "slices    bread (multigrain is best)",
+        "tablespoon    Cheez Whiz (or your favorite cheese)",
+        "salt and pepper (to taste)",
+        "red pepper flakes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

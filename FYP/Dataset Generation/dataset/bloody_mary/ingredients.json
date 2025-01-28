@@ -1,0 +1,22 @@
+{
+    "dish_name": "bloody mary",
+    "ingredients": [
+        "vodka",
+        "tomato juice",
+        "lemon, juice of",
+        "Worcestershire sauce",
+        "Tabasco sauce",
+        "pepper",
+        "salt",
+        "teaspoon    celery salt",
+        "tablespoon    prepared horseradish (optional)",
+        "green onions"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

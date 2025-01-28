@@ -1,0 +1,20 @@
+{
+    "dish_name": "cornbread-low carb",
+    "ingredients": [
+        "cup    almond flour (OR 1/2 c almond flour & 1/2 c hazelnut flour)",
+        "baking powder",
+        "eggs",
+        "tablespoons    cream",
+        "water",
+        "butter",
+        "Splenda sugar substitute",
+        "honey"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

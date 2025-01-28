@@ -1,0 +1,22 @@
+{
+    "dish_name": "armenian nutmeg cake",
+    "ingredients": [
+        "brown sugar",
+        "plain flour",
+        "baking powder",
+        "salt",
+        "butter",
+        "baking soda",
+        "milk",
+        "egg",
+        "ground nutmeg",
+        "walnuts",
+        "pecans",
+        "ground cinnamon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "awesome and simple italian garlicky meatloaf",
+    "ingredients": [
+        "cup    seasoned bread crumbs",
+        "dry parmesan cheese",
+        "parsley",
+        "garlic",
+        "salt",
+        "fresh ground pepper",
+        "ground beef",
+        "eggs",
+        "ketchup"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

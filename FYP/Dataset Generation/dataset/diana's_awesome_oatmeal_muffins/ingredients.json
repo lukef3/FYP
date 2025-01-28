@@ -1,0 +1,17 @@
+{
+    "dish_name": "diana's awesome oatmeal muffins",
+    "ingredients": [
+        "rolled oats",
+        "tea",
+        "pumpkin puree",
+        "bananas",
+        "salt",
+        "baking powder",
+        "baking soda",
+        "flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "dish_name": "thai beef pitas",
+    "ingredients": [
+        "lean ground beef",
+        "red bell peppers",
+        "fresh ginger",
+        "garlic cloves",
+        "red pepper flakes",
+        "cilantro",
+        "peanut butter",
+        "soy sauce",
+        "tablespoon    sesame oil",
+        "lime, juice of",
+        "green onions",
+        "pita pockets, whole",
+        "romaine lettuce leaf"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

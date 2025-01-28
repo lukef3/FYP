@@ -1,0 +1,18 @@
+{
+    "dish_name": "low carb chicken parmesan",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "cup    no-sugar-added spaghetti sauce (I use Hunt's No Added Sugar Italian Baking Sauce or Classico Spicy Red Pepper Spaghetti Sauce)",
+        "mozzarella cheese",
+        "parmesan cheese",
+        "garlic salt, to taste",
+        "italian seasoning, to taste"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

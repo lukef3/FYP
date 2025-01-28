@@ -1,0 +1,26 @@
+{
+    "dish_name": "chicken broccoli alfredo soup",
+    "ingredients": [
+        "onion",
+        "garlic cloves",
+        "butter",
+        "flour",
+        "low sodium chicken broth",
+        "half-and-half cream",
+        "parmesan cheese",
+        "water",
+        "broccoli",
+        "boneless chicken breasts",
+        "white pepper",
+        "salt",
+        "nutmeg",
+        "bow tie pasta"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

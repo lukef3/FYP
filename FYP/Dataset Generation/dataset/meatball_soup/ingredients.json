@@ -1,0 +1,26 @@
+{
+    "dish_name": "meatball soup",
+    "ingredients": [
+        "water",
+        "small    meatballs",
+        "tomato sauce",
+        "beef bouillon cubes",
+        "dried oregano",
+        "dried basil",
+        "dried thyme",
+        "salt",
+        "black pepper",
+        "celery",
+        "carrots",
+        "garlic",
+        "elbow macaroni",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

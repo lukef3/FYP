@@ -1,0 +1,20 @@
+{
+    "dish_name": "the best french salad dressing",
+    "ingredients": [
+        "cup    vegetable oil",
+        "ketchup",
+        "sugar",
+        "white vinegar",
+        "yellow onion",
+        "lemon juice",
+        "paprika",
+        "teaspoon    garlic salt (or to taste or use 1-2 teaspoons fresh minced garlic and 1/2 teaspoon white salt)",
+        "fresh ground black pepper",
+        "mayonnaise"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

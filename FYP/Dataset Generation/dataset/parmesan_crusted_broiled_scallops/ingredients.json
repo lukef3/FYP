@@ -1,0 +1,18 @@
+{
+    "dish_name": "parmesan crusted broiled scallops",
+    "ingredients": [
+        "cup   finely crushed onion flavoured melba toast, about 9",
+        "parmesan cheese",
+        "fresh parsley",
+        "paprika",
+        "sea scallops",
+        "butter",
+        "lemon wedge"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

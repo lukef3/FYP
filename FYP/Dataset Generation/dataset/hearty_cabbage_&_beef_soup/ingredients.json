@@ -1,0 +1,23 @@
+{
+    "dish_name": "hearty cabbage & beef soup",
+    "ingredients": [
+        "lean ground beef",
+        "teaspoon    garlic salt",
+        "garlic powder",
+        "pepper",
+        "celery ribs",
+        "kidney beans",
+        "cabbage",
+        "tomatoes",
+        "water",
+        "beef bouillon cubes",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

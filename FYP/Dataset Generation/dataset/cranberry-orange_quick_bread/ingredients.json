@@ -1,0 +1,26 @@
+{
+    "dish_name": "cranberry-orange quick bread",
+    "ingredients": [
+        "all-purpose flour",
+        "sugar",
+        "baking powder",
+        "salt",
+        "baking soda",
+        "margarine",
+        "butter",
+        "orange zest",
+        "cup    orange juice",
+        "egg",
+        "cranberries",
+        "cup    nuts (optional)",
+        "tablespoon    orange juice",
+        "powdered sugar",
+        "enough extra orange juice, to reach drizzling consistency"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

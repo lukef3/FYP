@@ -1,0 +1,19 @@
+{
+    "dish_name": "easy chicken noodle soup",
+    "ingredients": [
+        "chicken broth",
+        "boneless skinless chicken",
+        "cups   uncooked egg noodles",
+        "carrot",
+        "onion",
+        "celery",
+        "dill weed",
+        "ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "honey ginger glazed chicken",
+    "ingredients": [
+        "tablespoons    vegetable oil",
+        "onion",
+        "boneless skinless chicken thighs",
+        "garlic",
+        "ginger",
+        "honey",
+        "fish sauce",
+        "soy sauce",
+        "five-spice powder",
+        "fresh cilantro stem"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

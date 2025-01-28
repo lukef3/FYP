@@ -1,0 +1,18 @@
+{
+    "dish_name": "sinful red velvet cookies",
+    "ingredients": [
+        "cream cheese",
+        "butter",
+        "egg",
+        "vanilla extract",
+        "(18   ounce) box   red velvet cake mix",
+        "confectioners' sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

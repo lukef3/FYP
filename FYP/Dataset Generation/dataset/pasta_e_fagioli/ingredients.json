@@ -1,0 +1,27 @@
+{
+    "dish_name": "pasta e fagioli",
+    "ingredients": [
+        "hamburger",
+        "cup    diced onion",
+        "carrot",
+        "celery",
+        "minced garlic cloves",
+        "diced tomatoes",
+        "red kidney beans",
+        "great northern beans",
+        "tomato sauce",
+        "(12   ounce) can   V8 vegetable juice",
+        "white vinegar",
+        "salt",
+        "oregano",
+        "basil",
+        "black pepper",
+        "thyme",
+        "ditali pasta"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

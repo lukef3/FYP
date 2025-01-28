@@ -1,0 +1,28 @@
+{
+    "dish_name": "african style broccoli",
+    "ingredients": [
+        "broccoli florets",
+        "cauliflower florets",
+        "carrots",
+        "canola oil",
+        "salt",
+        "ground ginger",
+        "ground cumin",
+        "ground coriander",
+        "nutmeg",
+        "crushed red pepper flakes",
+        "sour cream",
+        "cider vinegar",
+        "honey",
+        "green onion",
+        "pine nuts",
+        "peanuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

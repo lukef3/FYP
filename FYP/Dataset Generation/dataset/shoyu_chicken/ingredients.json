@@ -1,0 +1,20 @@
+{
+    "dish_name": "shoyu chicken",
+    "ingredients": [
+        "chicken thighs",
+        "cup    shoyu (soy sauce)",
+        "sugar",
+        "wine",
+        "sake",
+        "tablespoons    oil",
+        "garlic clove",
+        "gingerroot"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

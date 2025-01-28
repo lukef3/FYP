@@ -1,0 +1,23 @@
+{
+    "dish_name": "iron mike's sweet tomato pizza sauce - the spirit of cincinnati",
+    "ingredients": [
+        "olive oil",
+        "tomato puree",
+        "teaspoon    dried onion, minced or chopped",
+        "dried basil",
+        "dried oregano",
+        "dried thyme",
+        "dried parsley",
+        "salt",
+        "garlic",
+        "carrot",
+        "honey",
+        "brown sugar",
+        "fresh ground pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

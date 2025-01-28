@@ -1,0 +1,13 @@
+{
+    "dish_name": "traditional peanut butter and jelly",
+    "ingredients": [
+        "slices    sandwich bread",
+        "peanut butter",
+        "teaspoons    grape jelly or 2   teaspoons    strawberry jam"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "dish_name": "easy pita bread",
+    "ingredients": [
+        "warm water",
+        "sugar",
+        "dry yeast",
+        "all-purpose flour",
+        "cup    vegetable oil",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

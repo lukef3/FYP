@@ -1,0 +1,21 @@
+{
+    "dish_name": "dijon pork roast with cranberries (crock pot)",
+    "ingredients": [
+        "(2 -2 1/2  lb)   lean pork loin roast, trimmed of excess fat",
+        "allspice",
+        "salt",
+        "pepper",
+        "tablespoons    honey dijon mustard",
+        "honey",
+        "orange zest",
+        "tablespoons    dried onion flakes",
+        "dried cranberries"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "dish_name": "houston's restaurant copycat veggie burgers",
+    "ingredients": [
+        "barbecue sauce",
+        "molasses",
+        "black beans",
+        "cooked brown rice",
+        "tablespoon    oat bran",
+        "onions",
+        "tablespoon   finely chopped canned beets",
+        "teaspoon    beet juice",
+        "chili powder",
+        "ground cumin",
+        "black pepper",
+        "kosher salt",
+        "tablespoon    pickled jalapeno pepper, chopped",
+        "egg white, add more if needed  (to bind)",
+        "olive oil",
+        "monterey jack cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "dish_name": "shepherd's pie (gordon ramsay)",
+    "ingredients": [
+        "olive oil",
+        "lean ground lamb",
+        "fresh ground black pepper",
+        "onions",
+        "fresh thyme",
+        "garlic cloves",
+        "butter",
+        "tomato puree",
+        "flour",
+        "red wine",
+        "Worcestershire sauce",
+        "liter    chicken stock",
+        "lbs    boiled potatoes",
+        "butter",
+        "milk",
+        "egg yolks",
+        "fresh ground white pepper",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

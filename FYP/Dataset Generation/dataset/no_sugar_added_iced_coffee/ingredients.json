@@ -1,0 +1,15 @@
+{
+    "dish_name": "no sugar added iced coffee",
+    "ingredients": [
+        "cups    strong coffee",
+        "2% low-fat milk",
+        "sweetened condensed milk",
+        "cups    ice cubes",
+        "whipped cream, to garnish  (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

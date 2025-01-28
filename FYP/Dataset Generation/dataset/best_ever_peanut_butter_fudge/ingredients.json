@@ -1,0 +1,16 @@
+{
+    "dish_name": "best ever peanut butter fudge",
+    "ingredients": [
+        "sugar",
+        "evaporated milk",
+        "butter",
+        "crunchy peanut butter",
+        "vanilla",
+        "marshmallow cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

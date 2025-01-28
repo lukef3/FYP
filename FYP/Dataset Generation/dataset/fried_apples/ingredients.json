@@ -1,0 +1,15 @@
+{
+    "dish_name": "fried apples",
+    "ingredients": [
+        "apples",
+        "butter",
+        "cinnamon",
+        "nutmeg",
+        "clove",
+        "lemon juice",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

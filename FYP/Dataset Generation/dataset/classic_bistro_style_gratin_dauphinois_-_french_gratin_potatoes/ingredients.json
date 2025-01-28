@@ -1,0 +1,21 @@
+{
+    "dish_name": "classic bistro style gratin dauphinois - french gratin potatoes",
+    "ingredients": [
+        "potatoes",
+        "gruyere cheese",
+        "pint    double cream",
+        "salt",
+        "fresh ground black pepper",
+        "garlic cloves",
+        "fresh thyme",
+        "butter",
+        "cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

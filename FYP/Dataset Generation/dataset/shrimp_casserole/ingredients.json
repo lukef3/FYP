@@ -1,0 +1,27 @@
+{
+    "dish_name": "shrimp casserole",
+    "ingredients": [
+        "farfalle pasta",
+        "butter",
+        "margarine",
+        "garlic cloves",
+        "all-purpose flour",
+        "white wine",
+        "chicken broth",
+        "half-and-half cream",
+        "cup    clam juice",
+        "tablespoon    seafood cocktail sauce (or ketchup)",
+        "salt",
+        "cayenne pepper",
+        "medium shrimp",
+        "dried dill weed",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

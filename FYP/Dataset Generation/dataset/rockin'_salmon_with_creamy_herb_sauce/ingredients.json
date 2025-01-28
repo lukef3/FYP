@@ -1,0 +1,23 @@
+{
+    "dish_name": "rockin' salmon with creamy herb sauce",
+    "ingredients": [
+        "salmon fillets",
+        "white wine",
+        "fresh ground pepper",
+        "red onion",
+        "sour cream",
+        "heavy cream",
+        "Dijon mustard",
+        "honey",
+        "fresh dill",
+        "lemon, juice of",
+        "capers"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

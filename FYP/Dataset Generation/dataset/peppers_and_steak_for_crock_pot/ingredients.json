@@ -1,0 +1,18 @@
+{
+    "dish_name": "peppers and steak for crock pot",
+    "ingredients": [
+        "lean round steak",
+        "green peppers",
+        "tablespoons   minced dried onion",
+        "cup    beef bouillon",
+        "soy sauce",
+        "ground ginger",
+        "garlic powder"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "tofu egg salad",
+    "ingredients": [
+        "firm tofu",
+        "cup    soy mayonnaise (or regular, your choice)",
+        "Dijon mustard",
+        "cayenne pepper",
+        "turmeric",
+        "parsley",
+        "fresh dill",
+        "green onion",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

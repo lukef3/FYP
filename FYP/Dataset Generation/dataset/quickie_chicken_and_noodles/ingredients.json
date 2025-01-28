@@ -1,0 +1,18 @@
+{
+    "dish_name": "quickie chicken and noodles",
+    "ingredients": [
+        "boneless chicken breasts",
+        "butter",
+        "poultry seasoning",
+        "salt",
+        "pepper",
+        "chicken broth",
+        "packages   frozen egg noodles",
+        "can    cream of chicken soup",
+        "fresh carrot"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

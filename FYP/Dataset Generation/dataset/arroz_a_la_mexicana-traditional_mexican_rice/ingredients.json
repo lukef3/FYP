@@ -1,0 +1,23 @@
+{
+    "dish_name": "arroz a la mexicana-traditional mexican rice",
+    "ingredients": [
+        "teaspoons    vegetable oil",
+        "medium grain rice",
+        "onion",
+        "garlic",
+        "tomatoes",
+        "chicken broth",
+        "salt",
+        "corn",
+        "poblano chile",
+        "bell pepper",
+        "frozen peas (optional)",
+        "cilantro",
+        "carrot",
+        "queso fresco",
+        "farmer cheese"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

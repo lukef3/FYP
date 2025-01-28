@@ -1,0 +1,20 @@
+{
+    "dish_name": "v's do-ahead slow cooker mashed potatoes",
+    "ingredients": [
+        "potatoes",
+        "water",
+        "butter",
+        "salt",
+        "salt",
+        "garlic powder",
+        "ground black pepper",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

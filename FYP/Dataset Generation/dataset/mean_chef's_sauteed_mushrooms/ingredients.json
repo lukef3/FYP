@@ -1,0 +1,18 @@
+{
+    "dish_name": "mean chef's sauteed mushrooms",
+    "ingredients": [
+        "extra virgin olive oil",
+        "button mushrooms",
+        "butter",
+        "sea salt",
+        "garlic",
+        "fresh thyme leaves",
+        "lemon juice",
+        "white wine",
+        "flat-leaf Italian parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "frito corn salad",
+    "ingredients": [
+        "kernel corn",
+        "red bell pepper",
+        "green bell pepper",
+        "purple onion",
+        "mayonnaise",
+        "cheddar cheese",
+        "ounces   of chili cheese flavor Frito corn chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

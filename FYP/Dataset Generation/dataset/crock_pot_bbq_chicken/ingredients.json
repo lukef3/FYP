@@ -1,0 +1,18 @@
+{
+    "dish_name": "crock pot bbq chicken",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "tomato ketchup",
+        "brown sugar",
+        "Worcestershire sauce",
+        "soy sauce",
+        "cider vinegar",
+        "hot red pepper flakes",
+        "garlic powder"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

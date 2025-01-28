@@ -1,0 +1,22 @@
+{
+    "dish_name": "oatmeal dinner rolls",
+    "ingredients": [
+        "water",
+        "quick-cooking oats",
+        "margarine",
+        "applesauce",
+        "teaspoons    yeast",
+        "water",
+        "sugar",
+        "all-purpose flour",
+        "salt",
+        "brown sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

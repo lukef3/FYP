@@ -1,0 +1,15 @@
+{
+    "dish_name": "tuna patties burgers cakes.....something like that",
+    "ingredients": [
+        "tuna",
+        "package    seasoned stuffing mix",
+        "eggs",
+        "mayonnaise",
+        "dill weed",
+        "oil, to fry in"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

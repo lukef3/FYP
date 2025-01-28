@@ -1,0 +1,16 @@
+{
+    "dish_name": "canned biscuit monkey bread",
+    "ingredients": [
+        "(8   ounce) cans   buttermilk biscuits",
+        "sugar",
+        "cinnamon",
+        "margarine",
+        "brown sugar",
+        "pecans"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dish_name": "shake-a-pie crust",
+    "ingredients": [
+        "flour",
+        "sugar",
+        "Crisco shortening",
+        "cold water",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

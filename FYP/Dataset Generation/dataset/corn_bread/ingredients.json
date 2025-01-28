@@ -1,0 +1,20 @@
+{
+    "dish_name": "corn bread",
+    "ingredients": [
+        "flour",
+        "cornmeal",
+        "sugar",
+        "baking powder",
+        "salt",
+        "skim milk",
+        "cup    vegetable oil",
+        "egg"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

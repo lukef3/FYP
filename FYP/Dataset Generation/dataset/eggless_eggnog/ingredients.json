@@ -1,0 +1,14 @@
+{
+    "dish_name": "eggless eggnog",
+    "ingredients": [
+        "milk",
+        "instant vanilla pudding",
+        "sugar",
+        "vanilla",
+        "nutmeg"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

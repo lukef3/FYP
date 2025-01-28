@@ -1,0 +1,17 @@
+{
+    "dish_name": "popcorn balls",
+    "ingredients": [
+        "butter",
+        "brown sugar",
+        "cup    Karo syrup",
+        "sweetened condensed milk",
+        "vanilla",
+        "quarts    popped corn"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

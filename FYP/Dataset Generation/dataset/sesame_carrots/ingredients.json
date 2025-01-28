@@ -1,0 +1,15 @@
+{
+    "dish_name": "sesame carrots",
+    "ingredients": [
+        "carrot",
+        "tablespoons    oil",
+        "teaspoons    sesame oil",
+        "sesame seeds",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

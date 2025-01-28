@@ -1,0 +1,19 @@
+{
+    "dish_name": "elvis' favorite sweet potato casserole",
+    "ingredients": [
+        "sweet potatoes",
+        "unsalted butter",
+        "brown sugar",
+        "ground cinnamon",
+        "vanilla",
+        "eggs",
+        "evaporated milk",
+        "pecans",
+        "mini marshmallows"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

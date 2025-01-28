@@ -1,0 +1,19 @@
+{
+    "dish_name": "saucy italian chicken & tomatoes",
+    "ingredients": [
+        "chicken breast halves",
+        "tomatoes",
+        "fresh mushrooms",
+        "(8   ounce) bottle   Italian dressing",
+        "(1 1/4  ounce) package   Lipton Onion Soup Mix",
+        "oregano leaves",
+        "bay leaf"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

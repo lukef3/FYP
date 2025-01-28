@@ -1,0 +1,28 @@
+{
+    "dish_name": "pasta puttanesca ( the madame's pasta )",
+    "ingredients": [
+        "spaghetti",
+        "Italian tomatoes",
+        "sugar",
+        "flat leaf parsley",
+        "garlic cloves",
+        "crushed red pepper flakes",
+        "teaspoon    italian seasoning",
+        "olive oil",
+        "anchovy paste",
+        "black olives",
+        "green olives",
+        "capers",
+        "green onions",
+        "red wine",
+        "parmesan cheese",
+        "fresh basil leaf"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

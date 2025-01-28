@@ -1,0 +1,14 @@
+{
+    "dish_name": "low-carb low-cal low-fat frosty pudding treat",
+    "ingredients": [
+        "fat-free sugar-free instant chocolate pudding mix",
+        "skim milk",
+        "Cool Whip Lite"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

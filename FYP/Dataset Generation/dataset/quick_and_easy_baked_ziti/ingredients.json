@@ -1,0 +1,21 @@
+{
+    "dish_name": "quick and easy baked ziti",
+    "ingredients": [
+        "mild Italian sausage",
+        "onion",
+        "green bell pepper",
+        "garlic cloves",
+        "(26   ounce) jar   pasta sauce with mushrooms",
+        "ziti pasta",
+        "penne pasta",
+        "mozzarella cheese",
+        "fresh parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

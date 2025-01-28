@@ -1,0 +1,16 @@
+{
+    "dish_name": "uncle bill's corn on the cob - microwave",
+    "ingredients": [
+        "ear of corn",
+        "plastic wrap, enough to wrap the cob completely",
+        "butter",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

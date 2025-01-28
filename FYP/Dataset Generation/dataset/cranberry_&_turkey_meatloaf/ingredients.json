@@ -1,0 +1,20 @@
+{
+    "dish_name": "cranberry & turkey meatloaf",
+    "ingredients": [
+        "ground turkey",
+        "(120   g) box   turkey stuffing mix",
+        "eggs",
+        "milk",
+        "water",
+        "onion",
+        "celery",
+        "dried cranberries"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

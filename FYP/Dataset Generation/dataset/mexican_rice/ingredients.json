@@ -1,0 +1,19 @@
+{
+    "dish_name": "mexican rice",
+    "ingredients": [
+        "onion",
+        "bacon fat",
+        "converted white rice",
+        "green pepper",
+        "chili powder",
+        "Ro-Tel tomatoes",
+        "salt",
+        "tomatoes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

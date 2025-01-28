@@ -1,0 +1,21 @@
+{
+    "dish_name": "oatmeal breakfast bars",
+    "ingredients": [
+        "rolled oats",
+        "cup    oat flour (can be made by pulverising rolled oats in a blender or food processor)",
+        "prunes",
+        "cup    apple juice or 1   cup    orange juice (you could also use 1/4 cup molasses and 3/4 cup water)",
+        "white sugar",
+        "brown sugar",
+        "cinnamon",
+        "salt",
+        "cup    vegetable oil",
+        "sesame seeds"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

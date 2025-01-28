@@ -1,0 +1,19 @@
+{
+    "dish_name": "chewy and fudgy brownies",
+    "ingredients": [
+        "ounces   quality semisweet chocolate (any good dark eating chocolate will do)",
+        "unsalted butter",
+        "eggs",
+        "pure vanilla extract",
+        "all-purpose flour",
+        "sugar",
+        "salt",
+        "baking powder",
+        "walnut pieces"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

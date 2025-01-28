@@ -1,0 +1,15 @@
+{
+    "dish_name": "oven roast beef",
+    "ingredients": [
+        "sirloin tip roast",
+        "(1 1/4  ounce) package   dry onion soup mix",
+        "(10 3/4  ounce) can   cream of mushroom soup",
+        "water",
+        "beer"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

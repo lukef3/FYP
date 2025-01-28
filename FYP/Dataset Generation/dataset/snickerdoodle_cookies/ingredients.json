@@ -1,0 +1,20 @@
+{
+    "dish_name": "snickerdoodle cookies",
+    "ingredients": [
+        "butter",
+        "shortening",
+        "sugar",
+        "eggs",
+        "flour",
+        "cream of tartar",
+        "baking soda",
+        "salt",
+        "sugar",
+        "cinnamon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

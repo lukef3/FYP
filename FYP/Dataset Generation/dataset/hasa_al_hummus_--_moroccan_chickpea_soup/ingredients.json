@@ -1,0 +1,25 @@
+{
+    "dish_name": "hasa al hummus -- moroccan chickpea soup",
+    "ingredients": [
+        "dried garbanzo beans",
+        "water",
+        "tablespoon    vegetable oil",
+        "onions",
+        "tomatoes",
+        "garlic cloves",
+        "small    hot pepper, chopped finely",
+        "fresh coriander",
+        "flat leaf parsley",
+        "salt",
+        "fresh black pepper",
+        "lemon",
+        "sweet paprika",
+        "ground turmeric"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

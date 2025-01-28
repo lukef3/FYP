@@ -1,0 +1,20 @@
+{
+    "dish_name": "crunchy baked tilapia",
+    "ingredients": [
+        "cup    saltine crackers, crushed to crumbs",
+        "tablespoon    italian seasoning",
+        "dried parsley",
+        "fresh ground black pepper",
+        "unsalted butter",
+        "parmesan cheese",
+        "asiago cheese",
+        "tilapia fillets"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

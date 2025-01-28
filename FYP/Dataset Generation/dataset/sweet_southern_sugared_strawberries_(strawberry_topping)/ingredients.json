@@ -1,0 +1,13 @@
+{
+    "dish_name": "sweet southern sugared strawberries (strawberry topping)",
+    "ingredients": [
+        "fresh strawberries",
+        "granulated sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "dish_name": "fluffer nutter sandwich",
+    "ingredients": [
+        "slices    white bread",
+        "marshmallow creme",
+        "chunky peanut butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

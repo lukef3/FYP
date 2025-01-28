@@ -1,0 +1,40 @@
+{
+    "dish_name": "restaurant style indian butter chicken (chicken makhani)",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "lemon juice",
+        "Mexican chili powder",
+        "salt",
+        "liquid smoke",
+        "yogurt",
+        "salt",
+        "garlic paste",
+        "garlic cloves",
+        "garam masala",
+        "butter",
+        "Mexican chili powder",
+        "ginger paste",
+        "lemon juice",
+        "olive oil",
+        "butter",
+        "garam masala",
+        "ginger paste",
+        "garlic paste",
+        "green chili pepper",
+        "crushed tomatoes",
+        "tomato paste",
+        "Mexican chili powder",
+        "salt",
+        "honey",
+        "sugar",
+        "fenugreek leaves",
+        "heavy cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

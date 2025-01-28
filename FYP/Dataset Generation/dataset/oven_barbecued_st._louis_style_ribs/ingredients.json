@@ -1,0 +1,28 @@
+{
+    "dish_name": "oven barbecued st. louis style ribs",
+    "ingredients": [
+        "lbs   st. louis style ribs",
+        "teaspoon    garlic salt",
+        "water",
+        "apple cider vinegar",
+        "Worcestershire sauce",
+        "ketchup",
+        "sugar",
+        "maple syrup",
+        "tablespoon    Frank's red hot sauce (adjust for desired level or heat)",
+        "salt",
+        "chili powder",
+        "onion powder",
+        "dry mustard",
+        "celery seed",
+        "paprika",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

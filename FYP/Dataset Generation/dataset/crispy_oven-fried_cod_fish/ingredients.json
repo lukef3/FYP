@@ -1,0 +1,21 @@
+{
+    "dish_name": "crispy oven-fried cod fish",
+    "ingredients": [
+        "cups    dry breadcrumbs",
+        "yellow cornmeal",
+        "seasoning salt",
+        "lemon pepper",
+        "garlic powder",
+        "cayenne pepper",
+        "cod fish fillets",
+        "eggs",
+        "tablespoons    vegetable oil (more or less as needed)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

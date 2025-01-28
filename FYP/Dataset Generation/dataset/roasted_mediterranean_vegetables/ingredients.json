@@ -1,0 +1,23 @@
+{
+    "dish_name": "roasted mediterranean vegetables",
+    "ingredients": [
+        "potatoes",
+        "eggplant",
+        "bell peppers",
+        "red onion",
+        "olive oil",
+        "tablespoons    balsamic vinegar",
+        "basil",
+        "oregano",
+        "chives",
+        "garlic cloves",
+        "salt and pepper, to taste"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

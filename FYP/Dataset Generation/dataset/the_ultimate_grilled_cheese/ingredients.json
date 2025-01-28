@@ -1,0 +1,18 @@
+{
+    "dish_name": "the ultimate grilled cheese",
+    "ingredients": [
+        "cream cheese",
+        "mayonnaise",
+        "cheddar cheese",
+        "mozzarella cheese",
+        "garlic powder",
+        "seasoning salt",
+        "slices    Italian bread (1/2 in. thick)",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

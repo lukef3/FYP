@@ -1,0 +1,21 @@
+{
+    "dish_name": "pasta fagioli",
+    "ingredients": [
+        "olive oil",
+        "onion",
+        "garlic",
+        "Italian-style stewed tomatoes",
+        "cups    reduced-sodium fat-free chicken broth",
+        "cannellini beans",
+        "great northern beans",
+        "fresh Italian parsley",
+        "dried basil leaves",
+        "black pepper",
+        "small shell pasta",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

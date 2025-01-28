@@ -1,0 +1,24 @@
+{
+    "dish_name": "beef and pasta bake - the best!",
+    "ingredients": [
+        "olive oil",
+        "onion",
+        "garlic cloves",
+        "bacon",
+        "carrot",
+        "minced beef",
+        "g    condensed tomato soup (14oz)",
+        "tomato paste",
+        "tomato sauce",
+        "oregano",
+        "spiral shaped pasta",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

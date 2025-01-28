@@ -1,0 +1,14 @@
+{
+    "dish_name": "microwave scalloped apples",
+    "ingredients": [
+        "apples",
+        "sugar",
+        "cornstarch",
+        "cinnamon",
+        "nutmeg",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

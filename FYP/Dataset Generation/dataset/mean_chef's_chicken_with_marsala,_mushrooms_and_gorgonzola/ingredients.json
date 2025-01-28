@@ -1,0 +1,21 @@
+{
+    "dish_name": "mean chef's chicken with marsala, mushrooms and gorgonzola",
+    "ingredients": [
+        "boneless skinless chicken breast",
+        "kosher salt",
+        "pepper",
+        "olive oil",
+        "cremini mushrooms",
+        "white mushrooms",
+        "garlic cloves",
+        "dry marsala",
+        "heavy cream",
+        "gorgonzola",
+        "Italian parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

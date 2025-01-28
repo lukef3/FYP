@@ -1,0 +1,21 @@
+{
+    "dish_name": "herbed potato crisps",
+    "ingredients": [
+        "potatoes",
+        "tablespoons    oil",
+        "fresh ground pepper",
+        "oregano",
+        "thyme",
+        "sage",
+        "rosemary",
+        "celery salt, to taste",
+        "garlic salt, to taste"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

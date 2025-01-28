@@ -1,0 +1,19 @@
+{
+    "dish_name": "southwestern chicken",
+    "ingredients": [
+        "vegetable oil cooking spray",
+        "boneless skinless chicken breast half",
+        "chili powder",
+        "ground cumin",
+        "teaspoon    vegetable oil",
+        "cups    green pepper strips",
+        "onion",
+        "frozen whole kernel corn",
+        "thick & chunky salsa"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

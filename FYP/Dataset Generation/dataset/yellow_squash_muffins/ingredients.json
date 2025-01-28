@@ -1,0 +1,18 @@
+{
+    "dish_name": "yellow squash muffins",
+    "ingredients": [
+        "lbs    crookneck yellow squash",
+        "eggs",
+        "butter",
+        "applesauce",
+        "sugar",
+        "all-purpose flour",
+        "baking powder",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

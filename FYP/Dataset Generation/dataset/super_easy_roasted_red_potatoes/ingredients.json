@@ -1,0 +1,21 @@
+{
+    "dish_name": "super easy roasted red potatoes",
+    "ingredients": [
+        "baby red potatoes",
+        "butter",
+        "margarine",
+        "white wine",
+        "beer",
+        "garlic",
+        "dill",
+        "pepper",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

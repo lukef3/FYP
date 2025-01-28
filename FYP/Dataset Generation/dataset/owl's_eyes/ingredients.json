@@ -1,0 +1,13 @@
+{
+    "dish_name": "owl's eyes",
+    "ingredients": [
+        "(11   ounce) package   Hershey's Hugs chocolates",
+        "(16   ounce) package   M&M's plain chocolate candy",
+        "(16   ounce) bag   pretzel rings"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

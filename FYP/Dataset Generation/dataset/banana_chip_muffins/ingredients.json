@@ -1,0 +1,19 @@
+{
+    "dish_name": "banana chip muffins",
+    "ingredients": [
+        "egg",
+        "cup    vegetable oil",
+        "sugar",
+        "bananas",
+        "flour",
+        "baking soda",
+        "salt",
+        "oatmeal",
+        "cup    semisweet mini chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

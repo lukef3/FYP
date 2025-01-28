@@ -1,0 +1,17 @@
+{
+    "dish_name": "lee hong's cucumbers",
+    "ingredients": [
+        "salt",
+        "English cucumber",
+        "sugar",
+        "tablespoons    vegetable oil",
+        "Spanish onion",
+        "white vinegar",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

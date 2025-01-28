@@ -1,0 +1,15 @@
+{
+    "dish_name": "spicy pretzels",
+    "ingredients": [
+        "lb    small pretzels",
+        "cup   crisco vegetable oil",
+        "(1   ounce) package   hidden valley ranch dressing mix",
+        "teaspoon    garlic salt",
+        "cayenne pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

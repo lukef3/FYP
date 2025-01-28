@@ -1,0 +1,19 @@
+{
+    "dish_name": "mexican rice casserole",
+    "ingredients": [
+        "ground beef",
+        "long grain rice",
+        "water",
+        "salsa",
+        "(11   ounce) can   mexicorn",
+        "chili powder",
+        "salt",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

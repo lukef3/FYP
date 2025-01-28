@@ -1,0 +1,23 @@
+{
+    "dish_name": "chocolate kiss peanut butter cookies",
+    "ingredients": [
+        "butter",
+        "creamy peanut butter",
+        "sugar",
+        "brown sugar",
+        "eggs",
+        "vanilla",
+        "flour",
+        "baking soda",
+        "salt",
+        "sugar",
+        "(9   ounce) packages   milk chocolate kisses (unwrapped)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

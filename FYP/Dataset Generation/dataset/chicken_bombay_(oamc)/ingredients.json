@@ -1,0 +1,18 @@
+{
+    "dish_name": "chicken bombay (oamc)",
+    "ingredients": [
+        "butter",
+        "mustard",
+        "honey",
+        "seasoning salt",
+        "chili powder",
+        "onion powder",
+        "curry powder",
+        "pepper",
+        "chicken pieces"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "dish_name": "ghost cookies",
+    "ingredients": [
+        "Nutter Butter sandwich cookies (Peanut shaped, peanut butter cookies)",
+        "white chocolate chips",
+        "cup    semisweet mini chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "dish_name": "magic bullet smoothie",
+    "ingredients": [
+        "banana",
+        "mixed berry",
+        "orange juice or   pineapple juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

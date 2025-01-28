@@ -1,0 +1,23 @@
+{
+    "dish_name": "spinach and mushroom casserole",
+    "ingredients": [
+        "fresh spinach",
+        "frozen spinach",
+        "butter",
+        "onions",
+        "mushroom",
+        "flour",
+        "salt",
+        "white pepper",
+        "nutmeg",
+        "cups    light cream",
+        "swiss cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dish_name": "royal icing",
+    "ingredients": [
+        "large    egg whites",
+        "cream of tartar",
+        "powdered sugar",
+        "paste food coloring"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

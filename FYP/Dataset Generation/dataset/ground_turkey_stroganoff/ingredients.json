@@ -1,0 +1,23 @@
+{
+    "dish_name": "ground turkey stroganoff",
+    "ingredients": [
+        "ground turkey",
+        "onion",
+        "mushroom",
+        "peas",
+        "(10 3/4  ounce) can   cream of mushroom soup",
+        "milk",
+        "garlic powder",
+        "salt",
+        "pepper",
+        "sour cream",
+        "hot cooked egg noodles"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

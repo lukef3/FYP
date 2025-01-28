@@ -1,0 +1,23 @@
+{
+    "dish_name": "pumpkin chili mexicana",
+    "ingredients": [
+        "tablespoons    vegetable oil",
+        "onion",
+        "red bell pepper",
+        "garlic clove",
+        "ground turkey",
+        "no-salt-added diced tomatoes",
+        "Libby's canned pumpkin",
+        "tomato sauce",
+        "kidney beans",
+        "diced green chilies",
+        "frozen whole kernel corn",
+        "chili powder",
+        "ground cumin",
+        "ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "dish_name": "zippity dooo daaaa orzo salad!",
+    "ingredients": [
+        "olive oil",
+        "lime zest",
+        "lemon juice",
+        "fresh basil",
+        "garlic cloves",
+        "Dijon mustard",
+        "salt",
+        "pepper",
+        "orzo pasta",
+        "feta cheese",
+        "orange bell pepper",
+        "red bell pepper",
+        "tomatoes",
+        "capers",
+        "kalamata olive",
+        "red onion",
+        "fresh oregano",
+        "green onions"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

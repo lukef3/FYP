@@ -1,0 +1,14 @@
+{
+    "dish_name": "hidden valley bacon and cheddar dip",
+    "ingredients": [
+        "(1   ounce) packet   ranch dip mix",
+        "sour cream",
+        "bacon bits",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

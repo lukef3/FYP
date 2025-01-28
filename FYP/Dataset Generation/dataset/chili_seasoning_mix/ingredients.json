@@ -1,0 +1,19 @@
+{
+    "dish_name": "chili seasoning mix",
+    "ingredients": [
+        "white flour",
+        "chili powder",
+        "red pepper flakes",
+        "sugar",
+        "tablespoons    dried onion",
+        "seasoning salt",
+        "dried garlic",
+        "ground cumin"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

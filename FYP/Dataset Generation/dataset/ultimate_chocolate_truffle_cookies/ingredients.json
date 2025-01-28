@@ -1,0 +1,22 @@
+{
+    "dish_name": "ultimate chocolate truffle cookies",
+    "ingredients": [
+        "ounces    unsweetened chocolate",
+        "cups    semi-sweet chocolate chips, divided",
+        "butter",
+        "sugar",
+        "eggs",
+        "vanilla extract",
+        "flour",
+        "tablespoons    unsweetened cocoa powder",
+        "baking powder",
+        "salt",
+        "powdered sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

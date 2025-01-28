@@ -1,0 +1,15 @@
+{
+    "dish_name": "green chile chicken noodle casserole",
+    "ingredients": [
+        "(16   ounce) package   egg noodles",
+        "cups    cooked chicken",
+        "sour cream",
+        "monterey jack cheese",
+        "(15   ounce) can   green enchilada sauce",
+        "green chilies"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

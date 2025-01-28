@@ -1,0 +1,18 @@
+{
+    "dish_name": "ann's crunchy peanut brittle",
+    "ingredients": [
+        "butter",
+        "margarine",
+        "baking soda",
+        "sugar",
+        "water",
+        "Karo light corn syrup",
+        "raw peanuts",
+        "vanilla"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

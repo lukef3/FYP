@@ -1,0 +1,22 @@
+{
+    "dish_name": "southern barbecued beef tips",
+    "ingredients": [
+        "onion",
+        "butter",
+        "prepared mustard",
+        "Worcestershire sauce",
+        "distilled white vinegar",
+        "brown sugar",
+        "salt",
+        "ground black pepper",
+        "catsup",
+        "cooked rice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

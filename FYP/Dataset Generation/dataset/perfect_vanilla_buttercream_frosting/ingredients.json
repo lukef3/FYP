@@ -1,0 +1,13 @@
+{
+    "dish_name": "perfect vanilla buttercream frosting",
+    "ingredients": [
+        "butter",
+        "marshmallow cream",
+        "powdered sugar",
+        "vanilla"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

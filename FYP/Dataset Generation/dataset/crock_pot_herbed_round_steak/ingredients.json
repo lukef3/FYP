@@ -1,0 +1,23 @@
+{
+    "dish_name": "crock pot herbed round steak",
+    "ingredients": [
+        "beef round steak",
+        "tablespoon    cooking oil",
+        "onion",
+        "(10 1/2  ounce) can   cream of celery soup",
+        "(10 1/2  ounce) can   cream of broccoli soup",
+        "dried oregano",
+        "dried thyme",
+        "garlic powder",
+        "Worcestershire sauce",
+        "red wine",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

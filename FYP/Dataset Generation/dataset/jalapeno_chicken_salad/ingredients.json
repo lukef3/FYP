@@ -1,0 +1,20 @@
+{
+    "dish_name": "jalapeno chicken salad",
+    "ingredients": [
+        "mayonnaise",
+        "lime juice",
+        "cups    cooked chicken, shredded",
+        "celery rib",
+        "red onion",
+        "red bell pepper",
+        "fresh cilantro",
+        "cup   sliced pickled jalapeno chili, finely chopped",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

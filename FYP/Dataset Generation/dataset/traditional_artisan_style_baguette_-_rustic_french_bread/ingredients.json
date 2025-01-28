@@ -1,0 +1,17 @@
+{
+    "dish_name": "traditional artisan style baguette - rustic french bread",
+    "ingredients": [
+        "active dry yeast",
+        "honey",
+        "warm water",
+        "sea salt",
+        "unbleached all-purpose flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

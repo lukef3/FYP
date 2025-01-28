@@ -1,0 +1,19 @@
+{
+    "dish_name": "enchilada casserole",
+    "ingredients": [
+        "flour tortillas",
+        "ground beef",
+        "chicken",
+        "package    taco seasoning",
+        "onion",
+        "sliced or chopped jalapeno (optional)",
+        "can    refried beans",
+        "can    enchilada sauce",
+        "black olives",
+        "cheddar cheese",
+        "cooking spray"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dish_name": "cajun maple mahi-mahi",
+    "ingredients": [
+        "maple syrup",
+        "tablespoon    cajun seasoning (can use more or less depending on whether or not you want a sweeter or spicier piece of meat)",
+        "garlic powder",
+        "mahi mahi fillets"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

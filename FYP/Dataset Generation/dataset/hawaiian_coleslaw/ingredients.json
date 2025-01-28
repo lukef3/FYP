@@ -1,0 +1,17 @@
+{
+    "dish_name": "hawaiian coleslaw",
+    "ingredients": [
+        "green cabbage",
+        "carrot",
+        "fresh pineapple",
+        "crushed pineapple",
+        "unsweetened coconut",
+        "golden raisin",
+        "mayonnaise",
+        "salt",
+        "cup   chopped macadamia nuts (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

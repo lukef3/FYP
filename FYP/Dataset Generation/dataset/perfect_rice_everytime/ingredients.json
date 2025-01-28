@@ -1,0 +1,16 @@
+{
+    "dish_name": "perfect rice everytime",
+    "ingredients": [
+        "shallots",
+        "onion",
+        "butter",
+        "cup    uncooked rice (long grain white, basmati or jasmine)",
+        "chicken broth",
+        "salt",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

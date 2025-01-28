@@ -1,0 +1,18 @@
+{
+    "dish_name": "spicy tuna steaks",
+    "ingredients": [
+        "cup    vegetable oil",
+        "garlic cloves",
+        "soy sauce",
+        "dry mustard",
+        "fresh lemon juice",
+        "fresh ground pepper",
+        "tuna steaks",
+        "lemon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

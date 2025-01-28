@@ -1,0 +1,24 @@
+{
+    "dish_name": "jamaican lentil stew with coconut",
+    "ingredients": [
+        "onion",
+        "garlic cloves",
+        "gingerroot",
+        "tablespoons    vegetable oil",
+        "ground coriander",
+        "ground cumin",
+        "coconut milk",
+        "liter    vegetable stock",
+        "split red lentils",
+        "sweet potato",
+        "pumpkin puree",
+        "Thai red curry paste",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

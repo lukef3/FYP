@@ -1,0 +1,18 @@
+{
+    "dish_name": "baked pasta with asparagus (pasta al forno con asparagi)",
+    "ingredients": [
+        "penne pasta",
+        "asparagus",
+        "butter",
+        "chicken stock",
+        "salt and pepper",
+        "ricotta cheese",
+        "olive oil",
+        "parmesan cheese",
+        "eggs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

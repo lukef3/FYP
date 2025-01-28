@@ -1,0 +1,23 @@
+{
+    "dish_name": "spicy red beans and rice",
+    "ingredients": [
+        "dried red kidney beans",
+        "paprika",
+        "cayenne pepper",
+        "black pepper",
+        "bay leaves",
+        "ground cumin",
+        "water",
+        "smoked ham hock",
+        "salt",
+        "celery",
+        "onions",
+        "fresh garlic cloves",
+        "teaspoon    hot pepper sauce",
+        "fresh parsley",
+        "cooked rice"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

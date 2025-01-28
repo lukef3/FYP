@@ -1,0 +1,19 @@
+{
+    "dish_name": "roasted baby carrots with  thyme",
+    "ingredients": [
+        "lb    baby carrots",
+        "olive oil",
+        "dried thyme",
+        "salt",
+        "lemon zest",
+        "black pepper",
+        "green onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

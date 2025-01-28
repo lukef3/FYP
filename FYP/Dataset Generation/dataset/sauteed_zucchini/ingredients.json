@@ -1,0 +1,18 @@
+{
+    "dish_name": "sauteed zucchini",
+    "ingredients": [
+        "olive oil",
+        "green zucchini",
+        "yellow zucchini",
+        "garlic",
+        "dry crushed red pepper",
+        "teaspoons    balsamic vinegar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

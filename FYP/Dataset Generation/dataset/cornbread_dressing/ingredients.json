@@ -1,0 +1,23 @@
+{
+    "dish_name": "cornbread dressing",
+    "ingredients": [
+        "onions",
+        "celery",
+        "butter",
+        "cups   finely crumbled toasted bread (I use homemade)",
+        "cups   finely crumbled cornbread (see recipe I posted for Skillet Cornbread)",
+        "salt",
+        "black pepper",
+        "dried sage",
+        "poultry seasoning",
+        "turkey broth",
+        "eggs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

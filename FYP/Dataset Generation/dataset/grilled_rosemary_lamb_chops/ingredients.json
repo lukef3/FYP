@@ -1,0 +1,20 @@
+{
+    "dish_name": "grilled rosemary lamb chops",
+    "ingredients": [
+        "garlic",
+        "rosemary",
+        "thyme leaves",
+        "cayenne pepper",
+        "sea salt",
+        "lemon juice",
+        "olive oil",
+        "lamb chops"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

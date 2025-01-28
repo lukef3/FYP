@@ -1,0 +1,21 @@
+{
+    "dish_name": "best ever black-eyed peas",
+    "ingredients": [
+        "dried black-eyed peas",
+        "water",
+        "onion",
+        "garlic",
+        "salt",
+        "black pepper",
+        "sugar",
+        "ham hocks",
+        "ham",
+        "jalapeno pepper, seeds removed and chopped"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dish_name": "best raw-broccoli salad",
+    "ingredients": [
+        "head broccoli",
+        "bacon",
+        "red onion",
+        "sharp cheddar cheese",
+        "low-fat mayonnaise",
+        "tablespoons    rice wine vinegar",
+        "white sugar",
+        "cherry tomatoes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

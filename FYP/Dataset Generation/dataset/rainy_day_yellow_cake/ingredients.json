@@ -1,0 +1,18 @@
+{
+    "dish_name": "rainy day yellow cake",
+    "ingredients": [
+        "eggs",
+        "butter",
+        "granulated sugar",
+        "vanilla extract",
+        "all-purpose flour",
+        "baking powder",
+        "baking soda",
+        "salt",
+        "buttermilk",
+        "frosting"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "chili-garlic marinated pork chops",
+    "ingredients": [
+        "pork loin chops, centre cut, boneless are best  (2 lbs)",
+        "chili sauce",
+        "ketchup",
+        "shallots",
+        "garlic cloves",
+        "apple cider vinegar",
+        "brown sugar",
+        "Worcestershire sauce",
+        "chili powder",
+        "dry mustard",
+        "dried oregano"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

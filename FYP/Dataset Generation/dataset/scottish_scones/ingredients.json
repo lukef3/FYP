@@ -1,0 +1,22 @@
+{
+    "dish_name": "scottish scones",
+    "ingredients": [
+        "all-purpose flour",
+        "rolled oats",
+        "white sugar",
+        "baking powder",
+        "salt",
+        "currants",
+        "egg",
+        "unsalted butter",
+        "margarine",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

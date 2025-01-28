@@ -1,0 +1,22 @@
+{
+    "dish_name": "classic rice & beef stuffed bell peppers",
+    "ingredients": [
+        "yellow bell peppers",
+        "orange bell peppers",
+        "long grain white rice",
+        "olive oil",
+        "onion",
+        "ground beef",
+        "garlic cloves",
+        "diced tomatoes",
+        "monterey jack cheese",
+        "fresh parsley",
+        "black pepper",
+        "ketchup"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

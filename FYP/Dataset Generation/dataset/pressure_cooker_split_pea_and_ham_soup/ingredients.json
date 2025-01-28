@@ -1,0 +1,19 @@
+{
+    "dish_name": "pressure cooker split pea and ham soup",
+    "ingredients": [
+        "lb    dried split peas",
+        "water",
+        "ham bone",
+        "ham",
+        "onion",
+        "carrots",
+        "celery ribs",
+        "dried thyme",
+        "sherry wine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

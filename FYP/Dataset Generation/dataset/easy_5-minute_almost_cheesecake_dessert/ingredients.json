@@ -1,0 +1,18 @@
+{
+    "dish_name": "easy 5-minute almost cheesecake dessert",
+    "ingredients": [
+        "butter",
+        "graham cracker crumbs",
+        "sweetened condensed milk",
+        "sour cream",
+        "lemon juice",
+        "cherry pie filling"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

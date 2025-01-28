@@ -1,0 +1,27 @@
+{
+    "dish_name": "authentic french onion soup courtesy of julia child",
+    "ingredients": [
+        "yellow onions",
+        "tablespoon    cooking oil",
+        "butter",
+        "sugar",
+        "salt",
+        "flour",
+        "cups    beef stock (preferably homemade)",
+        "wine",
+        "salt and pepper",
+        "swiss cheese",
+        "parmesan cheese",
+        "yellow onion",
+        "cognac",
+        "slices    French bread (about 1 inch thick)",
+        "olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

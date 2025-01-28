@@ -1,0 +1,19 @@
+{
+    "dish_name": "grandmother paul's sour cream pound cake",
+    "ingredients": [
+        "butter",
+        "sugar",
+        "sour cream",
+        "baking soda",
+        "all-purpose flour",
+        "eggs",
+        "vanilla"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

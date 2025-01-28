@@ -1,0 +1,17 @@
+{
+    "dish_name": "vegan bacon",
+    "ingredients": [
+        "firm tofu",
+        "nutritional yeast",
+        "soya sauce",
+        "liquid smoke",
+        "tablespoon    oil, something neutral, not olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

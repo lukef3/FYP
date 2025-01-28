@@ -1,0 +1,29 @@
+{
+    "dish_name": "barbecued oven-baked chicken thighs",
+    "ingredients": [
+        "chicken thighs",
+        "seasoning salt",
+        "fresh ground black pepper",
+        "tablespoons    oil (or as needed)",
+        "garlic",
+        "onion",
+        "green bell pepper",
+        "yellow mustard",
+        "ketchup",
+        "cider vinegar",
+        "liquid smoke",
+        "dark brown sugar",
+        "chili powder",
+        "cayenne pepper",
+        "fresh ground black pepper",
+        "seasoning salt",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

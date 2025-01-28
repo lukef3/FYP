@@ -1,0 +1,20 @@
+{
+    "dish_name": "schnitzel",
+    "ingredients": [
+        "butterfly pork chops",
+        "salt",
+        "pepper",
+        "paprika",
+        "flour",
+        "cup    breadcrumbs",
+        "cup    Butter Flavor Crisco",
+        "eggs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

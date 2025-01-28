@@ -1,0 +1,24 @@
+{
+    "dish_name": "lime chicken soft tacos",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "red wine vinegar",
+        "lime, juice of",
+        "white sugar",
+        "salt",
+        "ground black pepper",
+        "green onions",
+        "garlic",
+        "dried oregano",
+        "6-inch flour tortillas",
+        "tomatoes",
+        "lettuce",
+        "monterey jack cheese",
+        "salsa"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

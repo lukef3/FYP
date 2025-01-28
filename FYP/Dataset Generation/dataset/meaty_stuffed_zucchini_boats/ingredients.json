@@ -1,0 +1,27 @@
+{
+    "dish_name": "meaty stuffed zucchini boats",
+    "ingredients": [
+        "lean ground beef",
+        "onion",
+        "green pepper",
+        "jalapeno pepper, seeded and chopped",
+        "cups    soft breadcrumbs",
+        "egg",
+        "dried parsley flakes",
+        "dried basil",
+        "teaspoon    italian seasoning",
+        "salt",
+        "pepper",
+        "tomato sauce",
+        "tomatoes",
+        "zucchini",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

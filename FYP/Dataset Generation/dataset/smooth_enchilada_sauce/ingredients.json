@@ -1,0 +1,17 @@
+{
+    "dish_name": "smooth enchilada sauce",
+    "ingredients": [
+        "garlic",
+        "shortening",
+        "flour",
+        "chili powder",
+        "beef broth",
+        "tomato sauce",
+        "oregano",
+        "salt",
+        "ground cumin"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

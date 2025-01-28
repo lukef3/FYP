@@ -1,0 +1,23 @@
+{
+    "dish_name": "mom's beef stew (pressure cooker)",
+    "ingredients": [
+        "canola oil",
+        "rump roast",
+        "garlic cloves",
+        "onion",
+        "carrots",
+        "celery ribs",
+        "potatoes",
+        "salt & pepper (to taste)",
+        "dried parsley",
+        "water",
+        "beef bouillon cube"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "lemon herb quinoa",
+    "ingredients": [
+        "quinoa",
+        "tablespoons    vegetable oil",
+        "water",
+        "dried marjoram",
+        "oregano",
+        "dried thyme",
+        "dried rosemary",
+        "parsley",
+        "fresh lemon juice",
+        "salt",
+        "fresh lemon rind",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

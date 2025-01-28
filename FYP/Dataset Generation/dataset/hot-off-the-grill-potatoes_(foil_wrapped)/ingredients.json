@@ -1,0 +1,26 @@
+{
+    "dish_name": "hot-off-the-grill-potatoes (foil wrapped)",
+    "ingredients": [
+        "butter",
+        "potatoes",
+        "green onion",
+        "parmesan cheese",
+        "salt",
+        "paprika",
+        "pepper",
+        "bacon",
+        "fresh parsley",
+        "dried parsley",
+        "fresh dill",
+        "dried dill",
+        "fresh chives",
+        "dried chives"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

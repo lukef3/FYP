@@ -1,0 +1,13 @@
+{
+    "dish_name": "super fast low fat pizza crust",
+    "ingredients": [
+        "white flour",
+        "whole wheat flour",
+        "baking powder",
+        "beer"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "dish_name": "goi cuon (vietnamese cold spring rolls)",
+    "ingredients": [
+        "rice paper sheet",
+        "chicken",
+        "small shrimp",
+        "fresh cilantro leaves",
+        "fresh mint leaves",
+        "lettuce",
+        "cucumber",
+        "fresh bean sprout",
+        "package    vermicelli rice noodles, prepared according to package directions",
+        "hoisin sauce",
+        "peanuts",
+        "nuoc nam"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

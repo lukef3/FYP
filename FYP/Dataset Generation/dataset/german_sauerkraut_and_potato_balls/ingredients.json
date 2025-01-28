@@ -1,0 +1,24 @@
+{
+    "dish_name": "german sauerkraut and potato balls",
+    "ingredients": [
+        "potatoes",
+        "onion",
+        "sauerkraut",
+        "egg",
+        "salt",
+        "black pepper",
+        "caraway seed",
+        "all-purpose flour",
+        "cup    breadcrumbs",
+        "egg",
+        "flour",
+        "additional breadcrumbs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

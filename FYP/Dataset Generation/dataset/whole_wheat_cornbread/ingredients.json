@@ -1,0 +1,20 @@
+{
+    "dish_name": "whole wheat cornbread",
+    "ingredients": [
+        "whole wheat flour",
+        "cornmeal",
+        "baking powder",
+        "salt",
+        "honey",
+        "cup    oil",
+        "milk",
+        "eggs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

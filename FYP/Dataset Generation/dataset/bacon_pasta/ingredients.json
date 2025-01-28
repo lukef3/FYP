@@ -1,0 +1,19 @@
+{
+    "dish_name": "bacon pasta",
+    "ingredients": [
+        "penne",
+        "bacon",
+        "fresh mushrooms",
+        "garlic cloves",
+        "parmesan cheese",
+        "cups    whipping cream",
+        "pepper",
+        "green onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

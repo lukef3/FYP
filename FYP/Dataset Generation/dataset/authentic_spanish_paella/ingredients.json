@@ -1,0 +1,28 @@
+{
+    "dish_name": "authentic spanish paella",
+    "ingredients": [
+        "rice",
+        "cups    chicken stock",
+        "onion",
+        "garlic cloves",
+        "bell pepper",
+        "green beans",
+        "plum tomatoes",
+        "tomato paste",
+        "shrimp",
+        "rabbit",
+        "links    chorizo sausages, frito sliced into 1 inch pieces",
+        "fresh parsley",
+        "fresh thyme",
+        "paprika",
+        "saffron",
+        "lemons"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dish_name": "oven steak fries",
+    "ingredients": [
+        "russet potatoes",
+        "extra virgin olive oil",
+        "dried thyme",
+        "dried oregano",
+        "tablespoon    steak seasoning, such as montreal steak seasoning or,salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

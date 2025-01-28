@@ -1,0 +1,22 @@
+{
+    "dish_name": "grand prize chili",
+    "ingredients": [
+        "lbs    chuck roast, all fat removed and cut into bite size pieces",
+        "onion",
+        "garlic cloves",
+        "paprika",
+        "cayenne pepper",
+        "beef bouillon cubes",
+        "chicken bouillon cube",
+        "tomato sauce",
+        "oregano",
+        "black pepper",
+        "chili powder",
+        "cumin",
+        "garlic powder",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

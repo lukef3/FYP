@@ -1,0 +1,29 @@
+{
+    "dish_name": "chicken and pasta in white wine garlic sauce",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "water",
+        "dry white wine",
+        "diced tomatoes",
+        "extra virgin olive oil",
+        "(6   ounce) can   sliced mushrooms",
+        "cup   finely chopped white onion",
+        "oregano",
+        "thyme",
+        "rosemary",
+        "basil",
+        "bay leaf",
+        "garlic",
+        "garlic",
+        "linguine",
+        "other pastas",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

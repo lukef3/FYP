@@ -1,0 +1,19 @@
+{
+    "dish_name": "oatmeal muffins (no flour at all!)",
+    "ingredients": [
+        "oatmeal",
+        "cup    nuts",
+        "raisins",
+        "baking powder",
+        "salt",
+        "milk",
+        "honey",
+        "eggs",
+        "tablespoons    vegetable oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

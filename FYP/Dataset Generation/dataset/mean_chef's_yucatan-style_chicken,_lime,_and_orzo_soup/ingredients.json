@@ -1,0 +1,23 @@
+{
+    "dish_name": "mean chef's yucatan-style chicken, lime, and orzo soup",
+    "ingredients": [
+        "orzo pasta",
+        "olive oil",
+        "medium    white onion, thinly sliced",
+        "garlic cloves",
+        "jalapeno chiles",
+        "boneless skinless chicken breast",
+        "low sodium chicken broth",
+        "fresh lime juice",
+        "tomatoes",
+        "fresh cilantro",
+        "fresh cilantro"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

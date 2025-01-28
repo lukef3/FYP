@@ -1,0 +1,11 @@
+{
+    "dish_name": "simple vanilla ice milk",
+    "ingredients": [
+        "milk",
+        "sugar",
+        "vanilla extract"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

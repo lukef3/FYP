@@ -1,0 +1,16 @@
+{
+    "dish_name": "new potatoes with herbes de provence, lemon and coarse salt",
+    "ingredients": [
+        "tiny new potatoes",
+        "extra virgin olive oil",
+        "teaspoon    herbes de provence",
+        "coarse salt",
+        "medium    lemon, juice of",
+        "fresh ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

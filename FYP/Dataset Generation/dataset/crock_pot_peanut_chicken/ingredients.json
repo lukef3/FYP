@@ -1,0 +1,19 @@
+{
+    "dish_name": "crock pot peanut chicken",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "peanut butter",
+        "soy sauce",
+        "tablespoons    orange juice",
+        "pepper",
+        "honey",
+        "chicken broth"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

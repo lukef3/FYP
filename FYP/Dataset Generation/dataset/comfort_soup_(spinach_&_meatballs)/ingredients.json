@@ -1,0 +1,13 @@
+{
+    "dish_name": "comfort soup (spinach & meatballs)",
+    "ingredients": [
+        "chicken broth",
+        "ground beef",
+        "parmesan cheese",
+        "ground black pepper",
+        "frozen spinach"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

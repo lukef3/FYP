@@ -1,0 +1,28 @@
+{
+    "dish_name": "broccoli dal curry",
+    "ingredients": [
+        "butter",
+        "ghee",
+        "onions",
+        "chili powder",
+        "black pepper",
+        "cumin",
+        "ground coriander",
+        "turmeric",
+        "red lentil",
+        "lemon, juice of",
+        "chicken broth",
+        "broccoli",
+        "cup    dried coconut (optional)",
+        "flour",
+        "salt",
+        "cashews"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

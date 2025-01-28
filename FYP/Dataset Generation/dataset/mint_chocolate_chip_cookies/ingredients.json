@@ -1,0 +1,18 @@
+{
+    "dish_name": "mint chocolate chip cookies",
+    "ingredients": [
+        "butter",
+        "granulated sugar",
+        "light brown sugar",
+        "vanilla extract",
+        "salt",
+        "eggs",
+        "all-purpose flour",
+        "cup    cocoa",
+        "baking soda",
+        "cups    mint chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

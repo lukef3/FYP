@@ -1,0 +1,22 @@
+{
+    "dish_name": "wendy's rhubarb stir cake",
+    "ingredients": [
+        "butter",
+        "brown sugar",
+        "egg",
+        "vanilla",
+        "all-purpose flour",
+        "baking soda",
+        "salt",
+        "sour cream",
+        "rhubarb",
+        "white sugar",
+        "nutmeg"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

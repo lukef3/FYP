@@ -1,0 +1,20 @@
+{
+    "dish_name": "roasted pork shoulder",
+    "ingredients": [
+        "lbs    pork shoulder (bone in)",
+        "onion",
+        "water",
+        "bay leaves",
+        "liquid smoke",
+        "seasoning salt",
+        "salt",
+        "garlic powder",
+        "ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

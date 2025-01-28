@@ -1,0 +1,20 @@
+{
+    "dish_name": "taco soup",
+    "ingredients": [
+        "ground beef",
+        "onion",
+        "diced tomatoes",
+        "(16   ounce) cans   beans (kidney, navy and white beans are good together)",
+        "white corn",
+        "green chilies",
+        "tomato sauce",
+        "water",
+        "(1 1/4  ounce) package   taco seasoning mix",
+        "(1   ounce) package   ranch dressing mix"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

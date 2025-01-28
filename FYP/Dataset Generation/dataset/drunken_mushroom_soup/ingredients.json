@@ -1,0 +1,22 @@
+{
+    "dish_name": "drunken mushroom soup",
+    "ingredients": [
+        "butter",
+        "yellow onions",
+        "sugar",
+        "fresh mushrooms",
+        "flour",
+        "water",
+        "chicken broth",
+        "dry vermouth",
+        "salt",
+        "pepper",
+        "thyme"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

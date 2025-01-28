@@ -1,0 +1,21 @@
+{
+    "dish_name": "easy spaghetti and meatballs",
+    "ingredients": [
+        "(30   ounce) jars   spaghetti sauce",
+        "lean ground beef",
+        "eggs",
+        "cup    dry breadcrumbs",
+        "fresh parsley",
+        "garlic clove",
+        "salt",
+        "parmesan cheese",
+        "spaghetti"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "dish_name": "loaded baked spaghetti",
+    "ingredients": [
+        "onion",
+        "green pepper",
+        "butter",
+        "tomatoes",
+        "mushroom pieces",
+        "sliced ripe olives",
+        "oregano",
+        "ground beef",
+        "spaghetti",
+        "cheddar cheese",
+        "(10   ounce) can   cream of mushroom soup",
+        "water",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

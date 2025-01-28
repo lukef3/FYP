@@ -1,0 +1,20 @@
+{
+    "dish_name": "greek marinade",
+    "ingredients": [
+        "olive oil",
+        "lemon juice",
+        "garlic",
+        "Dijon mustard",
+        "dried oregano",
+        "fresh thyme leaves",
+        "dried thyme",
+        "fresh parsley",
+        "black pepper",
+        "fresh rosemary",
+        "dried rosemary"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

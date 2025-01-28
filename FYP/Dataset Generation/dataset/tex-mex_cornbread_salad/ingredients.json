@@ -1,0 +1,25 @@
+{
+    "dish_name": "tex-mex cornbread salad",
+    "ingredients": [
+        "package    cornbread mix, prepared as directed",
+        "pinto beans",
+        "kidney beans",
+        "tomatoes",
+        "green onion",
+        "green pepper",
+        "jalapeno peppers, seeded and diced",
+        "bacon",
+        "monterey jack cheese",
+        "whole kernel corn",
+        "sour cream",
+        "salsa",
+        "mayonnaise",
+        "package    dry ranch dressing mix"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

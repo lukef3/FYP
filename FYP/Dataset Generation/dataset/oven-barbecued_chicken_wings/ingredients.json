@@ -1,0 +1,16 @@
+{
+    "dish_name": "oven-barbecued chicken wings",
+    "ingredients": [
+        "chicken wings",
+        "salt",
+        "fresh ground pepper",
+        "barbecue sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

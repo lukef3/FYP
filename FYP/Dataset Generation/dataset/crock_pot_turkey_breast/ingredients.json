@@ -1,0 +1,14 @@
+{
+    "dish_name": "crock pot turkey breast",
+    "ingredients": [
+        "turkey breast",
+        "teaspoons    vegetable oil",
+        "salt and pepper",
+        "onion",
+        "garlic cloves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

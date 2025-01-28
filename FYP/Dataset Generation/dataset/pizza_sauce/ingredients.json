@@ -1,0 +1,18 @@
+{
+    "dish_name": "pizza sauce",
+    "ingredients": [
+        "olive oil",
+        "garlic clove",
+        "tomato puree",
+        "dried marjoram",
+        "dried basil",
+        "Splenda sugar substitute",
+        "teaspoon    balsamic vinegar",
+        "salt & fresh ground pepper, to taste"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "oatmeal and apple butter bars",
+    "ingredients": [
+        "old fashioned oats",
+        "all-purpose flour",
+        "sugar",
+        "salt",
+        "ground cinnamon",
+        "butter",
+        "margarine",
+        "apple butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

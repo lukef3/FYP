@@ -1,0 +1,14 @@
+{
+    "dish_name": "morning sunshine / hot lemon drink",
+    "ingredients": [
+        "lemon, juice of",
+        "hot water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

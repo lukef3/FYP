@@ -1,0 +1,23 @@
+{
+    "dish_name": "lite or light pumpkin chocolate chip muffins",
+    "ingredients": [
+        "eggs",
+        "cup    oil (or substitute applesauce for this too)",
+        "unsweetened applesauce",
+        "pumpkin",
+        "sugar",
+        "flour",
+        "baking soda",
+        "baking powder",
+        "cinnamon",
+        "salt",
+        "ounces    semisweet mini chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

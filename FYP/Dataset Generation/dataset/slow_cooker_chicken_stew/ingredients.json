@@ -1,0 +1,32 @@
+{
+    "dish_name": "slow cooker chicken stew",
+    "ingredients": [
+        "boneless skinless chicken breast",
+        "boneless skinless chicken thighs",
+        "mushrooms",
+        "water",
+        "cup    frozen small whole onions (or 3/4 cup chopped onion)",
+        "celery",
+        "carrots",
+        "paprika",
+        "salt",
+        "dried rubbed sage",
+        "dried thyme",
+        "pepper",
+        "chicken broth",
+        "tomato paste",
+        "low sodium chicken broth",
+        "vegetable broth",
+        "cornstarch",
+        "frozen green peas",
+        "soybeans",
+        "extra firm tofu"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "alton brown's white trash",
+    "ingredients": [
+        "cups    Cheerios toasted oat cereal",
+        "cups    Rice Chex",
+        "cups    Corn Chex",
+        "ounces    M&M's plain chocolate candy",
+        "cups    salted mixed nuts",
+        "cups    small pretzels",
+        "white chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

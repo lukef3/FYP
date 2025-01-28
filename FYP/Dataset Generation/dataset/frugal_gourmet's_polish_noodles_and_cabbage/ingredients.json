@@ -1,0 +1,20 @@
+{
+    "dish_name": "frugal gourmet's polish noodles and cabbage",
+    "ingredients": [
+        "butter",
+        "yellow onion",
+        "cabbage",
+        "caraway seed",
+        "salt",
+        "pepper",
+        "(8   ounce) package   egg noodles",
+        "sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

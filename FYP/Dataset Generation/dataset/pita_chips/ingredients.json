@@ -1,0 +1,17 @@
+{
+    "dish_name": "pita chips",
+    "ingredients": [
+        "pita pocket bread",
+        "olive oil",
+        "black pepper",
+        "teaspoon    garlic salt",
+        "dried basil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "dish_name": "paula deen's layered mexican cornbread",
+    "ingredients": [
+        "yellow cornmeal",
+        "flour",
+        "white sugar",
+        "baking powder",
+        "garlic powder",
+        "half-and-half cream",
+        "eggs",
+        "seasoning salt",
+        "salt",
+        "butter",
+        "onions",
+        "green onion",
+        "(14   ounce) can   creamed corn",
+        "frozen corn",
+        "canned corn niblet",
+        "cheddar cheese",
+        "jalapeno peppers, seeded and finely chopped  (or to taste)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "canadian burger with beer-braised onions and cheddar",
+    "ingredients": [
+        "butter",
+        "onion",
+        "sugar",
+        "beer",
+        "ground beef",
+        "garlic cloves",
+        "cup   finely diced red pepper",
+        "beer",
+        "Dijon mustard",
+        "salt & freshly ground black pepper",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

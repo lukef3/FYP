@@ -1,0 +1,21 @@
+{
+    "dish_name": "twice baked mini potato dauphinoise - potato gratin muffins",
+    "ingredients": [
+        "potatoes",
+        "garlic cloves",
+        "creme fraiche",
+        "sour cream",
+        "ounces   grated emmenthaler cheese",
+        "butter",
+        "nutmeg",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

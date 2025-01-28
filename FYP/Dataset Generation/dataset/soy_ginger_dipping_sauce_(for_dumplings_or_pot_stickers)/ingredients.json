@@ -1,0 +1,19 @@
+{
+    "dish_name": "soy ginger dipping sauce (for dumplings or pot stickers)",
+    "ingredients": [
+        "soy sauce",
+        "cup    rice wine vinegar",
+        "sugar",
+        "scallion",
+        "teaspoons   minced fresh gingerroot",
+        "teaspoon    toasted sesame oil",
+        "hot red pepper flakes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

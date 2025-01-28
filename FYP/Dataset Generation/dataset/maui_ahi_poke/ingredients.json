@@ -1,0 +1,23 @@
+{
+    "dish_name": "maui ahi poke",
+    "ingredients": [
+        "fresh ahi tuna",
+        "round onion",
+        "green onions",
+        "fresh ginger",
+        "garlic cloves",
+        "soy sauce",
+        "teaspoon    sesame oil",
+        "crushed red pepper flakes",
+        "Chinese chili sauce",
+        "hawaiian sea salt",
+        "kosher salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

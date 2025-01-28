@@ -1,0 +1,24 @@
+{
+    "dish_name": "creamy chickpea curry",
+    "ingredients": [
+        "tablespoons    oil",
+        "onion",
+        "garlic cloves",
+        "red curry paste",
+        "chickpeas",
+        "coconut milk",
+        "soy sauce",
+        "tomatoes",
+        "brown sugar",
+        "fresh lime juice",
+        "fresh basil",
+        "cilantro",
+        "cooked jasmine rice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

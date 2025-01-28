@@ -1,0 +1,19 @@
+{
+    "dish_name": "greek yogurt pancakes",
+    "ingredients": [
+        "ounces    Greek yogurt",
+        "all-purpose flour",
+        "sugar",
+        "baking powder",
+        "salt",
+        "eggs",
+        "vanilla extract"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

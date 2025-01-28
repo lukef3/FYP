@@ -1,0 +1,17 @@
+{
+    "dish_name": "mag's extra special extra delicious candied pecans",
+    "ingredients": [
+        "water",
+        "egg white",
+        "sugar",
+        "salt",
+        "cinnamon",
+        "pecans"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

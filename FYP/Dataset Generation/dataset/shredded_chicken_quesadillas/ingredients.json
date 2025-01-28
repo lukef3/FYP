@@ -1,0 +1,24 @@
+{
+    "dish_name": "shredded chicken quesadillas",
+    "ingredients": [
+        "cups   shredded cooked chicken",
+        "salsa",
+        "green onion",
+        "ground cumin",
+        "salt",
+        "dried oregano",
+        "8-inch flour tortillas",
+        "butter",
+        "margarine",
+        "monterey jack cheese",
+        "sour cream",
+        "guacamole"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

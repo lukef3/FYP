@@ -1,0 +1,19 @@
+{
+    "dish_name": "kelly's rich and creamy key lime pie",
+    "ingredients": [
+        "egg yolks",
+        "sweetened condensed milk",
+        "key lime juice",
+        "graham cracker crust",
+        "Cool Whip",
+        "kiwi",
+        "fresh strawberries"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

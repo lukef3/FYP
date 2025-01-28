@@ -1,0 +1,27 @@
+{
+    "dish_name": "spicy honey-orange chicken",
+    "ingredients": [
+        "honey",
+        "tablespoons    frozen orange juice concentrate (thawed)",
+        "orange zest",
+        "garlic cloves",
+        "crushed red pepper flakes",
+        "boneless skinless chicken breasts",
+        "flour",
+        "garlic powder",
+        "salt",
+        "pepper",
+        "butter",
+        "margarine",
+        "teaspoon    vegetable oil",
+        "green onion stems",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

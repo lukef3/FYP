@@ -1,0 +1,18 @@
+{
+    "dish_name": "salmon with pistachio basil butter",
+    "ingredients": [
+        "pistachios",
+        "basil leaves",
+        "garlic",
+        "butter",
+        "lime juice",
+        "white wine",
+        "salmon fillets"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

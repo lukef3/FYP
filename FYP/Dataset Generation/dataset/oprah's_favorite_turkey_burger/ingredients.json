@@ -1,0 +1,23 @@
+{
+    "dish_name": "oprah's favorite turkey burger",
+    "ingredients": [
+        "scallion",
+        "celery",
+        "granny smith apples",
+        "canola oil",
+        "lbs    ground turkey breast",
+        "salt",
+        "black pepper",
+        "TABASCO\u00ae brand Chipotle Pepper Sauce",
+        "lemon, juice and zest of",
+        "parsley",
+        "Major Grey chutney"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

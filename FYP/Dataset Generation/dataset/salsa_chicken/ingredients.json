@@ -1,0 +1,16 @@
+{
+    "dish_name": "salsa chicken",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "salsa",
+        "(12   ounce) can   Diet Coke (DO NOT SUBSTITUTE ON THIS ITEM)",
+        "lime, juice of"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

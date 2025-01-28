@@ -1,0 +1,16 @@
+{
+    "dish_name": "mummy dogs",
+    "ingredients": [
+        "(11   ounce) package   refrigerated breadstick dough (8 count)",
+        "hot dogs",
+        "mustard",
+        "poppy seed"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

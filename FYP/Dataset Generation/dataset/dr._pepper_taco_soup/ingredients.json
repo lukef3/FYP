@@ -1,0 +1,26 @@
+{
+    "dish_name": "dr. pepper taco soup",
+    "ingredients": [
+        "ground beef",
+        "a white onion, diced",
+        "tomato sauce",
+        "corn",
+        "(14 1/2  ounce) can   ranch style beans",
+        "diced tomatoes",
+        "ounces    taco seasoning",
+        "ounces    ranch dressing mix, like hidden valley",
+        "cayenne pepper",
+        "ounces    Dr. Pepper cola (I think we even used beer once) or 6   ounces   regular cola (I think we even used beer once)",
+        "teaspoon    garlic salt",
+        "cheddar cheese",
+        "corn chips",
+        "sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

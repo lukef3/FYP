@@ -1,0 +1,22 @@
+{
+    "dish_name": "devil's food chocolate chip muffins",
+    "ingredients": [
+        "unbleached all-purpose flour",
+        "cup    unsweetened cocoa powder",
+        "sugar",
+        "baking soda",
+        "salt",
+        "milk",
+        "cup    vegetable oil",
+        "eggs",
+        "vanilla extract",
+        "cup    semisweet mini chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "dish_name": "easy veggie burgers",
+    "ingredients": [
+        "black beans",
+        "onion",
+        "garlic clove",
+        "egg",
+        "barbecue sauce",
+        "ketchup",
+        "soya sauce",
+        "canola oil",
+        "salt",
+        "pepper",
+        "all-purpose flour",
+        "cup    dry breadcrumbs (must be store bought to work) or 1/2  cup    cracker crumb, ground in processor until very fine  (must be store bought to work)",
+        "cup    old cheddar cheese, shredded",
+        "crusty bread rolls"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

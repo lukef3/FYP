@@ -1,0 +1,22 @@
+{
+    "dish_name": "cauliflower and/or broccoli soup (ww 0 point soup)",
+    "ingredients": [
+        "water",
+        "cauliflower",
+        "broccoli",
+        "carrots",
+        "onion",
+        "dried oregano",
+        "dried basil",
+        "chicken bouillon cubes",
+        "chicken bouillon powder",
+        "salt & pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

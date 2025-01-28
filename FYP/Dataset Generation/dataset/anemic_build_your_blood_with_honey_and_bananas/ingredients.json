@@ -1,0 +1,14 @@
+{
+    "dish_name": "anemic build your blood with honey and bananas",
+    "ingredients": [
+        "banana",
+        "honey"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

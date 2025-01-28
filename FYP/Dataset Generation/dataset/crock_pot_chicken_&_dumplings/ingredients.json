@@ -1,0 +1,15 @@
+{
+    "dish_name": "crock pot chicken & dumplings",
+    "ingredients": [
+        "boneless skinless chicken breast",
+        "(10 3/4  ounce) cans   cream of chicken soup",
+        "onion",
+        "(8   count) package  grand refrigerated biscuits"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

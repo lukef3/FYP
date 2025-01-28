@@ -1,0 +1,22 @@
+{
+    "dish_name": "sweet chicken skewers with a peanut dip",
+    "ingredients": [
+        "cup   hot apple juice",
+        "cup    teriyaki sauce",
+        "peanut butter",
+        "soy sauce",
+        "fresh cilantro",
+        "fresh parsley",
+        "fresh ginger",
+        "garlic clove",
+        "honey",
+        "boneless skinless chicken breast"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

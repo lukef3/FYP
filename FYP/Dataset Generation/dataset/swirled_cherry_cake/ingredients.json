@@ -1,0 +1,17 @@
+{
+    "dish_name": "swirled cherry cake",
+    "ingredients": [
+        "(18 1/4  ounce) box   white cake mix or  (18 1/4  ounce) box   yellow cake mix",
+        "eggs",
+        "water",
+        "cup    oil",
+        "cherry pie filling"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

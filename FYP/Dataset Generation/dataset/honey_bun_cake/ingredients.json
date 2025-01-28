@@ -1,0 +1,22 @@
+{
+    "dish_name": "honey bun cake",
+    "ingredients": [
+        "(18   ounce) package   yellow cake mix",
+        "cup    vegetable oil",
+        "eggs",
+        "sour cream",
+        "brown sugar",
+        "pecans",
+        "ground cinnamon",
+        "powdered sugar",
+        "milk",
+        "vanilla"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

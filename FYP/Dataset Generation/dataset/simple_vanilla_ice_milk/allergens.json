@@ -1,0 +1,22 @@
+{
+    "dish_name": "simple vanilla ice milk",
+    "allergens": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "low fat oatmeal chocolate chip cookies",
+    "ingredients": [
+        "all-purpose flour",
+        "baking powder",
+        "baking soda",
+        "salt",
+        "ground cinnamon",
+        "butter",
+        "white sugar",
+        "brown sugar",
+        "egg",
+        "unsweetened applesauce",
+        "vanilla extract",
+        "quick-cooking oats",
+        "chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

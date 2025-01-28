@@ -1,0 +1,26 @@
+{
+    "dish_name": "delicious roasted beef ribs",
+    "ingredients": [
+        "ketchup",
+        "maple syrup",
+        "honey",
+        "tablespoons    balsamic vinegar",
+        "Worcestershire sauce",
+        "Dijon mustard",
+        "garlic",
+        "green onions",
+        "chives",
+        "cinnamon",
+        "allspice",
+        "fresh ground black pepper",
+        "cayenne pepper",
+        "beef ribs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

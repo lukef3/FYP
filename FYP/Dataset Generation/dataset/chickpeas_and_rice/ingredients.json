@@ -1,0 +1,22 @@
+{
+    "dish_name": "chickpeas and rice",
+    "ingredients": [
+        "chickpeas",
+        "butter",
+        "olive oil",
+        "parsley",
+        "sun-dried tomatoes packed in oil",
+        "dried basil",
+        "dried oregano",
+        "salt",
+        "pepper",
+        "parmesan cheese",
+        "dried thyme",
+        "bay leaf",
+        "basmati rice",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

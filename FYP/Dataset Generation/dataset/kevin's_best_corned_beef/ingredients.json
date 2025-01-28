@@ -1,0 +1,28 @@
+{
+    "dish_name": "kevin's best corned beef",
+    "ingredients": [
+        "onions",
+        "carrots",
+        "corned beef brisket",
+        "malt vinegar",
+        "stout beer",
+        "mustard seeds",
+        "tablespoon    coriander seed",
+        "black peppercorns",
+        "tablespoon    dill seed",
+        "whole allspice",
+        "bay leaves",
+        "cabbage",
+        "small red potatoes",
+        "coarse grain mustard",
+        "Dijon mustard",
+        "horseradish"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

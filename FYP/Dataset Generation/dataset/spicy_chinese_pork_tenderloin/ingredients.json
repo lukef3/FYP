@@ -1,0 +1,22 @@
+{
+    "dish_name": "spicy chinese pork tenderloin",
+    "ingredients": [
+        "soy sauce",
+        "hoisin sauce",
+        "tablespoons    vegetable oil",
+        "sugar",
+        "garlic cloves",
+        "red pepper flakes",
+        "(3/4  lb)    pork tenderloin, about  (not pork loin)",
+        "water",
+        "butter",
+        "green onions",
+        "cooked rice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

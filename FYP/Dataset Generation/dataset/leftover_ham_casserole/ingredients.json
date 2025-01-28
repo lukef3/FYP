@@ -1,0 +1,20 @@
+{
+    "dish_name": "leftover ham casserole",
+    "ingredients": [
+        "cups    cooked macaroni",
+        "broccoli",
+        "onion",
+        "(10   ounce) can   low-fat cream of mushroom soup",
+        "cooked ham",
+        "light cheddar cheese",
+        "pepper",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

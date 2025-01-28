@@ -1,0 +1,18 @@
+{
+    "dish_name": "pepperoni bread",
+    "ingredients": [
+        "lb    frozen bread dough, thawed",
+        "egg",
+        "ounces    pepperoni, sliced",
+        "mozzarella cheese",
+        "parmesan cheese",
+        "teaspoons    italian seasoning"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

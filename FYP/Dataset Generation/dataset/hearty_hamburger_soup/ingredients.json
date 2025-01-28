@@ -1,0 +1,31 @@
+{
+    "dish_name": "hearty hamburger soup",
+    "ingredients": [
+        "lean ground beef",
+        "white onion, peeled and diced",
+        "ground black pepper",
+        "dry oregano",
+        "dry basil",
+        "seasoning salt",
+        "(1 1/2  ounce) envelope   onion soup mix",
+        "water",
+        "tomato sauce",
+        "soy sauce",
+        "diced tomatoes",
+        "corn",
+        "celery",
+        "celery leaves",
+        "fresh carrot",
+        "white potato",
+        "garlic salt, to taste",
+        "parmesan cheese",
+        "sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

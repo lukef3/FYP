@@ -1,0 +1,26 @@
+{
+    "dish_name": "scrumptious thai coconut red curry",
+    "ingredients": [
+        "red curry paste",
+        "coconut milk",
+        "fresh basil",
+        "bamboo shoot",
+        "fish sauce",
+        "brown sugar",
+        "cup    chicken stock",
+        "mushroom",
+        "red bell pepper",
+        "green pepper",
+        "yellow pepper",
+        "onion",
+        "chicken breasts",
+        "brown rice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "cheesy turkey burger",
+    "ingredients": [
+        "ground turkey",
+        "garlic powder",
+        "onion powder",
+        "celery seed",
+        "oregano",
+        "Worcestershire sauce",
+        "cup    breadcrumbs",
+        "cheddar cheese",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

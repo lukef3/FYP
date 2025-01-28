@@ -1,0 +1,13 @@
+{
+    "dish_name": "grilled pork loin with bacon",
+    "ingredients": [
+        "bacon",
+        "garlic cloves",
+        "dried rosemary",
+        "boneless pork loin"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "hoagie bake",
+    "ingredients": [
+        "(8   ounce) packages   prepared pizza crust",
+        "lb    salami, sliced",
+        "cooked ham",
+        "lb    pepperoni, sliced",
+        "provolone cheese",
+        "mozzarella cheese",
+        "parmesan cheese",
+        "cup    Italian salad dressing",
+        "pizza sauce, for dipping  (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

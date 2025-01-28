@@ -1,0 +1,20 @@
+{
+    "dish_name": "russian salad dressing",
+    "ingredients": [
+        "sugar",
+        "water",
+        "cup    vegetable oil",
+        "catsup",
+        "lemon juice",
+        "vinegar",
+        "salt",
+        "paprika",
+        "celery seeds",
+        "Worcestershire sauce",
+        "onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

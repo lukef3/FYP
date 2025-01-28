@@ -1,0 +1,19 @@
+{
+    "dish_name": "pms bars",
+    "ingredients": [
+        "butter",
+        "graham cracker crumbs",
+        "sweetened condensed milk",
+        "cup    semi-sweet chocolate chips",
+        "cup    peanut butter chips",
+        "cup    vanilla chip",
+        "cup   broken salted pretzel (thin pretzels are preferable)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

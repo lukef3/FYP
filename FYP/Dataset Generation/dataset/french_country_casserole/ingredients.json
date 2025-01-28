@@ -1,0 +1,20 @@
+{
+    "dish_name": "french country casserole",
+    "ingredients": [
+        "kielbasa",
+        "kidney beans",
+        "great northern beans",
+        "black beans",
+        "tomato sauce",
+        "carrots",
+        "onions",
+        "red wine",
+        "beef broth",
+        "brown sugar",
+        "garlic",
+        "dried thyme"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

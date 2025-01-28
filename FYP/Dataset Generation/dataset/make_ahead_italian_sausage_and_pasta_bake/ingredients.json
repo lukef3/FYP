@@ -1,0 +1,28 @@
+{
+    "dish_name": "make ahead italian sausage and pasta bake",
+    "ingredients": [
+        "Italian sausage",
+        "olive oil",
+        "onions",
+        "garlic cloves",
+        "large    sweet red pepper, coarsely chopped",
+        "ounces   meatless extra chunky pasta sauce",
+        "tomato sauce",
+        "dried basil",
+        "oregano",
+        "fennel seed",
+        "penne pasta",
+        "fresh spinach",
+        "provolone cheese",
+        "mozzarella cheese",
+        "asiago cheese",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

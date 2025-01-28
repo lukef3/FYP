@@ -1,0 +1,17 @@
+{
+    "dish_name": "the last red enchilada sauce you'll need",
+    "ingredients": [
+        "chili powder",
+        "flour",
+        "chicken bouillon",
+        "cocoa powder",
+        "teaspoon    garlic salt",
+        "oregano",
+        "water",
+        "tomato sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

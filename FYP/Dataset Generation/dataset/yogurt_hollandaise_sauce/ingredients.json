@@ -1,0 +1,20 @@
+{
+    "dish_name": "yogurt hollandaise sauce",
+    "ingredients": [
+        "low-fat plain yogurt",
+        "lemon juice",
+        "egg yolks",
+        "salt",
+        "Dijon mustard",
+        "fresh ground pepper",
+        "fresh dill",
+        "parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

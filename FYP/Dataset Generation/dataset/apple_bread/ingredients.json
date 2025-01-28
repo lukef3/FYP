@@ -1,0 +1,18 @@
+{
+    "dish_name": "apple bread",
+    "ingredients": [
+        "sugar",
+        "cup    oil",
+        "eggs",
+        "flour",
+        "salt",
+        "cinnamon",
+        "baking soda",
+        "vanilla",
+        "apples",
+        "cup   chopped nuts"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "beef rouladen",
+    "ingredients": [
+        "Dijon mustard",
+        "top round steaks",
+        "salt and pepper",
+        "bacon",
+        "onion",
+        "dill pickles",
+        "tablespoons    cooking oil",
+        "beef broth",
+        "flour",
+        "water",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

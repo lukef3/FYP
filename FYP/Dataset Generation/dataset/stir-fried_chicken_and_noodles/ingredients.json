@@ -1,0 +1,29 @@
+{
+    "dish_name": "stir-fried chicken and noodles",
+    "ingredients": [
+        "chicken broth",
+        "soy sauce",
+        "white wine",
+        "chicken broth",
+        "garlic cloves",
+        "ground ginger",
+        "pepper",
+        "red pepper flakes",
+        "boneless chicken breast",
+        "canola oil",
+        "broccoli florets",
+        "carrots",
+        "Chinese cabbage",
+        "napa cabbage",
+        "fresh snow pea",
+        "spaghetti",
+        "cornstarch"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

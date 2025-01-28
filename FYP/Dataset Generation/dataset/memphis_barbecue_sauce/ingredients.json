@@ -1,0 +1,23 @@
+{
+    "dish_name": "memphis barbecue sauce",
+    "ingredients": [
+        "ketchup",
+        "brown sugar",
+        "cider vinegar",
+        "cayenne pepper",
+        "onion powder",
+        "celery seed",
+        "salt",
+        "garlic powder",
+        "prepared yellow mustard",
+        "chili powder",
+        "ground black pepper",
+        "liquid smoke",
+        "Worcestershire sauce",
+        "canola oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

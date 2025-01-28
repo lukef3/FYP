@@ -1,0 +1,22 @@
+{
+    "dish_name": "peanut butter chocolate chip mini muffins",
+    "ingredients": [
+        "all-purpose flour",
+        "brown sugar",
+        "baking powder",
+        "salt",
+        "milk",
+        "peanut butter",
+        "cup    vegetable oil (I usually use canola)",
+        "egg",
+        "vanilla extract",
+        "cup    miniature semisweet chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

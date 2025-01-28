@@ -1,0 +1,24 @@
+{
+    "dish_name": "cappuccino cheesecake",
+    "ingredients": [
+        "graham crackers",
+        "unsalted butter",
+        "sugar",
+        "cup    whipping cream",
+        "instant espresso powder",
+        "instant coffee powder",
+        "vanilla extract",
+        "cream cheese",
+        "eggs",
+        "all-purpose flour",
+        "cup    semi-sweet chocolate chips",
+        "chocolate"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

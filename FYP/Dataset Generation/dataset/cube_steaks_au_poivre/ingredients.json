@@ -1,0 +1,17 @@
+{
+    "dish_name": "cube steaks au poivre",
+    "ingredients": [
+        "cube steaks",
+        "butter",
+        "fresh coarse ground black pepper",
+        "lemon juice",
+        "salt",
+        "water",
+        "Worcestershire sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

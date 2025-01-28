@@ -1,0 +1,23 @@
+{
+    "dish_name": "gingerbread men",
+    "ingredients": [
+        "creamed shortening",
+        "granulated sugar",
+        "dark molasses",
+        "egg",
+        "all-purpose flour",
+        "salt",
+        "baking powder",
+        "baking soda",
+        "ginger",
+        "ground cloves",
+        "cinnamon",
+        "nutmeg"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

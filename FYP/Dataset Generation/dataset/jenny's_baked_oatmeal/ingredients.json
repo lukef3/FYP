@@ -1,0 +1,20 @@
+{
+    "dish_name": "jenny's baked oatmeal",
+    "ingredients": [
+        "quick-cooking oatmeal",
+        "brown sugar",
+        "baking powder",
+        "cinnamon",
+        "salt",
+        "skim milk",
+        "butter",
+        "margarine",
+        "eggs",
+        "brown sugar",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

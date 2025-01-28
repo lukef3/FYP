@@ -1,0 +1,19 @@
+{
+    "dish_name": "baked corned beef brisket",
+    "ingredients": [
+        "corned beef brisket",
+        "corned beef",
+        "onion powder",
+        "thyme leaves",
+        "paprika",
+        "garlic powder",
+        "heavy aluminum foil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

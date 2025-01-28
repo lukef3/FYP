@@ -1,0 +1,20 @@
+{
+    "dish_name": "pork machaca (tender pulled mexican pork)",
+    "ingredients": [
+        "(4 -5   lb)    pork butt (about 4-5 lbs, but up to 10 is fine too)",
+        "water",
+        "chicken bouillon powder",
+        "diced tomatoes",
+        "tomato paste",
+        "garlic cloves",
+        "whole jalapenos, more can be used for a spicier final dish  (or 2 small cans diced green chiles, or 1 small can jalepenos-not pickled)",
+        "oregano"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

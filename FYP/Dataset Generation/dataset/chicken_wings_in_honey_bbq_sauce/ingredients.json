@@ -1,0 +1,19 @@
+{
+    "dish_name": "chicken wings in honey bbq sauce",
+    "ingredients": [
+        "chicken wings",
+        "salt and black pepper",
+        "honey",
+        "soy sauce",
+        "barbecue sauce",
+        "cup    oil",
+        "garlic cloves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "apple pie",
+    "ingredients": [
+        "apples",
+        "sugar",
+        "nutmeg",
+        "cinnamon",
+        "flour",
+        "butter",
+        "margarine",
+        "lemon juice",
+        "Pastry for Double-Crust Pie (Better Homes and Gardens)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

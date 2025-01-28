@@ -1,0 +1,25 @@
+{
+    "dish_name": "winter cheeseburger soup",
+    "ingredients": [
+        "ground beef",
+        "onion",
+        "carrot",
+        "celery",
+        "dried basil",
+        "dried parsley flakes",
+        "butter",
+        "margarine",
+        "chicken broth",
+        "potatoes",
+        "all-purpose flour",
+        "Velveeta cheese",
+        "milk",
+        "salt",
+        "pepper",
+        "sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

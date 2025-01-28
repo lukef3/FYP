@@ -1,0 +1,23 @@
+{
+    "dish_name": "almond joy cookies",
+    "ingredients": [
+        "butter",
+        "white sugar",
+        "brown sugar",
+        "eggs",
+        "vanilla",
+        "flour",
+        "baking soda",
+        "kosher salt",
+        "chocolate chips",
+        "sweetened coconut",
+        "cups   chopped almonds, toasted"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

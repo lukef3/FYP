@@ -1,0 +1,21 @@
+{
+    "dish_name": "grandma's egg custard pie",
+    "ingredients": [
+        "(9   inch)    unbaked pie shells, deep dish",
+        "eggs",
+        "white sugar",
+        "salt",
+        "vanilla extract",
+        "egg white",
+        "cups   scalded whole milk",
+        "ground nutmeg",
+        "drops    yellow food coloring (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

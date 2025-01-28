@@ -1,0 +1,28 @@
+{
+    "dish_name": "louisiana sausage jambalaya",
+    "ingredients": [
+        "butter",
+        "yellow onions",
+        "celery",
+        "green onions",
+        "green bell pepper",
+        "garlic",
+        "serrano chili pepper",
+        "bay leaves",
+        "tablespoon    creole seasoning",
+        "ground cayenne pepper",
+        "dried thyme",
+        "andouille sausages",
+        "smoked sausage",
+        "chicken broth",
+        "diced tomatoes with juice",
+        "long-grain rice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

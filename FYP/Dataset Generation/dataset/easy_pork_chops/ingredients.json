@@ -1,0 +1,17 @@
+{
+    "dish_name": "easy pork chops",
+    "ingredients": [
+        "salt",
+        "pepper",
+        "paprika",
+        "sage",
+        "thyme",
+        "boneless pork loin chops",
+        "tablespoon    oil",
+        "onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

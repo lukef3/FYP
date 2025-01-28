@@ -1,0 +1,20 @@
+{
+    "dish_name": "potato pancakes",
+    "ingredients": [
+        "butter",
+        "onions",
+        "eggs",
+        "mashed potatoes",
+        "flour",
+        "salt and pepper",
+        "Tabasco sauce",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

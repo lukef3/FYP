@@ -1,0 +1,18 @@
+{
+    "dish_name": "buttery cut-out christmas cookies",
+    "ingredients": [
+        "butter",
+        "cream cheese",
+        "sugar",
+        "egg",
+        "vanilla",
+        "all-purpose flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

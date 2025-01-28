@@ -1,0 +1,23 @@
+{
+    "dish_name": "the best peanut butter cookies",
+    "ingredients": [
+        "creamy peanut butter",
+        "butter flavor shortening",
+        "brown sugar",
+        "egg",
+        "half-and-half",
+        "milk",
+        "vanilla",
+        "flour",
+        "baking soda",
+        "salt",
+        "cup    peanut butter chips",
+        "chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

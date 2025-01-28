@@ -1,0 +1,26 @@
+{
+    "dish_name": "bird's chicken piccata",
+    "ingredients": [
+        "flour",
+        "garlic powder",
+        "salt",
+        "black pepper",
+        "paprika",
+        "boneless skinless chicken breasts",
+        "butter",
+        "extra virgin olive oil",
+        "white wine",
+        "fat-free chicken broth",
+        "lemon juice",
+        "capers",
+        "fresh parsley",
+        "lemon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

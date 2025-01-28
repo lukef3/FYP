@@ -1,0 +1,18 @@
+{
+    "dish_name": "bare pantry chocolate chip cookie bars",
+    "ingredients": [
+        "butter",
+        "sugar",
+        "vanilla",
+        "salt",
+        "flour",
+        "(12   ounce) package   semi-sweet chocolate chips (1.5 cups for dough, 1/2 cup for topping)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

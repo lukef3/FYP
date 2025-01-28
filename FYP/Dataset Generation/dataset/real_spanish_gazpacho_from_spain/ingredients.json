@@ -1,0 +1,22 @@
+{
+    "dish_name": "real spanish gazpacho from spain",
+    "ingredients": [
+        "tomatoes",
+        "garlic clove",
+        "onion",
+        "green sweet pepper",
+        "cucumber",
+        "ground cumin",
+        "red wine vinegar",
+        "salt",
+        "cup    virgin olive oil",
+        "piece    French bread (3-4 inches long piece)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

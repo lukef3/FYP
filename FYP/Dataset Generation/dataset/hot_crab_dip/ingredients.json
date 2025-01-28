@@ -1,0 +1,22 @@
+{
+    "dish_name": "hot crab dip",
+    "ingredients": [
+        "sour cream",
+        "fresh lemon juice",
+        "fresh onion",
+        "Worcestershire sauce",
+        "dry mustard",
+        "garlic powder",
+        "cream cheese",
+        "sharp cheddar cheese",
+        "lump crabmeat",
+        "paprika"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

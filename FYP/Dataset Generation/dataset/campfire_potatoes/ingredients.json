@@ -1,0 +1,18 @@
+{
+    "dish_name": "campfire potatoes",
+    "ingredients": [
+        "potatoes",
+        "onion",
+        "butter",
+        "margarine",
+        "cheddar cheese",
+        "fresh parsley",
+        "Worcestershire sauce",
+        "salt and pepper",
+        "chicken broth"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

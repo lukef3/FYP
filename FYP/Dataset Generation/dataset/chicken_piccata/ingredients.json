@@ -1,0 +1,22 @@
+{
+    "dish_name": "chicken piccata",
+    "ingredients": [
+        "onion",
+        "garlic",
+        "chicken broth",
+        "lemon juice",
+        "parsley",
+        "capers",
+        "fresh ground black pepper",
+        "boneless skinless chicken breasts",
+        "cup    seasoned dry bread crumb",
+        "olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

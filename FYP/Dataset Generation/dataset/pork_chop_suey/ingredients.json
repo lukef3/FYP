@@ -1,0 +1,21 @@
+{
+    "dish_name": "pork chop suey",
+    "ingredients": [
+        "pork steaks",
+        "yellow onion",
+        "celery",
+        "fresh white mushrooms",
+        "tablespoon    vegetable oil",
+        "butter",
+        "bean sprouts",
+        "molasses",
+        "soy sauce",
+        "Swanson chicken broth",
+        "white pepper",
+        "water",
+        "cornstarch"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

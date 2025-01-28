@@ -1,0 +1,17 @@
+{
+    "dish_name": "classic green bean casserole",
+    "ingredients": [
+        "(10 3/4  ounce) can   condensed cream of mushroom soup",
+        "milk",
+        "pepper",
+        "french-style green beans",
+        "(2 7/8  ounce) can   French-fried onions"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

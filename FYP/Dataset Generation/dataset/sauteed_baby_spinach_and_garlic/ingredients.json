@@ -1,0 +1,17 @@
+{
+    "dish_name": "sauteed baby spinach and garlic",
+    "ingredients": [
+        "ounces    Baby Spinach, well cleaned and dried",
+        "garlic cloves",
+        "olive oil",
+        "kosher salt",
+        "nutmeg"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

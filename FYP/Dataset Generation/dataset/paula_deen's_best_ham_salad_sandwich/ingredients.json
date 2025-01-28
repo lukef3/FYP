@@ -1,0 +1,19 @@
+{
+    "dish_name": "paula deen's best ham salad sandwich",
+    "ingredients": [
+        "ham",
+        "celery",
+        "sweet onion",
+        "Dijon mustard",
+        "hard-boiled eggs",
+        "cup   hot pickle relish, drained",
+        "mayonnaise"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "dish_name": "tasty chicken tacos",
+    "ingredients": [
+        "cups    cooked chicken, shredded",
+        "green chilies",
+        "green chili salsa",
+        "water",
+        "chicken broth",
+        "cumin",
+        "salt",
+        "Mexican oregano",
+        "chili powder",
+        "fresh cilantro",
+        "lime, juice of",
+        "soft taco-size flour tortillas",
+        "cheddar cheese",
+        "lettuce",
+        "tomatoes",
+        "sour cream",
+        "guacamole"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

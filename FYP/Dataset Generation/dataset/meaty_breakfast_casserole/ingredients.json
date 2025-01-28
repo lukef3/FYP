@@ -1,0 +1,17 @@
+{
+    "dish_name": "meaty breakfast casserole",
+    "ingredients": [
+        "slices    white bread",
+        "cheddar cheese",
+        "eggs",
+        "milk",
+        "salt",
+        "pepper",
+        "dry mustard",
+        "bacon",
+        "mild sausage"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

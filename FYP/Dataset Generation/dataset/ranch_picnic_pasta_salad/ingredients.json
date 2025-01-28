@@ -1,0 +1,23 @@
+{
+    "dish_name": "ranch picnic pasta salad",
+    "ingredients": [
+        "angel hair pasta",
+        "tri-color spiral pasta",
+        "diced tomatoes",
+        "black olives",
+        "cucumbers",
+        "onion",
+        "green bell pepper",
+        "yellow bell pepper",
+        "(1   ounce) packages   hidden valley ranch dressing mix",
+        "(2/3  ounce) package   Italian salad dressing mix (prepared as directed on package only using half the oil called for)",
+        "olive oil",
+        "red wine vinegar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

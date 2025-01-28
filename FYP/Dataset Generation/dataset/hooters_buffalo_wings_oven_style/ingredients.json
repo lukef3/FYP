@@ -1,0 +1,18 @@
+{
+    "dish_name": "hooters buffalo wings oven style",
+    "ingredients": [
+        "chicken wings",
+        "butter",
+        "cup    hot sauce (like Tabasco, or Frank's)",
+        "flour",
+        "cayenne",
+        "garlic powder",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

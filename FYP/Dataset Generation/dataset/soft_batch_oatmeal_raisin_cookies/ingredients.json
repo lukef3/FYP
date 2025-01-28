@@ -1,0 +1,18 @@
+{
+    "dish_name": "soft batch oatmeal raisin cookies",
+    "ingredients": [
+        "butter",
+        "sugar",
+        "light brown sugar",
+        "eggs",
+        "flour",
+        "baking soda",
+        "instant vanilla pudding",
+        "cups    quick-cooking rolled oats",
+        "raisins"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

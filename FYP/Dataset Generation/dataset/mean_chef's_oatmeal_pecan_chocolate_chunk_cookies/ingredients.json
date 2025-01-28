@@ -1,0 +1,23 @@
+{
+    "dish_name": "mean chef's oatmeal pecan chocolate chunk cookies",
+    "ingredients": [
+        "all-purpose flour",
+        "salt",
+        "baking powder",
+        "baking soda",
+        "unsalted butter",
+        "light-brown sugar",
+        "granulated sugar",
+        "pure vanilla extract",
+        "milk",
+        "eggs",
+        "old fashioned oats",
+        "ounces    semisweet chocolate, chopped into 1/2 inch chunks",
+        "pecans"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

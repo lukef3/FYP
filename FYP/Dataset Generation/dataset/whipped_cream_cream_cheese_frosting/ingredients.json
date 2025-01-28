@@ -1,0 +1,17 @@
+{
+    "dish_name": "whipped cream cream cheese frosting",
+    "ingredients": [
+        "cream cheese",
+        "granulated sugar",
+        "salt",
+        "vanilla",
+        "cups   heavy whipped cream, unwhipped  (33-35%)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

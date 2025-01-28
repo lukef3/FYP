@@ -1,0 +1,15 @@
+{
+    "dish_name": "roast crock pot chicken",
+    "ingredients": [
+        "chicken",
+        "olive oil flavored cooking spray",
+        "seasoning salt",
+        "onion",
+        "garlic",
+        "aluminum foil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

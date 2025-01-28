@@ -1,0 +1,17 @@
+{
+    "dish_name": "outback steakhouse's alice springs chicken",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "honey mustard",
+        "bacon",
+        "teaspoon    McCormick's Season All",
+        "cup    sliced mushrooms, drained",
+        "colby",
+        "monterey jack cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

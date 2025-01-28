@@ -1,0 +1,18 @@
+{
+    "dish_name": "cuban roast pork",
+    "ingredients": [
+        "lbs    pork roast, shoulder, sirloin",
+        "garlic cloves",
+        "cup    orange juice",
+        "lime juice",
+        "oregano",
+        "cumin",
+        "black pepper",
+        "salt",
+        "onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

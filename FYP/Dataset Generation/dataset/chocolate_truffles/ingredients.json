@@ -1,0 +1,20 @@
+{
+    "dish_name": "chocolate truffles",
+    "ingredients": [
+        "cups    semi-sweet chocolate chips (18 ounce)",
+        "sweetened condensed milk",
+        "vanilla extract",
+        "flaked coconut",
+        "chocolate sprinkles (optional)",
+        "colored sprinkles (optional)",
+        "cocoa (optional)",
+        "finely chopped nuts (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

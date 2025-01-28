@@ -1,0 +1,20 @@
+{
+    "dish_name": "linda's apple brownies",
+    "ingredients": [
+        "margarine",
+        "sugar",
+        "egg",
+        "baking powder",
+        "baking soda",
+        "cinnamon",
+        "walnuts",
+        "flour",
+        "mcintosh apples",
+        "sweet apple"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

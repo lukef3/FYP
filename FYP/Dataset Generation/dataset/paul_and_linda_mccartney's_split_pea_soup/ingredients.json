@@ -1,0 +1,23 @@
+{
+    "dish_name": "paul and linda mccartney's split pea soup",
+    "ingredients": [
+        "lb    split peas",
+        "lb    orange lentils",
+        "onions",
+        "celery",
+        "tomatoes",
+        "leeks",
+        "water",
+        "butter",
+        "soy margarine",
+        "black peppercorns",
+        "sea salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

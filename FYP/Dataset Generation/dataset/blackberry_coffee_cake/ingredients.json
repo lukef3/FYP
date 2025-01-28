@@ -1,0 +1,21 @@
+{
+    "dish_name": "blackberry coffee cake",
+    "ingredients": [
+        "all-purpose flour",
+        "baking powder",
+        "sugar",
+        "egg",
+        "milk",
+        "butter",
+        "vanilla extract",
+        "sugar",
+        "fresh blackberries"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

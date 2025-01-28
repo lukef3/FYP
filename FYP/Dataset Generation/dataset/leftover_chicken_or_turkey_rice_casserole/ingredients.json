@@ -1,0 +1,26 @@
+{
+    "dish_name": "leftover chicken or turkey rice casserole",
+    "ingredients": [
+        "olive oil",
+        "onion",
+        "garlic clove",
+        "red capsicum",
+        "canned corn kernel",
+        "cup    chicken stock",
+        "dried thyme",
+        "cooked rice",
+        "sour cream",
+        "mustard",
+        "cup    cooked chicken or 1   cup    cooked turkey, diced",
+        "cup    tasty cheese, shredded",
+        "parsley",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

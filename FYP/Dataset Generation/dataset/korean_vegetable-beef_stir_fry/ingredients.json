@@ -1,0 +1,28 @@
+{
+    "dish_name": "korean vegetable-beef stir fry",
+    "ingredients": [
+        "boneless beef sirloin",
+        "top round beef",
+        "green onion",
+        "soy sauce",
+        "garlic cloves",
+        "tablespoons    sesame oil",
+        "sesame seeds",
+        "dried red pepper flakes",
+        "sugar",
+        "pepper",
+        "cold water",
+        "cornstarch",
+        "tablespoons    cooking oil",
+        "carrot",
+        "broccoli floret",
+        "cauliflower floret"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

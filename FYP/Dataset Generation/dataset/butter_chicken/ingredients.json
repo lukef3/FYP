@@ -1,0 +1,25 @@
+{
+    "dish_name": "butter chicken",
+    "ingredients": [
+        "butter",
+        "onion",
+        "cinnamon",
+        "garlic",
+        "fresh ginger",
+        "turmeric",
+        "teaspoon    ground red chili pepper",
+        "coriander powder",
+        "chicken",
+        "cup    ground almonds",
+        "whole tomatoes",
+        "tomato paste",
+        "cup    natural yoghurt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "budget-friendly black bean soup",
+    "ingredients": [
+        "beef broth",
+        "water",
+        "onion",
+        "black beans",
+        "salsa",
+        "cumin",
+        "sour cream",
+        "cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

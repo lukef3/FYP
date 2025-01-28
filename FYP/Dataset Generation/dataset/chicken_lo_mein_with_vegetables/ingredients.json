@@ -1,0 +1,28 @@
+{
+    "dish_name": "chicken lo mein with vegetables",
+    "ingredients": [
+        "spaghetti noodles",
+        "water",
+        "chicken bouillon cubes",
+        "boneless skinless chicken breasts",
+        "olive oil",
+        "tablespoons    sesame oil",
+        "onion",
+        "garlic clove",
+        "celery rib",
+        "cabbage",
+        "bok choy",
+        "carrot",
+        "frozen green pea",
+        "cornstarch",
+        "cold water",
+        "light soy sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

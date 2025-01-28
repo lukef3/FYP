@@ -1,0 +1,18 @@
+{
+    "dish_name": "pork chop and stuffing casserole",
+    "ingredients": [
+        "pork chops",
+        "box   stove top pork stuffing mix",
+        "can    cream of mushroom soup",
+        "water",
+        "pork dripping",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

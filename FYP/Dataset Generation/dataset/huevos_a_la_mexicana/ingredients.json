@@ -1,0 +1,19 @@
+{
+    "dish_name": "huevos a la mexicana",
+    "ingredients": [
+        "eggs",
+        "tomatoes",
+        "onion",
+        "serrano pepper, chopped",
+        "butter",
+        "tablespoon    oil",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

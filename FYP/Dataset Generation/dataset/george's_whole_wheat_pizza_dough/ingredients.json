@@ -1,0 +1,21 @@
+{
+    "dish_name": "george's whole wheat pizza dough",
+    "ingredients": [
+        "fast rising yeast",
+        "warm water",
+        "whole wheat flour",
+        "all-purpose flour",
+        "olive oil",
+        "sugar",
+        "honey",
+        "salt",
+        "garlic powder",
+        "oregano",
+        "thyme"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

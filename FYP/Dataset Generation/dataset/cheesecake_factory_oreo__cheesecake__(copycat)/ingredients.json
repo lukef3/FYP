@@ -1,0 +1,23 @@
+{
+    "dish_name": "cheesecake factory oreo  cheesecake  (copycat)",
+    "ingredients": [
+        "cups    Oreo cookie crumbs (about 18 to 23 cookies finely chopped)",
+        "butter",
+        "lbs    cream, cheese-24 ounces  (3 blocks of cream cheese)",
+        "sugar",
+        "eggs",
+        "salt",
+        "vanilla",
+        "all-purpose flour",
+        "sour cream",
+        "Oreo cookies (coarsely chopped for the batter)",
+        "coarsely chopped Oreo cookies, for the top of cheese cake"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

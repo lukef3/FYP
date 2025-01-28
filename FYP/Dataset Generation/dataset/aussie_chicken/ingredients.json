@@ -1,0 +1,24 @@
+{
+    "dish_name": "aussie chicken",
+    "ingredients": [
+        "boneless skinless chicken breast halves",
+        "seasoning salt",
+        "bacon",
+        "prepared mustard",
+        "honey",
+        "light corn syrup",
+        "mayonnaise",
+        "tablespoon    dried onion flakes",
+        "tablespoon    vegetable oil",
+        "fresh mushrooms",
+        "colby-monterey jack cheese",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

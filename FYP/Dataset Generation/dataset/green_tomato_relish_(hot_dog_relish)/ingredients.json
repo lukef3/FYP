@@ -1,0 +1,18 @@
+{
+    "dish_name": "green tomato relish (hot dog relish)",
+    "ingredients": [
+        "green tomato",
+        "sweet white onion",
+        "green pepper",
+        "canning salt",
+        "sugar",
+        "prepared mustard",
+        "teaspoon    celery salt",
+        "whole cloves",
+        "vinegar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

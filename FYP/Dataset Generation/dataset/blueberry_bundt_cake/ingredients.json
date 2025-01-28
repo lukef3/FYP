@@ -1,0 +1,19 @@
+{
+    "dish_name": "blueberry bundt cake",
+    "ingredients": [
+        "box    yellow cake mix",
+        "cup    oil",
+        "eggs",
+        "cream cheese",
+        "instant vanilla pudding",
+        "blueberries",
+        "confectioners' sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

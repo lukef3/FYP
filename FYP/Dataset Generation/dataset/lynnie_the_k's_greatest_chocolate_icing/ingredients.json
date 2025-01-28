@@ -1,0 +1,16 @@
+{
+    "dish_name": "lynnie the k's greatest chocolate icing",
+    "ingredients": [
+        "butter",
+        "powdered sugar",
+        "cup    cocoa",
+        "vanilla",
+        "milk",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

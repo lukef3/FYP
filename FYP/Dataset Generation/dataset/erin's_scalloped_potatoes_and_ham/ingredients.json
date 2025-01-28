@@ -1,0 +1,22 @@
+{
+    "dish_name": "erin's scalloped potatoes and ham",
+    "ingredients": [
+        "butter",
+        "onion",
+        "flour",
+        "half-and-half",
+        "milk",
+        "ham",
+        "potatoes",
+        "salt",
+        "pepper",
+        "cayenne pepper",
+        "cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

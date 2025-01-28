@@ -1,0 +1,27 @@
+{
+    "dish_name": "italian white lasagna",
+    "ingredients": [
+        "ounces    lasagna noodles",
+        "ground beef",
+        "celery",
+        "onion",
+        "garlic",
+        "basil",
+        "oregano",
+        "salt",
+        "cup    light cream",
+        "dry white wine",
+        "cream cheese",
+        "cheddar cheese",
+        "gouda cheese",
+        "cream-style cottage cheese",
+        "egg",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

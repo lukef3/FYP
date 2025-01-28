@@ -1,0 +1,23 @@
+{
+    "dish_name": "pasta with shrimp and wine",
+    "ingredients": [
+        "shrimp",
+        "onion",
+        "butter",
+        "olive oil",
+        "dry white wine",
+        "instant chicken bouillon granules",
+        "salt",
+        "white pepper",
+        "dried basil",
+        "tomatoes",
+        "pasta",
+        "butter",
+        "parmesan cheese",
+        "parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

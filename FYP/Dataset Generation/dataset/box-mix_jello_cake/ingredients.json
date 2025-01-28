@@ -1,0 +1,21 @@
+{
+    "dish_name": "box-mix jello cake",
+    "ingredients": [
+        "ounces    white cake mix (Duncan Hines brand preferred)",
+        "egg whites (or as called for by your cake mix)",
+        "cup    oil (or as called for by your cake mix)",
+        "water",
+        "strawberry Jell-O gelatin dessert",
+        "boiling water",
+        "instant vanilla pudding",
+        "Cool Whip",
+        "strawberry"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

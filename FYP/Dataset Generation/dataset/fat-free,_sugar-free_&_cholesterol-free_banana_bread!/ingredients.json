@@ -1,0 +1,21 @@
+{
+    "dish_name": "fat-free, sugar-free & cholesterol-free banana bread!",
+    "ingredients": [
+        "whole wheat flour",
+        "all-purpose flour",
+        "baking powder",
+        "baking soda",
+        "unsweetened applesauce",
+        "Splenda sugar substitute",
+        "Egg Beaters egg substitute",
+        "bananas",
+        "nonfat milk",
+        "vanilla extract"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

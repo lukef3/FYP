@@ -1,0 +1,19 @@
+{
+    "dish_name": "roasted eggplant (aubergine) spread",
+    "ingredients": [
+        "eggplant",
+        "red bell peppers",
+        "red onion",
+        "garlic cloves",
+        "olive oil",
+        "kosher salt",
+        "fresh ground black pepper",
+        "tomato paste"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

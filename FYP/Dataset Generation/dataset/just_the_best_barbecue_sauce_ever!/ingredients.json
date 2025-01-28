@@ -1,0 +1,18 @@
+{
+    "dish_name": "just the best barbecue sauce ever!",
+    "ingredients": [
+        "ketchup",
+        "brown sugar",
+        "white vinegar",
+        "honey",
+        "soy sauce",
+        "ground ginger",
+        "salt",
+        "ground mustard",
+        "garlic powder",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

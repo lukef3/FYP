@@ -1,0 +1,17 @@
+{
+    "dish_name": "runza",
+    "ingredients": [
+        "loaves    bread dough",
+        "hamburger",
+        "head of cabbage",
+        "onion",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

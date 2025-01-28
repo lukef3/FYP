@@ -1,0 +1,17 @@
+{
+    "dish_name": "so simple punch",
+    "ingredients": [
+        "(1/8  ounce) packages  unsweetened strawberry drink mix",
+        "(46   fluid ounce) cans   pineapple juice",
+        "white sugar",
+        "water",
+        "ginger ale"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

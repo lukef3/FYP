@@ -1,0 +1,23 @@
+{
+    "dish_name": "chicken pomodoro",
+    "ingredients": [
+        "boneless skinless chicken breast halves",
+        "flour",
+        "salt",
+        "pepper",
+        "olive oil",
+        "vodka",
+        "low sodium chicken broth",
+        "fresh lemon juice",
+        "tomatoes",
+        "heavy cream",
+        "scallion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

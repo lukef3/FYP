@@ -1,0 +1,21 @@
+{
+    "dish_name": "flaky seasoned tilapia",
+    "ingredients": [
+        "lb    tilapia fillet",
+        "butter",
+        "olive oil",
+        "basil",
+        "teaspoons    cajun seasoning",
+        "teaspoons    dried onion flakes",
+        "garlic powder",
+        "parsley flakes",
+        "lemon pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

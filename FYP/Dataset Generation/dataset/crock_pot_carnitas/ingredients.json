@@ -1,0 +1,22 @@
+{
+    "dish_name": "crock pot carnitas",
+    "ingredients": [
+        "lbs    pork shoulder or 3   lbs    pork butt",
+        "chicken broth",
+        "garlic powder",
+        "onion powder",
+        "cumin",
+        "chili powder",
+        "ground coriander",
+        "ground black pepper",
+        "lime juice",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

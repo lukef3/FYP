@@ -1,0 +1,20 @@
+{
+    "dish_name": "stir-fried asian style broccoli",
+    "ingredients": [
+        "fresh broccoli",
+        "cornstarch",
+        "granulated sugar",
+        "salt",
+        "chicken broth",
+        "soy sauce",
+        "garlic clove",
+        "cup    vegetable oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

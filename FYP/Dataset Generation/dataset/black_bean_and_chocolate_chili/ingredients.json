@@ -1,0 +1,33 @@
+{
+    "dish_name": "black bean and chocolate chili",
+    "ingredients": [
+        "olive oil",
+        "onions",
+        "garlic cloves",
+        "celery",
+        "jalapeno chile",
+        "cumin",
+        "oregano",
+        "cinnamon",
+        "ground cloves",
+        "ground coriander",
+        "chili powder",
+        "ground black pepper",
+        "salt",
+        "bell peppers",
+        "black beans",
+        "diced tomatoes",
+        "fresh lime juice",
+        "soy sauce",
+        "ounces    semisweet chocolate (about 1/4 cup)",
+        "tofu sour cream",
+        "scallion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

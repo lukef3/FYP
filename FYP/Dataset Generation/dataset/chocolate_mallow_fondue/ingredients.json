@@ -1,0 +1,21 @@
+{
+    "dish_name": "chocolate mallow fondue",
+    "ingredients": [
+        "cups    semi-sweet chocolate chips (12 ounce)",
+        "sweetened condensed milk",
+        "marshmallow creme",
+        "milk",
+        "vanilla extract",
+        "pineapple",
+        "banana",
+        "apple",
+        "strawberry",
+        "marshmallows",
+        "angel food cake or   poundcake",
+        "ladyfinger"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

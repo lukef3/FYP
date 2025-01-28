@@ -1,0 +1,21 @@
+{
+    "dish_name": "mexican fish",
+    "ingredients": [
+        "red snapper fillets",
+        "flour",
+        "butter",
+        "green chili sauce",
+        "diced green chilies",
+        "monterey jack and cheddar cheese blend",
+        "cilantro leaves",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

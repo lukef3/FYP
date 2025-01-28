@@ -1,0 +1,23 @@
+{
+    "dish_name": "sloppy joes",
+    "ingredients": [
+        "ground beef",
+        "onion",
+        "green pepper",
+        "Worcestershire sauce",
+        "catsup",
+        "garlic clove",
+        "brown sugar",
+        "salt",
+        "paprika",
+        "pepper",
+        "tomato paste",
+        "water",
+        "vinegar",
+        "dry mustard",
+        "hamburger buns"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

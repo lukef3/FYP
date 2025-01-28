@@ -1,0 +1,17 @@
+{
+    "dish_name": "easy crock pot roast beef",
+    "ingredients": [
+        "beef roast",
+        "(10 1/4  ounce) can   French onion soup",
+        "(10 1/4  ounce) can   cream of mushroom soup",
+        "dry red wine",
+        "fresh mushrooms"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

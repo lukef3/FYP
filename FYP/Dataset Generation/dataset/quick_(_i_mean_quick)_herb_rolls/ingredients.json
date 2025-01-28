@@ -1,0 +1,16 @@
+{
+    "dish_name": "quick ( i mean quick) herb rolls",
+    "ingredients": [
+        "butter",
+        "parsley flakes",
+        "dill weed",
+        "onion powder",
+        "parmesan cheese",
+        "(12   ounce) can  hungry jack biscuits"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "creamy quiche lorraine - wow 'em!",
+    "ingredients": [
+        "eggs",
+        "sour cream",
+        "bacon",
+        "salt",
+        "Worcestershire sauce",
+        "pepper",
+        "cheddar cheese",
+        "(9   inch)    pie shells (We like the Pillsbury unroll & bake variety)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

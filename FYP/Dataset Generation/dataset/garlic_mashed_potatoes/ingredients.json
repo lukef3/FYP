@@ -1,0 +1,14 @@
+{
+    "dish_name": "garlic mashed potatoes",
+    "ingredients": [
+        "potatoes",
+        "garlic cloves",
+        "salt",
+        "butter",
+        "cup    whipping cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

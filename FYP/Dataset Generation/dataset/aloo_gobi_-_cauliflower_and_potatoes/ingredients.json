@@ -1,0 +1,21 @@
+{
+    "dish_name": "aloo gobi - cauliflower and potatoes",
+    "ingredients": [
+        "cauliflower",
+        "boiling potatoes",
+        "tablespoon    vegetable oil",
+        "fenugreek seeds",
+        "fennel seed",
+        "whole cumin seed",
+        "dried hot red chili pepper",
+        "ground turmeric",
+        "ground coriander",
+        "salt",
+        "ground pepper",
+        "garam masala"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

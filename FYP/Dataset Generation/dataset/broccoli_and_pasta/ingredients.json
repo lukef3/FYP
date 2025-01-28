@@ -1,0 +1,19 @@
+{
+    "dish_name": "broccoli and pasta",
+    "ingredients": [
+        "fresh broccoli",
+        "garlic cloves",
+        "olive oil",
+        "butter",
+        "margarine",
+        "salt",
+        "pepper",
+        "cayenne pepper",
+        "linguine",
+        "romano cheese",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

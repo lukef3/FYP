@@ -1,0 +1,26 @@
+{
+    "dish_name": "greek roast leg of lamb with potatoes",
+    "ingredients": [
+        "leg of lamb",
+        "garlic",
+        "dried oregano",
+        "rosemary",
+        "olive oil",
+        "red wine",
+        "lemons, zest of",
+        "fresh lemon juice",
+        "Dijon mustard",
+        "salt",
+        "pepper",
+        "potatoes",
+        "new potatoes",
+        "olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "dish_name": "noodles with spicy peanut sauce",
+    "ingredients": [
+        "rice vinegar",
+        "soy sauce",
+        "water",
+        "ginger",
+        "garlic cloves",
+        "light brown sugar",
+        "peanut butter",
+        "olive oil",
+        "tablespoons    sesame oil",
+        "teaspoon    hot pepper sauce or 1/4  teaspoon    chili pepper flakes",
+        "pasta",
+        "broccoli",
+        "cucumber"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

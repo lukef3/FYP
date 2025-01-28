@@ -1,0 +1,29 @@
+{
+    "dish_name": "baked vegetarian chimichangas (warm or cold)",
+    "ingredients": [
+        "onion",
+        "garlic cloves",
+        "mushroom",
+        "olive oil",
+        "green chilies",
+        "vegetarian refried beans",
+        "salsa",
+        "cooked brown rice",
+        "black beans",
+        "black soybeans",
+        "avocado",
+        "salt",
+        "chili powder",
+        "powdered cumin",
+        "sour cream",
+        "cheddar cheese",
+        "cheddar cheese",
+        "flour tortilla"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "dish_name": "szechuan style eggplant (aubergine)",
+    "ingredients": [
+        "Japanese eggplants",
+        "soy sauce",
+        "brown sugar",
+        "chicken broth",
+        "tablespoons    peanut oil",
+        "ginger",
+        "garlic",
+        "red pepper flakes",
+        "water chestnut",
+        "scallions",
+        "tablespoons    rice wine vinegar",
+        "tablespoon    dark sesame oil",
+        "sesame seeds"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

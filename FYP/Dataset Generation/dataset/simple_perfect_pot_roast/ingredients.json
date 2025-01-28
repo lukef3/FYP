@@ -1,0 +1,25 @@
+{
+    "dish_name": "simple perfect pot roast",
+    "ingredients": [
+        "boneless chuck roast (about 3 1/2 lbs)",
+        "salt and pepper",
+        "tablespoons    vegetable oil",
+        "onion",
+        "carrot",
+        "celery rib",
+        "garlic cloves",
+        "sugar",
+        "low sodium beef broth",
+        "low sodium chicken broth",
+        "fresh thyme",
+        "water",
+        "dry red wine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

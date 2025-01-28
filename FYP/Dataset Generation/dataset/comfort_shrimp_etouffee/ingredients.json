@@ -1,0 +1,27 @@
+{
+    "dish_name": "comfort shrimp etouffee",
+    "ingredients": [
+        "butter",
+        "all-purpose flour",
+        "onion",
+        "celery",
+        "green pepper",
+        "cup   chopped red pepper",
+        "garlic cloves",
+        "raw shrimp",
+        "chicken broth",
+        "dark beer",
+        "fresh parsley",
+        "salt",
+        "ground black pepper",
+        "teaspoon    ground red pepper",
+        "white pepper",
+        "red pepper flakes",
+        "Tabasco sauce",
+        "cooked rice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

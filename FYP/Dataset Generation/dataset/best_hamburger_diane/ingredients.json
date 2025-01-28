@@ -1,0 +1,17 @@
+{
+    "dish_name": "best hamburger diane",
+    "ingredients": [
+        "lb    ground round",
+        "salt",
+        "pepper",
+        "butter",
+        "prepared mustard",
+        "lemon juice",
+        "Worcestershire sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

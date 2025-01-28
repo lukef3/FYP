@@ -1,0 +1,18 @@
+{
+    "dish_name": "gooey butter cookies",
+    "ingredients": [
+        "cream cheese",
+        "butter",
+        "egg",
+        "vanilla",
+        "(18 1/2  ounce) box   white cake mix or  (18 1/2  ounce) box   yellow cake mix",
+        "confectioners' sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

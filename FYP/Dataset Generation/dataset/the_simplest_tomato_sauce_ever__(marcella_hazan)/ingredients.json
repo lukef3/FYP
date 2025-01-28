@@ -1,0 +1,16 @@
+{
+    "dish_name": "the simplest tomato sauce ever  (marcella hazan)",
+    "ingredients": [
+        "canned plum tomatoes",
+        "unsalted butter",
+        "yellow onion",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

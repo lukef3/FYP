@@ -1,0 +1,15 @@
+{
+    "dish_name": "microwave cheese sauce",
+    "ingredients": [
+        "butter",
+        "flour",
+        "milk",
+        "cheddar cheese",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

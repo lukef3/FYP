@@ -1,0 +1,15 @@
+{
+    "dish_name": "jalapeno jelly & cream cheese spread",
+    "ingredients": [
+        "cream cheese",
+        "cup    jalapeno jelly (red or green)",
+        "cracker"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

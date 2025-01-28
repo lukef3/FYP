@@ -1,0 +1,16 @@
+{
+    "dish_name": "tater tot hotdish",
+    "ingredients": [
+        "ground beef",
+        "(1   lb) package   tater tots (you probably won't use the whole package, but this is usually the smallest size I can find)",
+        "(10   ounce) cans   condensed cream of mushroom soup (or 3 cans if you want it extra creamy)",
+        "(14   ounce) can   vegetables (or 2 cans, whatever kind you like, I like sweet corn, my mom uses green beans)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

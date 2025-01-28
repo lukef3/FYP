@@ -1,0 +1,23 @@
+{
+    "dish_name": "ratatouille",
+    "ingredients": [
+        "garlic",
+        "onion",
+        "eggplant",
+        "zucchini",
+        "green peppers",
+        "dried oregano",
+        "fresh basil",
+        "dried basil",
+        "parsley",
+        "canned tomatoes",
+        "fresh ground pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "carrot muffins",
+    "ingredients": [
+        "egg",
+        "cup    orange juice",
+        "margarine",
+        "sugar",
+        "white flour",
+        "whole wheat flour",
+        "baking powder",
+        "baking soda",
+        "salt",
+        "cinnamon",
+        "carrots"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

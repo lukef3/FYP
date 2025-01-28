@@ -1,0 +1,14 @@
+{
+    "dish_name": "honey glazed carrots",
+    "ingredients": [
+        "carrot",
+        "honey",
+        "water",
+        "brown sugar",
+        "butter",
+        "cinnamon"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

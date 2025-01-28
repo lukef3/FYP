@@ -1,0 +1,18 @@
+{
+    "dish_name": "salty seasoned sweet potato fries",
+    "ingredients": [
+        "sweet potato",
+        "egg white",
+        "chili powder",
+        "garlic powder",
+        "onion powder",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

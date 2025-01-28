@@ -1,0 +1,20 @@
+{
+    "dish_name": "freezer apple pie filling - oamc",
+    "ingredients": [
+        "apples",
+        "lemon juice",
+        "white sugar",
+        "cornstarch",
+        "ground cinnamon",
+        "ground nutmeg",
+        "salt",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

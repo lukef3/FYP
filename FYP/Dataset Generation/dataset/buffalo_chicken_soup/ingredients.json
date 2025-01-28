@@ -1,0 +1,18 @@
+{
+    "dish_name": "buffalo chicken soup",
+    "ingredients": [
+        "milk",
+        "(10 1/2  ounce) cans   cream of chicken soup (use any flavor creamed soup you like chicken, mushroom, celery, etc I use 2 chicken and 1 celery, us)",
+        "cups    cooked chicken (I use leftover chicken from rotisserie, grilled or baked chicken)",
+        "light sour cream",
+        "cup    ranch dressing or 1/2  cup    blue cheese dressing",
+        "cup    hot sauce, adjust to your taste"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "skillet chicken marsala",
+    "ingredients": [
+        "boneless skinless chicken breast halves",
+        "flour",
+        "salt",
+        "pepper",
+        "olive oil",
+        "garlic cloves",
+        "fresh parsley",
+        "cup   fresh sliced mushrooms",
+        "dry marsala wine",
+        "chicken broth"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

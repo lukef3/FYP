@@ -1,0 +1,19 @@
+{
+    "dish_name": "banana nut bread",
+    "ingredients": [
+        "butter",
+        "margarine",
+        "sugar",
+        "eggs",
+        "salt",
+        "flour",
+        "baking soda",
+        "cup   chopped nuts (or more)",
+        "bananas",
+        "bananas"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

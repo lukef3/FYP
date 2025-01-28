@@ -1,0 +1,23 @@
+{
+    "dish_name": "simple beef & broccoli stir-fry",
+    "ingredients": [
+        "beef flank steak",
+        "light soy sauce",
+        "black pepper",
+        "sambal oelek",
+        "teaspoon    sesame oil",
+        "cornstarch",
+        "tapioca starch",
+        "fresh broccoli",
+        "tablespoons    peanut oil, divided",
+        "salt",
+        "water",
+        "garlic cloves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

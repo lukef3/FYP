@@ -1,0 +1,21 @@
+{
+    "dish_name": "breakfast burritos for the freezer",
+    "ingredients": [
+        "bacon",
+        "ounces   of jimmy dean reduced-fat sausage",
+        "hash browns",
+        "O'Brien potatoes",
+        "green chilies",
+        "eggs",
+        "12-inch flour tortillas",
+        "cheese",
+        "salsa"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "vicki's gourmet potatoes",
+    "ingredients": [
+        "potatoes",
+        "salt",
+        "teaspoon    garlic salt",
+        "onion",
+        "butter",
+        "margarine",
+        "cream cheese",
+        "sour cream",
+        "cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

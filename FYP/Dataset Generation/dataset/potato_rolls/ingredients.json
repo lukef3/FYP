@@ -1,0 +1,19 @@
+{
+    "dish_name": "potato rolls",
+    "ingredients": [
+        "all-purpose flour",
+        "active dry yeast",
+        "water",
+        "mashed potatoes",
+        "butter",
+        "sugar",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

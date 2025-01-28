@@ -1,0 +1,19 @@
+{
+    "dish_name": "turkey tetrazzini",
+    "ingredients": [
+        "chicken",
+        "turkey",
+        "spaghetti",
+        "celery",
+        "onions",
+        "bell peppers",
+        "margarine",
+        "sharp cheddar cheese",
+        "mushroom",
+        "cans    cream of mushroom soup",
+        "chicken broth"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

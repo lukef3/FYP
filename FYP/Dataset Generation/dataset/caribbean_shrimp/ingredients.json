@@ -1,0 +1,25 @@
+{
+    "dish_name": "caribbean shrimp",
+    "ingredients": [
+        "light brown sugar",
+        "ground allspice",
+        "black pepper",
+        "onion powder",
+        "garlic powder",
+        "dried thyme",
+        "salt",
+        "cayenne pepper",
+        "tablespoon    vegetable oil",
+        "molasses",
+        "fresh lime juice",
+        "jumbo shrimp",
+        "lime"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

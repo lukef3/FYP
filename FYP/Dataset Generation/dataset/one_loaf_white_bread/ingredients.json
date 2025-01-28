@@ -1,0 +1,19 @@
+{
+    "dish_name": "one loaf white bread",
+    "ingredients": [
+        "water",
+        "butter",
+        "sugar",
+        "salt",
+        "(1/4  ounce) package   yeast",
+        "flour",
+        "flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

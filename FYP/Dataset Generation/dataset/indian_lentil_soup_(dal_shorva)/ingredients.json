@@ -1,0 +1,26 @@
+{
+    "dish_name": "indian lentil soup (dal shorva)",
+    "ingredients": [
+        "red lentils",
+        "yellow lentils",
+        "turmeric",
+        "cayenne pepper",
+        "cumin",
+        "cardamom",
+        "curry leaves",
+        "bay leaves",
+        "cups    chicken stock (preferably home-made) or 6   cups    vegetable stock (preferably home-made)",
+        "ghee",
+        "mustard seeds",
+        "garlic cloves",
+        "salt and pepper",
+        "lemon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

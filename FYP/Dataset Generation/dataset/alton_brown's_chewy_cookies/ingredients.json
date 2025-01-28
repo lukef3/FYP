@@ -1,0 +1,20 @@
+{
+    "dish_name": "alton brown's chewy cookies",
+    "ingredients": [
+        "unsalted butter",
+        "bread flour",
+        "kosher salt",
+        "baking soda",
+        "sugar",
+        "brown sugar",
+        "egg",
+        "egg yolk",
+        "milk",
+        "vanilla extract",
+        "cups    semi-sweet chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

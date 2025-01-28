@@ -1,0 +1,18 @@
+{
+    "dish_name": "low carb baked spaghetti squash with garlic sage cream",
+    "ingredients": [
+        "spaghetti squash",
+        "heavy cream",
+        "garlic clove",
+        "fresh sage",
+        "dried sage",
+        "parmesan cheese",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

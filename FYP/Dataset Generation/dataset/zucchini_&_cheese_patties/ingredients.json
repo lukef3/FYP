@@ -1,0 +1,19 @@
+{
+    "dish_name": "zucchini & cheese patties",
+    "ingredients": [
+        "Bisquick",
+        "mozzarella cheese",
+        "cheddar cheese",
+        "onions",
+        "egg",
+        "salt and pepper, to taste",
+        "zucchini"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "dish_name": "jamaican jerk chicken",
+    "ingredients": [
+        "garlic powder",
+        "ground allspice",
+        "tablespoon   dried ground thyme",
+        "cayenne pepper",
+        "ground black pepper",
+        "ground sage",
+        "ground nutmeg",
+        "ground cinnamon",
+        "kosher salt",
+        "granulated sugar",
+        "cup    vegetable oil",
+        "soy sauce",
+        "white vinegar",
+        "cup    orange juice",
+        "lime juice",
+        "scotch bonnet peppers",
+        "onion",
+        "green onions",
+        "skinless chicken pieces"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

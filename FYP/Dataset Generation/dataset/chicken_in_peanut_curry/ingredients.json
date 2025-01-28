@@ -1,0 +1,22 @@
+{
+    "dish_name": "chicken in peanut curry",
+    "ingredients": [
+        "coconut milk",
+        "red curry paste",
+        "creamy peanut butter",
+        "sugar",
+        "fish sauce",
+        "chicken breasts",
+        "garlic",
+        "onion",
+        "cornstarch",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

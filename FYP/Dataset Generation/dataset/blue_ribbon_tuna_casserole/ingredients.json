@@ -1,0 +1,24 @@
+{
+    "dish_name": "blue ribbon tuna casserole",
+    "ingredients": [
+        "cups    cooked egg noodles",
+        "onion",
+        "celery",
+        "butter",
+        "(10 1/2  ounce) can   condensed cream of celery soup",
+        "mayonnaise",
+        "evaporated milk",
+        "black pepper",
+        "cup    frozen peas and carrot",
+        "tuna",
+        "cheddar cheese",
+        "cup   crushed potato chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

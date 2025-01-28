@@ -1,0 +1,21 @@
+{
+    "dish_name": "turkey-barley soup",
+    "ingredients": [
+        "canola oil",
+        "onion",
+        "carrots",
+        "celery ribs",
+        "button mushrooms",
+        "dried thyme",
+        "turkey broth",
+        "tomato paste",
+        "barley",
+        "red wine vinegar",
+        "salt",
+        "black pepper",
+        "turkey meat"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

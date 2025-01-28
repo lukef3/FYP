@@ -1,0 +1,27 @@
+{
+    "dish_name": "not for sissies red hot chili - crock pot chili",
+    "ingredients": [
+        "bacon",
+        "ground beef",
+        "kidney beans",
+        "crushed tomatoes",
+        "tomato paste",
+        "onions",
+        "chili powder",
+        "cayenne pepper",
+        "beef broth",
+        "fresh tomatoes",
+        "jalapeno pepper, seeded and chopped",
+        "garlic cloves",
+        "ground cumin",
+        "oregano",
+        "paprika"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

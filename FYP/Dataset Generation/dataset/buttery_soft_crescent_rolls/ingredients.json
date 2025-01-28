@@ -1,0 +1,21 @@
+{
+    "dish_name": "buttery soft crescent rolls",
+    "ingredients": [
+        "warm water",
+        "milk",
+        "egg",
+        "butter",
+        "sugar",
+        "salt",
+        "all-purpose flour",
+        "active dry yeast",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

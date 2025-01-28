@@ -1,0 +1,25 @@
+{
+    "dish_name": "lemon-shrimp pasta",
+    "ingredients": [
+        "extra virgin olive oil",
+        "garlic cloves",
+        "shrimp",
+        "frozen green pea",
+        "carrot",
+        "reduced-sodium chicken broth",
+        "light cream cheese",
+        "cups    cooked farfalle pasta, cooked without added salt  (bow tie pasta) or 2   cups    fat (bow tie pasta)",
+        "parmesan cheese",
+        "fresh lemon rind",
+        "salt",
+        "fresh ground black pepper",
+        "fresh chives"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

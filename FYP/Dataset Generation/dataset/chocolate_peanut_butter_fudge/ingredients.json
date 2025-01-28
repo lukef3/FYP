@@ -1,0 +1,20 @@
+{
+    "dish_name": "chocolate peanut butter fudge",
+    "ingredients": [
+        "sugar",
+        "tablespoons    cocoa",
+        "cream of tartar",
+        "evaporated milk",
+        "light corn syrup",
+        "margarine",
+        "vanilla",
+        "peanut butter",
+        "walnuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

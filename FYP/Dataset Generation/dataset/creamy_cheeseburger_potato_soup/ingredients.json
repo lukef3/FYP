@@ -1,0 +1,20 @@
+{
+    "dish_name": "creamy cheeseburger potato soup",
+    "ingredients": [
+        "ground beef",
+        "onion",
+        "basil",
+        "beef broth",
+        "potatoes",
+        "green pepper",
+        "butter",
+        "flour",
+        "Velveeta cheese",
+        "cups    light cream",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

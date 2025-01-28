@@ -1,0 +1,17 @@
+{
+    "dish_name": "warm artichoke dip",
+    "ingredients": [
+        "artichoke hearts",
+        "parmesan cheese",
+        "sour cream",
+        "mayonnaise",
+        "garlic powder"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "secret ingredient best juicy fried chicken",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "(10 3/4  ounce) can   condensed cream of chicken soup, undiluted  (no substitutes, use only cream of chicken condensed soup)",
+        "egg",
+        "seasoning salt",
+        "all-purpose flour",
+        "cornstarch",
+        "garlic powder",
+        "paprika",
+        "seasoning salt",
+        "ground black pepper",
+        "cayenne pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

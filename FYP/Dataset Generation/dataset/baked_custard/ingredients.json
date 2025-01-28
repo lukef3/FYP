@@ -1,0 +1,13 @@
+{
+    "dish_name": "baked custard",
+    "ingredients": [
+        "eggs",
+        "sugar",
+        "milk",
+        "vanilla",
+        "ground nutmeg"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

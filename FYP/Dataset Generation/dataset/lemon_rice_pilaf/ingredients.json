@@ -1,0 +1,19 @@
+{
+    "dish_name": "lemon rice pilaf",
+    "ingredients": [
+        "butter",
+        "garlic cloves",
+        "carrots",
+        "long-grain rice",
+        "chicken broth",
+        "lemon zest",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

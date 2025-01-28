@@ -1,0 +1,19 @@
+{
+    "dish_name": "chickpea and fresh tomato toss",
+    "ingredients": [
+        "chickpeas",
+        "tomatoes",
+        "whole green onions",
+        "tablespoons    vegetable oil",
+        "lemon juice",
+        "ground cumin",
+        "chili powder",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

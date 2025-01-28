@@ -1,0 +1,22 @@
+{
+    "dish_name": "split pea soup & ham",
+    "ingredients": [
+        "olive oil",
+        "yellow onions",
+        "salt",
+        "black pepper",
+        "red pepper flakes",
+        "garlic",
+        "bay leaf",
+        "lb    dried split peas, picked over and rinsed",
+        "chicken broth",
+        "milk",
+        "ham steak",
+        "hot sauce (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

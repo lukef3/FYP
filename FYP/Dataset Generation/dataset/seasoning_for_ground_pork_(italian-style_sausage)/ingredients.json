@@ -1,0 +1,20 @@
+{
+    "dish_name": "seasoning for ground pork (italian-style sausage)",
+    "ingredients": [
+        "black pepper",
+        "dried parsley",
+        "teaspoons    dried Italian seasoning",
+        "garlic powder",
+        "dried red pepper flakes",
+        "anise seed",
+        "paprika",
+        "teaspoon   minced dried onion",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

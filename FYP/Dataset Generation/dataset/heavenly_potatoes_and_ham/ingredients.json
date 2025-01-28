@@ -1,0 +1,22 @@
+{
+    "dish_name": "heavenly potatoes and ham",
+    "ingredients": [
+        "lbs    red potatoes, quartered",
+        "sour cream",
+        "butter",
+        "ounces    cream of chicken soup",
+        "cheddar cheese",
+        "green onions",
+        "cooked ham",
+        "salt and pepper",
+        "cup   parmesan seasoned bread crumbs",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

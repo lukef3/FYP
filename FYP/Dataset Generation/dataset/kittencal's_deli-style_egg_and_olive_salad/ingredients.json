@@ -1,0 +1,22 @@
+{
+    "dish_name": "kittencal's deli-style egg and olive salad",
+    "ingredients": [
+        "cream cheese",
+        "mayonnaise",
+        "prepared mustard",
+        "dill",
+        "hard-boiled eggs",
+        "celery rib",
+        "green onions",
+        "cup   green pimento stuffed olive (do not chop and hand-squeeze out excess moisture)",
+        "seasoning salt & freshly ground black pepper (to taste)",
+        "Tabasco sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

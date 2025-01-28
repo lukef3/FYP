@@ -1,0 +1,24 @@
+{
+    "dish_name": "southwest vegetarian bake",
+    "ingredients": [
+        "brown rice",
+        "water",
+        "black beans",
+        "(11   ounce) can   mexicorn, drained",
+        "diced tomatoes with green chilies",
+        "salsa",
+        "sour cream",
+        "cheddar cheese",
+        "pepper",
+        "red onion",
+        "black olives",
+        "cup    Mexican blend cheese, shredded"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

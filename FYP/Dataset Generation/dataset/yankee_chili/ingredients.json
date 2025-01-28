@@ -1,0 +1,22 @@
+{
+    "dish_name": "yankee chili",
+    "ingredients": [
+        "lbs    coarse ground beef (butcher at supermarket will grind it for you)",
+        "onion",
+        "garlic cloves",
+        "tomato sauce",
+        "diced tomatoes",
+        "tomato paste",
+        "kidney beans",
+        "chili powder",
+        "cumin",
+        "hot sauce, as spicy as you like"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

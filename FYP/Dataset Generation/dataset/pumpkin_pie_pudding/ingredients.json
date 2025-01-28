@@ -1,0 +1,15 @@
+{
+    "dish_name": "pumpkin pie pudding",
+    "ingredients": [
+        "skim milk",
+        "canned pumpkin",
+        "sugar-free instant vanilla pudding mix",
+        "pumpkin pie spice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

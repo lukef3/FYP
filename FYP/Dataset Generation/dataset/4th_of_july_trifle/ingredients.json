@@ -1,0 +1,23 @@
+{
+    "dish_name": "4th of july trifle",
+    "ingredients": [
+        "cream cheese",
+        "confectioners' sugar",
+        "sour cream",
+        "teaspoon    almond flavoring",
+        "vanilla",
+        "pint    whipping cream",
+        "angel food cake (store bought is fine)",
+        "strawberry",
+        "blueberries",
+        "sugar",
+        "tablespoons    almond flavoring"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

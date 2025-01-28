@@ -1,0 +1,15 @@
+{
+    "dish_name": "subway's chipotle southwest sauce",
+    "ingredients": [
+        "mayonnaise",
+        "Dijon mustard",
+        "lime juice",
+        "chipotle chile in adobo",
+        "fresh garlic",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

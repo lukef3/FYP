@@ -1,0 +1,20 @@
+{
+    "dish_name": "crock pot rice pudding",
+    "ingredients": [
+        "short-grain rice",
+        "evaporated milk",
+        "water",
+        "white sugar",
+        "raisins",
+        "vanilla",
+        "salt",
+        "cinnamon sticks"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dish_name": "gluten-free waffles",
+    "ingredients": [
+        "cups    gluten-free flour (see note*)",
+        "salt",
+        "baking powder",
+        "milk",
+        "eggs",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

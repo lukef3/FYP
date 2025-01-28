@@ -1,0 +1,23 @@
+{
+    "dish_name": "avocado quesadillas",
+    "ingredients": [
+        "tomatoes",
+        "avocado",
+        "red onion",
+        "fresh lemon juice",
+        "Tabasco sauce",
+        "salt and pepper",
+        "sour cream",
+        "fresh coriander",
+        "flour tortillas",
+        "teaspoon    vegetable oil",
+        "monterey jack cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "banana oatmeal cookies",
+    "ingredients": [
+        "flour",
+        "sugar",
+        "baking soda",
+        "salt",
+        "nutmeg",
+        "cinnamon",
+        "shortening",
+        "egg",
+        "banana",
+        "oatmeal",
+        "walnuts"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "logan's roadhouse buttery dinner rolls",
+    "ingredients": [
+        "all-purpose flour",
+        "active dry yeast",
+        "salt",
+        "sugar",
+        "cup    nonfat dry milk powder",
+        "water",
+        "egg",
+        "butter",
+        "butter flavor shortening"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "creamy baked potato soup",
+    "ingredients": [
+        "bacon",
+        "margarine",
+        "all-purpose flour",
+        "milk",
+        "potatoes",
+        "green onions",
+        "cheddar cheese",
+        "sour cream",
+        "salt",
+        "ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

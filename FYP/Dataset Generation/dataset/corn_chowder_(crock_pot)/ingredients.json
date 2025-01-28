@@ -1,0 +1,21 @@
+{
+    "dish_name": "corn chowder (crock pot)",
+    "ingredients": [
+        "bacon",
+        "onion",
+        "potatoes",
+        "frozen whole kernel corn",
+        "ounces    cream-style corn",
+        "sugar",
+        "Worcestershire sauce",
+        "seasoning salt",
+        "pepper",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "dish_name": "absolutely sugar free frosting",
+    "ingredients": [
+        "sugar-free instant pudding mix",
+        "skim milk",
+        "heavy whipping cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

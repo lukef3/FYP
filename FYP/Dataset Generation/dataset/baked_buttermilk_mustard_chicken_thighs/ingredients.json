@@ -1,0 +1,23 @@
+{
+    "dish_name": "baked buttermilk mustard chicken thighs",
+    "ingredients": [
+        "cup    dry breadcrumbs",
+        "parmesan cheese",
+        "teaspoon   dried minced onion flakes (optional)",
+        "buttermilk",
+        "Dijon mustard",
+        "honey",
+        "salt",
+        "pepper",
+        "garlic powder",
+        "dried rosemary",
+        "ground sage",
+        "chicken thighs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

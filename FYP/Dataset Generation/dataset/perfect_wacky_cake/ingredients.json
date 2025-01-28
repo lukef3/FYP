@@ -1,0 +1,21 @@
+{
+    "dish_name": "perfect wacky cake",
+    "ingredients": [
+        "flour",
+        "sugar",
+        "tablespoons    cocoa",
+        "baking soda",
+        "salt",
+        "tablespoons    vegetable oil",
+        "vinegar",
+        "vanilla",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

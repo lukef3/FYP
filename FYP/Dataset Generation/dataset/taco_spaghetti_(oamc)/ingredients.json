@@ -1,0 +1,26 @@
+{
+    "dish_name": "taco spaghetti (oamc)",
+    "ingredients": [
+        "linguine",
+        "fettuccine",
+        "ground beef",
+        "ground turkey",
+        "onions",
+        "water",
+        "(1 1/4  ounce) envelope   taco seasoning mix",
+        "(11   ounce) cans   corn mixed with chopped peppers, drained",
+        "colby-monterey jack cheese",
+        "cheddar cheese",
+        "salsa",
+        "green chili peppers",
+        "lettuce",
+        "tomatoes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "russian friendship tea mix",
+    "ingredients": [
+        "sugar",
+        "cups    instant Tang orange drink",
+        "cup   sweetened iced tea mix powder",
+        "(1/4  ounce) envelope   unsweetened lemonade mix",
+        "ground cinnamon",
+        "ground allspice",
+        "ground cloves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

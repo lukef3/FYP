@@ -1,0 +1,23 @@
+{
+    "dish_name": "delicious baked beans",
+    "ingredients": [
+        "bacon",
+        "onions",
+        "garlic",
+        "ginger",
+        "great northern beans",
+        "brown sugar",
+        "molasses",
+        "barbecue sauce",
+        "ketchup",
+        "Worcestershire sauce",
+        "prepared mustard",
+        "cider vinegar",
+        "salt & freshly ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

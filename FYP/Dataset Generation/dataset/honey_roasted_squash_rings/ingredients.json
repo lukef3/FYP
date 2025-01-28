@@ -1,0 +1,16 @@
+{
+    "dish_name": "honey roasted squash rings",
+    "ingredients": [
+        "liquid honey",
+        "soy sauce",
+        "garlic",
+        "salt",
+        "pepper",
+        "acorn squash"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

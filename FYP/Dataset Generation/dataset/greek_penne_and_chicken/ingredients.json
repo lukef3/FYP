@@ -1,0 +1,25 @@
+{
+    "dish_name": "greek penne and chicken",
+    "ingredients": [
+        "penne pasta",
+        "butter",
+        "red onion",
+        "garlic cloves",
+        "skinless chicken breast half",
+        "water-packed artichoke hearts",
+        "tomatoes",
+        "feta cheese",
+        "fresh parsley",
+        "lemon juice",
+        "dried oregano",
+        "salt",
+        "ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

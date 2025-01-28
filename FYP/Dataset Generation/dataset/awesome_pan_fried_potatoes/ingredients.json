@@ -1,0 +1,20 @@
+{
+    "dish_name": "awesome pan fried potatoes",
+    "ingredients": [
+        "baking potatoes",
+        "onion",
+        "garlic cloves",
+        "paprika",
+        "salt",
+        "pepper",
+        "white wine",
+        "olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

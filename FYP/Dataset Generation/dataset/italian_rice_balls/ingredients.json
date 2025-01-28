@@ -1,0 +1,24 @@
+{
+    "dish_name": "italian rice balls",
+    "ingredients": [
+        "eggs",
+        "parmesan cheese",
+        "dried basil",
+        "dried parsley",
+        "fresh ground black pepper",
+        "salt",
+        "low sodium chicken broth",
+        "water",
+        "white rice",
+        "cups    dried breadcrumbs",
+        "olive oil",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

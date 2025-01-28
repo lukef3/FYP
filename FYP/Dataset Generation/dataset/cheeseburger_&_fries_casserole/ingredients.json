@@ -1,0 +1,19 @@
+{
+    "dish_name": "cheeseburger & fries casserole",
+    "ingredients": [
+        "lean ground beef",
+        "salt",
+        "pepper",
+        "garlic",
+        "(300   ml) can   cream of mushroom soup",
+        "(300   ml) can   cheddar cheese soup",
+        "French fries",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

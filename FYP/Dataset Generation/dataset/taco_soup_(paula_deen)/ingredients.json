@@ -1,0 +1,27 @@
+{
+    "dish_name": "taco soup (paula deen)",
+    "ingredients": [
+        "ground beef",
+        "onions",
+        "pinto beans",
+        "red kidney beans",
+        "whole kernel corn",
+        "Mexican-style stewed tomatoes",
+        "diced tomatoes",
+        "tomatoes and green chilies",
+        "diced green chilies",
+        "black olives",
+        "green olives",
+        "(1 1/4  ounce) package   taco seasoning mix",
+        "(1   ounce) package   ranch dressing mix",
+        "corn chips, for serving",
+        "sour cream",
+        "cheese",
+        "green onion",
+        "sliced jalapeno, for garnish"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

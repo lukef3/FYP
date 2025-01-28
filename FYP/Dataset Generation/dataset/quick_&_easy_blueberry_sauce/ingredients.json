@@ -1,0 +1,18 @@
+{
+    "dish_name": "quick & easy blueberry sauce",
+    "ingredients": [
+        "fresh blueberries",
+        "frozen blueberries",
+        "sugar",
+        "fresh lemon juice",
+        "cornstarch",
+        "lemons, rind of"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

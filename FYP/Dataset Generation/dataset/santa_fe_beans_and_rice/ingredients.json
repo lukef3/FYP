@@ -1,0 +1,21 @@
+{
+    "dish_name": "santa fe beans and rice",
+    "ingredients": [
+        "cooked white rice",
+        "black beans",
+        "frozen corn",
+        "Mexican-style tomatoes",
+        "salsa",
+        "low-fat sour cream",
+        "cups   shredded reduced-fat Mexican cheese blend, divided",
+        "red onion",
+        "sliced ripe olives"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

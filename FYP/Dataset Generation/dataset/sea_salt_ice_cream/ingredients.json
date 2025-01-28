@@ -1,0 +1,19 @@
+{
+    "dish_name": "sea salt ice cream",
+    "ingredients": [
+        "eggs",
+        "milk",
+        "sugar",
+        "vanilla",
+        "heavy whipping cream",
+        "sea salt",
+        "blue food coloring (looks better with it) (optional)",
+        "green food coloring (looks better with it) (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

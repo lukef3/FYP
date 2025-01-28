@@ -1,0 +1,26 @@
+{
+    "dish_name": "curried red lentil dahl",
+    "ingredients": [
+        "olive oil",
+        "onion",
+        "garlic",
+        "bay leaf",
+        "chili powder",
+        "curry powder",
+        "turmeric",
+        "mustard seeds",
+        "cumin seeds",
+        "split red lentils",
+        "water",
+        "teaspoons    vegetable stock powder",
+        "salt",
+        "tablespoon   chopped coriander, leaf"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

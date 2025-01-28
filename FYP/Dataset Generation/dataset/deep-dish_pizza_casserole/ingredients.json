@@ -1,0 +1,20 @@
+{
+    "dish_name": "deep-dish pizza casserole",
+    "ingredients": [
+        "ground beef",
+        "onion",
+        "garlic",
+        "Italian-style tomato sauce",
+        "(4   ounce) can   sliced mushrooms",
+        "cooking spray",
+        "(10   ounce) can  refrigerated pizza dough",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

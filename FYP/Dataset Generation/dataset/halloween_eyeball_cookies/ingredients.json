@@ -1,0 +1,19 @@
+{
+    "dish_name": "halloween eyeball cookies",
+    "ingredients": [
+        "butter",
+        "peanut butter",
+        "powdered sugar",
+        "vanilla",
+        "ounces   white dipping chocolate",
+        "cup    mini chocolate chip",
+        "blue food coloring"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

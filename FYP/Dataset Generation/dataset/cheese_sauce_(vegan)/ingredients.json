@@ -1,0 +1,20 @@
+{
+    "dish_name": "cheese sauce (vegan)",
+    "ingredients": [
+        "raw cashews",
+        "cold water",
+        "pimientos",
+        "cornstarch",
+        "nutritional yeast flakes",
+        "lemon juice",
+        "salt",
+        "diced green chilies"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

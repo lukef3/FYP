@@ -1,0 +1,26 @@
+{
+    "dish_name": "pork chops with mushroom cream sauce - low carb",
+    "ingredients": [
+        "pork chops, 1 inch thick",
+        "dried thyme",
+        "dried rosemary",
+        "sea salt",
+        "black pepper",
+        "garlic powder",
+        "extra virgin olive oil",
+        "mushroom",
+        "extra virgin olive oil",
+        "sea salt",
+        "black pepper",
+        "garlic cloves",
+        "white wine",
+        "heavy cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

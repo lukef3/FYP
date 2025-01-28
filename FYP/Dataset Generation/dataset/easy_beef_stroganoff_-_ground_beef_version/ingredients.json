@@ -1,0 +1,23 @@
+{
+    "dish_name": "easy beef stroganoff - ground beef version",
+    "ingredients": [
+        "ground beef",
+        "onion",
+        "beef bouillon cube",
+        "(10 3/4  ounce) can   cream of mushroom soup",
+        "milk",
+        "garlic powder",
+        "ketchup",
+        "(4   ounce) can   sliced mushrooms, drained",
+        "dried parsley flakes",
+        "pepper",
+        "sour cream",
+        "hot egg noodles"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

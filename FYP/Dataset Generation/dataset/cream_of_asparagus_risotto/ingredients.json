@@ -1,0 +1,24 @@
+{
+    "dish_name": "cream of asparagus risotto",
+    "ingredients": [
+        "asparagus",
+        "low sodium chicken broth",
+        "water",
+        "butter",
+        "onion",
+        "arborio rice",
+        "medium-grain white rice",
+        "dry white wine",
+        "fresh rosemary",
+        "parmesan cheese",
+        "cup    whipping cream",
+        "fresh rosemary"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

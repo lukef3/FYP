@@ -1,0 +1,26 @@
+{
+    "dish_name": "leftover mashed potato soup",
+    "ingredients": [
+        "butter",
+        "bacon drippings",
+        "onion",
+        "fresh mushrooms",
+        "chicken broth",
+        "kosher salt",
+        "black pepper",
+        "sweet paprika",
+        "mashed potatoes",
+        "cheddar cheese",
+        "scallions",
+        "bacon",
+        "sour cream",
+        "half-and-half"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

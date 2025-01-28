@@ -1,0 +1,28 @@
+{
+    "dish_name": "guinness and filet mignon chili",
+    "ingredients": [
+        "unsalted butter",
+        "lbs    ground sirloin",
+        "lb    filet mignon, cut into \u00bc inch dice",
+        "onions",
+        "chili pepper",
+        "fluid ounces    Guinness stout",
+        "flour",
+        "crushed tomatoes",
+        "no-added-salt tomato paste",
+        "low sodium beef broth",
+        "black beans",
+        "kidney bean",
+        "chili powder",
+        "dark brown sugar",
+        "kosher salt",
+        "white pepper",
+        "ground cumin",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

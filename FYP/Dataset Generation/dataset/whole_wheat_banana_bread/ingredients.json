@@ -1,0 +1,23 @@
+{
+    "dish_name": "whole wheat banana bread",
+    "ingredients": [
+        "butter",
+        "margarine",
+        "sugar",
+        "eggs",
+        "bananas",
+        "all-purpose flour",
+        "salt",
+        "baking soda",
+        "whole wheat flour",
+        "hot water",
+        "walnuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

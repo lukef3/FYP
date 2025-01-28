@@ -1,0 +1,26 @@
+{
+    "dish_name": "berry cream cheese coffee cake",
+    "ingredients": [
+        "flour",
+        "sugar",
+        "margarine",
+        "baking powder",
+        "baking soda",
+        "salt",
+        "sour cream",
+        "egg",
+        "teaspoon    almond extract",
+        "cream cheese",
+        "sugar",
+        "egg",
+        "cup    raspberry preserves or 1/2  cup    strawberry preserves",
+        "cup    sliced almonds"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

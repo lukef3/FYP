@@ -1,0 +1,15 @@
+{
+    "dish_name": "greek pork loin",
+    "ingredients": [
+        "boneless pork loin roast",
+        "olive oil",
+        "lemon juice",
+        "dried oregano",
+        "salt",
+        "black pepper",
+        "garlic cloves"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

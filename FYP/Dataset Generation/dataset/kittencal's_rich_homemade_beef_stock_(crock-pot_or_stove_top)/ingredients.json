@@ -1,0 +1,20 @@
+{
+    "dish_name": "kittencal's rich homemade beef stock (crock-pot or stove top)",
+    "ingredients": [
+        "beef bones with marrow",
+        "tomato paste",
+        "onions",
+        "carrots",
+        "dried parsley flakes",
+        "black peppercorns",
+        "salt",
+        "cold water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

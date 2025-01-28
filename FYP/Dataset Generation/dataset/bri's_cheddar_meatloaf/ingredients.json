@@ -1,0 +1,26 @@
+{
+    "dish_name": "bri's cheddar meatloaf",
+    "ingredients": [
+        "ground beef",
+        "cups    Italian breadcrumbs (or plain)",
+        "mild salsa",
+        "ketchup",
+        "cheddar cheese",
+        "mozzarella cheese",
+        "basil",
+        "oregano",
+        "onion powder",
+        "garlic powder",
+        "salt",
+        "pepper",
+        "egg",
+        "cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

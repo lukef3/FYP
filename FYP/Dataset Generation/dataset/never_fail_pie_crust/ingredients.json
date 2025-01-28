@@ -1,0 +1,19 @@
+{
+    "dish_name": "never fail pie crust",
+    "ingredients": [
+        "all-purpose flour",
+        "baking powder",
+        "salt",
+        "sugar",
+        "vegetable shortening",
+        "egg",
+        "cider vinegar",
+        "cup    ice water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

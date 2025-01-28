@@ -1,0 +1,19 @@
+{
+    "dish_name": "grilled chipotle lime chicken breasts - or thighs",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "chipotle chile in adobo",
+        "adobo sauce",
+        "lime juice",
+        "garlic clove",
+        "olive oil",
+        "honey"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

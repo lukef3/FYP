@@ -1,0 +1,19 @@
+{
+    "dish_name": "indian spiced rice",
+    "ingredients": [
+        "green onion",
+        "butter",
+        "margarine",
+        "long grain rice",
+        "salt",
+        "garam masala",
+        "teaspoon    ground red pepper",
+        "garlic clove",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

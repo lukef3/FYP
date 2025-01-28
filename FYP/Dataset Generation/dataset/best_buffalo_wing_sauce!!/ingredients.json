@@ -1,0 +1,15 @@
+{
+    "dish_name": "best buffalo wing sauce!!",
+    "ingredients": [
+        "butter",
+        "cup    Frank's red hot sauce",
+        "cayenne"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

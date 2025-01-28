@@ -1,0 +1,24 @@
+{
+    "dish_name": "green beans provencale",
+    "ingredients": [
+        "fresh green beans",
+        "water",
+        "olive oil",
+        "green onion",
+        "garlic cloves",
+        "shallots",
+        "grape tomatoes",
+        "rosemary",
+        "dried rosemary",
+        "basil",
+        "dried basil",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

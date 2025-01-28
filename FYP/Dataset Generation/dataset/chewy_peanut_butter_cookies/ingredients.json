@@ -1,0 +1,20 @@
+{
+    "dish_name": "chewy peanut butter cookies",
+    "ingredients": [
+        "sugar",
+        "brown sugar",
+        "butter",
+        "crunchy peanut butter",
+        "vanilla",
+        "egg",
+        "all-purpose flour",
+        "baking soda",
+        "salt",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

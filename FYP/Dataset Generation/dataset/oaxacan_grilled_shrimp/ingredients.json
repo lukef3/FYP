@@ -1,0 +1,24 @@
+{
+    "dish_name": "oaxacan grilled shrimp",
+    "ingredients": [
+        "large shrimp",
+        "olive oil",
+        "lemon juice",
+        "fresh parsley",
+        "fresh cilantro",
+        "garlic",
+        "paprika",
+        "ground cumin",
+        "crushed red pepper flakes",
+        "salt",
+        "ground black pepper",
+        "wooden skewer"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

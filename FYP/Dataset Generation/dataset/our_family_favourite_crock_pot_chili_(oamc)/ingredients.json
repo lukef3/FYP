@@ -1,0 +1,21 @@
+{
+    "dish_name": "our family favourite crock pot chili (oamc)",
+    "ingredients": [
+        "ground beef",
+        "onion",
+        "white beans",
+        "kidney beans",
+        "(10   ounce) cans   condensed tomato soup",
+        "teaspoon    taco seasoning",
+        "cumin",
+        "chili powder",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "mushrooms oriental",
+    "ingredients": [
+        "extra virgin olive oil",
+        "cup    sesame oil",
+        "white vinegar",
+        "soy sauce",
+        "garlic",
+        "mushrooms",
+        "green onions"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

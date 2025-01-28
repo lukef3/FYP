@@ -1,0 +1,18 @@
+{
+    "dish_name": "seasoned red potatoes",
+    "ingredients": [
+        "small    red potatoes",
+        "olive oil",
+        "butter",
+        "salt",
+        "garlic powder",
+        "dried basil",
+        "dried thyme",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

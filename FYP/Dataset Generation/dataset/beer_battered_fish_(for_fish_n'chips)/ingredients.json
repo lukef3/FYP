@@ -1,0 +1,17 @@
+{
+    "dish_name": "beer battered fish (for fish n'chips)",
+    "ingredients": [
+        "cod",
+        "all-purpose flour",
+        "all-purpose flour",
+        "salt",
+        "paprika",
+        "beer",
+        "oil (for frying)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

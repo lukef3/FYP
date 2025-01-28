@@ -1,0 +1,27 @@
+{
+    "dish_name": "healthy granola",
+    "ingredients": [
+        "old fashioned oats",
+        "wheat germ",
+        "flax seed",
+        "unsweetened dried shredded coconut",
+        "sesame seeds",
+        "cups    slivered almonds",
+        "pecans",
+        "brown sugar substitute",
+        "water",
+        "canola oil",
+        "honey",
+        "sorghum",
+        "salt",
+        "cinnamon",
+        "vanilla",
+        "cups    dried fruit (combination of raisins, blueberries, cranberries)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

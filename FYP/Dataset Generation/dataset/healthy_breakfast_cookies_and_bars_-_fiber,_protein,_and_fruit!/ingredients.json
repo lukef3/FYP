@@ -1,0 +1,25 @@
+{
+    "dish_name": "healthy breakfast cookies and bars - fiber, protein, and fruit!",
+    "ingredients": [
+        "cups    bran flakes, crushed  (or substitute multi-grain flakes)",
+        "oatmeal",
+        "wheat germ",
+        "cinnamon",
+        "plain nonfat yogurt",
+        "unsweetened applesauce",
+        "vanilla",
+        "honey",
+        "egg",
+        "skim milk powder",
+        "baking soda",
+        "baking powder",
+        "raisins"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

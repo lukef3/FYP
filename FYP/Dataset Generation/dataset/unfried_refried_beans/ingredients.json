@@ -1,0 +1,17 @@
+{
+    "dish_name": "unfried refried beans",
+    "ingredients": [
+        "onion",
+        "dry pinto beans",
+        "fresh jalapeno pepper, seeded and chopped",
+        "garlic",
+        "salt",
+        "fresh ground black pepper",
+        "ground cumin",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

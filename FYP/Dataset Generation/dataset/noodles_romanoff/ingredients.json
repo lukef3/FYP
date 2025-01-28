@@ -1,0 +1,20 @@
+{
+    "dish_name": "noodles romanoff",
+    "ingredients": [
+        "ounces    noodles (not too wide)",
+        "butter",
+        "garlic cloves",
+        "salt",
+        "Worcestershire sauce",
+        "cream cheese",
+        "heavy cream",
+        "sharp cheddar cheese",
+        "sour cream",
+        "paprika"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

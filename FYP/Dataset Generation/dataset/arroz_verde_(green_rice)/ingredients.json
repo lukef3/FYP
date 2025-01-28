@@ -1,0 +1,20 @@
+{
+    "dish_name": "arroz verde (green rice)",
+    "ingredients": [
+        "fresh cilantro stem",
+        "cup   tightly packed fresh stemmed spinach leaves (about 1 1/2 oz.)",
+        "cups    chicken stock (low salt, please)",
+        "milk",
+        "salt",
+        "olive oil",
+        "unsalted butter",
+        "long grain rice",
+        "onion",
+        "garlic clove"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

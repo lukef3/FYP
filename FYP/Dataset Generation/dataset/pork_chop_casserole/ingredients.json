@@ -1,0 +1,22 @@
+{
+    "dish_name": "pork chop casserole",
+    "ingredients": [
+        "flour",
+        "salt",
+        "pepper",
+        "pork chops (3/4 to 1-inch thick)",
+        "tablespoons    vegetable oil",
+        "(10 3/4  ounce) can   condensed cream of mushroom soup, undiluted",
+        "chicken broth",
+        "dry white wine",
+        "sour cream",
+        "(2 7/8  ounce) can   French-fried onions, divided"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

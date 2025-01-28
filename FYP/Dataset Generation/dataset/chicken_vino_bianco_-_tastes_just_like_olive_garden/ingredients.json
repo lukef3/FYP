@@ -1,0 +1,22 @@
+{
+    "dish_name": "chicken vino bianco - tastes just like olive garden",
+    "ingredients": [
+        "olive oil",
+        "boneless skinless chicken breasts",
+        "flour",
+        "onion",
+        "garlic cloves",
+        "white wine",
+        "salt",
+        "pepper",
+        "cups    sliced mushrooms",
+        "butter",
+        "margarine",
+        "roma tomato",
+        "fettuccine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

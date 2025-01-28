@@ -1,0 +1,26 @@
+{
+    "dish_name": "italian turkey sausage and peppers with bow tie pasta",
+    "ingredients": [
+        "onion",
+        "red pepper, sliced",
+        "green bell pepper",
+        "olive oil",
+        "red pepper flakes",
+        "garlic cloves",
+        "salt and pepper",
+        "fresh basil leaves",
+        "dried oregano",
+        "fresh oregano",
+        "lb    Italian turkey sausage link (about 6 links)",
+        "diced tomatoes",
+        "red wine vinegar",
+        "bow tie pasta"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

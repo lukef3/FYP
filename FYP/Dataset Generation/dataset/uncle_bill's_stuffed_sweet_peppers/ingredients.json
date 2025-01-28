@@ -1,0 +1,31 @@
+{
+    "dish_name": "uncle bill's stuffed sweet peppers",
+    "ingredients": [
+        "large    sweet red peppers, seeded and cored",
+        "long grain white rice",
+        "brown rice",
+        "chicken broth",
+        "extra virgin olive oil",
+        "lean ground beef",
+        "onion",
+        "celery rib",
+        "fresh mushrooms",
+        "carrots",
+        "garlic powder",
+        "teaspoon    italian seasoning mix",
+        "salt",
+        "black pepper",
+        "plum tomatoes",
+        "dried dill weed",
+        "ketchup",
+        "water",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

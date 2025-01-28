@@ -1,0 +1,21 @@
+{
+    "dish_name": "oklahoma joe's rib rub",
+    "ingredients": [
+        "granulated sugar",
+        "brown sugar",
+        "garlic powder",
+        "chili powder",
+        "paprika",
+        "ground cumin",
+        "salt",
+        "onion powder",
+        "white pepper",
+        "ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

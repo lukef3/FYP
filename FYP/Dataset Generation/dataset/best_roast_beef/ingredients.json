@@ -1,0 +1,15 @@
+{
+    "dish_name": "best roast beef",
+    "ingredients": [
+        "lbs    standing ribs or 3 -5   lbs   rolled roast",
+        "butter",
+        "Dijon mustard",
+        "horseradish",
+        "garlic"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

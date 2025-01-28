@@ -1,0 +1,19 @@
+{
+    "dish_name": "pan fried tilapia",
+    "ingredients": [
+        "olive oil",
+        "cornmeal",
+        "tablespoon    Old Bay Seasoning",
+        "tilapia fillets",
+        "Miracle Whip",
+        "tablespoon    sweet relish",
+        "lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

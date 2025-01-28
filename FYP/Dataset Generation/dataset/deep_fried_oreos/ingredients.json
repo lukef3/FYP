@@ -1,0 +1,18 @@
+{
+    "dish_name": "deep fried oreos",
+    "ingredients": [
+        "(20   ounce) package   Oreo cookies",
+        "Bisquick",
+        "eggs",
+        "milk",
+        "teaspoons    oil",
+        "vegetable oil (enough for deep frying)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

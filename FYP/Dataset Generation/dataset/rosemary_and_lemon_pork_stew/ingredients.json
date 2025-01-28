@@ -1,0 +1,27 @@
+{
+    "dish_name": "rosemary and lemon pork stew",
+    "ingredients": [
+        "boneless pork chops",
+        "flour",
+        "salt",
+        "black pepper",
+        "paprika",
+        "olive oil",
+        "portabella mushrooms",
+        "onions",
+        "dry white wine",
+        "dried basil",
+        "ground coriander",
+        "dried rosemary",
+        "fresh lemon juice",
+        "parsley",
+        "cilantro"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

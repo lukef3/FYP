@@ -1,0 +1,22 @@
+{
+    "dish_name": "old bay seasoning #2",
+    "ingredients": [
+        "tablespoon    bay leaf powder",
+        "teaspoons    celery salt",
+        "dry mustard",
+        "black pepper",
+        "ground nutmeg",
+        "ground cloves",
+        "ground ginger",
+        "paprika",
+        "red pepper flakes",
+        "mace",
+        "cardamom"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

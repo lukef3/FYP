@@ -1,0 +1,25 @@
+{
+    "dish_name": "monte cristo sandwich",
+    "ingredients": [
+        "slices    bread (I use challah)",
+        "teaspoons    honey dijon mustard",
+        "swiss cheese",
+        "deli ham",
+        "turkey",
+        "eggs",
+        "flour",
+        "butter",
+        "salt",
+        "black pepper",
+        "milk",
+        "powdered sugar",
+        "raspberry preserves, for dipping"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

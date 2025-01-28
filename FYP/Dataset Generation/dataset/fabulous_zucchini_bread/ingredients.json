@@ -1,0 +1,27 @@
+{
+    "dish_name": "fabulous zucchini bread",
+    "ingredients": [
+        "eggs",
+        "applesauce",
+        "cup    oil",
+        "granulated sugar",
+        "vanilla",
+        "whole wheat flour",
+        "all-purpose flour",
+        "salt",
+        "baking soda",
+        "cinnamon",
+        "nutmeg",
+        "clove",
+        "allspice",
+        "ginger",
+        "baking powder",
+        "zucchini",
+        "cup    nuts, chopped, if desired"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

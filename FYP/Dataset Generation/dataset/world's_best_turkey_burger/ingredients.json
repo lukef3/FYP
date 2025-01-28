@@ -1,0 +1,18 @@
+{
+    "dish_name": "world's best turkey burger",
+    "ingredients": [
+        "ground turkey",
+        "salt",
+        "cracked black pepper",
+        "Worcestershire sauce",
+        "garlic powder",
+        "dried thyme",
+        "dried rosemary",
+        "Dijon mustard",
+        "ricotta cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

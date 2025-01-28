@@ -1,0 +1,21 @@
+{
+    "dish_name": "warp-speed pumpkin butter",
+    "ingredients": [
+        "brown sugar",
+        "granulated sugar",
+        "water",
+        "allspice",
+        "ginger",
+        "clove",
+        "nutmeg",
+        "cinnamon",
+        "canned pumpkin"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

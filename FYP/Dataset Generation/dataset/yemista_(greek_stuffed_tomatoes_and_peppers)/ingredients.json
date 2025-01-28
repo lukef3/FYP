@@ -1,0 +1,29 @@
+{
+    "dish_name": "yemista (greek stuffed tomatoes and peppers)",
+    "ingredients": [
+        "tomatoes",
+        "green peppers",
+        "olive oil",
+        "tablespoons    uncooked rice (really just a 'heaping' tablespoon per vegetable to be stuffed)",
+        "onion",
+        "garlic cloves",
+        "fresh spearmint",
+        "parsley",
+        "pine nuts",
+        "parmesan cheese",
+        "sultana raisin",
+        "salt",
+        "pepper",
+        "water",
+        "olive oil",
+        "tomato paste",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

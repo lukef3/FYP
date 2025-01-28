@@ -1,0 +1,21 @@
+{
+    "dish_name": "double chocolate chip cookies",
+    "ingredients": [
+        "all-purpose flour",
+        "baking soda",
+        "kosher salt",
+        "sugar",
+        "dark brown sugar",
+        "unsalted butter",
+        "vegetable shortening",
+        "eggs",
+        "vanilla",
+        "cups    semi-sweet chocolate chips",
+        "cup    milk chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

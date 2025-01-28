@@ -1,0 +1,26 @@
+{
+    "dish_name": "chocolate cream cheese cupcakes",
+    "ingredients": [
+        "cream cheese",
+        "egg",
+        "sugar",
+        "salt",
+        "chocolate chips",
+        "sugar",
+        "flour",
+        "cup    cocoa",
+        "baking soda",
+        "salt",
+        "water",
+        "cup    oil",
+        "vinegar",
+        "vanilla"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dish_name": "chocolate macaroons - no bake",
+    "ingredients": [
+        "tablespoons    cocoa",
+        "butter",
+        "milk",
+        "sugar",
+        "vanilla",
+        "oatmeal",
+        "coconut"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}
