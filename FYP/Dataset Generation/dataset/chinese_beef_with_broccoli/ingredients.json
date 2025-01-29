@@ -1,0 +1,23 @@
+{
+    "dish_name": "chinese beef with broccoli",
+    "ingredients": [
+        "kg    beef sirloin tip, sliced thinly into strips  (like sukiyaki-thin)",
+        "cornstarch",
+        "rice wine",
+        "Kikkoman soy sauce",
+        "sugar",
+        "green onions",
+        "broccoli",
+        "oyster sauce",
+        "baking soda",
+        "water",
+        "tablespoon    cooking oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

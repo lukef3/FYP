@@ -1,0 +1,18 @@
+{
+    "dish_name": "simply the best baked onion rings!",
+    "ingredients": [
+        "onions",
+        "all-purpose flour",
+        "egg whites",
+        "cup   nonfat breadcrumbs or 3/4  cup   lowfat breadcrumbs",
+        "teaspoons    italian seasoning",
+        "garlic powder",
+        "onion powder",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "greek tzatziki",
+    "ingredients": [
+        "English cucumbers",
+        "garlic",
+        "salt",
+        "plain yogurt",
+        "red wine vinegar",
+        "fresh ground black pepper",
+        "dried mint",
+        "olive oil",
+        "cheesecloth"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

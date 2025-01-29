@@ -1,0 +1,16 @@
+{
+    "dish_name": "asian grilled pork chops",
+    "ingredients": [
+        "reduced sodium soy sauce",
+        "tablespoons    vegetable oil",
+        "brown sugar",
+        "garlic clove",
+        "ground ginger",
+        "teaspoon    dark sesame oil",
+        "boneless pork chops"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

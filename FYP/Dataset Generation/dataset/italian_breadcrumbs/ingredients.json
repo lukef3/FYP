@@ -1,0 +1,17 @@
+{
+    "dish_name": "italian breadcrumbs",
+    "ingredients": [
+        "cup    plain breadcrumbs",
+        "salt",
+        "dried parsley flakes",
+        "ground black pepper",
+        "garlic powder",
+        "onion powder",
+        "dried oregano",
+        "dried basil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

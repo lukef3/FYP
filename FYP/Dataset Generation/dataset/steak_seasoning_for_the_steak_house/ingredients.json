@@ -1,0 +1,18 @@
+{
+    "dish_name": "steak seasoning for the steak house",
+    "ingredients": [
+        "kosher salt",
+        "onion powder",
+        "lb    garlic salt",
+        "lb    celery salt",
+        "paprika",
+        "black pepper",
+        "sugar",
+        "nutmeg"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

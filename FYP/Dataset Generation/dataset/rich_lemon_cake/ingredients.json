@@ -1,0 +1,19 @@
+{
+    "dish_name": "rich lemon cake",
+    "ingredients": [
+        "butter",
+        "sugar",
+        "eggs",
+        "lemon, zest of",
+        "baking powder",
+        "teaspoon    almond extract",
+        "milk",
+        "flour",
+        "lemon juice",
+        "powdered sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

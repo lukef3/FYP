@@ -1,0 +1,29 @@
+{
+    "dish_name": "crock pot steak fajitas",
+    "ingredients": [
+        "lbs    boneless sirloin, cut into thin strips",
+        "tablespoons    vegetable oil",
+        "lemon juice",
+        "garlic clove",
+        "ground cumin",
+        "seasoning salt",
+        "chili powder",
+        "green bell pepper",
+        "onion",
+        "flour tortillas",
+        "cheddar cheese",
+        "salsa",
+        "guacamole (optional)",
+        "sour cream",
+        "lettuce",
+        "chopped tomato",
+        "onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

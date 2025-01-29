@@ -1,0 +1,17 @@
+{
+    "dish_name": "roasted mustard potatoes",
+    "ingredients": [
+        "light vegetable oil cooking spray",
+        "Dijon mustard",
+        "paprika",
+        "cumin",
+        "chili powder",
+        "cayenne pepper",
+        "baby red potatoes",
+        "potatoes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

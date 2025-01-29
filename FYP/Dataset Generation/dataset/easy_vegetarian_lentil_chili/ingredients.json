@@ -1,0 +1,21 @@
+{
+    "dish_name": "easy vegetarian lentil chili",
+    "ingredients": [
+        "dry lentils",
+        "vegetable broth",
+        "beef broth",
+        "crushed tomatoes",
+        "green bell pepper",
+        "onion",
+        "garlic cloves",
+        "chili powder",
+        "cumin",
+        "allspice",
+        "tomato sauce",
+        "whole kernel corn"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

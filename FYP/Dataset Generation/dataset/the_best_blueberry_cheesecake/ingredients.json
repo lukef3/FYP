@@ -1,0 +1,26 @@
+{
+    "dish_name": "the best blueberry cheesecake",
+    "ingredients": [
+        "graham cracker crumbs",
+        "butter",
+        "sugar",
+        "cream cheese",
+        "sugar",
+        "all-purpose flour",
+        "salt",
+        "eggs",
+        "sour cream",
+        "vanilla extract",
+        "teaspoon    lemon extract",
+        "blueberries",
+        "Cool Whip",
+        "sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

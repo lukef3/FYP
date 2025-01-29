@@ -1,0 +1,28 @@
+{
+    "dish_name": "spicy black beans and rice with mangoes (crock pot)",
+    "ingredients": [
+        "olive oil",
+        "onion",
+        "red bell pepper",
+        "garlic cloves",
+        "jalapeno, seeded and minced  (any hot chile pepper okay)",
+        "fresh ginger",
+        "ground cumin",
+        "ground allspice",
+        "dried oregano",
+        "black beans",
+        "water",
+        "light brown sugar",
+        "salt",
+        "black pepper",
+        "cups    cooked long-grain brown rice (white rice okay)",
+        "mangoes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

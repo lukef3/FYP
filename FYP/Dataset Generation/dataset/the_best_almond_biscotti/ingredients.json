@@ -1,0 +1,20 @@
+{
+    "dish_name": "the best almond biscotti",
+    "ingredients": [
+        "all-purpose flour",
+        "cup    slivered almonds",
+        "sugar",
+        "eggs",
+        "baking powder",
+        "butter",
+        "salt",
+        "vanilla extract"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

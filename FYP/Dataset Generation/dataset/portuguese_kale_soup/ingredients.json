@@ -1,0 +1,27 @@
+{
+    "dish_name": "portuguese kale soup",
+    "ingredients": [
+        "kale",
+        "green cabbage",
+        "reduced-sodium chicken broth",
+        "lb    linguica sausage, sliced 1/4 inch thick",
+        "lb    red potatoes, diced",
+        "dark red kidney beans",
+        "diced tomatoes",
+        "onion",
+        "garlic cloves",
+        "crushed red pepper flakes",
+        "bay leaves",
+        "Hungarian paprika",
+        "olive oil",
+        "coarse salt",
+        "fresh ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

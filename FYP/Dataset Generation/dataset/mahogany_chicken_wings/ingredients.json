@@ -1,17 +1,18 @@
 {
     "dish_name": "mahogany chicken wings",
     "ingredients": [
-        "ketchup",
-        "honey",
+        "chicken wings",
         "soy sauce",
-        "garlic",
-        "bottled garlic",
-        "chicken wings"
+        "soy sauce",
+        "honey",
+        "honey",
+        "molasses",
+        "chili sauce",
+        "ground ginger",
+        "garlic clove"
     ],
     "images": [
         "images/image_1.jpg",
-        "images/image_2.jpg",
-        "images/image_3.jpg",
-        "images/image_4.jpg"
+        "images/image_2.jpg"
     ]
 }

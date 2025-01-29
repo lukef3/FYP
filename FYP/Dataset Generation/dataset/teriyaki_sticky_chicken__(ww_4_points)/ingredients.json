@@ -1,0 +1,18 @@
+{
+    "dish_name": "teriyaki sticky chicken  (ww 4 points)",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "ketchup",
+        "brown sugar",
+        "vinegar",
+        "tablespoons    light teriyaki sauce",
+        "dry mustard"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

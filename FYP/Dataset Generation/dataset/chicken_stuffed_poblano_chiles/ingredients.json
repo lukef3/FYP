@@ -1,0 +1,22 @@
+{
+    "dish_name": "chicken stuffed poblano chiles",
+    "ingredients": [
+        "poblano chiles",
+        "onion",
+        "garlic cloves",
+        "olive oil",
+        "boneless skinless chicken breasts",
+        "seasoning salt",
+        "roma tomatoes",
+        "mushroom",
+        "monterey jack cheese",
+        "rice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

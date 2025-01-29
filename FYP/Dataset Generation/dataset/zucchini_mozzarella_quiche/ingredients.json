@@ -1,0 +1,19 @@
+{
+    "dish_name": "zucchini mozzarella quiche",
+    "ingredients": [
+        "zucchini",
+        "onion",
+        "olive oil",
+        "garlic clove",
+        "salt",
+        "eggs",
+        "milk",
+        "heavy cream",
+        "mozzarella cheese",
+        "(10   inch)    pie crusts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

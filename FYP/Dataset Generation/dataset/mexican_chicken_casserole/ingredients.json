@@ -1,0 +1,21 @@
+{
+    "dish_name": "mexican chicken casserole",
+    "ingredients": [
+        "chicken breasts",
+        "(10 1/2  ounce) can   cheddar cheese soup",
+        "(10 1/2  ounce) can   cream of chicken soup",
+        "salsa",
+        "diced green chilies",
+        "(16   ounce) bag   nacho cheese flavor Doritos, crushed  (large bag)",
+        "(8   ounce) bag   mexican cheese",
+        "jalapeno jack cheese",
+        "sliced ripe olives"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

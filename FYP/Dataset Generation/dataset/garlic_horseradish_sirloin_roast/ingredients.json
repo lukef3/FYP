@@ -1,0 +1,21 @@
+{
+    "dish_name": "garlic horseradish sirloin roast",
+    "ingredients": [
+        "lbs    top sirloin roast",
+        "garlic cloves",
+        "light mayonnaise",
+        "tablespoons    prepared horseradish",
+        "dried sage",
+        "salt",
+        "pepper",
+        "onions",
+        "cup    beef stock",
+        "Worcestershire sauce",
+        "cornstarch"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

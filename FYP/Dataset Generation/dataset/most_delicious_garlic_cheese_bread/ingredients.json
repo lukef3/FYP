@@ -1,0 +1,16 @@
+{
+    "dish_name": "most delicious garlic cheese bread",
+    "ingredients": [
+        "loaf    French bread, thickly sliced or halved lengthwise",
+        "olive oil",
+        "garlic",
+        "mayonnaise",
+        "parmesan cheese",
+        "salt",
+        "dried parsley flakes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

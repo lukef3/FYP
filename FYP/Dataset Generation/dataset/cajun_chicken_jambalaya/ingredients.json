@@ -1,0 +1,24 @@
+{
+    "dish_name": "cajun chicken jambalaya",
+    "ingredients": [
+        "cups    cooked chicken, diced,skin removed",
+        "butter",
+        "onion",
+        "garlic",
+        "celery",
+        "bell pepper",
+        "whole tomato",
+        "long-grain rice",
+        "dried thyme",
+        "dried basil",
+        "teaspoons    cajun spices",
+        "cayenne pepper",
+        "black pepper",
+        "chicken broth",
+        "Tabasco sauce",
+        "bay leaf"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

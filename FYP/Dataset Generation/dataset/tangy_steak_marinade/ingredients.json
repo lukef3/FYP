@@ -1,0 +1,15 @@
+{
+    "dish_name": "tangy steak marinade",
+    "ingredients": [
+        "soy sauce",
+        "Worcestershire sauce",
+        "garlic powder",
+        "celery salt",
+        "lbs    steak, for grilling  (New York Strip, Porterhouse and Top Sirloin are all good)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

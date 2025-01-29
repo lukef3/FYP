@@ -1,0 +1,16 @@
+{
+    "dish_name": "tempura batter for fish and vegetables",
+    "ingredients": [
+        "all-purpose flour",
+        "cornstarch",
+        "salt",
+        "beer",
+        "egg yolk",
+        "egg whites, stiffly beaten"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

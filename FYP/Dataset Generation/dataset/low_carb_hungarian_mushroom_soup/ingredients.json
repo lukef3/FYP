@@ -1,0 +1,21 @@
+{
+    "dish_name": "low carb hungarian mushroom soup",
+    "ingredients": [
+        "butter",
+        "onions",
+        "fresh mushrooms",
+        "chicken broth",
+        "paprika",
+        "soy sauce",
+        "dried dill weed",
+        "heavy cream",
+        "salt",
+        "fresh ground pepper",
+        "lemon juice",
+        "sour cream",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "pudding chocolate chip cookies",
+    "ingredients": [
+        "margarine",
+        "butter",
+        "sugar",
+        "brown sugar",
+        "vanilla",
+        "vanilla instant pudding mix",
+        "instant chocolate pudding mix",
+        "eggs",
+        "baking soda",
+        "flour",
+        "chocolate chips",
+        "cup    nuts (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "tomato and  artichoke chicken breasts",
+    "ingredients": [
+        "all-purpose flour",
+        "salt",
+        "pepper",
+        "boneless skinless chicken breast halves",
+        "tablespoon    oil",
+        "diced tomatoes with basil oregano and garlic",
+        "artichoke hearts",
+        "cup    balsamic vinegar",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

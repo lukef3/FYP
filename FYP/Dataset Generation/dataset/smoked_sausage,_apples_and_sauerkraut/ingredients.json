@@ -1,0 +1,21 @@
+{
+    "dish_name": "smoked sausage, apples and sauerkraut",
+    "ingredients": [
+        "smoked sausage",
+        "olive oil",
+        "onion",
+        "sauerkraut",
+        "apple",
+        "cup    apple juice",
+        "red potatoes (cubed)",
+        "brown sugar",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

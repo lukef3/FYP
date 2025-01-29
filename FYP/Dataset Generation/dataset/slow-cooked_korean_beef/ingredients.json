@@ -1,0 +1,20 @@
+{
+    "dish_name": "slow-cooked korean beef",
+    "ingredients": [
+        "beef broth",
+        "soy sauce",
+        "tablespoons    sesame oil",
+        "granulated sugar",
+        "garlic cloves",
+        "onion",
+        "fresh ground black pepper",
+        "beef blade roast, 2-1/2 lb  (or even slightly larger)",
+        "dozen    kaiser roll"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

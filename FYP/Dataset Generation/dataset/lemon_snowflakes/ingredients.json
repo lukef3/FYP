@@ -1,0 +1,16 @@
+{
+    "dish_name": "lemon snowflakes",
+    "ingredients": [
+        "(18   ounce) package   lemon cake mix with pudding",
+        "cups    frozen whipped topping, thawed  (about 8 oz)",
+        "egg",
+        "confectioners' sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "cheesy french bread",
+    "ingredients": [
+        "sharp cheddar cheese",
+        "mayonnaise",
+        "teaspoons    italian seasoning (or 1 1/2 teaspoons dried parsley flakes)",
+        "garlic powder",
+        "dash    ground red pepper",
+        "French bread, cut in half lengthwise"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

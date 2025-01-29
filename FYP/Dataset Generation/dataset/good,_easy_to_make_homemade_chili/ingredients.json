@@ -1,0 +1,23 @@
+{
+    "dish_name": "good, easy to make homemade chili",
+    "ingredients": [
+        "ground beef",
+        "green pepper",
+        "onion",
+        "garlic",
+        "diced tomatoes",
+        "crushed tomatoes",
+        "chili beans",
+        "chili powder",
+        "thyme",
+        "cayenne pepper",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

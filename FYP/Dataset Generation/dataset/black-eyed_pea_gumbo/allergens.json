@@ -1,0 +1,22 @@
+{
+    "dish_name": "black-eyed pea gumbo",
+    "allergens": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

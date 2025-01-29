@@ -1,0 +1,19 @@
+{
+    "dish_name": "dill and sour cream potato salad",
+    "ingredients": [
+        "baby red potatoes",
+        "mayonnaise",
+        "sour cream",
+        "fresh dill",
+        "dried dill",
+        "fresh parsley",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

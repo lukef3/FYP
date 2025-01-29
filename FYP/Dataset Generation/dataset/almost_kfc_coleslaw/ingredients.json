@@ -1,0 +1,20 @@
+{
+    "dish_name": "almost kfc coleslaw",
+    "ingredients": [
+        "cabbage",
+        "carrot",
+        "onions",
+        "granulated sugar",
+        "salt",
+        "pepper",
+        "mayonnaise",
+        "milk",
+        "buttermilk",
+        "tarragon vinegar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

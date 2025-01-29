@@ -1,0 +1,22 @@
+{
+    "dish_name": "easy fresh peach cobbler",
+    "ingredients": [
+        "unsalted butter",
+        "all-purpose flour",
+        "sugar",
+        "baking powder",
+        "salt",
+        "milk",
+        "cups    peaches, peeled pitted, and thinly sliced  (about 5 to 6 medium peaches)",
+        "fresh lemon juice",
+        "ground cinnamon",
+        "ground nutmeg"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

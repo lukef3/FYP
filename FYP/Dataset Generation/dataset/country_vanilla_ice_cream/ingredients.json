@@ -1,0 +1,14 @@
+{
+    "dish_name": "country vanilla ice cream",
+    "ingredients": [
+        "eggs",
+        "sugar",
+        "quart    whipping cream",
+        "vanilla extract",
+        "salt",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

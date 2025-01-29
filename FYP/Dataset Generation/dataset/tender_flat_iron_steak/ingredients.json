@@ -1,0 +1,21 @@
+{
+    "dish_name": "tender flat iron steak",
+    "ingredients": [
+        "(1   lb)    flat iron steaks (Top Blade Steak) or  (2   lb)    flank steaks",
+        "olive oil",
+        "garlic cloves",
+        "Italian parsley",
+        "rosemary",
+        "cup    cabernet sauvignon wine",
+        "salt",
+        "fresh ground pepper",
+        "dry mustard"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "dish_name": "the original cabbage soup diet",
+    "ingredients": [
+        "cabbage",
+        "onions",
+        "green bell peppers",
+        "celery",
+        "shallots",
+        "green onion",
+        "chicken bouillon cubes",
+        "(1 1/4  ounce) envelope   onion soup",
+        "cup    balsamic vinegar (optional)",
+        "ounces    V8 vegetable juice",
+        "chopped tomatoes",
+        "lemon, juice of",
+        "pepper",
+        "garlic cloves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

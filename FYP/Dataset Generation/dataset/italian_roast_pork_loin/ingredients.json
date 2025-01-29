@@ -1,0 +1,19 @@
+{
+    "dish_name": "italian roast pork loin",
+    "ingredients": [
+        "lbs    pork loin roast",
+        "rosemary",
+        "garlic",
+        "salt",
+        "pepper",
+        "butter",
+        "onion",
+        "olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

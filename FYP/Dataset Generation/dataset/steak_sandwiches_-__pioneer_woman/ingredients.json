@@ -1,0 +1,19 @@
+{
+    "dish_name": "steak sandwiches -  pioneer woman",
+    "ingredients": [
+        "lbs    cube steaks",
+        "onion",
+        "deli French rolls",
+        "butter",
+        "seasoning salt",
+        "Worcestershire sauce",
+        "Tabasco sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

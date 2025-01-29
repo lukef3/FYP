@@ -1,0 +1,21 @@
+{
+    "dish_name": "orange cream cheese chocolate chip cookies",
+    "ingredients": [
+        "shortening",
+        "cream cheese",
+        "sugar",
+        "egg",
+        "vanilla",
+        "teaspoon   grated orange rind",
+        "all-purpose flour",
+        "salt",
+        "cup    semi-sweet chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

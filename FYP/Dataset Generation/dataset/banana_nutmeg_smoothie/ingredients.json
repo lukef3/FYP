@@ -1,0 +1,13 @@
+{
+    "dish_name": "banana nutmeg smoothie",
+    "ingredients": [
+        "banana",
+        "milk",
+        "honey",
+        "nutmeg"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

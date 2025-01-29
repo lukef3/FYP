@@ -1,0 +1,23 @@
+{
+    "dish_name": "chocolate brownie cupcakes",
+    "ingredients": [
+        "flour",
+        "cup    unsweetened cocoa powder",
+        "baking powder",
+        "salt",
+        "granulated sugar",
+        "brown sugar",
+        "unsalted butter",
+        "vanilla",
+        "teaspoon    almond extract",
+        "eggs",
+        "cup    semi-sweet chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

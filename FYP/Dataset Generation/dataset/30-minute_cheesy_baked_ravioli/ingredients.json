@@ -1,0 +1,17 @@
+{
+    "dish_name": "30-minute cheesy baked ravioli",
+    "ingredients": [
+        "pieces   frozen cheese ravioli (approx 1 pound)",
+        "(26   ounce) jar   spaghetti sauce (Prego Tomato & Basil is my favorite for this recipe)",
+        "ounces   sliced pepperoni (omit for vegetarian version)",
+        "parmesan cheese",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

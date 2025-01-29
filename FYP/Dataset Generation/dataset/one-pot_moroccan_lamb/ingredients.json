@@ -1,0 +1,20 @@
+{
+    "dish_name": "one-pot moroccan lamb",
+    "ingredients": [
+        "teaspoons    oil",
+        "lamb",
+        "ml    beef stock or 500   ml    chicken stock",
+        "onions",
+        "prunes",
+        "g    dried apricots, halved",
+        "tomato paste",
+        "ground ginger",
+        "ground cinnamon",
+        "cup   toasted slivered almonds"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

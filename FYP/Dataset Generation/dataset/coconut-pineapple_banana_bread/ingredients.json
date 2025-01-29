@@ -1,0 +1,26 @@
+{
+    "dish_name": "coconut-pineapple banana bread",
+    "ingredients": [
+        "all-purpose flour",
+        "baking soda",
+        "salt",
+        "ground nutmeg",
+        "ground ginger",
+        "granulated sugar",
+        "canola oil",
+        "nonfat plain yogurt",
+        "eggs",
+        "bananas",
+        "vanilla extract",
+        "ounces    canned crushed pineapple, drained",
+        "walnuts",
+        "sweetened flaked coconut"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

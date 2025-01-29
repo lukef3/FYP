@@ -1,0 +1,20 @@
+{
+    "dish_name": "mexican casserole - weight watchers",
+    "ingredients": [
+        "lb    extra lean ground beef",
+        "onion",
+        "diced tomatoes",
+        "frozen corn",
+        "black beans",
+        "chile",
+        "fat free sour cream",
+        "low-fat cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "crackle-top molasses cookies",
+    "ingredients": [
+        "cup    vegetable oil",
+        "sugar",
+        "egg",
+        "molasses",
+        "all-purpose flour",
+        "baking soda",
+        "ground cinnamon",
+        "ground ginger",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

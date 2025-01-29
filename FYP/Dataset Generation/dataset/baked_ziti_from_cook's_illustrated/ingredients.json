@@ -1,0 +1,27 @@
+{
+    "dish_name": "baked ziti from cook's illustrated",
+    "ingredients": [
+        "1% fat cottage cheese",
+        "eggs",
+        "parmesan cheese",
+        "salt",
+        "ziti pasta",
+        "extra virgin olive oil",
+        "garlic cloves",
+        "tomato sauce",
+        "diced tomatoes",
+        "dried oregano",
+        "fresh basil",
+        "sugar",
+        "black pepper",
+        "cornstarch",
+        "heavy cream",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "muffin-tin crab cakes",
+    "ingredients": [
+        "lb    crabmeat",
+        "cups   fresh whole wheat breadcrumbs",
+        "red bell pepper",
+        "scallions",
+        "cup    reduced-fat mayonnaise",
+        "eggs",
+        "large    egg white",
+        "dashes    hot sauce, such as Tabasco",
+        "teaspoon    celery salt",
+        "fresh ground black pepper",
+        "lemon wedges"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

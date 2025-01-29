@@ -1,0 +1,12 @@
+{
+    "dish_name": "ground chicken burgers",
+    "ingredients": [
+        "ground chicken",
+        "mozzarella cheese",
+        "tablespoons    breadcrumbs",
+        "barbecue sauce"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

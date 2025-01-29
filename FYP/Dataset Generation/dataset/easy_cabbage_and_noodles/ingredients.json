@@ -1,0 +1,19 @@
+{
+    "dish_name": "easy cabbage and noodles",
+    "ingredients": [
+        "(12   ounce) bags  pre-shredded coleslaw mix",
+        "ounces   extra-wide egg noodles",
+        "butter",
+        "sweet onion",
+        "garlic cloves",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

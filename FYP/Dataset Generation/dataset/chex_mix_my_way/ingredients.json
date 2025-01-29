@@ -1,0 +1,17 @@
+{
+    "dish_name": "chex mix my way",
+    "ingredients": [
+        "butter",
+        "teaspoons    Lawry's Seasoned Salt (3 tsp)",
+        "Worcestershire sauce",
+        "cups    Crispix cereal (1 box)",
+        "cup    mixed nuts",
+        "cup    small pretzels"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dish_name": "chicken with muenster cheese",
+    "ingredients": [
+        "chicken breasts",
+        "eggs",
+        "cup    seasoned bread crumbs",
+        "butter",
+        "white wine",
+        "muenster cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

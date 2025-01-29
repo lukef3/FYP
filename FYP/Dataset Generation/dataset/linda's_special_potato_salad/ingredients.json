@@ -1,0 +1,27 @@
+{
+    "dish_name": "linda's special potato salad",
+    "ingredients": [
+        "lbs    red potatoes, with skins on",
+        "mayonnaise",
+        "onion",
+        "celery",
+        "celery seed",
+        "carrots",
+        "green pepper",
+        "hard-boiled eggs",
+        "chives",
+        "green olives",
+        "yellow mustard",
+        "cider vinegar",
+        "sugar",
+        "salt",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

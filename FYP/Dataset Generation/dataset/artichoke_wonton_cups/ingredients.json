@@ -1,0 +1,17 @@
+{
+    "dish_name": "artichoke wonton cups",
+    "ingredients": [
+        "parmesan cheese",
+        "mayonnaise",
+        "onion powder",
+        "garlic powder",
+        "mozzarella cheese",
+        "water-packed artichoke hearts",
+        "wonton wrappers"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

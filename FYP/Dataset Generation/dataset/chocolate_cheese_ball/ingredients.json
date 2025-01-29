@@ -1,0 +1,17 @@
+{
+    "dish_name": "chocolate cheese ball",
+    "ingredients": [
+        "cream cheese",
+        "butter",
+        "icing sugar",
+        "brown sugar",
+        "vanilla",
+        "cup    miniature chocolate chip",
+        "pecans",
+        "walnuts",
+        "graham cracker"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "baked stuffed bell peppers",
+    "ingredients": [
+        "red peppers, halved, seeds & membranes removed",
+        "ground beef",
+        "cooked rice",
+        "pepper",
+        "onion",
+        "garlic cloves",
+        "tablespoon    Italian spices",
+        "egg",
+        "cup    Italian breadcrumbs",
+        "salt & freshly ground black pepper, to taste",
+        "plain spaghetti sauce (jarred or homemade)",
+        "sharp cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

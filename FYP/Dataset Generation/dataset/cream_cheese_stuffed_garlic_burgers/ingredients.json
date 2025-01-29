@@ -1,0 +1,17 @@
+{
+    "dish_name": "cream cheese stuffed garlic burgers",
+    "ingredients": [
+        "hamburger meat",
+        "instant minced garlic",
+        "salt",
+        "ground pepper",
+        "ounces    cream cheese with garlic and herbs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

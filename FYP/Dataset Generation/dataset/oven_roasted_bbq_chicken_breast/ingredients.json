@@ -1,0 +1,21 @@
+{
+    "dish_name": "oven roasted bbq chicken breast",
+    "ingredients": [
+        "chicken breasts",
+        "onion",
+        "mushroom",
+        "margarine",
+        "garlic",
+        "salt",
+        "seasoning salt",
+        "pepper",
+        "barbecue sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

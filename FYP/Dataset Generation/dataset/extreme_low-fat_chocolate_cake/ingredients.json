@@ -1,0 +1,21 @@
+{
+    "dish_name": "extreme low-fat chocolate cake",
+    "ingredients": [
+        "flour",
+        "sugar",
+        "cup    unsweetened baking cocoa, sifted",
+        "baking soda",
+        "salt",
+        "applesauce",
+        "skim milk yogurt",
+        "vanilla",
+        "egg whites (or use 2 whole eggs)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

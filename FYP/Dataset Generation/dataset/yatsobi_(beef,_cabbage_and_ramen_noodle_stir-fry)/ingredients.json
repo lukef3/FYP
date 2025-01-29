@@ -1,0 +1,24 @@
+{
+    "dish_name": "yatsobi (beef, cabbage and ramen noodle stir-fry)",
+    "ingredients": [
+        "lean ground beef",
+        "bacon",
+        "(3   ounce) packages   ramen noodles (broken into 3 sections)",
+        "garlic cloves",
+        "red onion",
+        "cabbage",
+        "carrots",
+        "red bell pepper",
+        "light soy sauce",
+        "bean sprouts",
+        "light soy sauce",
+        "crushed red pepper flakes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

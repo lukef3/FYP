@@ -1,0 +1,20 @@
+{
+    "dish_name": "oma's boterkoek (dutch buttercake)",
+    "ingredients": [
+        "margarine",
+        "half-and-half",
+        "sugar",
+        "teaspoons    almond extract",
+        "egg",
+        "flour",
+        "baking powder",
+        "sliced almonds, for garnish  (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

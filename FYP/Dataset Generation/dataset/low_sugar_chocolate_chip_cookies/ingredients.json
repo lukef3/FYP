@@ -1,0 +1,23 @@
+{
+    "dish_name": "low sugar chocolate chip cookies",
+    "ingredients": [
+        "all-purpose flour",
+        "baking soda",
+        "salt",
+        "margarine",
+        "sugar",
+        "light brown sugar",
+        "egg",
+        "unsweetened applesauce",
+        "1% low-fat milk",
+        "vanilla extract",
+        "chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

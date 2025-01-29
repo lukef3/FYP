@@ -1,0 +1,20 @@
+{
+    "dish_name": "salsa mexicana (fresh tomato and chiles)",
+    "ingredients": [
+        "tomatoes",
+        "jalapenos, seeded and chopped",
+        "small    white onions, chopped",
+        "garlic cloves",
+        "cilantro",
+        "salt",
+        "lime juice",
+        "cider vinegar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

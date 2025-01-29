@@ -1,0 +1,30 @@
+{
+    "dish_name": "braised lamb shoulder chops",
+    "ingredients": [
+        "olive oil",
+        "shoulder lamb chops",
+        "sweet onion",
+        "carrots",
+        "celery ribs",
+        "lemon",
+        "red wine",
+        "beef broth",
+        "salt",
+        "fresh ground pepper",
+        "tomatoes",
+        "curry powder",
+        "cumin",
+        "teaspoon    coriander",
+        "garlic",
+        "light soy sauce",
+        "water",
+        "cornstarch",
+        "of fresh mint"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

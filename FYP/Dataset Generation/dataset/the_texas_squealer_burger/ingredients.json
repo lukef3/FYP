@@ -1,0 +1,19 @@
+{
+    "dish_name": "the texas squealer burger",
+    "ingredients": [
+        "lbs    80% lean ground beef",
+        "bacon",
+        "tablespoon   grill seasoning (I use McCormicks Mesquite)",
+        "garlic powder",
+        "tablespoon   minced dried onion",
+        "Worcestershire sauce",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

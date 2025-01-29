@@ -1,0 +1,13 @@
+{
+    "dish_name": "honey mustard curry chicken",
+    "ingredients": [
+        "honey",
+        "prepared mustard",
+        "curry powder",
+        "pepper",
+        "chicken"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

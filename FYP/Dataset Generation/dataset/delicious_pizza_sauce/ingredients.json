@@ -1,0 +1,15 @@
+{
+    "dish_name": "delicious pizza sauce",
+    "ingredients": [
+        "tomato paste",
+        "garlic",
+        "tablespoon    mixed Italian herbs (oregano, basil, and parsley combined)",
+        "olive oil",
+        "salt",
+        "water",
+        "pizza crust (Boboli or your own recipe)"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

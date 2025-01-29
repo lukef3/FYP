@@ -1,0 +1,28 @@
+{
+    "dish_name": "crock pot chicken and sausage gumbo with shrimp",
+    "ingredients": [
+        "all-purpose flour",
+        "cup    cooking oil",
+        "water",
+        "smoked sausage",
+        "cups   chopped cooked chicken",
+        "okra",
+        "onion",
+        "green sweet pepper",
+        "celery",
+        "garlic cloves",
+        "salt",
+        "pepper",
+        "teaspoon    ground red pepper",
+        "tomatoes",
+        "medium shrimp",
+        "cooked rice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

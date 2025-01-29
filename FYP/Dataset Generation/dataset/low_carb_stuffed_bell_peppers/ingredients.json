@@ -1,0 +1,26 @@
+{
+    "dish_name": "low carb stuffed bell peppers",
+    "ingredients": [
+        "green peppers",
+        "extra virgin olive oil",
+        "onion",
+        "garlic cloves",
+        "green onion",
+        "green peppers",
+        "ground turkey",
+        "diced tomatoes",
+        "parsley",
+        "teaspoons    italian seasoning",
+        "seasoning salt",
+        "cup    pizza sauce",
+        "pre-shredded mozzarella cheese",
+        "monterey jack cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

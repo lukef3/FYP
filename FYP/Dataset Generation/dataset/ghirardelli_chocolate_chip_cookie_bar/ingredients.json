@@ -1,0 +1,22 @@
+{
+    "dish_name": "ghirardelli chocolate chip cookie bar",
+    "ingredients": [
+        "butter",
+        "brown sugar",
+        "vanilla",
+        "eggs",
+        "all-purpose flour",
+        "baking powder",
+        "salt",
+        "semi-sweet chocolate chips (2 cups)",
+        "pecans",
+        "walnuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

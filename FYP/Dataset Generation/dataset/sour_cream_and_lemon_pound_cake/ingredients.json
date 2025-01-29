@@ -1,0 +1,20 @@
+{
+    "dish_name": "sour cream and lemon pound cake",
+    "ingredients": [
+        "cake flour",
+        "baking powder",
+        "salt",
+        "unsalted butter",
+        "sugar",
+        "eggs",
+        "fresh lemon juice",
+        "lemon rind",
+        "sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

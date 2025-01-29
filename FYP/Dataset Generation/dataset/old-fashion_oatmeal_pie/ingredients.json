@@ -1,0 +1,20 @@
+{
+    "dish_name": "old-fashion oatmeal pie",
+    "ingredients": [
+        "(9   inch)    pie crusts",
+        "eggs",
+        "sugar",
+        "flour",
+        "ground cinnamon",
+        "salt",
+        "light corn syrup",
+        "butter",
+        "vanilla",
+        "quick-cooking oatmeal"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

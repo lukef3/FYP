@@ -1,0 +1,25 @@
+{
+    "dish_name": "old world italian spaghetti sauce",
+    "ingredients": [
+        "tomato paste",
+        "tomato puree",
+        "crushed tomatoes",
+        "garlic cloves",
+        "onion",
+        "extra virgin olive oil",
+        "white sugar",
+        "salt",
+        "black pepper",
+        "dried basil",
+        "dried oregano",
+        "thyme leaves",
+        "dried rosemary leaves",
+        "parmesan cheese",
+        "dry red wine",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

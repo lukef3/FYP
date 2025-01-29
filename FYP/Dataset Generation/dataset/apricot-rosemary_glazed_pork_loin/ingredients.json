@@ -1,0 +1,19 @@
+{
+    "dish_name": "apricot-rosemary glazed pork loin",
+    "ingredients": [
+        "lbs    pork loin roast",
+        "salt",
+        "pepper",
+        "cup    apricot preserves",
+        "cooking sherry",
+        "dried rosemary leaves",
+        "garlic cloves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "ground pork and potato balls",
+    "ingredients": [
+        "egg",
+        "milk",
+        "cup    dry breadcrumbs",
+        "potato",
+        "tablespoon    onion flakes",
+        "prepared mustard",
+        "salt",
+        "black pepper",
+        "ground pork",
+        "shortening",
+        "chicken bouillon cube",
+        "all-purpose flour",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

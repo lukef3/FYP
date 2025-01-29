@@ -1,0 +1,15 @@
+{
+    "dish_name": "easy caramelized bananas",
+    "ingredients": [
+        "bananas",
+        "granulated sugar",
+        "cooking spray (regular or butter flavor)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "tasty salisbury steak",
+    "ingredients": [
+        "ground beef",
+        "cup    dry breadcrumbs",
+        "salt",
+        "pepper",
+        "egg",
+        "onion",
+        "beef broth",
+        "ounces    sliced mushrooms",
+        "water",
+        "cornstarch"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

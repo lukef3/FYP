@@ -1,0 +1,14 @@
+{
+    "dish_name": "golden chicken nuggets",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "milk",
+        "all-purpose flour",
+        "tablespoon    cajun seasoning (I use Tony Chachere's creole seasoning)",
+        "vegetable oil (For deep fryer)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

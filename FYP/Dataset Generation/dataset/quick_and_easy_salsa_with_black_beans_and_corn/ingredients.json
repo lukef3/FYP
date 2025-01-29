@@ -1,0 +1,20 @@
+{
+    "dish_name": "quick and easy salsa with black beans and corn",
+    "ingredients": [
+        "diced tomatoes",
+        "jalapeno, finely diced",
+        "red onion",
+        "lime juice",
+        "cumin",
+        "cilantro",
+        "canned black beans",
+        "frozen corn"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

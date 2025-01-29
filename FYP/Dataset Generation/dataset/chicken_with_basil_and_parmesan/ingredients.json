@@ -1,0 +1,17 @@
+{
+    "dish_name": "chicken with basil and parmesan",
+    "ingredients": [
+        "boneless skinless chicken breast halves",
+        "flour",
+        "salt and pepper",
+        "butter",
+        "fresh basil",
+        "red wine vinegar",
+        "parmesan cheese",
+        "sugar",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

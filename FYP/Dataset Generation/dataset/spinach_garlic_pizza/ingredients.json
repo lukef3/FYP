@@ -1,0 +1,21 @@
+{
+    "dish_name": "spinach garlic pizza",
+    "ingredients": [
+        "olive oil",
+        "garlic",
+        "prepared pizza crust (12 inch I use Boboli.)",
+        "frozen chopped spinach",
+        "mozzarella cheese",
+        "plum tomatoes",
+        "feta cheese",
+        "fresh rosemary",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

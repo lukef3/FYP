@@ -1,0 +1,19 @@
+{
+    "dish_name": "grilled garlic pork tenderloin",
+    "ingredients": [
+        "garlic",
+        "soy sauce",
+        "tablespoons   grated fresh gingerroot",
+        "Dijon mustard",
+        "fresh lime juice",
+        "olive oil",
+        "cayenne",
+        "(3/4  lb)    pork tenderloin, trimmed"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

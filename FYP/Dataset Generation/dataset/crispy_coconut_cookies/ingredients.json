@@ -1,0 +1,21 @@
+{
+    "dish_name": "crispy coconut cookies",
+    "ingredients": [
+        "shortening",
+        "brown sugar",
+        "white sugar",
+        "egg",
+        "teaspoon    almond extract or 1   teaspoon    coconut extract",
+        "all-purpose flour",
+        "baking soda",
+        "cream of tartar",
+        "cup    desiccated coconut (Do not use flaked. As NOTED in the preamble you may use the fine coconut readily found in the baking)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

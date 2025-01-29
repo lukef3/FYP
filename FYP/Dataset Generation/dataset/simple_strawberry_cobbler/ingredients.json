@@ -1,0 +1,18 @@
+{
+    "dish_name": "simple strawberry cobbler",
+    "ingredients": [
+        "strawberries",
+        "all-purpose flour",
+        "baking powder",
+        "sugar",
+        "egg",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

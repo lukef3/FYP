@@ -1,0 +1,23 @@
+{
+    "dish_name": "delicious oven pizza sub sandwiches",
+    "ingredients": [
+        "bread buns, split in half",
+        "bulk Italian sausage",
+        "deli ham",
+        "Kittencal's Pizza Sauce",
+        "Kittencal's No-Cook Pizza Sauce or Marinara Dipping Sauce",
+        "mozzarella cheese",
+        "sweet onion",
+        "mild banana pepper rings",
+        "black pepper",
+        "(3 1/2  ounce) packages  sliced pepperoni",
+        "lb   thinly sliced hard salami"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

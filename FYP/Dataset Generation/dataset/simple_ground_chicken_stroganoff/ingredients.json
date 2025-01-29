@@ -1,0 +1,24 @@
+{
+    "dish_name": "simple ground chicken stroganoff",
+    "ingredients": [
+        "ground chicken",
+        "onion",
+        "garlic powder",
+        "salt",
+        "pepper",
+        "flour",
+        "chicken broth",
+        "(10 3/4  ounce) can   cream of mushroom soup",
+        "mushroom stems and pieces",
+        "sour cream",
+        "tomato paste",
+        "parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

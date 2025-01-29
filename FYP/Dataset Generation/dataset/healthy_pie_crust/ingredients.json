@@ -1,0 +1,12 @@
+{
+    "dish_name": "healthy pie crust",
+    "ingredients": [
+        "flour",
+        "salt",
+        "canola oil",
+        "skim milk"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}
