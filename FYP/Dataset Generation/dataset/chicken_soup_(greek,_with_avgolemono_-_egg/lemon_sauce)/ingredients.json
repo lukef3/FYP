@@ -1,0 +1,20 @@
+{
+    "dish_name": "chicken soup (greek, with avgolemono - egg/lemon sauce)",
+    "ingredients": [
+        "chicken",
+        "chicken pieces",
+        "water",
+        "parsley",
+        "onion",
+        "salt",
+        "long-grain rice",
+        "carrot",
+        "celery",
+        "lemons, juice of, adjust to taste",
+        "eggs",
+        "cornstarch"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

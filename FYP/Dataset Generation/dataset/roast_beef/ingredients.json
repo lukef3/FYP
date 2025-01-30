@@ -1,0 +1,23 @@
+{
+    "dish_name": "roast beef",
+    "ingredients": [
+        "tablespoon    cooking oil",
+        "(2 1/2  lb)   beef round roast",
+        "onion",
+        "brewed coffee",
+        "water",
+        "beef bouillon cube",
+        "dried basil",
+        "dried rosemary",
+        "garlic",
+        "salt",
+        "pepper",
+        "all-purpose flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

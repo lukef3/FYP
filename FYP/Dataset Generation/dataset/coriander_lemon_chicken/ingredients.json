@@ -1,0 +1,27 @@
+{
+    "dish_name": "coriander lemon chicken",
+    "ingredients": [
+        "skinless chicken breasts",
+        "skinless chicken thighs",
+        "tablespoons    vegetable oil",
+        "garlic",
+        "ginger",
+        "water",
+        "fresh coriander leaves",
+        "green chili pepper",
+        "cayenne pepper",
+        "ground cumin",
+        "ground coriander",
+        "ground turmeric",
+        "salt",
+        "water",
+        "lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

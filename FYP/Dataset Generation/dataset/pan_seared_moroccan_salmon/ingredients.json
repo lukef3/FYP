@@ -1,0 +1,22 @@
+{
+    "dish_name": "pan seared moroccan salmon",
+    "ingredients": [
+        "cilantro leaves",
+        "paprika",
+        "fresh lemon juice",
+        "garlic",
+        "extra virgin olive oil",
+        "cumin",
+        "pinch    dried red chili pepper, crushed",
+        "salt",
+        "salmon fillets",
+        "olive oil flavored cooking spray"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

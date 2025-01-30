@@ -1,0 +1,20 @@
+{
+    "dish_name": "egg free, no-bake cookie dough (for eating!)",
+    "ingredients": [
+        "flour",
+        "flour",
+        "baking soda",
+        "salt",
+        "margarine",
+        "granulated sugar",
+        "brown sugar",
+        "vanilla extract",
+        "cup    semi-sweet chocolate chips",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

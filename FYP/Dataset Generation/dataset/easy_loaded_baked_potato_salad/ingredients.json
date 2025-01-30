@@ -1,0 +1,17 @@
+{
+    "dish_name": "easy loaded baked potato salad",
+    "ingredients": [
+        "red potatoes, unpeeled",
+        "salt & pepper, to taste",
+        "sour cream",
+        "cheddar cheese",
+        "green onions",
+        "bacon bits"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "dish_name": "applebee's fiesta lime chicken copycat recipe",
+    "ingredients": [
+        "water",
+        "cup    teriyaki sauce",
+        "lime, juice of",
+        "garlic cloves",
+        "teaspoon    tequila",
+        "liquid smoke",
+        "salt",
+        "ground ginger",
+        "boneless skinless chicken breast",
+        "mayonnaise",
+        "sour cream",
+        "chunky salsa",
+        "milk",
+        "teaspoon    Cajun blackened spice mix",
+        "dried parsley",
+        "teaspoon    hot sauce",
+        "dried dill weed",
+        "cumin",
+        "colby-monterey jack cheese",
+        "cups    corn chips, crumbled"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

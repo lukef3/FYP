@@ -1,0 +1,22 @@
+{
+    "dish_name": "giant low fat ginger cookies",
+    "ingredients": [
+        "whole wheat flour",
+        "white flour",
+        "baking soda",
+        "salt",
+        "ground ginger",
+        "ground cinnamon",
+        "brown sugar",
+        "butter",
+        "molasses",
+        "egg substitute",
+        "unsweetened applesauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

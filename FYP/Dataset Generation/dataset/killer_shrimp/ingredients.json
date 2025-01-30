@@ -1,0 +1,24 @@
+{
+    "dish_name": "killer shrimp",
+    "ingredients": [
+        "butter",
+        "olive oil",
+        "chili sauce",
+        "Worcestershire sauce",
+        "lemon juice",
+        "lemon",
+        "garlic cloves",
+        "parsley",
+        "crushed red pepper flakes",
+        "dried oregano",
+        "Tabasco sauce",
+        "large shrimp"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

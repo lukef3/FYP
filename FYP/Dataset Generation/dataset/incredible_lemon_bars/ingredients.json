@@ -1,0 +1,19 @@
+{
+    "dish_name": "incredible lemon bars",
+    "ingredients": [
+        "butter",
+        "powdered sugar",
+        "all-purpose flour",
+        "all-purpose flour",
+        "granulated sugar",
+        "baking powder",
+        "eggs",
+        "fresh lemon juice",
+        "fresh lemon zest"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

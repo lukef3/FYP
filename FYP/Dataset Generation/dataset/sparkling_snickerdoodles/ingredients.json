@@ -1,0 +1,16 @@
+{
+    "dish_name": "sparkling snickerdoodles",
+    "ingredients": [
+        "shortening",
+        "eggs",
+        "cream of tartar",
+        "salt",
+        "sugar",
+        "flour",
+        "baking soda"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

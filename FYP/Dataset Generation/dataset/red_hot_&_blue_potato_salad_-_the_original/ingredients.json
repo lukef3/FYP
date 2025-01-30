@@ -1,0 +1,18 @@
+{
+    "dish_name": "red hot & blue potato salad - the original",
+    "ingredients": [
+        "Red Bliss potatoes",
+        "eggs",
+        "green onion top",
+        "mayonnaise",
+        "celery seeds",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

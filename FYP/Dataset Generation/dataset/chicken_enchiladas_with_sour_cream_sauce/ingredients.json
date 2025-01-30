@@ -1,0 +1,27 @@
+{
+    "dish_name": "chicken enchiladas with sour cream sauce",
+    "ingredients": [
+        "butter",
+        "margarine",
+        "all-purpose flour",
+        "chicken broth",
+        "water",
+        "sour cream",
+        "canned jalapeno peppers, seeded and chopped",
+        "corn tortillas",
+        "vegetable oil",
+        "cup   chopped cooked chicken",
+        "monterey jack cheese",
+        "onions",
+        "tomatoes",
+        "tomato juice",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

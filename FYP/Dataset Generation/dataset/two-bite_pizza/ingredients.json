@@ -1,0 +1,21 @@
+{
+    "dish_name": "two-bite pizza",
+    "ingredients": [
+        "pork sausage",
+        "sharp cheddar cheese",
+        "parmesan cheese",
+        "oregano",
+        "teaspoon    garlic salt",
+        "tomato paste",
+        "tomato sauce",
+        "(12   ounce) cans  flaky-style refrigerated biscuits",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

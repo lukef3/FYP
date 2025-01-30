@@ -1,0 +1,23 @@
+{
+    "dish_name": "lee lee's famous barbecue sauce for ribs w/ preserves",
+    "ingredients": [
+        "ketchup",
+        "vinegar",
+        "brown sugar",
+        "salt",
+        "pepper",
+        "lemon juice",
+        "Worcestershire sauce",
+        "butter",
+        "garlic powder",
+        "Tabasco sauce",
+        "peach preserves or   apricot preserves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

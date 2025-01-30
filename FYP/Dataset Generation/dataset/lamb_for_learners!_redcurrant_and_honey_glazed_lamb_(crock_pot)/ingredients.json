@@ -1,0 +1,20 @@
+{
+    "dish_name": "lamb for learners! redcurrant and honey glazed lamb (crock pot)",
+    "ingredients": [
+        "leg of lamb",
+        "red currant jelly",
+        "honey",
+        "Dijon mustard",
+        "garlic cloves",
+        "garlic powder",
+        "salt",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

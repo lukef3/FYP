@@ -2,27 +2,23 @@
     "dish_name": "chili con carne with beans",
     "ingredients": [
         "ground beef",
-        "onion",
-        "garlic cloves",
         "tomato sauce",
-        "tomato paste",
+        "kidney beans",
+        "pinto beans",
+        "onion",
+        "green chili peppers",
+        "celery",
         "tomatoes",
-        "diced tomatoes with green chilies",
-        "dark beer",
-        "ground cumin",
-        "paprika",
+        "cumin powder",
         "chili powder",
-        "oregano",
+        "black pepper",
         "salt",
-        "pepper",
-        "Worcestershire sauce",
-        "chili beans"
+        "water"
     ],
     "images": [
         "images/image_1.jpg",
         "images/image_2.jpg",
         "images/image_3.jpg",
-        "images/image_4.jpg",
-        "images/image_5.jpg"
+        "images/image_4.jpg"
     ]
 }

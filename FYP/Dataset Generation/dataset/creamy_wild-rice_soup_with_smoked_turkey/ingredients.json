@@ -1,0 +1,26 @@
+{
+    "dish_name": "creamy wild-rice soup with smoked turkey",
+    "ingredients": [
+        "butter",
+        "carrot",
+        "onion",
+        "green onion",
+        "fresh rosemary",
+        "dried rosemary",
+        "black pepper",
+        "garlic cloves",
+        "ounces    fat-free low-sodium chicken broth",
+        "cups    smoked turkey breast, chopped  (~1/2 lb)",
+        "wild rice",
+        "all-purpose flour",
+        "1% low-fat milk",
+        "skim milk",
+        "dry sherry",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

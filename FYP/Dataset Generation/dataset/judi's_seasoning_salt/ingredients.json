@@ -1,0 +1,19 @@
+{
+    "dish_name": "judi's seasoning salt",
+    "ingredients": [
+        "salt",
+        "paprika",
+        "tablespoon    celery salt",
+        "garlic powder",
+        "sugar",
+        "onion powder",
+        "cayenne",
+        "turmeric"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "creamy parmesan mashed potatoes",
+    "ingredients": [
+        "potatoes",
+        "lbs    red potatoes, unpeeled  (your choice)",
+        "half-and-half",
+        "milk",
+        "unsalted butter",
+        "sour cream",
+        "parmesan cheese",
+        "salt",
+        "salt",
+        "fresh ground pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "savory chuck roast",
+    "ingredients": [
+        "(3   lb)    boneless chuck roast",
+        "white vinegar",
+        "teaspoons    garlic salt",
+        "flour",
+        "olive oil",
+        "package    onion and mushroom soup mix",
+        "sweet sherry",
+        "brewed coffee",
+        "fresh mushrooms"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

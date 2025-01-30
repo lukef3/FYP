@@ -1,0 +1,17 @@
+{
+    "dish_name": "paula deen's broccoli casserole",
+    "ingredients": [
+        "(10   ounce) packages   frozen chopped broccoli, cooked and drained",
+        "mayonnaise",
+        "sharp cheddar cheese",
+        "(10 3/4  ounce) can   condensed cream of mushroom soup",
+        "eggs",
+        "cups    crackers, crushed",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

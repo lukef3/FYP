@@ -1,0 +1,24 @@
+{
+    "dish_name": "zesty italian pasta salad",
+    "ingredients": [
+        "spiral shaped pasta",
+        "cherry tomatoes",
+        "celery",
+        "carrot",
+        "cup   chopped sweet red pepper",
+        "green bell pepper",
+        "green onions",
+        "cups    Italian salad dressing",
+        "mayonnaise",
+        "parmesan cheese",
+        "mozzarella cheese",
+        "black olives"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

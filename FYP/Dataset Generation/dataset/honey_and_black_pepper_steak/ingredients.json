@@ -1,0 +1,20 @@
+{
+    "dish_name": "honey and black pepper steak",
+    "ingredients": [
+        "ml    oil",
+        "g    round steaks, cut into thin strips",
+        "onion",
+        "sugar snap peas",
+        "honey",
+        "soy sauce",
+        "oyster sauce",
+        "cracked black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

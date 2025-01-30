@@ -1,0 +1,20 @@
+{
+    "dish_name": "simply delicious crock pot pork loin",
+    "ingredients": [
+        "boneless pork loin",
+        "lemon juice",
+        "garlic cloves",
+        "rosemary",
+        "parsley flakes",
+        "thyme",
+        "pepper",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

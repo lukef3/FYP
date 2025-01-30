@@ -1,0 +1,21 @@
+{
+    "dish_name": "hubby's favorite onion rings",
+    "ingredients": [
+        "onions",
+        "all-purpose flour",
+        "baking powder",
+        "salt",
+        "ground black pepper",
+        "eggs",
+        "milk",
+        "teaspoon    vegetable oil",
+        "vegetable oil, for frying"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

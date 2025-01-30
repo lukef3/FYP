@@ -1,0 +1,19 @@
+{
+    "dish_name": "almond bars",
+    "ingredients": [
+        "eggs",
+        "sugar",
+        "butter",
+        "all-purpose flour",
+        "teaspoons    almond extract",
+        "cup   cups sliced almonds (increase or decrease as desired)",
+        "confectioners' sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

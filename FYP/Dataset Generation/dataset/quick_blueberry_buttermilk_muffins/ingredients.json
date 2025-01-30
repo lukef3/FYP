@@ -1,0 +1,19 @@
+{
+    "dish_name": "quick blueberry buttermilk muffins",
+    "ingredients": [
+        "all-purpose flour",
+        "sugar",
+        "baking powder",
+        "salt",
+        "baking soda",
+        "egg",
+        "buttermilk",
+        "butter",
+        "margarine",
+        "blueberries"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

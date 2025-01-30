@@ -1,0 +1,20 @@
+{
+    "dish_name": "breaded ranch pork chops",
+    "ingredients": [
+        "pork chops, 3/4 inch thick  (with the bone)",
+        "flour",
+        "egg",
+        "milk",
+        "mayonnaise",
+        "cup    dried breadcrumbs, unseasoned",
+        "(1   ounce) packet   ranch dressing mix",
+        "butter",
+        "margarine",
+        "canola oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dish_name": "patriotic drink (for kids)",
+    "ingredients": [
+        "cranberry juice",
+        "ounces    Gatorade sports drink (blue)",
+        "ounces    sugar free 7-Up or 3   ounces    Sprite",
+        "ice cube, fill glass to the top with cubes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

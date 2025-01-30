@@ -1,0 +1,15 @@
+{
+    "dish_name": "easy crock pot chicken cacciatore",
+    "ingredients": [
+        "chicken thighs",
+        "crushed tomatoes",
+        "tablespoon    italian seasoning",
+        "salt",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

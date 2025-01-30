@@ -1,0 +1,21 @@
+{
+    "dish_name": "5 cup pecan pie",
+    "ingredients": [
+        "pecan halves",
+        "flour",
+        "unsalted butter",
+        "light brown sugar",
+        "light corn syrup",
+        "light corn syrup",
+        "eggs",
+        "vanilla extract",
+        "pie shell"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

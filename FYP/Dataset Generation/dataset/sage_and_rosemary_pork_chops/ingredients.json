@@ -1,0 +1,18 @@
+{
+    "dish_name": "sage and rosemary pork chops",
+    "ingredients": [
+        "bonelss pork loin chops, 3/4 inch thick",
+        "olive oil",
+        "dried sage",
+        "black and red pepper blend",
+        "dried rosemary leaves",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

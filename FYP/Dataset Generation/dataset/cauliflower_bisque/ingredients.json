@@ -1,0 +1,19 @@
+{
+    "dish_name": "cauliflower bisque",
+    "ingredients": [
+        "water",
+        "chicken broth",
+        "saffron",
+        "butter",
+        "onions",
+        "garlic",
+        "cauliflower",
+        "salt and pepper",
+        "half-and-half"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

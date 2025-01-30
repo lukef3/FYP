@@ -1,0 +1,17 @@
+{
+    "dish_name": "zucchini cheese soup (a.k.a. vache qui rit soup)",
+    "ingredients": [
+        "onion",
+        "zucchini",
+        "cups    chicken stock (or water or vegetable stock)",
+        "salt and pepper (to season)",
+        "cumin",
+        "ounces   vache qui rit Laughing Cow cheese (or Boursin or cream cheese)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

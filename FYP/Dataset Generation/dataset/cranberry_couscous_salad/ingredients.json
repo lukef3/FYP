@@ -1,0 +1,23 @@
+{
+    "dish_name": "cranberry couscous salad",
+    "ingredients": [
+        "chicken broth",
+        "vegetable broth",
+        "dried cranberries",
+        "ground cinnamon",
+        "ground cumin",
+        "couscous",
+        "cup    vegetable oil",
+        "rice vinegar",
+        "cup    sliced almonds, toasted",
+        "green onion",
+        "of fresh mint"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

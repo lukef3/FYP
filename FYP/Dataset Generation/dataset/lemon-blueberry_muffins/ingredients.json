@@ -1,0 +1,25 @@
+{
+    "dish_name": "lemon-blueberry muffins",
+    "ingredients": [
+        "all-purpose flour",
+        "sugar",
+        "sugar",
+        "baking powder",
+        "salt",
+        "walnuts",
+        "lemon zest",
+        "egg",
+        "milk",
+        "butter",
+        "margarine",
+        "vanilla",
+        "blueberries"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

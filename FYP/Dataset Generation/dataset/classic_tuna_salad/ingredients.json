@@ -1,0 +1,23 @@
+{
+    "dish_name": "classic tuna salad",
+    "ingredients": [
+        "solid white tuna packed in water",
+        "fresh lemon juice",
+        "celery",
+        "red onions",
+        "dill pickles",
+        "garlic",
+        "salt",
+        "ground black pepper",
+        "fresh parsley leaves",
+        "mayonnaise",
+        "Dijon mustard"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

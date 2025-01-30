@@ -1,0 +1,19 @@
+{
+    "dish_name": "savory salmon loaf",
+    "ingredients": [
+        "red salmon",
+        "cup   ground cracker crumb",
+        "lemon juice",
+        "butter",
+        "salt",
+        "egg",
+        "pepper",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

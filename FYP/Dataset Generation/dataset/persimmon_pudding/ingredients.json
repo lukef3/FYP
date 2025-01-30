@@ -1,0 +1,22 @@
+{
+    "dish_name": "persimmon pudding",
+    "ingredients": [
+        "cup   very ripe hachiya persimmon pulp",
+        "sugar",
+        "eggs",
+        "flour",
+        "baking powder",
+        "nutmeg",
+        "milk",
+        "butter",
+        "margarine",
+        "cinnamon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "easy lemony and garlicky mushrooms",
+    "ingredients": [
+        "lemon",
+        "dried parsley",
+        "olive oil",
+        "garlic cloves",
+        "green onions",
+        "mushroom",
+        "salt and pepper, to taste"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

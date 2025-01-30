@@ -1,0 +1,20 @@
+{
+    "dish_name": "spinach twice baked potatoes",
+    "ingredients": [
+        "baking potatoes",
+        "frozen chopped spinach",
+        "butter",
+        "sour cream",
+        "milk",
+        "cheddar cheese",
+        "salt and pepper",
+        "cayenne"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

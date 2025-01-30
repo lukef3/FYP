@@ -1,0 +1,24 @@
+{
+    "dish_name": "spanish rice with olives",
+    "ingredients": [
+        "long grain rice",
+        "sweet onion",
+        "garlic",
+        "olive oil",
+        "Rotel tomatoes & chilies",
+        "chicken broth",
+        "vegetable broth",
+        "saffron thread",
+        "black olives",
+        "cup    frozen peas, thawed",
+        "kosher salt",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

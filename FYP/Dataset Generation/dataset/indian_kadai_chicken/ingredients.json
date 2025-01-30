@@ -1,0 +1,25 @@
+{
+    "dish_name": "indian kadai chicken",
+    "ingredients": [
+        "chicken",
+        "tablespoons    oil",
+        "onion",
+        "tomatoes",
+        "fresh coriander leaves",
+        "ginger paste",
+        "garlic paste",
+        "garam masala powder",
+        "bay leaves",
+        "red chilies",
+        "teaspoons    coriander seeds",
+        "red chili powder",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

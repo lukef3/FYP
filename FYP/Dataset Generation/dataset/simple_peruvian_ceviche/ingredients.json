@@ -1,0 +1,19 @@
+{
+    "dish_name": "simple peruvian ceviche",
+    "ingredients": [
+        "lbs    tilapia fillets or 2   lbs   other firm white fish fillets, cubed",
+        "garlic cloves",
+        "salt",
+        "black pepper",
+        "fresh cilantro",
+        "habanero pepper",
+        "limes",
+        "red onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

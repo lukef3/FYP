@@ -1,0 +1,19 @@
+{
+    "dish_name": "skillet hopping john",
+    "ingredients": [
+        "onion",
+        "garlic cloves",
+        "butter",
+        "margarine",
+        "black-eyed peas",
+        "chicken bouillon",
+        "chicken broth",
+        "cup    uncooked rice",
+        "salt",
+        "crushed red pepper flakes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

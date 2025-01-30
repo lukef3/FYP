@@ -1,0 +1,28 @@
+{
+    "dish_name": "leftover steak sandwich with onions and mushrooms",
+    "ingredients": [
+        "onions",
+        "butter",
+        "tablespoons    oil",
+        "white button mushrooms",
+        "garlic",
+        "beef broth",
+        "tablespoons    whipping cream (unwhipped)",
+        "ketchup",
+        "Worcestershire sauce",
+        "Dijon mustard",
+        "lb   cooked leftover steak (sliced to about 1/8-inch thick)",
+        "salt and pepper",
+        "green bell pepper",
+        "mozzarella cheese",
+        "cheddar cheese",
+        "loaf   unsliced bread (use a large French or Italian bread, sliced in half lengthwise)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

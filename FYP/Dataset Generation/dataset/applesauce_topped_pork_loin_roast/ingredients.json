@@ -1,0 +1,22 @@
+{
+    "dish_name": "applesauce topped pork loin roast",
+    "ingredients": [
+        "(4   lb)    pork loin roast",
+        "applesauce",
+        "brown sugar",
+        "vinegar",
+        "ground cloves",
+        "garlic clove",
+        "flour",
+        "salt",
+        "sugar",
+        "pepper",
+        "prepared mustard"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

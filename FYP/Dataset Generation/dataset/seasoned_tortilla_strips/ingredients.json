@@ -1,0 +1,19 @@
+{
+    "dish_name": "seasoned tortilla strips",
+    "ingredients": [
+        "cup    vegetable oil",
+        "chili powder",
+        "ground cumin",
+        "cayenne pepper",
+        "6-inch corn tortillas",
+        "salt",
+        "Tabasco sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

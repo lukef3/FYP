@@ -1,0 +1,15 @@
+{
+    "dish_name": "hard cooked eggs in the oven (baked eggs)",
+    "ingredients": [
+        "eggs",
+        "ice",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

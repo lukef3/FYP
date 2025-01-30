@@ -1,0 +1,20 @@
+{
+    "dish_name": "holiday ham glaze",
+    "ingredients": [
+        "dark brown sugar",
+        "butter",
+        "dark rum",
+        "dark molasses",
+        "spicy mustard",
+        "cider vinegar",
+        "ground cinnamon",
+        "fresh ground pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

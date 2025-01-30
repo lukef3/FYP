@@ -1,0 +1,21 @@
+{
+    "dish_name": "cilantro salsa-verde chicken",
+    "ingredients": [
+        "boneless chicken breasts",
+        "butter",
+        "onion",
+        "fresh garlic",
+        "fresh cilantro",
+        "salsa verde",
+        "chicken broth",
+        "fresh tomato",
+        "green onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

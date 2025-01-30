@@ -1,0 +1,16 @@
+{
+    "dish_name": "cream of broccoli soup",
+    "ingredients": [
+        "butter",
+        "onion",
+        "carrot",
+        "celery",
+        "broccoli",
+        "cups    chicken stock",
+        "milk",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

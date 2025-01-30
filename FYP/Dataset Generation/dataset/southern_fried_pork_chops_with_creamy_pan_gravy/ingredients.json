@@ -1,0 +1,25 @@
+{
+    "dish_name": "southern fried pork chops with creamy pan gravy",
+    "ingredients": [
+        "flour",
+        "teaspoons    cajun seasoning",
+        "garlic powder",
+        "pork chops",
+        "onion",
+        "buttermilk",
+        "tablespoons    vegetable oil",
+        "butter",
+        "half-and-half cream",
+        "milk",
+        "seasoning salt",
+        "salt",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

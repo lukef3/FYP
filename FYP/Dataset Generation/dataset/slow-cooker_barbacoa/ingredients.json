@@ -1,0 +1,22 @@
+{
+    "dish_name": "slow-cooker barbacoa",
+    "ingredients": [
+        "garlic cloves",
+        "dried ancho chile powder",
+        "ground cumin",
+        "ground black pepper",
+        "vinegar",
+        "salt",
+        "cup   water for marinade (plus more for the slow cooker)",
+        "lbs   bone-in chuck roast",
+        "cup   finely chopped white onion, for garnish",
+        "cilantro",
+        "lime"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

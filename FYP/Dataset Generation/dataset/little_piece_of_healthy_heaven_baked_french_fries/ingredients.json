@@ -1,0 +1,21 @@
+{
+    "dish_name": "little piece of healthy heaven baked french fries",
+    "ingredients": [
+        "idaho potatoes",
+        "olive oil",
+        "garlic powder",
+        "onion powder",
+        "salt",
+        "pepper",
+        "cayenne pepper",
+        "tablespoons    herbes de provence",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "dish_name": "chicken korma",
+    "ingredients": [
+        "tablespoon    oil",
+        "cinnamon sticks",
+        "cardamom pods",
+        "cloves",
+        "onion",
+        "garlic cloves",
+        "chicken breast halves",
+        "salt",
+        "ground cinnamon",
+        "ground cardamom",
+        "ground cloves",
+        "teaspoon   crushed dried hot pepper",
+        "tomato sauce",
+        "water",
+        "buttermilk",
+        "ground cumin",
+        "fresh coriander"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

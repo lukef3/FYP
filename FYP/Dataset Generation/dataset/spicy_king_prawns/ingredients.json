@@ -1,0 +1,23 @@
+{
+    "dish_name": "spicy king prawns",
+    "ingredients": [
+        "extra virgin olive oil",
+        "garlic cloves",
+        "sweet paprika",
+        "sweet paprika",
+        "ground cumin",
+        "ground ginger",
+        "cayenne pepper",
+        "large shrimp",
+        "salt",
+        "fresh cilantro",
+        "flat leaf parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

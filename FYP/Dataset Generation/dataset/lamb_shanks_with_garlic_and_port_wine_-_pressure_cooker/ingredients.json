@@ -1,0 +1,23 @@
+{
+    "dish_name": "lamb shanks with garlic and port wine - pressure cooker",
+    "ingredients": [
+        "lamb shanks",
+        "salt",
+        "pepper",
+        "olive oil",
+        "garlic cloves",
+        "cup    chicken stock (or other broth)",
+        "port wine",
+        "tomato paste",
+        "dried rosemary",
+        "unsalted butter",
+        "teaspoon    balsamic vinegar (up to 2 teaspoons)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

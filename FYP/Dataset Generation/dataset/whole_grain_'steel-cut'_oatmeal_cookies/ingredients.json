@@ -1,0 +1,24 @@
+{
+    "dish_name": "whole grain 'steel-cut' oatmeal cookies",
+    "ingredients": [
+        "butter",
+        "brown sugar",
+        "sugar",
+        "baking powder",
+        "baking soda",
+        "all-purpose flour",
+        "sea salt",
+        "eggs",
+        "pure vanilla extract",
+        "ground cinnamon",
+        "oats",
+        "pecans",
+        "dried cranberries"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

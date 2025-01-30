@@ -1,0 +1,21 @@
+{
+    "dish_name": "kartoffelkloesse (german potato dumplings)",
+    "ingredients": [
+        "russet potatoes",
+        "salt",
+        "ground nutmeg",
+        "all-purpose flour",
+        "cornstarch",
+        "egg",
+        "slices    sourdough bread or 2   slices    white bread (good quality, not supermarket foam crap)",
+        "unsalted butter",
+        "tablespoon    corn oil or 1   tablespoon    vegetable oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "marinated tomatoes for your salad (or as a side dish!)",
+    "ingredients": [
+        "tomatoes",
+        "olive oil",
+        "red wine vinegar",
+        "salt",
+        "pepper",
+        "garlic clove",
+        "parsley",
+        "basil",
+        "dried basil",
+        "onions"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

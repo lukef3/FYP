@@ -1,0 +1,14 @@
+{
+    "dish_name": "crunchy ranch chicken fingers",
+    "ingredients": [
+        "cup    corn flake crumbs",
+        "fresh parsley",
+        "cup    ranch dressing",
+        "water",
+        "boneless skinless chicken breast"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

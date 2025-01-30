@@ -1,0 +1,22 @@
+{
+    "dish_name": "chocolate sin trifle",
+    "ingredients": [
+        "packages    brownie mix (or use homemade)",
+        "instant chocolate pudding mix",
+        "water",
+        "sweetened condensed milk",
+        "(8   ounce) containers  frozen whipped cream, , thawed",
+        "(12   ounce) containers  frozen whipped cream, , thawed",
+        "chocolate candy bar (I use Lindt or Cadburry's: orange and raspberry flavoured work very well)",
+        "cherries",
+        "raspberries",
+        "nuts (optional) or   Heath candy bar, crunched up  (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

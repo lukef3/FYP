@@ -1,0 +1,23 @@
+{
+    "dish_name": "persian-style basmati rice pilaf",
+    "ingredients": [
+        "butter",
+        "onion",
+        "garlic",
+        "cup    slivered almonds",
+        "basmati rice",
+        "raisins",
+        "turmeric",
+        "cinnamon",
+        "salt",
+        "low sodium chicken broth",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

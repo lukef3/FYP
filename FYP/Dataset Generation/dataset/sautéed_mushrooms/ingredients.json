@@ -1,0 +1,18 @@
+{
+    "dish_name": "saut\u00e9ed mushrooms",
+    "ingredients": [
+        "butter",
+        "olive oil",
+        "tablespoon    balsamic vinegar (not halal)",
+        "garlic clove",
+        "dried oregano",
+        "button mushrooms"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

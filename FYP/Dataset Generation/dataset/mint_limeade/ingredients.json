@@ -1,0 +1,19 @@
+{
+    "dish_name": "mint limeade",
+    "ingredients": [
+        "water",
+        "sugar",
+        "Splenda sugar substitute",
+        "of fresh mint",
+        "fresh lime juice",
+        "mint sprigs",
+        "lime slices"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

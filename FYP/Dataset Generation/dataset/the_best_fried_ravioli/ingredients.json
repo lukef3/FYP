@@ -1,0 +1,18 @@
+{
+    "dish_name": "the best fried ravioli",
+    "ingredients": [
+        "olive oil",
+        "buttermilk",
+        "cups    Italian seasoned breadcrumbs",
+        "(24   count) box  store-bought cheese ravioli (about 24 ravioli)",
+        "parmesan cheese",
+        "store bought marinara sauce, heated, for dipping"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

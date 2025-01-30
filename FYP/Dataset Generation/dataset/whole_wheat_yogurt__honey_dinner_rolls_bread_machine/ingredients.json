@@ -1,0 +1,21 @@
+{
+    "dish_name": "whole wheat yogurt  honey dinner rolls bread machine",
+    "ingredients": [
+        "milk",
+        "plain yogurt",
+        "honey",
+        "butter",
+        "egg",
+        "bread flour",
+        "whole wheat flour",
+        "salt",
+        "active dry yeast"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

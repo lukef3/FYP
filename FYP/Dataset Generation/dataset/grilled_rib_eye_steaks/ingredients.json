@@ -1,0 +1,18 @@
+{
+    "dish_name": "grilled rib eye steaks",
+    "ingredients": [
+        "soy sauce",
+        "green onion",
+        "brown sugar",
+        "garlic cloves",
+        "ground ginger",
+        "pepper",
+        "salt",
+        "lbs    rib eye steaks"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

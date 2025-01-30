@@ -1,0 +1,21 @@
+{
+    "dish_name": "chicago style deep-dish pizza dough",
+    "ingredients": [
+        "active dry yeast",
+        "water",
+        "sugar",
+        "cups    unbleached bread flour, plus more for dusting",
+        "yellow cornmeal",
+        "table salt",
+        "kosher salt",
+        "olive oil",
+        "olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

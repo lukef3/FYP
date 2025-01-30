@@ -1,0 +1,23 @@
+{
+    "dish_name": "fall baked pork chops & apples",
+    "ingredients": [
+        "boneless pork chops",
+        "salt",
+        "dried sage",
+        "tablespoon    vegetable oil",
+        "granny smith apples",
+        "maple syrup",
+        "all-purpose flour",
+        "chicken broth",
+        "vinegar",
+        "salt",
+        "golden raisin"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

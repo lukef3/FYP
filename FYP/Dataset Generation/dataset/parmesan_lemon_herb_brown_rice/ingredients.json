@@ -1,0 +1,20 @@
+{
+    "dish_name": "parmesan lemon herb brown rice",
+    "ingredients": [
+        "brown rice",
+        "onion",
+        "olive oil",
+        "salt",
+        "low sodium chicken broth",
+        "parmesan cheese",
+        "fresh parsley",
+        "fresh basil",
+        "lemon, juice and zest of",
+        "ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

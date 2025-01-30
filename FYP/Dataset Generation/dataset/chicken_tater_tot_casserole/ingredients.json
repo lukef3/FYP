@@ -1,0 +1,18 @@
+{
+    "dish_name": "chicken tater tot casserole",
+    "ingredients": [
+        "2% low-fat milk",
+        "low-fat sour cream",
+        "(10   ounce) can   condensed cream of chicken soup",
+        "boneless skinless chicken breasts",
+        "ounces    frozen tater tots",
+        "colby-monterey jack cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

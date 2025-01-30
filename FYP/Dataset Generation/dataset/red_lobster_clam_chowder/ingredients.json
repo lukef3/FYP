@@ -1,0 +1,25 @@
+{
+    "dish_name": "red lobster clam chowder",
+    "ingredients": [
+        "butter",
+        "cup    diced onion",
+        "celery",
+        "leek",
+        "garlic",
+        "flour",
+        "milk",
+        "cup    minced clams with juice",
+        "potato",
+        "salt",
+        "white pepper",
+        "dried thyme",
+        "heavy cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

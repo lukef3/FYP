@@ -1,0 +1,19 @@
+{
+    "dish_name": "dugan! get your grimy hands off those pickled sausages!",
+    "ingredients": [
+        "kielbasa",
+        "onion",
+        "water",
+        "brown sugar",
+        "white vinegar",
+        "crushed red pepper flakes",
+        "tablespoon    pickling spices"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

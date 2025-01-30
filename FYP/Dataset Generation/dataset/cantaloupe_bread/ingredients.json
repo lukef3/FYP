@@ -1,0 +1,21 @@
+{
+    "dish_name": "cantaloupe bread",
+    "ingredients": [
+        "eggs",
+        "cup    vegetable oil",
+        "granulated sugar",
+        "pure vanilla extract",
+        "cantaloupe",
+        "all-purpose flour",
+        "salt",
+        "baking soda",
+        "baking powder",
+        "ground cinnamon",
+        "ground ginger",
+        "walnuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

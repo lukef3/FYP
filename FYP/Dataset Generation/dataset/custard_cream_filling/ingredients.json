@@ -1,0 +1,17 @@
+{
+    "dish_name": "custard cream filling",
+    "ingredients": [
+        "milk",
+        "eggs",
+        "sugar",
+        "flour",
+        "salt",
+        "vanilla",
+        "grated orange rind",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "dish_name": "tender tuscan chicken stew",
+    "ingredients": [
+        "skinless chicken thighs",
+        "olive oil",
+        "yellow onion",
+        "red peppers, thinly sliced",
+        "garlic cloves",
+        "tomatoes",
+        "dry white wine",
+        "dried oregano",
+        "oregano sprig",
+        "cannellini beans",
+        "salt and pepper",
+        "oregano"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dish_name": "risotto",
+    "ingredients": [
+        "yellow onion",
+        "butter",
+        "chicken broth",
+        "arborio rice",
+        "salt and pepper, to taste",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

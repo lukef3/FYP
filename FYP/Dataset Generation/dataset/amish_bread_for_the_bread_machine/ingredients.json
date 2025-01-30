@@ -1,0 +1,15 @@
+{
+    "dish_name": "amish bread for the bread machine",
+    "ingredients": [
+        "water",
+        "salt",
+        "cup    oil",
+        "sugar",
+        "bread flour",
+        "teaspoon    yeast"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

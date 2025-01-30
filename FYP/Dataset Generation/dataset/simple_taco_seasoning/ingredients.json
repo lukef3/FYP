@@ -1,0 +1,18 @@
+{
+    "dish_name": "simple taco seasoning",
+    "ingredients": [
+        "chili powder",
+        "garlic powder",
+        "onion powder",
+        "crushed red pepper flakes",
+        "dried oregano",
+        "paprika",
+        "ground cumin",
+        "sea salt",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

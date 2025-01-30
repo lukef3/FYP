@@ -1,0 +1,27 @@
+{
+    "dish_name": "artichoke linguine",
+    "ingredients": [
+        "butter",
+        "olive oil",
+        "flour",
+        "cup    chicken stock",
+        "garlic cloves",
+        "fresh parsley",
+        "fresh lemon juice",
+        "salt and pepper, to taste",
+        "frozen artichoke hearts",
+        "parmesan cheese",
+        "unsalted butter",
+        "olive oil",
+        "parmesan cheese",
+        "salt",
+        "linguine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "fettuccine with fresh asparagus and lemon cream",
+    "ingredients": [
+        "fettuccine",
+        "asparagus",
+        "olive oil",
+        "shallot",
+        "low sodium chicken broth",
+        "fat free sour cream",
+        "fresh lemon juice",
+        "lemon zest",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

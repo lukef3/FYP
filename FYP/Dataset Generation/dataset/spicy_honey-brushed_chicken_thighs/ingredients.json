@@ -1,0 +1,22 @@
+{
+    "dish_name": "spicy honey-brushed chicken thighs",
+    "ingredients": [
+        "garlic powder",
+        "chili powder",
+        "salt",
+        "ground cumin",
+        "paprika",
+        "teaspoon    ground red pepper",
+        "boneless skinless chicken thighs",
+        "cooking spray",
+        "honey",
+        "cider vinegar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

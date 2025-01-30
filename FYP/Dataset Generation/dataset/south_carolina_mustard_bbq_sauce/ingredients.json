@@ -1,0 +1,19 @@
+{
+    "dish_name": "south carolina mustard bbq sauce",
+    "ingredients": [
+        "yellow mustard",
+        "cider vinegar",
+        "light brown sugar",
+        "unsalted butter",
+        "salt",
+        "Worcestershire sauce",
+        "fresh ground black pepper",
+        "teaspoons    louisiana hot sauce (to taste)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "so simple cowboy caviar",
+    "ingredients": [
+        "cup    oil",
+        "sugar",
+        "vinegar",
+        "pinto beans",
+        "black-eyed peas",
+        "black beans",
+        "white shoepeg corn",
+        "green bell pepper",
+        "red bell pepper",
+        "orange bell pepper",
+        "onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

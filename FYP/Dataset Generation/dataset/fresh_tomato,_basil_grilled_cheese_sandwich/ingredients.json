@@ -1,0 +1,19 @@
+{
+    "dish_name": "fresh tomato, basil grilled cheese sandwich",
+    "ingredients": [
+        "slices    bread",
+        "olive oil",
+        "pinch    dried Italian seasoning",
+        "ounces   sliced low-fat cheese",
+        "fresh tomatoes",
+        "fresh basil leaves",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

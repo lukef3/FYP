@@ -1,0 +1,21 @@
+{
+    "dish_name": "crispy naan bread",
+    "ingredients": [
+        "plain flour",
+        "salt",
+        "baking powder",
+        "active dry yeast",
+        "sugar",
+        "milk",
+        "tablespoons    vegetable oil, plus a little extra",
+        "ml    natural yoghurt, lightly beaten",
+        "egg"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

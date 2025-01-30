@@ -1,0 +1,19 @@
+{
+    "dish_name": "oatmeal pancakes",
+    "ingredients": [
+        "milk",
+        "quick-cooking oats",
+        "all-purpose flour",
+        "whole wheat flour",
+        "wheat germ",
+        "brown sugar",
+        "baking powder",
+        "salt",
+        "eggs",
+        "cup    vegetable oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

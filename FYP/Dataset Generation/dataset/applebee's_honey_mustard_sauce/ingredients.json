@@ -1,0 +1,15 @@
+{
+    "dish_name": "applebee's honey mustard sauce",
+    "ingredients": [
+        "mayonnaise",
+        "Grey Poupon Dijon Mustard",
+        "honey",
+        "prepared mustard",
+        "white vinegar",
+        "paprika"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

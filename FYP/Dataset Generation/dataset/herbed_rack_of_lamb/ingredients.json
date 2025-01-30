@@ -1,0 +1,21 @@
+{
+    "dish_name": "herbed rack of lamb",
+    "ingredients": [
+        "rack of lamb",
+        "fresh parsley",
+        "spring onion",
+        "garlic",
+        "rosemary",
+        "cup    fresh breadcrumb",
+        "butter",
+        "salt",
+        "black pepper",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

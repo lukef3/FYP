@@ -1,0 +1,21 @@
+{
+    "dish_name": "moroccan orange cake",
+    "ingredients": [
+        "eggs",
+        "sugar",
+        "cup    vegetable oil",
+        "flour",
+        "baking powder",
+        "salt",
+        "cup    fresh orange juice",
+        "orange zest",
+        "vanilla"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

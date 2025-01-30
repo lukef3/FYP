@@ -1,0 +1,26 @@
+{
+    "dish_name": "bacon lettuce &tomato layered salad",
+    "ingredients": [
+        "bacon",
+        "bacon drippings",
+        "mayonnaise",
+        "sour cream",
+        "white vinegar",
+        "garlic",
+        "fresh basil",
+        "ground black pepper",
+        "seasoning salt",
+        "sugar",
+        "iceberg lettuce",
+        "tomatoes",
+        "red onion",
+        "seasoned croutons"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

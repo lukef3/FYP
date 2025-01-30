@@ -1,0 +1,24 @@
+{
+    "dish_name": "pot roast by diner",
+    "ingredients": [
+        "lbs    chuck roast or 2 -3   lbs    blade roast",
+        "olive oil",
+        "salt",
+        "pepper",
+        "garlic salt",
+        "water",
+        "beef broth",
+        "onions",
+        "carrots",
+        "potato",
+        "flour",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

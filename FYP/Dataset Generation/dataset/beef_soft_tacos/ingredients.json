@@ -1,0 +1,22 @@
+{
+    "dish_name": "beef soft tacos",
+    "ingredients": [
+        "ground beef",
+        "flour",
+        "salt",
+        "teaspoon    dried onion flakes",
+        "paprika",
+        "chili powder",
+        "garlic powder",
+        "onion powder",
+        "water",
+        "tortillas",
+        "lettuce",
+        "cheese",
+        "sour cream",
+        "tomatoes"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

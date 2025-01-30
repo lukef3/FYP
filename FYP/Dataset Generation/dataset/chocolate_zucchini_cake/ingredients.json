@@ -1,0 +1,20 @@
+{
+    "dish_name": "chocolate zucchini cake",
+    "ingredients": [
+        "eggs",
+        "white sugar",
+        "cup    oil (or 1/2 cup oil, 1/2 cup applesauce)",
+        "vanilla",
+        "zucchini",
+        "flour",
+        "baking soda",
+        "baking powder",
+        "salt",
+        "tablespoons    cocoa"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

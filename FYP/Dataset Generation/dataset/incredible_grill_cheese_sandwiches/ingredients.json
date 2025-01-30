@@ -1,0 +1,21 @@
+{
+    "dish_name": "incredible grill cheese sandwiches",
+    "ingredients": [
+        "monterey jack cheese",
+        "sharp cheddar cheese",
+        "swiss cheese",
+        "onion",
+        "mayonnaise",
+        "Dijon mustard",
+        "sandwich bread, slices",
+        "butter",
+        "margarine",
+        "ham"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

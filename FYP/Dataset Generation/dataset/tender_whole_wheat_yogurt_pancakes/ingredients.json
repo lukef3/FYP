@@ -1,0 +1,18 @@
+{
+    "dish_name": "tender whole wheat yogurt pancakes",
+    "ingredients": [
+        "whole wheat pastry flour",
+        "baking soda",
+        "baking powder",
+        "skim milk",
+        "egg",
+        "plain yogurt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

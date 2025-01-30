@@ -1,0 +1,22 @@
+{
+    "dish_name": "chocolate cheesecake muffins",
+    "ingredients": [
+        "cream cheese",
+        "sugar",
+        "flour",
+        "sugar",
+        "cocoa powder",
+        "baking powder",
+        "salt",
+        "egg",
+        "milk",
+        "cup    oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dish_name": "extra cheesy garlic bread",
+    "ingredients": [
+        "sharp cheddar cheese",
+        "parmesan cheese",
+        "mayonnaise",
+        "garlic powder",
+        "loaf    Italian bread or 1   loaf    French bread, split lengthwise"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

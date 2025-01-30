@@ -1,0 +1,27 @@
+{
+    "dish_name": "hearty tuscan white bean soup",
+    "ingredients": [
+        "olive oil",
+        "onion",
+        "garlic cloves",
+        "carrots",
+        "celery",
+        "dried thyme",
+        "bay leaf",
+        "chicken broth",
+        "diced tomatoes",
+        "white beans",
+        "frozen chopped spinach",
+        "macaroni",
+        "salt and pepper",
+        "parmesan cheese",
+        "pecorino romano cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

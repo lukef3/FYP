@@ -1,0 +1,25 @@
+{
+    "dish_name": "teriyaki pork stir fry",
+    "ingredients": [
+        "light soy sauce",
+        "brown sugar",
+        "cornstarch",
+        "fresh ginger",
+        "garlic cloves",
+        "red pepper flakes",
+        "boneless pork loin chop",
+        "cooked brown rice",
+        "red bell pepper",
+        "snow peas",
+        "green onions",
+        "teaspoon    sesame oil",
+        "bamboo shoots"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

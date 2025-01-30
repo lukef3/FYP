@@ -1,0 +1,24 @@
+{
+    "dish_name": "thai shrimp (chili) soup",
+    "ingredients": [
+        "light coconut milk",
+        "fresh ginger",
+        "teaspoons    chili paste with garlic",
+        "shrimp",
+        "all-purpose flour",
+        "low sodium soy sauce",
+        "diced tomatoes",
+        "green onion",
+        "fresh lime juice",
+        "brown sugar",
+        "fresh mushrooms",
+        "cilantro"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

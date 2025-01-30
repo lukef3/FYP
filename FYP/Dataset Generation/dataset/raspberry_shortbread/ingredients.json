@@ -1,0 +1,18 @@
+{
+    "dish_name": "raspberry shortbread",
+    "ingredients": [
+        "butter",
+        "egg yolks",
+        "granulated sugar",
+        "all-purpose flour",
+        "baking powder",
+        "salt",
+        "cup    raspberry jam, at room temperature",
+        "confectioners' sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

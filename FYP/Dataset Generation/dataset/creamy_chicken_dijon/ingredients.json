@@ -1,0 +1,22 @@
+{
+    "dish_name": "creamy chicken dijon",
+    "ingredients": [
+        "tablespoon    vegetable oil",
+        "boneless skinless chicken breast halves",
+        "(10 3/4  ounce) can   Campbell's Cream of Chicken Soup or  (10 3/4  ounce) can   98% fat-free cream of chicken soup",
+        "water",
+        "dijon-style mustard",
+        "dried parsley flakes",
+        "brown sugar",
+        "onion powder",
+        "dried tarragon leaves",
+        "garlic powder"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

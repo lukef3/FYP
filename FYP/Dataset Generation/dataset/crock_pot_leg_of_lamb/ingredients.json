@@ -1,0 +1,17 @@
+{
+    "dish_name": "crock pot leg of lamb",
+    "ingredients": [
+        "leg of lamb",
+        "olive oil",
+        "lemon juice",
+        "garlic cloves",
+        "dried oregano",
+        "nutmeg",
+        "dried mint",
+        "sugar",
+        "white vinegar"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "scandinavian cucumbers",
+    "ingredients": [
+        "sour cream",
+        "fresh parsley",
+        "tarragon vinegar",
+        "sugar",
+        "dill weed",
+        "cucumbers",
+        "sweet onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

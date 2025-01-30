@@ -1,0 +1,23 @@
+{
+    "dish_name": "crispy coconut-oatmeal cookies",
+    "ingredients": [
+        "shortening",
+        "sugar",
+        "brown sugar",
+        "eggs",
+        "vanilla extract",
+        "flour",
+        "baking soda",
+        "salt",
+        "rolled oats",
+        "cups    crisp rice cereal (Rice Krispies)",
+        "flaked coconut"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

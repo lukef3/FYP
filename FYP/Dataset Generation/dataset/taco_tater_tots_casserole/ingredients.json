@@ -1,0 +1,19 @@
+{
+    "dish_name": "taco tater tots casserole",
+    "ingredients": [
+        "ground beef",
+        "(2   ounce) package   taco seasoning",
+        "water",
+        "onion",
+        "whole kernel corn",
+        "(12   ounce) jar   salsa con queso",
+        "lb    tater tots"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

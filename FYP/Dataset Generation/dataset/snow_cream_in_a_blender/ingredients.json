@@ -1,0 +1,13 @@
+{
+    "dish_name": "snow cream in a blender",
+    "ingredients": [
+        "milk",
+        "sugar",
+        "vanilla extract",
+        "full tray ice cube"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

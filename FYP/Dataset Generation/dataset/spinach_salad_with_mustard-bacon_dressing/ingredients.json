@@ -1,0 +1,23 @@
+{
+    "dish_name": "spinach salad with mustard-bacon dressing",
+    "ingredients": [
+        "bacon",
+        "mayonnaise",
+        "onion",
+        "olive oil",
+        "red wine vinegar",
+        "sugar",
+        "Dijon mustard",
+        "spinach",
+        "mushrooms",
+        "hard-boiled eggs",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

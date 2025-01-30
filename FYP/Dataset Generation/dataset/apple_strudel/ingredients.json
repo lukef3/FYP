@@ -1,0 +1,18 @@
+{
+    "dish_name": "apple strudel",
+    "ingredients": [
+        "apples",
+        "raisins",
+        "lemon, rind of",
+        "sugar",
+        "cinnamon",
+        "cup    almonds, ground",
+        "phyllo pastry",
+        "butter",
+        "cup    breadcrumbs, finely crushed"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

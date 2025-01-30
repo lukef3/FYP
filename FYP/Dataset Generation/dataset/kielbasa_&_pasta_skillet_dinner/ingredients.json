@@ -1,0 +1,20 @@
+{
+    "dish_name": "kielbasa & pasta skillet dinner",
+    "ingredients": [
+        "bow tie pasta",
+        "kielbasa",
+        "garlic",
+        "butter",
+        "cornstarch",
+        "low-fat milk",
+        "frozen baby peas",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

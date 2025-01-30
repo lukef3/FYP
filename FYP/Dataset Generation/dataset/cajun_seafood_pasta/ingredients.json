@@ -1,0 +1,26 @@
+{
+    "dish_name": "cajun seafood pasta",
+    "ingredients": [
+        "dry linguine",
+        "fettuccine pasta",
+        "heavy whipping cream",
+        "fresh basil",
+        "fresh thyme",
+        "salt",
+        "pepper",
+        "red pepper flakes",
+        "green onion",
+        "parsley flakes",
+        "shrimp",
+        "scallops",
+        "swiss cheese",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

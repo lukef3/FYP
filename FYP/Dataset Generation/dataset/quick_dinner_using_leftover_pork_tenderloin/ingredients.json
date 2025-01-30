@@ -1,0 +1,18 @@
+{
+    "dish_name": "quick dinner using leftover pork tenderloin",
+    "ingredients": [
+        "olive oil",
+        "butter",
+        "onion",
+        "garlic clove",
+        "white wine",
+        "chicken bouillon",
+        "tomato sauce",
+        "ounces   leftover pork tenderloin"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

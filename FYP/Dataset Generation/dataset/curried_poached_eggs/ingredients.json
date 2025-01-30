@@ -1,0 +1,20 @@
+{
+    "dish_name": "curried poached eggs",
+    "ingredients": [
+        "ground coriander",
+        "curry powder",
+        "ground cumin",
+        "ground turmeric",
+        "salt",
+        "ground pepper",
+        "eggs",
+        "slices   thick crisp buttered toast"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "hamburger beef jerky",
+    "ingredients": [
+        "lbs    90% lean ground beef (90-92%)",
+        "non-iodized salt",
+        "Accent seasoning",
+        "garlic powder",
+        "crushed red pepper flakes",
+        "tablespoons    meat tenderizer",
+        "pepper",
+        "brown sugar",
+        "Worcestershire sauce",
+        "liquid smoke",
+        "ketchup"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

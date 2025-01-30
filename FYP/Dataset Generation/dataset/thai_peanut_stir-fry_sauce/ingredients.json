@@ -1,0 +1,19 @@
+{
+    "dish_name": "thai peanut stir-fry sauce",
+    "ingredients": [
+        "creamy peanut butter",
+        "tablespoons    rice wine vinegar",
+        "soy sauce",
+        "brown sugar",
+        "garlic powder",
+        "ground ginger",
+        "cayenne pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

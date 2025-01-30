@@ -1,0 +1,28 @@
+{
+    "dish_name": "rio grande valley style carne guisada",
+    "ingredients": [
+        "lbs    round steaks",
+        "tablespoon    vegetable oil",
+        "water",
+        "dried oregano leaves",
+        "cumin seed",
+        "fresh ground black pepper",
+        "salt",
+        "garlic",
+        "green bell pepper",
+        "onion",
+        "fresh tomato",
+        "tomato sauce",
+        "chili powder",
+        "paprika",
+        "all-purpose flour",
+        "tablespoons    vegetable oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

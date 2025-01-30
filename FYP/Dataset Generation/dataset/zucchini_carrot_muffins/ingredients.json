@@ -1,0 +1,24 @@
+{
+    "dish_name": "zucchini carrot muffins",
+    "ingredients": [
+        "carrots",
+        "zucchini",
+        "apple",
+        "flaked coconut",
+        "cup   chopped almonds",
+        "orange zest",
+        "all-purpose flour",
+        "sugar",
+        "ground cinnamon",
+        "baking soda",
+        "salt",
+        "eggs",
+        "cup    vegetable oil",
+        "vanilla extract"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

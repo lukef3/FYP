@@ -1,0 +1,16 @@
+{
+    "dish_name": "our favorite grilled salmon sauce",
+    "ingredients": [
+        "butter",
+        "brown sugar",
+        "garlic cloves",
+        "lemon juice",
+        "soy sauce",
+        "pepper",
+        "fresh ginger"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

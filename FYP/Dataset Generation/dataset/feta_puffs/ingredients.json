@@ -1,0 +1,18 @@
+{
+    "dish_name": "feta puffs",
+    "ingredients": [
+        "puff pastry",
+        "all-purpose flour",
+        "feta",
+        "heavy cream",
+        "black pepper",
+        "egg",
+        "fresh thyme leaves",
+        "parchment paper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

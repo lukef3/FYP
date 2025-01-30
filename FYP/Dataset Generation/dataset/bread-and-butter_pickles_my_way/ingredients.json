@@ -1,0 +1,21 @@
+{
+    "dish_name": "bread-and-butter pickles my way",
+    "ingredients": [
+        "pickling cucumbers",
+        "onions",
+        "pickling salt",
+        "ice cube",
+        "white sugar",
+        "white vinegar",
+        "mustard seeds",
+        "celery seeds",
+        "turmeric"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

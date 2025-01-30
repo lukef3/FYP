@@ -1,0 +1,23 @@
+{
+    "dish_name": "ground turkey casserole",
+    "ingredients": [
+        "cups   uncooked wide egg noodles",
+        "ground turkey",
+        "onion",
+        "broccoli",
+        "tomato sauce",
+        "teaspoon    italian seasoning",
+        "cup    nonfat dry milk powder",
+        "water",
+        "cream cheese",
+        "fresh parsley",
+        "garlic clove",
+        "part-skim mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

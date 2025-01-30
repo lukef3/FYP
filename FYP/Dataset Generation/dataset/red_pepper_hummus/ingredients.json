@@ -1,0 +1,20 @@
+{
+    "dish_name": "red pepper hummus",
+    "ingredients": [
+        "chickpeas",
+        "garlic cloves",
+        "cup   jarred roasted red pepper, drained",
+        "tahini",
+        "water",
+        "olive oil",
+        "salt",
+        "ground cumin",
+        "teaspoon    ground red pepper",
+        "fresh lime juice",
+        "parsley sprig"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

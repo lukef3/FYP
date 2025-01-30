@@ -1,0 +1,15 @@
+{
+    "dish_name": "country sloppy joes",
+    "ingredients": [
+        "ground beef",
+        "onion soup mix, 1 packet",
+        "brown sugar",
+        "water",
+        "ketchup",
+        "hamburger buns"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

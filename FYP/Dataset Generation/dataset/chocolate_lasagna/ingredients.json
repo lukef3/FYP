@@ -1,0 +1,21 @@
+{
+    "dish_name": "chocolate lasagna",
+    "ingredients": [
+        "Oreo cookies",
+        "butter",
+        "cream cheese",
+        "granulated sugar",
+        "milk",
+        "Cool Whip",
+        "chocolate instant pudding",
+        "milk",
+        "cups    mini chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

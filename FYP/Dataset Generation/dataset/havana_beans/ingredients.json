@@ -1,0 +1,16 @@
+{
+    "dish_name": "havana beans",
+    "ingredients": [
+        "onion",
+        "garlic",
+        "bell pepper",
+        "tomatoes",
+        "black pepper",
+        "canned black beans",
+        "cooking spray"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "chili colorado",
+    "ingredients": [
+        "lbs    beef shoulder, cut into 1-inch cubes",
+        "flour",
+        "tablespoons    oil",
+        "chili powder",
+        "ground cumin",
+        "garlic powder",
+        "onion powder",
+        "tomato paste",
+        "water",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

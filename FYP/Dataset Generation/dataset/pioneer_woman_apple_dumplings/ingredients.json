@@ -1,0 +1,19 @@
+{
+    "dish_name": "pioneer woman apple dumplings",
+    "ingredients": [
+        "granny smith apples",
+        "(8   ounce) cans   crescent rolls",
+        "butter",
+        "sugar",
+        "vanilla",
+        "cinnamon",
+        "(12   ounce) can   Mountain Dew soda"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

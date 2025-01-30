@@ -1,0 +1,22 @@
+{
+    "dish_name": "grandma's apple muffins",
+    "ingredients": [
+        "brown sugar",
+        "sugar",
+        "all-purpose flour",
+        "baking powder",
+        "cinnamon",
+        "salt",
+        "butter",
+        "egg",
+        "milk",
+        "apple"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

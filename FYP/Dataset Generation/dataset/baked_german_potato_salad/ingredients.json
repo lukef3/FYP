@@ -1,0 +1,22 @@
+{
+    "dish_name": "baked german potato salad",
+    "ingredients": [
+        "bacon",
+        "celery",
+        "onion",
+        "salt",
+        "all-purpose flour",
+        "sugar",
+        "vinegar",
+        "fresh ground pepper",
+        "water",
+        "potatoes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dish_name": "easy naan (bread machine)",
+    "ingredients": [
+        "milk",
+        "tablespoons    vegetable oil",
+        "yogurt",
+        "eggs",
+        "salt",
+        "bread flour",
+        "bread machine yeast"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

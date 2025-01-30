@@ -1,0 +1,18 @@
+{
+    "dish_name": "radish spread",
+    "ingredients": [
+        "cream cheese",
+        "butter",
+        "margarine",
+        "teaspoon    celery salt",
+        "paprika",
+        "red cayenne pepper",
+        "Worcestershire sauce",
+        "red radish",
+        "green onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

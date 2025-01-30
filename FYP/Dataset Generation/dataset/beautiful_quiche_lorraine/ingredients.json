@@ -1,0 +1,20 @@
+{
+    "dish_name": "beautiful quiche lorraine",
+    "ingredients": [
+        "swiss cheese",
+        "flour",
+        "cooked ham",
+        "eggs",
+        "milk",
+        "salt",
+        "dry mustard",
+        "(9   inch)    unbaked pie shells"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

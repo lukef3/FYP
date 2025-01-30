@@ -1,0 +1,18 @@
+{
+    "dish_name": "summer key lime pie",
+    "ingredients": [
+        "sweetened condensed milk",
+        "egg yolks",
+        "key lime juice",
+        "graham cracker pie crust",
+        "Cool Whip",
+        "lime"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

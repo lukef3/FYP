@@ -1,0 +1,20 @@
+{
+    "dish_name": "potato'n salmon cakes",
+    "ingredients": [
+        "salmon",
+        "mashed potatoes",
+        "egg",
+        "flour",
+        "salt & pepper",
+        "parsley",
+        "onions",
+        "cup    fresh breadcrumb (Panko are best)",
+        "vegetable oil cooking spray, for frypan  (or if you wish use butter mixed with oil for really crisp cakes but watch the calories go up)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "red lobster garlic cheese biscuits",
+    "ingredients": [
+        "self-rising flour",
+        "butter",
+        "cheddar cheese",
+        "parmesan cheese",
+        "milk",
+        "teaspoon    garlic salt",
+        "dry mustard",
+        "cayenne pepper",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

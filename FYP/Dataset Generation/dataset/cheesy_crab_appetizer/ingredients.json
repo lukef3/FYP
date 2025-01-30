@@ -1,0 +1,15 @@
+{
+    "dish_name": "cheesy crab appetizer",
+    "ingredients": [
+        "butter",
+        "garlic powder",
+        "mayonnaise",
+        "(5   ounce) jar   Kraft Old English cheese spread",
+        "(6   ounce) can  flaked crabmeat",
+        "English muffins"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

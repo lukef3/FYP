@@ -1,0 +1,19 @@
+{
+    "dish_name": "creamy parmesan orzo",
+    "ingredients": [
+        "butter",
+        "orzo pasta",
+        "low sodium chicken broth",
+        "water",
+        "parmesan cheese",
+        "fresh basil",
+        "salt",
+        "black pepper",
+        "pine nuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

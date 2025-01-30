@@ -1,0 +1,22 @@
+{
+    "dish_name": "crusty sourdough rye bread",
+    "ingredients": [
+        "cup    sourdough starter, at room temperature",
+        "cups    rye flour",
+        "warm water",
+        "active dry yeast",
+        "whole wheat flour",
+        "all-purpose flour",
+        "all-purpose flour",
+        "salt",
+        "sugar",
+        "caraway seeds"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

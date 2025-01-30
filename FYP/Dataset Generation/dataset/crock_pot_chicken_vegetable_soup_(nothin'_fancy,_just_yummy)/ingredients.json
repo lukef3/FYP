@@ -1,0 +1,24 @@
+{
+    "dish_name": "crock pot chicken vegetable soup (nothin' fancy, just yummy)",
+    "ingredients": [
+        "chicken",
+        "butter",
+        "onion",
+        "celery",
+        "garlic",
+        "chicken broth",
+        "chicken bouillon cubes",
+        "thyme",
+        "oregano",
+        "pepper",
+        "carrot",
+        "(15 1/4  ounce) can   sweet corn"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

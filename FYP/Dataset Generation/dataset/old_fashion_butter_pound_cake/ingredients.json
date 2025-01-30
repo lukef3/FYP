@@ -1,0 +1,18 @@
+{
+    "dish_name": "old fashion butter pound cake",
+    "ingredients": [
+        "salted butter",
+        "sugar",
+        "eggs",
+        "all-purpose flour",
+        "salt",
+        "vanilla extract",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

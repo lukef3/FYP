@@ -1,0 +1,20 @@
+{
+    "dish_name": "chicken broccoli rice and cheese casserole",
+    "ingredients": [
+        "cups    cooked chicken (bake it yourself, rotisserie or canned)",
+        "cooked rice",
+        "cups    frozen chopped broccoli",
+        "(8   ounce) can   cream of chicken soup",
+        "(8   ounce) can   cream of mushroom soup",
+        "margarine",
+        "onion",
+        "ounces    shredded cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

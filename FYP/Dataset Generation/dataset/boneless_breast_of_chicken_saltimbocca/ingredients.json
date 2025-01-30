@@ -1,0 +1,28 @@
+{
+    "dish_name": "boneless breast of chicken saltimbocca",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "flour",
+        "all-purpose flour",
+        "cup    clarified butter",
+        "prosciutto ham",
+        "monterey jack cheese",
+        "shallot",
+        "garlic",
+        "mushroom",
+        "dry white wine",
+        "chicken broth",
+        "fresh thyme",
+        "oregano leaves",
+        "dry sherry",
+        "cup    cream",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

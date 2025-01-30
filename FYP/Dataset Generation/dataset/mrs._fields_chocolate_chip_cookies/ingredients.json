@@ -1,0 +1,22 @@
+{
+    "dish_name": "mrs. fields chocolate chip cookies",
+    "ingredients": [
+        "butter",
+        "sugar",
+        "brown sugar",
+        "eggs",
+        "vanilla extract",
+        "all-purpose flour",
+        "salt",
+        "baking powder",
+        "baking soda",
+        "ounces    semi-sweet chocolate chips (1 1/2 bags)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

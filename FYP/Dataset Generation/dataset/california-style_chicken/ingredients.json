@@ -1,0 +1,22 @@
+{
+    "dish_name": "california-style chicken",
+    "ingredients": [
+        "chicken",
+        "olive oil",
+        "fresh basil",
+        "dried basil",
+        "fresh oregano",
+        "dried oregano",
+        "salt",
+        "fresh ground pepper",
+        "garlic cloves",
+        "celery ribs",
+        "onion",
+        "fresh parsley",
+        "dry white wine",
+        "fresh lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

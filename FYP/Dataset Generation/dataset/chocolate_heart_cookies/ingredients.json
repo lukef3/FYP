@@ -1,0 +1,20 @@
+{
+    "dish_name": "chocolate heart cookies",
+    "ingredients": [
+        "butter",
+        "sugar",
+        "vanilla",
+        "all-purpose flour",
+        "cup    baking cocoa",
+        "white chocolate chips",
+        "shortening",
+        "cup    semi-sweet chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "dish_name": "benihana's ginger sauce",
+    "ingredients": [
+        "yellow onion",
+        "fresh ginger",
+        "fresh lemon juice",
+        "white vinegar",
+        "soy sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

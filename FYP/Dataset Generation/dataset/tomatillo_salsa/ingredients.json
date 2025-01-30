@@ -1,0 +1,21 @@
+{
+    "dish_name": "tomatillo salsa",
+    "ingredients": [
+        "cups    tomatillos, chopped",
+        "onions",
+        "jalapeno peppers, chopped",
+        "garlic cloves",
+        "cilantro",
+        "lemon juice",
+        "cumin",
+        "salt",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

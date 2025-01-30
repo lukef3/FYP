@@ -1,0 +1,19 @@
+{
+    "dish_name": "buttery cornbread muffins",
+    "ingredients": [
+        "all-purpose flour",
+        "cornmeal",
+        "salt",
+        "baking powder",
+        "white sugar",
+        "egg",
+        "milk",
+        "vegetable shortening"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

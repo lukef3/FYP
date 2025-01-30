@@ -1,0 +1,13 @@
+{
+    "dish_name": "hershey's chocolate syrup",
+    "ingredients": [
+        "cup    cocoa (Hershey's obviously)",
+        "sugar",
+        "water",
+        "vanilla extract",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

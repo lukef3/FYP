@@ -1,0 +1,21 @@
+{
+    "dish_name": "turkey black bean chili",
+    "ingredients": [
+        "ground turkey",
+        "onion",
+        "garlic cloves",
+        "olive oil",
+        "chili powder",
+        "salt",
+        "diced green chilies",
+        "tomatoes",
+        "black beans",
+        "lime juice",
+        "green onion",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

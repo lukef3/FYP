@@ -1,0 +1,30 @@
+{
+    "dish_name": "japanese curry (wafuu)",
+    "ingredients": [
+        "cups    chicken stock",
+        "canola oil",
+        "boneless skinless chicken",
+        "salt and pepper",
+        "butter",
+        "fresh ginger",
+        "onion",
+        "onion",
+        "garlic clove",
+        "flour",
+        "curry powder",
+        "crushed tomatoes",
+        "bay leaf",
+        "carrot",
+        "potato",
+        "fuji apple",
+        "honey",
+        "soy sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

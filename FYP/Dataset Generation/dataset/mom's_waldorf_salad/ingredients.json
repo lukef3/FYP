@@ -1,0 +1,22 @@
+{
+    "dish_name": "mom's waldorf salad",
+    "ingredients": [
+        "apples",
+        "celery",
+        "pecans",
+        "walnuts",
+        "milk",
+        "Miracle Whip",
+        "mayonnaise",
+        "apple cider vinegar",
+        "sugar",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "crash hot potatoes",
+    "ingredients": [
+        "baby potatoes",
+        "salt",
+        "extra virgin olive oil",
+        "sea salt",
+        "fresh ground black pepper",
+        "thyme"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

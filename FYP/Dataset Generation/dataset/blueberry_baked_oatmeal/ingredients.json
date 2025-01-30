@@ -1,0 +1,21 @@
+{
+    "dish_name": "blueberry baked oatmeal",
+    "ingredients": [
+        "old-fashioned oatmeal",
+        "baking powder",
+        "salt",
+        "skim milk",
+        "egg substitute",
+        "unsweetened applesauce",
+        "Splenda granular",
+        "frozen blueberries",
+        "lemon zest",
+        "vanilla extract"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "dish_name": "chicken & mushrooms with creamy dijon sauce",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "dried thyme",
+        "fresh ground black pepper",
+        "salt",
+        "dried rosemary",
+        "cooking spray",
+        "cup    chicken stock",
+        "cooking sherry",
+        "ounces    sliced mushrooms",
+        "half & half light cream",
+        "Dijon mustard",
+        "cornstarch"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

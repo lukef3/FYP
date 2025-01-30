@@ -1,0 +1,26 @@
+{
+    "dish_name": "amazing butterscotch crispies cookie",
+    "ingredients": [
+        "flour",
+        "salt",
+        "baking soda",
+        "cream of tartar",
+        "butter",
+        "brown sugar",
+        "granulated sugar",
+        "canola oil",
+        "milk",
+        "vanilla extract",
+        "egg",
+        "(12   ounce) package   butterscotch chips",
+        "walnuts",
+        "cup   skor toffee pieces (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

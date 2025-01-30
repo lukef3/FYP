@@ -1,0 +1,22 @@
+{
+    "dish_name": "best peanut butter chocolate chip cookies",
+    "ingredients": [
+        "butter",
+        "crunchy peanut butter",
+        "white sugar",
+        "brown sugar",
+        "eggs",
+        "teaspoons    maple extract (or use 2 teaspoons vanilla)",
+        "flour",
+        "baking powder",
+        "baking soda",
+        "salt",
+        "cup    mini chocolate chip (can use regular size chocolate chips)",
+        "peanuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

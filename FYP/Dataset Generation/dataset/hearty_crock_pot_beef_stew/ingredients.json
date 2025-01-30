@@ -1,0 +1,23 @@
+{
+    "dish_name": "hearty crock pot beef stew",
+    "ingredients": [
+        "beef stew meat",
+        "flour",
+        "salt",
+        "pepper",
+        "beef broth",
+        "Worcestershire sauce",
+        "garlic clove",
+        "bay leaf",
+        "paprika",
+        "carrots",
+        "potatoes",
+        "onion",
+        "celery"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

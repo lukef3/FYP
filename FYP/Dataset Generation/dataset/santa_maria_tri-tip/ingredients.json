@@ -1,0 +1,19 @@
+{
+    "dish_name": "santa maria tri-tip",
+    "ingredients": [
+        "tri-tip roast",
+        "black pepper",
+        "teaspoons    granulated garlic",
+        "teaspoon    granulated onion",
+        "paprika",
+        "cayenne pepper",
+        "rosemary",
+        "salt",
+        "red wine vinegar",
+        "cup    garlic-infused vegetable oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

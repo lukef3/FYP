@@ -1,0 +1,24 @@
+{
+    "dish_name": "hershey's kiss peanut butter cookies",
+    "ingredients": [
+        "shortening",
+        "peanut butter",
+        "sugar",
+        "brown sugar",
+        "egg",
+        "milk",
+        "vanilla",
+        "flour",
+        "baking soda",
+        "salt",
+        "sugar",
+        "Hershey chocolate kisses"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

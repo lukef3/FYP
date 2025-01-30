@@ -1,0 +1,19 @@
+{
+    "dish_name": "herb-roasted butternut squash and sausages",
+    "ingredients": [
+        "cups    butternut squash, peeled & cut into 3/4 inch cubes",
+        "lb   fully cooked chicken sausage (such as chicken and apple cut into 1 1/2 inch pieces)",
+        "garlic cloves",
+        "olive oil",
+        "fresh rosemary",
+        "fresh sage",
+        "fresh thyme",
+        "tablespoons    balsamic vinegar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

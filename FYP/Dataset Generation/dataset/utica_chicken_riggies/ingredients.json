@@ -1,0 +1,30 @@
+{
+    "dish_name": "utica chicken riggies",
+    "ingredients": [
+        "butter",
+        "chicken breasts",
+        "mushrooms",
+        "green pepper",
+        "jarred hot pepper, chopped",
+        "onions",
+        "shallots",
+        "water",
+        "chicken bouillon",
+        "chicken bouillon cubes",
+        "tomato sauce",
+        "heavy cream",
+        "paprika",
+        "parsley",
+        "salt and black pepper",
+        "crushed red pepper flakes",
+        "black olives",
+        "rigatoni pasta"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

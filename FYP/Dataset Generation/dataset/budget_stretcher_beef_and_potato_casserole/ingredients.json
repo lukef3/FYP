@@ -1,0 +1,17 @@
+{
+    "dish_name": "budget stretcher beef and potato casserole",
+    "ingredients": [
+        "potatoes",
+        "ground beef",
+        "(10 3/4  ounce) can   condensed cream of chicken soup, undiluted",
+        "(10 3/4  ounce) can   condensed vegetable beef soup, undiluted",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

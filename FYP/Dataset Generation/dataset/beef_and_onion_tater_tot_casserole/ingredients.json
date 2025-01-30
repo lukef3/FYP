@@ -1,0 +1,16 @@
+{
+    "dish_name": "beef and onion tater tot casserole",
+    "ingredients": [
+        "lean ground beef",
+        "salt and pepper",
+        "(10 3/4  ounce) cans   cream of mushroom soup, undiluted",
+        "(2   lb) bag  ore-ida frozen onion tater tots"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

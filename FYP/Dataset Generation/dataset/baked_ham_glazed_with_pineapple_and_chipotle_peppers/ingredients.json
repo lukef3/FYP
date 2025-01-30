@@ -1,0 +1,21 @@
+{
+    "dish_name": "baked ham glazed with pineapple and chipotle peppers",
+    "ingredients": [
+        "smoked ham",
+        "brown sugar",
+        "crushed pineapple",
+        "chipotle chile in adobo",
+        "adobo sauce",
+        "nutmeg",
+        "fresh ginger",
+        "cornstarch",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

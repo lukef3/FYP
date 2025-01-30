@@ -1,0 +1,22 @@
+{
+    "dish_name": "broccoli salad with gouda",
+    "ingredients": [
+        "broccoli florets",
+        "red onion",
+        "grape tomatoes",
+        "cup   toasted slivered almonds (or pine nuts)",
+        "gouda cheese",
+        "extra virgin olive oil",
+        "red wine vinegar",
+        "sugar",
+        "black pepper",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "new york-style pizza sauce",
+    "ingredients": [
+        "diced tomatoes with juice",
+        "tomato paste",
+        "extra virgin olive oil",
+        "fresh basil",
+        "dried oregano",
+        "sugar",
+        "garlic",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

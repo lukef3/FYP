@@ -1,0 +1,17 @@
+{
+    "dish_name": "raspberry jalapeno jelly",
+    "ingredients": [
+        "green bell pepper",
+        "frozen raspberries",
+        "fresh raspberry",
+        "jalapeno peppers",
+        "sugar",
+        "cider vinegar",
+        "ounces    pectin"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

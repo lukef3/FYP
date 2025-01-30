@@ -1,0 +1,20 @@
+{
+    "dish_name": "bob evans chicken & noodles (copycat)",
+    "ingredients": [
+        "hot water",
+        "carrot",
+        "celery",
+        "onion",
+        "chicken bouillon",
+        "butter",
+        "black pepper",
+        "salt",
+        "lb    cooked boneless skinless chicken breast, torn into large pieces",
+        "(16   ounce) bag  reame's frozen noodles"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

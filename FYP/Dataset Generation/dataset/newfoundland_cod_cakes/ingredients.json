@@ -1,0 +1,21 @@
+{
+    "dish_name": "newfoundland cod cakes",
+    "ingredients": [
+        "onion",
+        "parsley",
+        "potatoes",
+        "eggs",
+        "butter",
+        "cod",
+        "cup    seasoned bread crumbs",
+        "lite olive oil",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

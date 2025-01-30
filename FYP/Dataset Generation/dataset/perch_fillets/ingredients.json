@@ -1,0 +1,16 @@
+{
+    "dish_name": "perch fillets",
+    "ingredients": [
+        "all-purpose flour",
+        "paprika",
+        "salt",
+        "egg",
+        "milk",
+        "butter",
+        "fresh lake perch fillets"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

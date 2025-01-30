@@ -1,0 +1,25 @@
+{
+    "dish_name": "chicken & mushroom risotto",
+    "ingredients": [
+        "butter",
+        "fresh mushrooms",
+        "skinless chicken breast",
+        "cups    chicken stock (heated)",
+        "arborio rice",
+        "dry white wine",
+        "onion",
+        "garlic cloves",
+        "parmesan cheese",
+        "cup    cream (optional)",
+        "fresh parsley",
+        "oil",
+        "salt & pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

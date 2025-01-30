@@ -1,0 +1,21 @@
+{
+    "dish_name": "lasagna spirals",
+    "ingredients": [
+        "lasagna noodles, slightly undercooked",
+        "eggs",
+        "fresh spinach",
+        "ricotta cheese",
+        "part-skim mozzarella cheese",
+        "parmesan cheese",
+        "fresh basil",
+        "cups    pasta sauce",
+        "part-skim mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

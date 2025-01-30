@@ -1,0 +1,26 @@
+{
+    "dish_name": "chick-fil-a chicken (and nuggets) copycat",
+    "ingredients": [
+        "chicken breasts",
+        "pickle juice",
+        "eggs",
+        "flour",
+        "sugar",
+        "salt",
+        "paprika",
+        "pepper",
+        "msg",
+        "oregano",
+        "basil",
+        "garlic powder",
+        "onion powder",
+        "peanut oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

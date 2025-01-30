@@ -1,0 +1,24 @@
+{
+    "dish_name": "southwest tortellini casserole",
+    "ingredients": [
+        "black beans",
+        "ounces   refrigerated cheese tortellini, can use any type",
+        "diced green chilies",
+        "diced tomatoes",
+        "cumin",
+        "low-fat sour cream",
+        "fresh lime juice",
+        "sugar",
+        "monterey jack cheese",
+        "black olives",
+        "green onion",
+        "cilantro"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

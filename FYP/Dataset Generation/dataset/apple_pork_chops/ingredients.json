@@ -1,0 +1,21 @@
+{
+    "dish_name": "apple pork chops",
+    "ingredients": [
+        "tablespoons    vegetable oil",
+        "onion",
+        "pork chops (1/2-inch thick)",
+        "salt",
+        "ground black pepper",
+        "apples",
+        "brown sugar",
+        "ground mustard",
+        "ground cloves",
+        "hot water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

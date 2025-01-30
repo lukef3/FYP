@@ -1,0 +1,21 @@
+{
+    "dish_name": "chicken rama in thai peanut sauce",
+    "ingredients": [
+        "coconut milk",
+        "ground ginger",
+        "boneless skinless chicken",
+        "creamy peanut butter",
+        "red curry paste",
+        "fish sauce",
+        "brown sugar",
+        "roasted peanuts",
+        "bunch    spinach leaves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

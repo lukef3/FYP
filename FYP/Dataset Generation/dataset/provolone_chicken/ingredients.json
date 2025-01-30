@@ -1,0 +1,14 @@
+{
+    "dish_name": "provolone chicken",
+    "ingredients": [
+        "boneless chicken breasts",
+        "cup    seasoned bread crumbs",
+        "teaspoon    mixed Italian herbs (optional)",
+        "provolone cheese",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

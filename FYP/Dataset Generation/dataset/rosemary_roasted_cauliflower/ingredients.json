@@ -1,0 +1,13 @@
+{
+    "dish_name": "rosemary roasted cauliflower",
+    "ingredients": [
+        "cauliflower",
+        "olive oil",
+        "dried rosemary",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

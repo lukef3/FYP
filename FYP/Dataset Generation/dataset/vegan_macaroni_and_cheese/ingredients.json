@@ -1,0 +1,23 @@
+{
+    "dish_name": "vegan macaroni and cheese",
+    "ingredients": [
+        "nutritional yeast flakes",
+        "white flour",
+        "wheat flour",
+        "salt",
+        "garlic powder",
+        "garlic",
+        "paprika",
+        "soymilk",
+        "margarine",
+        "prepared mustard",
+        "mustard powder",
+        "elbow macaroni"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

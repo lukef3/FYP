@@ -1,0 +1,12 @@
+{
+    "dish_name": "basic graham cracker crust",
+    "ingredients": [
+        "graham crackers",
+        "sugar",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "dish_name": "chickpea salad with cumin vinaigrette",
+    "ingredients": [
+        "red wine vinegar",
+        "lemon, juice of",
+        "garlic cloves",
+        "red pepper flakes",
+        "capers",
+        "ground cumin",
+        "paprika",
+        "olive oil",
+        "chickpeas",
+        "dried garbanzo beans",
+        "tomatoes",
+        "roasted red pepper, drained and chopped  (from a jar)",
+        "fresh thyme",
+        "fresh parsley",
+        "sea salt",
+        "pepper",
+        "feta cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

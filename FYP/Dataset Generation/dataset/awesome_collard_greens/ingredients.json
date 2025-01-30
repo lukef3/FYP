@@ -1,0 +1,17 @@
+{
+    "dish_name": "awesome collard greens",
+    "ingredients": [
+        "lb    collard greens (or 1/2 collards, 1/2 kale)",
+        "onion",
+        "salsa",
+        "chopped tomato",
+        "garlic cloves",
+        "water",
+        "cider vinegar",
+        "salt",
+        "hot sauce, to taste"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

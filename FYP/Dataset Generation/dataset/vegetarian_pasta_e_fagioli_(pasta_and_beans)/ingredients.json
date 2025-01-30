@@ -1,0 +1,28 @@
+{
+    "dish_name": "vegetarian pasta e fagioli (pasta and beans)",
+    "ingredients": [
+        "olive oil",
+        "onion",
+        "garlic",
+        "celery",
+        "carrot",
+        "dried basil",
+        "dried oregano",
+        "dried thyme",
+        "dried rosemary",
+        "red pepper flakes",
+        "whole tomatoes",
+        "vegetable broth",
+        "cannellini beans",
+        "tiny pasta",
+        "fresh parsley",
+        "parmesan cheese",
+        "salt & fresh ground pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

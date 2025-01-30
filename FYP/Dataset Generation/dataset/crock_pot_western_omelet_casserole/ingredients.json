@@ -1,0 +1,19 @@
+{
+    "dish_name": "crock pot western omelet casserole",
+    "ingredients": [
+        "frozen hash browns",
+        "ham",
+        "onion",
+        "green bell pepper",
+        "monterey jack cheese",
+        "cheddar cheese",
+        "eggs",
+        "skim milk",
+        "salt",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dish_name": "crunchy carrot salad",
+    "ingredients": [
+        "carrots",
+        "lemon juice",
+        "tablespoons    vegetable oil",
+        "sugar",
+        "Dijon mustard",
+        "pepper",
+        "fresh parsley",
+        "salt",
+        "lettuce leaf"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

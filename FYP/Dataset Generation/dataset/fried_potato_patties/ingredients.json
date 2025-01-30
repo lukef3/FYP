@@ -1,0 +1,23 @@
+{
+    "dish_name": "fried potato patties",
+    "ingredients": [
+        "potatoes",
+        "mozzarella cheese",
+        "egg",
+        "salt",
+        "garlic powder",
+        "onion powder",
+        "green onions",
+        "black pepper",
+        "egg",
+        "cup    breadcrumbs",
+        "cup    vegetable oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

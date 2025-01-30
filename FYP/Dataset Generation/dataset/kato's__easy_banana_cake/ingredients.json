@@ -1,0 +1,24 @@
+{
+    "dish_name": "kato's  easy banana cake",
+    "ingredients": [
+        "butter",
+        "sugar",
+        "eggs",
+        "bananas",
+        "walnuts",
+        "flour",
+        "salt",
+        "milk",
+        "lemon juice",
+        "baking powder",
+        "baking soda",
+        "vanilla"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

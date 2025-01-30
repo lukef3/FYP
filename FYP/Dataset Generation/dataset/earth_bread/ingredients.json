@@ -1,0 +1,28 @@
+{
+    "dish_name": "earth bread",
+    "ingredients": [
+        "sugar",
+        "cup    vegetable oil",
+        "eggs",
+        "vanilla",
+        "whole wheat flour",
+        "all-purpose flour",
+        "baking soda",
+        "salt",
+        "pumpkin pie spice",
+        "baking powder",
+        "cinnamon",
+        "zucchini",
+        "carrot",
+        "banana",
+        "pecans",
+        "walnuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

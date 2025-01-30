@@ -2,16 +2,20 @@
     "dish_name": "guacamole",
     "ingredients": [
         "avocados",
-        "lemon juice",
+        "garlic",
         "onion",
+        "green chili",
+        "cilantro",
+        "lime, juice of",
         "tomatoes",
-        "salt",
-        "seasoning salt",
-        "teaspoon    seasoned pepper",
-        "chili powder",
-        "dash    hot sauce"
+        "salt and pepper",
+        "chili pepper"
     ],
     "images": [
-        "images/image_1.jpg"
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
     ]
 }

@@ -1,0 +1,14 @@
+{
+    "dish_name": "cream cheese and jelly sandwich",
+    "ingredients": [
+        "slices    white bread",
+        "cream cheese",
+        "ounces    grape jelly"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

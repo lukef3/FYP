@@ -1,0 +1,19 @@
+{
+    "dish_name": "balsamic pork tenderloin",
+    "ingredients": [
+        "lbs    pork tenderloin",
+        "tablespoons    balsamic vinegar",
+        "extra virgin olive oil",
+        "garlic",
+        "salt and pepper",
+        "dried rosemary",
+        "dried thyme"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

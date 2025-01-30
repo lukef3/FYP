@@ -1,0 +1,19 @@
+{
+    "dish_name": "the best ever cherry hamentashen",
+    "ingredients": [
+        "margarine",
+        "sugar",
+        "egg",
+        "lemon zest",
+        "vanilla",
+        "salt",
+        "water",
+        "cherry pie filling",
+        "sugar",
+        "flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

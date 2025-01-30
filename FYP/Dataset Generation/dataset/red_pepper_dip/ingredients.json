@@ -1,0 +1,17 @@
+{
+    "dish_name": "red pepper dip",
+    "ingredients": [
+        "(7   ounce) jar   roasted red peppers, rinsed and drained",
+        "fat-free cream cheese",
+        "scallions",
+        "garlic",
+        "lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

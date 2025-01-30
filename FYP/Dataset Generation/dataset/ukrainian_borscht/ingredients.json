@@ -1,0 +1,21 @@
+{
+    "dish_name": "ukrainian borscht",
+    "ingredients": [
+        "beets",
+        "carrot",
+        "onion",
+        "beef broth",
+        "cabbage",
+        "butter",
+        "salt and pepper, to taste  (I use Johnny's)",
+        "fresh lemon juice",
+        "sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

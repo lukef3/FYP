@@ -1,18 +1,17 @@
 {
     "dish_name": "5-ingredient strawberry pie",
     "ingredients": [
+        "strawberry",
         "sugar",
-        "cornstarch",
-        "salt",
         "water",
-        "strawberry gelatin",
-        "strawberries",
-        "9 inch pie shell, baked"
+        "cornstarch",
+        "prebaked pie shell"
     ],
     "images": [
         "images/image_1.jpg",
         "images/image_2.jpg",
         "images/image_3.jpg",
-        "images/image_4.jpg"
+        "images/image_4.jpg",
+        "images/image_5.jpg"
     ]
 }

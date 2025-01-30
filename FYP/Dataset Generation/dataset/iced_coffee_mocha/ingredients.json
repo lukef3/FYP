@@ -1,0 +1,16 @@
+{
+    "dish_name": "iced coffee mocha",
+    "ingredients": [
+        "coffee",
+        "teaspoon    chocolate syrup",
+        "tablespoons    French vanilla flavored coffee creamer (liquid)",
+        "sugar",
+        "ice cube"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dish_name": "refreshing raspberry iced tea",
+    "ingredients": [
+        "water",
+        "sugar",
+        "raspberries",
+        "tea bags",
+        "lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

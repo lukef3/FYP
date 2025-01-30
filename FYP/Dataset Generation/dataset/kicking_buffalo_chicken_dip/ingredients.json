@@ -1,0 +1,18 @@
+{
+    "dish_name": "kicking buffalo chicken dip",
+    "ingredients": [
+        "cream cheese",
+        "ounces   of chunky blue cheese dressing",
+        "monterey jack cheese",
+        "cheddar cheese",
+        "cups    cooked chicken, shredded",
+        "ounces    hot sauce, use your favorite from sriracha to chipotle hot to sweet"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

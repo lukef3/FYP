@@ -1,0 +1,17 @@
+{
+    "dish_name": "nutty honey oatmeal waffles",
+    "ingredients": [
+        "whole wheat flour",
+        "baking powder",
+        "salt",
+        "milk",
+        "eggs",
+        "butter",
+        "honey",
+        "oats",
+        "pecans"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

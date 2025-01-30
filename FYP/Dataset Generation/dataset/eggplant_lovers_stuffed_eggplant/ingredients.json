@@ -1,0 +1,25 @@
+{
+    "dish_name": "eggplant lovers stuffed eggplant",
+    "ingredients": [
+        "eggplant",
+        "extra virgin olive oil",
+        "ground beef",
+        "salt & freshly ground black pepper",
+        "onion",
+        "red pepper, small diced",
+        "garlic cloves",
+        "fresh parsley leaves",
+        "basil leaves",
+        "pecorino romano cheese",
+        "cup    breadcrumbs",
+        "egg",
+        "diced fire-roasted tomatoes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

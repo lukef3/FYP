@@ -1,0 +1,19 @@
+{
+    "dish_name": "pepper seared tuna steaks",
+    "ingredients": [
+        "tuna steaks",
+        "black pepper",
+        "sesame seeds",
+        "teaspoons    sesame oil",
+        "garlic cloves",
+        "soy sauce",
+        "dry sherry",
+        "red wine",
+        "green onions"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

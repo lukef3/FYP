@@ -1,0 +1,21 @@
+{
+    "dish_name": "paige's sour cream cut out cookies",
+    "ingredients": [
+        "granulated sugar",
+        "unsalted butter",
+        "eggs",
+        "sour cream",
+        "vanilla extract",
+        "nutmeg",
+        "baking powder",
+        "baking soda",
+        "all-purpose flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

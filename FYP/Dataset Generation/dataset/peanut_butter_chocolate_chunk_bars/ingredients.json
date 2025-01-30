@@ -1,0 +1,22 @@
+{
+    "dish_name": "peanut butter chocolate chunk bars",
+    "ingredients": [
+        "flour",
+        "baking soda",
+        "brown sugar",
+        "creamy peanut butter",
+        "chunky peanut butter",
+        "butter",
+        "granulated sugar",
+        "egg",
+        "vanilla extract",
+        "(11 1/2  ounce) package   semisweet chocolate chunks"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

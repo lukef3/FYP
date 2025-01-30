@@ -1,0 +1,25 @@
+{
+    "dish_name": "awesome and healthy meatloaf",
+    "ingredients": [
+        "zucchini",
+        "yellow onion",
+        "red bell pepper",
+        "garlic cloves",
+        "salt",
+        "pepper",
+        "dried thyme",
+        "dried oregano",
+        "dried basil",
+        "cooking spray",
+        "lean ground beef",
+        "egg",
+        "salt",
+        "pepper",
+        "tomato sauce with basil garlic and oregano"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "chocolate, butterscotch, pb rice  krispies treats",
+    "ingredients": [
+        "peanut butter",
+        "corn syrup",
+        "sugar",
+        "cups    Rice Krispies",
+        "(6   ounce) package   semi-sweet chocolate chips",
+        "(6   ounce) package   butterscotch chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

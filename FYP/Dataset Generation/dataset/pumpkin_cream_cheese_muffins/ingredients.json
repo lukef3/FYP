@@ -1,0 +1,30 @@
+{
+    "dish_name": "pumpkin cream cheese muffins",
+    "ingredients": [
+        "cream cheese",
+        "egg",
+        "vanilla",
+        "brown sugar",
+        "flour",
+        "white sugar",
+        "cinnamon",
+        "butter",
+        "pecans",
+        "flour",
+        "white sugar",
+        "baking powder",
+        "cinnamon",
+        "salt",
+        "eggs",
+        "canned pumpkin",
+        "olive oil",
+        "vanilla extract"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

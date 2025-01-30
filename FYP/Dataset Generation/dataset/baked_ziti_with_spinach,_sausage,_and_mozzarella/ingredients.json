@@ -1,0 +1,19 @@
+{
+    "dish_name": "baked ziti with spinach, sausage, and mozzarella",
+    "ingredients": [
+        "lb    hot Italian turkey sausage",
+        "onion",
+        "garlic cloves",
+        "diced tomatoes",
+        "pesto sauce",
+        "ziti pasta",
+        "fresh spinach leaves",
+        "mozzarella cheese",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

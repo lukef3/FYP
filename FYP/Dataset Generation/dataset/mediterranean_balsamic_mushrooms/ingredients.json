@@ -1,0 +1,18 @@
+{
+    "dish_name": "mediterranean balsamic mushrooms",
+    "ingredients": [
+        "olive oil",
+        "white mushroom",
+        "tablespoons    balsamic vinegar",
+        "salt",
+        "red pepper flakes",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

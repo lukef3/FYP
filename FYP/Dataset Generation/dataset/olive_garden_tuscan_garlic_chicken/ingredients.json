@@ -1,0 +1,26 @@
+{
+    "dish_name": "olive garden tuscan garlic chicken",
+    "ingredients": [
+        "flour",
+        "flour",
+        "salt",
+        "black pepper",
+        "teaspoons    Italian herb seasoning",
+        "boneless skinless chicken breasts",
+        "fluid ounces    vegetable oil, divided",
+        "penne pasta",
+        "garlic",
+        "red pepper, julienne cut",
+        "white wine",
+        "lb   whole spinach leaves, stemmed",
+        "heavy cream",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "not just another cream of mushroom soup",
+    "ingredients": [
+        "fresh mushrooms",
+        "butter",
+        "onion",
+        "all-purpose flour",
+        "salt",
+        "white pepper",
+        "condensed chicken broth",
+        "water",
+        "half-and-half",
+        "parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

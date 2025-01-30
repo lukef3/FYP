@@ -1,0 +1,22 @@
+{
+    "dish_name": "breaded pork chops",
+    "ingredients": [
+        "all-purpose flour",
+        "salt",
+        "paprika",
+        "pepper",
+        "egg",
+        "Worcestershire sauce",
+        "cup    unseasoned breadcrumbs",
+        "boneless pork loin chops",
+        "tablespoons    oil",
+        "cooking spray, such as Pam"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

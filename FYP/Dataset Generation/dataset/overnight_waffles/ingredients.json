@@ -1,0 +1,21 @@
+{
+    "dish_name": "overnight waffles",
+    "ingredients": [
+        "instant yeast",
+        "all-purpose flour",
+        "sugar",
+        "salt",
+        "milk",
+        "butter",
+        "vanilla",
+        "lite olive oil",
+        "eggs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

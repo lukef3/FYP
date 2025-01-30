@@ -1,0 +1,21 @@
+{
+    "dish_name": "quick and easy seasoned black beans",
+    "ingredients": [
+        "black beans",
+        "garlic",
+        "onion",
+        "jalapeno chiles",
+        "Mexican oregano",
+        "ground cumin",
+        "extra virgin olive oil",
+        "fresh cilantro",
+        "fresh lime juice",
+        "salt and black pepper (to taste)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

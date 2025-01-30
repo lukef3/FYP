@@ -1,0 +1,20 @@
+{
+    "dish_name": "healthy peanut butter banana oatmeal cookies",
+    "ingredients": [
+        "bananas",
+        "peanut butter",
+        "unsweetened applesauce",
+        "vanilla",
+        "salt",
+        "cinnamon",
+        "old fashioned oats",
+        "cup    shredded coconut"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "braised red cabbage with red onion and apples",
+    "ingredients": [
+        "tablespoons    vegetable oil",
+        "red onions",
+        "red cabbage",
+        "garlic",
+        "apples",
+        "cup    chicken stock",
+        "red wine vinegar",
+        "brown sugar",
+        "bay leaf",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

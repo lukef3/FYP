@@ -1,0 +1,18 @@
+{
+    "dish_name": "pina colada jam",
+    "ingredients": [
+        "pineapple",
+        "cream of coconut",
+        "white rum",
+        "lemon juice",
+        "sugar",
+        "(3   ounce) envelopes   liquid pectin"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

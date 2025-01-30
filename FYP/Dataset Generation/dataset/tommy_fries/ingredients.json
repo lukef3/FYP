@@ -1,0 +1,13 @@
+{
+    "dish_name": "tommy fries",
+    "ingredients": [
+        "bottle    ranch dressing",
+        "bacon",
+        "cheddar cheese",
+        "potatoes",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

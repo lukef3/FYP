@@ -1,0 +1,14 @@
+{
+    "dish_name": "whipped chocolate cream icing",
+    "ingredients": [
+        "cups    whipping cream",
+        "icing sugar",
+        "cup    cocoa"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

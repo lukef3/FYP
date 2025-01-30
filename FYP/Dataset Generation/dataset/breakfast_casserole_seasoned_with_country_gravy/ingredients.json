@@ -1,0 +1,18 @@
+{
+    "dish_name": "breakfast casserole seasoned with country gravy",
+    "ingredients": [
+        "(2 3/4  ounce) package   country gravy mix",
+        "cups    tater tots, thawed",
+        "sausage",
+        "water",
+        "eggs",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

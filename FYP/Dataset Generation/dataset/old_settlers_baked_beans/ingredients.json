@@ -1,0 +1,26 @@
+{
+    "dish_name": "old settlers baked beans",
+    "ingredients": [
+        "ground beef",
+        "onion",
+        "bacon",
+        "brown sugar",
+        "white sugar",
+        "ketchup",
+        "barbecue sauce",
+        "molasses",
+        "mustard",
+        "chili powder",
+        "pepper",
+        "salt",
+        "red kidney beans",
+        "(15   ounce) can   pork and beans",
+        "baby butter beans"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

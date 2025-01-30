@@ -1,0 +1,17 @@
+{
+    "dish_name": "eggplant (aubergine) with raw garlic",
+    "ingredients": [
+        "eggplant",
+        "olive oil",
+        "garlic cloves",
+        "fresh lemon juice",
+        "extra virgin olive oil",
+        "salt",
+        "flat leaf parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

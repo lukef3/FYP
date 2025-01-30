@@ -1,0 +1,23 @@
+{
+    "dish_name": "german dark rye bread",
+    "ingredients": [
+        "all-purpose flour",
+        "cup    unsweetened cocoa powder",
+        "active dry yeast",
+        "caraway seed",
+        "salt",
+        "molasses",
+        "butter",
+        "sugar",
+        "cups    rye flour",
+        "cooking oil",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

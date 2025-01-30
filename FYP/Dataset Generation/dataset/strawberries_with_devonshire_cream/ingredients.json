@@ -1,0 +1,15 @@
+{
+    "dish_name": "strawberries with devonshire cream",
+    "ingredients": [
+        "cream cheese",
+        "cup    whipping cream",
+        "vanilla extract",
+        "strawberry",
+        "powdered sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

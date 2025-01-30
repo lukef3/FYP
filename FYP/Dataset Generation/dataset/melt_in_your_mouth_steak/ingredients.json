@@ -1,0 +1,19 @@
+{
+    "dish_name": "melt in your mouth steak",
+    "ingredients": [
+        "steaks, of your choice",
+        "teaspoons    meat tenderizer (1 per pound)",
+        "red wine vinegar",
+        "water",
+        "low sodium soy sauce",
+        "sugar",
+        "dried thyme",
+        "pepper",
+        "garlic clove"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

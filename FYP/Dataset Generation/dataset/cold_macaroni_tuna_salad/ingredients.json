@@ -1,0 +1,16 @@
+{
+    "dish_name": "cold macaroni tuna salad",
+    "ingredients": [
+        "hard-boiled eggs",
+        "macaroni",
+        "frozen green peas",
+        "tuna",
+        "mayonnaise",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

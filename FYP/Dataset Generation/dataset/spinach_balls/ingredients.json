@@ -1,0 +1,20 @@
+{
+    "dish_name": "spinach balls",
+    "ingredients": [
+        "frozen spinach",
+        "unsalted butter",
+        "onion",
+        "eggs",
+        "parmesan cheese",
+        "garlic powder",
+        "pepper",
+        "cups    seasoned bread crumbs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

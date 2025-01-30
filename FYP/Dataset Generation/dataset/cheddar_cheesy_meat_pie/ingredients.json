@@ -1,0 +1,23 @@
+{
+    "dish_name": "cheddar cheesy meat pie",
+    "ingredients": [
+        "unbaked 9-inch pie crust, chilled",
+        "ground beef",
+        "onion",
+        "flour",
+        "salt",
+        "pepper",
+        "sharp cheddar cheese",
+        "milk",
+        "eggs",
+        "Worcestershire sauce",
+        "minced garlic clove"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

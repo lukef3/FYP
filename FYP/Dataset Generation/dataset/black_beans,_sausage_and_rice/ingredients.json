@@ -1,0 +1,23 @@
+{
+    "dish_name": "black beans, sausage and rice",
+    "ingredients": [
+        "smoked sausage",
+        "onion",
+        "green onions",
+        "garlic",
+        "teaspoon    vegetable oil",
+        "teaspoon    creole seasoning (I use Tony\u2019s Chachere\u2019s Original Creole seasoning)",
+        "diced tomatoes with mild green chilies",
+        "black beans",
+        "chicken broth",
+        "long grain rice",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

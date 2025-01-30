@@ -1,0 +1,22 @@
+{
+    "dish_name": "beef machaca",
+    "ingredients": [
+        "boneless beef chuck roast",
+        "onion",
+        "green chilies",
+        "beef bouillon cubes",
+        "dry mustard",
+        "garlic",
+        "adobo seasoning",
+        "salt",
+        "peppercorns",
+        "salsa"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

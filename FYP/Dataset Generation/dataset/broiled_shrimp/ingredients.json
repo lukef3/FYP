@@ -1,0 +1,18 @@
+{
+    "dish_name": "broiled shrimp",
+    "ingredients": [
+        "shrimp",
+        "olive oil",
+        "garlic",
+        "parsley",
+        "crushed red pepper flakes",
+        "oregano",
+        "salt and pepper",
+        "teaspoons    fresh breadcrumbs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

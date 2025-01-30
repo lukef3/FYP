@@ -1,0 +1,21 @@
+{
+    "dish_name": "blackberry custard pie",
+    "ingredients": [
+        "(9   inch)    deep dish pie shells, unbaked",
+        "sour cream",
+        "eggs",
+        "flour",
+        "butter",
+        "blackberries",
+        "sugar",
+        "flour",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

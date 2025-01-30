@@ -1,0 +1,19 @@
+{
+    "dish_name": "grilled corn with chili lime butter",
+    "ingredients": [
+        "butter",
+        "chili powder",
+        "lime zest",
+        "fresh lime juice",
+        "teaspoon    jalapeno, minced  (or to taste)",
+        "salt",
+        "corn"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

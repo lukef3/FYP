@@ -1,0 +1,26 @@
+{
+    "dish_name": "pumpkin posole",
+    "ingredients": [
+        "tablespoon    vegetable oil",
+        "boneless skinless chicken breast",
+        "onion",
+        "carrot",
+        "celery",
+        "red bell pepper",
+        "solid pack pumpkin",
+        "chicken broth",
+        "hominy",
+        "sour cream",
+        "fresh cilantro",
+        "salt",
+        "ground black pepper",
+        "dried oregano",
+        "ground cumin",
+        "ground nutmeg"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

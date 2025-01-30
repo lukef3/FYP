@@ -1,0 +1,20 @@
+{
+    "dish_name": "classic banana cream pie",
+    "ingredients": [
+        "water",
+        "cornstarch",
+        "(14   ounce) can   Eagle Brand Condensed Milk",
+        "egg yolks, beaten",
+        "butter",
+        "vanilla",
+        "(9   inch)    pie crusts, baked",
+        "bananas"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

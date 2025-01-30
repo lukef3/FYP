@@ -1,0 +1,20 @@
+{
+    "dish_name": "the best vegan macaroni and cheese ever",
+    "ingredients": [
+        "plain soymilk",
+        "water",
+        "tamari",
+        "soy sauce",
+        "nutritional yeast",
+        "paprika",
+        "garlic powder",
+        "salt",
+        "firm tofu",
+        "canola oil",
+        "macaroni noodles",
+        "mustard"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

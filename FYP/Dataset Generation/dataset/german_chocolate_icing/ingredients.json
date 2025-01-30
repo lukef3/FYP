@@ -1,0 +1,19 @@
+{
+    "dish_name": "german chocolate icing",
+    "ingredients": [
+        "evaporated milk",
+        "sugar",
+        "egg yolks, slightly mixed with a whisk",
+        "butter",
+        "vanilla",
+        "coconut",
+        "pecans"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

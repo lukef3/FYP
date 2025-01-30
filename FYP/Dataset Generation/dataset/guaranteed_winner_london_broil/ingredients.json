@@ -1,0 +1,19 @@
+{
+    "dish_name": "guaranteed winner london broil",
+    "ingredients": [
+        "london broil beef",
+        "cup    oil",
+        "vinegar",
+        "onions",
+        "garlic cloves",
+        "tamari",
+        "brown sugar",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

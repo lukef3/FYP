@@ -1,0 +1,17 @@
+{
+    "dish_name": "awesome low carb salmon patties",
+    "ingredients": [
+        "salmon",
+        "cup    pork rind (finely ground)",
+        "onion",
+        "lemon juice",
+        "parsley flakes",
+        "minced garlic clove",
+        "eggs",
+        "mayonnaise"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

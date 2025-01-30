@@ -1,0 +1,15 @@
+{
+    "dish_name": "vanilla sweet potatoes",
+    "ingredients": [
+        "sweet potatoes",
+        "1% low-fat milk",
+        "brown sugar",
+        "vanilla extract",
+        "butter",
+        "margarine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

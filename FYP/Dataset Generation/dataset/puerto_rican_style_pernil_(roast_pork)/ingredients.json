@@ -1,0 +1,18 @@
+{
+    "dish_name": "puerto rican style pernil (roast pork)",
+    "ingredients": [
+        "lbs    pork shoulder",
+        "garlic",
+        "salt",
+        "dried oregano",
+        "packet    sazon goya (found in most supermarkets in the ethnic aisle)",
+        "adobo seasoning"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

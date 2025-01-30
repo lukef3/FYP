@@ -1,0 +1,16 @@
+{
+    "dish_name": "poor man's lobster #1",
+    "ingredients": [
+        "lbs    haddock",
+        "vinegar",
+        "salt",
+        "butter",
+        "margarine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

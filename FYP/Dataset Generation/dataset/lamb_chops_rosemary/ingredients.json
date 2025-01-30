@@ -1,0 +1,19 @@
+{
+    "dish_name": "lamb chops rosemary",
+    "ingredients": [
+        "lamb chops",
+        "green pepper",
+        "onions",
+        "salt",
+        "fresh rosemary",
+        "dried rosemary",
+        "tomato juice",
+        "chopped tomatoes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

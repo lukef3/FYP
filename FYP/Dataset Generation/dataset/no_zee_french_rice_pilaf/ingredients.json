@@ -1,0 +1,19 @@
+{
+    "dish_name": "no zee french rice pilaf",
+    "ingredients": [
+        "butter",
+        "onion",
+        "garlic cloves",
+        "long grain white rice",
+        "broth",
+        "salt",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

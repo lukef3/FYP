@@ -1,0 +1,15 @@
+{
+    "dish_name": "un-fried french fries",
+    "ingredients": [
+        "baking potatoes",
+        "light vegetable oil cooking spray",
+        "large    egg whites",
+        "tablespoon    cajun spices"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

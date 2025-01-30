@@ -1,0 +1,19 @@
+{
+    "dish_name": "weeknight spaghetti pie",
+    "ingredients": [
+        "margarine",
+        "egg",
+        "cheddar cheese",
+        "salt and pepper",
+        "spaghetti",
+        "ground beef",
+        "turkey",
+        "onion",
+        "jar    spaghetti sauce",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

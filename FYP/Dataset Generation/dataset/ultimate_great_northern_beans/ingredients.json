@@ -1,0 +1,21 @@
+{
+    "dish_name": "ultimate great northern beans",
+    "ingredients": [
+        "great northern beans",
+        "chicken broth",
+        "diced tomatoes with green chilies",
+        "large    white onion, chopped",
+        "tablespoon    cooking oil",
+        "pork jowl",
+        "salt",
+        "black pepper",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

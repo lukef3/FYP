@@ -1,0 +1,17 @@
+{
+    "dish_name": "carrot & potato soup",
+    "ingredients": [
+        "margarine",
+        "onions",
+        "garlic",
+        "chicken broth",
+        "carrots",
+        "potatoes",
+        "teaspoon    italian seasoning",
+        "bay leaf",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

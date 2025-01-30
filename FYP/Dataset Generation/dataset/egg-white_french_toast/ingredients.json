@@ -1,0 +1,17 @@
+{
+    "dish_name": "egg-white french toast",
+    "ingredients": [
+        "2% low-fat milk",
+        "slices    bread, or 4 1-inch slices of bread cut from a loaf",
+        "cinnamon",
+        "egg whites",
+        "vanilla extract"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

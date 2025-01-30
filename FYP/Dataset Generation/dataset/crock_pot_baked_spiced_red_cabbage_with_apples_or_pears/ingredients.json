@@ -1,0 +1,24 @@
+{
+    "dish_name": "crock pot baked spiced red cabbage with apples or pears",
+    "ingredients": [
+        "red cabbage",
+        "onions",
+        "apples",
+        "pears",
+        "garlic cloves",
+        "soft brown sugar",
+        "cinnamon",
+        "ground nutmeg",
+        "ground cloves",
+        "salt & pepper",
+        "red wine vinegar",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

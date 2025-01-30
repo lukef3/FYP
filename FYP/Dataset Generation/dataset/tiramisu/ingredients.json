@@ -1,12 +1,12 @@
 {
     "dish_name": "tiramisu",
     "ingredients": [
-        "espresso coffee",
-        "tablespoons    Tia Maria (or another liqueur, but the coffee flavour is really enhanced)",
+        "sugar",
         "eggs",
-        "caster sugar",
         "mascarpone cheese",
-        "cup    cream (anything that will hold the peaks heavy whipping cream works fine as will anything 36% milkfat or hi)",
+        "espresso coffee",
+        "very strong coffee",
+        "teaspoons    coffee liqueur",
         "ladyfingers",
         "cocoa powder"
     ],
@@ -14,7 +14,6 @@
         "images/image_1.jpg",
         "images/image_2.jpg",
         "images/image_3.jpg",
-        "images/image_4.jpg",
-        "images/image_5.jpg"
+        "images/image_4.jpg"
     ]
 }

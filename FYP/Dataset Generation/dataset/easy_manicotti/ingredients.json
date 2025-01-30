@@ -1,0 +1,22 @@
+{
+    "dish_name": "easy manicotti",
+    "ingredients": [
+        "ricotta cheese",
+        "mozzarella cheese",
+        "parmesan cheese",
+        "sugar",
+        "egg",
+        "nutmeg",
+        "parsley",
+        "salt and pepper",
+        "(5   ounce) package   manicotti, uncooked",
+        "(15 1/2  ounce) jar  prepared meatless marinara sauce (or homemade, if desired)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

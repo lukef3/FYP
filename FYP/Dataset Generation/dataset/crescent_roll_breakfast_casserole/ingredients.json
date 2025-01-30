@@ -1,0 +1,21 @@
+{
+    "dish_name": "crescent roll breakfast casserole",
+    "ingredients": [
+        "(8   ounce) can   crescent rolls",
+        "brown and serve sausages",
+        "monterey jack cheese",
+        "eggs",
+        "milk",
+        "green peppers",
+        "salt",
+        "pepper",
+        "oregano"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

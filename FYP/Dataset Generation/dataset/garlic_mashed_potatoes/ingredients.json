@@ -1,14 +1,22 @@
 {
     "dish_name": "garlic mashed potatoes",
     "ingredients": [
-        "potatoes",
         "garlic cloves",
         "salt",
+        "idaho potatoes",
         "butter",
-        "cup    whipping cream"
+        "butter",
+        "heavy cream",
+        "parsley",
+        "cup    dry breadcrumbs",
+        "chives",
+        "sour cream"
     ],
     "images": [
         "images/image_1.jpg",
-        "images/image_2.jpg"
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
     ]
 }

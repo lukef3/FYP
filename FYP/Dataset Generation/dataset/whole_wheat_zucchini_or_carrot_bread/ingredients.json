@@ -1,0 +1,24 @@
+{
+    "dish_name": "whole wheat zucchini or carrot bread",
+    "ingredients": [
+        "zucchini",
+        "carrots",
+        "butter",
+        "honey",
+        "brown sugar",
+        "eggs",
+        "vanilla",
+        "whole wheat flour",
+        "baking soda",
+        "baking powder",
+        "salt",
+        "cinnamon",
+        "cup    nuts, chopped",
+        "raisins",
+        "nutmeg"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

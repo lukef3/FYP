@@ -1,0 +1,26 @@
+{
+    "dish_name": "famous spaghetti sauce",
+    "ingredients": [
+        "extra virgin olive oil",
+        "crushed red pepper flakes",
+        "onion",
+        "garlic cloves",
+        "chopped tomatoes",
+        "crushed tomatoes",
+        "tomato paste",
+        "tomato sauce",
+        "sugar",
+        "red wine",
+        "dried basil",
+        "dried oregano",
+        "kosher salt",
+        "fresh ground pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

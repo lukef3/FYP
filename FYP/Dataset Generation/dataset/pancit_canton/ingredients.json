@@ -1,0 +1,28 @@
+{
+    "dish_name": "pancit canton",
+    "ingredients": [
+        "tablespoons    vegetable oil",
+        "onion",
+        "garlic",
+        "lb    pork shoulder, sliced thinly",
+        "chicken breast",
+        "shrimp",
+        "soy sauce",
+        "chicken broth",
+        "cabbage",
+        "green beans",
+        "carrots",
+        "shiitake mushroom",
+        "(1   lb) package   pancit noodles (Chinese wheat noodles)",
+        "black pepper",
+        "patis, to taste  (Filipino fish sauce) (optional)",
+        "green onions",
+        "lemons"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

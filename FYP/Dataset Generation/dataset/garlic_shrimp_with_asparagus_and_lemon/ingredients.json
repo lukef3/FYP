@@ -1,0 +1,19 @@
+{
+    "dish_name": "garlic shrimp with asparagus and lemon",
+    "ingredients": [
+        "shrimp",
+        "black pepper",
+        "lemon",
+        "olive oil",
+        "extra virgin olive oil",
+        "garlic cloves",
+        "asparagus",
+        "crushed red pepper flakes",
+        "reduced-sodium chicken broth",
+        "cornstarch"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

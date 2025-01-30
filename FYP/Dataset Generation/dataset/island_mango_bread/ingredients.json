@@ -1,0 +1,23 @@
+{
+    "dish_name": "island mango bread",
+    "ingredients": [
+        "sour cream",
+        "margarine",
+        "eggs",
+        "sugar",
+        "mangoes",
+        "sweetened flaked coconut",
+        "vanilla",
+        "teaspoon    coconut extract",
+        "teaspoon    rum extract",
+        "baking soda",
+        "salt",
+        "flour",
+        "raisins"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

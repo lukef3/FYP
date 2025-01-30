@@ -1,0 +1,21 @@
+{
+    "dish_name": "creamy pasta with bacon",
+    "ingredients": [
+        "bow tie pasta",
+        "bacon",
+        "bacon grease",
+        "mushroom",
+        "garlic",
+        "parmesan cheese",
+        "cups    whipping cream (NOT whipped cream)",
+        "black pepper",
+        "green onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

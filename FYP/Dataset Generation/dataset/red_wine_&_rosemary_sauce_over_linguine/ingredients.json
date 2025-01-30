@@ -1,0 +1,22 @@
+{
+    "dish_name": "red wine & rosemary sauce over linguine",
+    "ingredients": [
+        "extra virgin olive oil",
+        "onion",
+        "fresh garlic",
+        "red wine",
+        "honey",
+        "dried basil",
+        "dried rosemary",
+        "salt",
+        "crushed red pepper flakes",
+        "crushed tomatoes",
+        "no-added-salt tomato paste",
+        "linguine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

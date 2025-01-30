@@ -1,0 +1,20 @@
+{
+    "dish_name": "big texan texas caviar",
+    "ingredients": [
+        "black-eyed peas",
+        "medium    jalapeno, minced",
+        "small    white onion, chopped",
+        "cup    Italian dressing",
+        "green bell pepper",
+        "seasoning salt",
+        "chili powder",
+        "ground cumin",
+        "teaspoon    ground red pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

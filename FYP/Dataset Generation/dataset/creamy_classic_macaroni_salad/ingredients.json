@@ -1,0 +1,22 @@
+{
+    "dish_name": "creamy classic macaroni salad",
+    "ingredients": [
+        "mayonnaise",
+        "vinegar",
+        "fresh lemon juice",
+        "prepared mustard",
+        "sugar",
+        "salt",
+        "pepper",
+        "elbow macaroni",
+        "celery",
+        "green peppers",
+        "onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

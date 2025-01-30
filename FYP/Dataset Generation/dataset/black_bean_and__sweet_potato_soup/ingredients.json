@@ -1,0 +1,23 @@
+{
+    "dish_name": "black bean and  sweet potato soup",
+    "ingredients": [
+        "teaspoons    oil",
+        "onion",
+        "garlic cloves",
+        "ground coriander",
+        "ground cumin",
+        "black beans",
+        "diced tomatoes",
+        "salt",
+        "pepper",
+        "chicken broth",
+        "sweet potatoes",
+        "corn kernel",
+        "sour cream",
+        "lime wedge"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

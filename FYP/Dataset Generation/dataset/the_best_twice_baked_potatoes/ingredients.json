@@ -1,0 +1,23 @@
+{
+    "dish_name": "the best twice baked potatoes",
+    "ingredients": [
+        "baking potatoes",
+        "bacon",
+        "sour cream",
+        "milk",
+        "butter",
+        "salt",
+        "pepper",
+        "cheddar cheese",
+        "green onions",
+        "kosher salt",
+        "fresh ground pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

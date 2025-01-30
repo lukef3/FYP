@@ -1,0 +1,16 @@
+{
+    "dish_name": "vermont salad dressing",
+    "ingredients": [
+        "olive oil",
+        "cider vinegar",
+        "ketchup",
+        "onion",
+        "maple syrup",
+        "salt",
+        "garlic",
+        "paprika"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

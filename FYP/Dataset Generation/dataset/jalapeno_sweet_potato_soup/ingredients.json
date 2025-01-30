@@ -1,0 +1,26 @@
+{
+    "dish_name": "jalapeno sweet potato soup",
+    "ingredients": [
+        "bacon",
+        "onion",
+        "butter",
+        "garlic",
+        "sweet potatoes",
+        "chicken broth",
+        "cup    pickled jalapeno pepper, coarsely chopped",
+        "tablespoons    jalapeno juice",
+        "comino",
+        "baking soda",
+        "cilantro leaf",
+        "milk",
+        "salt",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

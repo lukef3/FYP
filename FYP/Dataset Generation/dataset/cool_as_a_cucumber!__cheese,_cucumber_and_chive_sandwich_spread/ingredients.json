@@ -1,0 +1,19 @@
+{
+    "dish_name": "cool as a cucumber!  cheese, cucumber and chive sandwich spread",
+    "ingredients": [
+        "cream cheese",
+        "cucumber",
+        "fresh chives",
+        "spring onion",
+        "of fresh mint",
+        "dried mint",
+        "salt and black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "dish_name": "vietnamese sandwiches",
+    "ingredients": [
+        "garlic",
+        "salt",
+        "cup    rice wine vinegar",
+        "sugar",
+        "carrot",
+        "cup   thinly sliced white onion",
+        "jalapeno chile",
+        "baguette",
+        "low-fat mayonnaise",
+        "boneless skinless chicken breasts",
+        "fresh lime juice",
+        "five-spice powder",
+        "fresh cilantro"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

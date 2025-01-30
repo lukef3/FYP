@@ -1,0 +1,19 @@
+{
+    "dish_name": "brown rice and carrot pilaf",
+    "ingredients": [
+        "butter",
+        "margarine",
+        "onion",
+        "carrot",
+        "long grain brown rice",
+        "cups    vegetable stock",
+        "salt and pepper",
+        "parsley",
+        "bean sprouts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

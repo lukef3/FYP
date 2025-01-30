@@ -1,0 +1,23 @@
+{
+    "dish_name": "chicago-style hot dogs",
+    "ingredients": [
+        "natural casing beef frankfurters (I like Boar's Head brand)",
+        "hot dog buns (with poppyseeds if you can find them)",
+        "onion",
+        "teaspoons    sweet pickle relish (bright green type if you can find it!)",
+        "dill pickle",
+        "tomatoes",
+        "bell peppers",
+        "brown mustard",
+        "celery seed",
+        "poppy seed",
+        "beer"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

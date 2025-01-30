@@ -1,0 +1,16 @@
+{
+    "dish_name": "easy basic meatballs",
+    "ingredients": [
+        "ground beef",
+        "cup    dry breadcrumbs (can also use seasoned crumbs)",
+        "milk",
+        "salt",
+        "Worcestershire sauce",
+        "onion",
+        "egg"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

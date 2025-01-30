@@ -1,0 +1,18 @@
+{
+    "dish_name": "simple white bread",
+    "ingredients": [
+        "water",
+        "(1/4  ounce) packages   yeast",
+        "sugar",
+        "salt",
+        "tablespoons    vegetable oil",
+        "flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

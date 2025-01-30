@@ -1,0 +1,20 @@
+{
+    "dish_name": "clock watchers chicken skillet",
+    "ingredients": [
+        "boneless skinless chicken breast halves",
+        "onion",
+        "Italian tomatoes",
+        "chicken broth",
+        "dried basil",
+        "garlic powder",
+        "garlic",
+        "black pepper",
+        "spaghetti",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "baked apples",
+    "ingredients": [
+        "granny smith apples",
+        "pecans",
+        "raisins",
+        "dark rum",
+        "cinnamon",
+        "brown sugar",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

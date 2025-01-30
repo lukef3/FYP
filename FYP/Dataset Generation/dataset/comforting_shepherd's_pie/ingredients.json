@@ -1,0 +1,24 @@
+{
+    "dish_name": "comforting shepherd's pie",
+    "ingredients": [
+        "(22   ounce) package   frozen mashed potatoes (or make your own, I do)",
+        "ground beef",
+        "onion",
+        "carrot",
+        "cup    frozen peas",
+        "tomato paste",
+        "all-purpose flour",
+        "salt",
+        "pepper",
+        "beef broth",
+        "egg",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

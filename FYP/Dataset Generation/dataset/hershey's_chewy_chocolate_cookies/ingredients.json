@@ -1,0 +1,19 @@
+{
+    "dish_name": "hershey's chewy chocolate cookies",
+    "ingredients": [
+        "butter",
+        "sugar",
+        "eggs",
+        "vanilla",
+        "flour",
+        "cup   hershey cocoa",
+        "baking soda",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

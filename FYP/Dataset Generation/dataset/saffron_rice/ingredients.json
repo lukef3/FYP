@@ -1,0 +1,26 @@
+{
+    "dish_name": "saffron rice",
+    "ingredients": [
+        "basmati rice",
+        "saffron thread",
+        "boiling water",
+        "chicken broth",
+        "boiling water",
+        "chicken broth",
+        "ghee",
+        "butter",
+        "cinnamon sticks",
+        "whole cloves",
+        "onion",
+        "minced garlic clove",
+        "salt",
+        "ground cardamom"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

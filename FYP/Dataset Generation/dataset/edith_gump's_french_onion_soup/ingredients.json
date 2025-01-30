@@ -1,0 +1,22 @@
+{
+    "dish_name": "edith gump's french onion soup",
+    "ingredients": [
+        "butter",
+        "medium    white onions, sliced",
+        "beef broth",
+        "salt",
+        "garlic powder",
+        "parmesan cheese",
+        "slices    French bread (baguette)",
+        "swiss cheese",
+        "mozzarella cheese",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

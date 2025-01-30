@@ -1,0 +1,18 @@
+{
+    "dish_name": "sweet and sassy mixed nuts",
+    "ingredients": [
+        "brown sugar",
+        "cinnamon",
+        "cayenne pepper",
+        "egg white",
+        "cups    mixed nuts (I use deluxe mixed nuts with no peanuts)",
+        "dried cranberries"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

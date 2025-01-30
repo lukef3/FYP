@@ -1,0 +1,14 @@
+{
+    "dish_name": "sugared asparagus",
+    "ingredients": [
+        "butter",
+        "margarine",
+        "brown sugar",
+        "fresh asparagus",
+        "chicken broth"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

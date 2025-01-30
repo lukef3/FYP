@@ -1,0 +1,27 @@
+{
+    "dish_name": "sweet italian chili",
+    "ingredients": [
+        "lbs    95% lean ground beef",
+        "bell pepper",
+        "fresh parsley",
+        "onion",
+        "celery",
+        "kidney beans",
+        "stewed tomatoes",
+        "tomato paste",
+        "water",
+        "sugar",
+        "dried sweet basil leaves",
+        "dried oregano",
+        "salt",
+        "ground cumin",
+        "chili powder",
+        "garlic powder",
+        "ground cloves",
+        "baking soda"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

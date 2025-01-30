@@ -1,0 +1,28 @@
+{
+    "dish_name": "southwest ranch salad dressing",
+    "ingredients": [
+        "mayonnaise",
+        "sour cream",
+        "milk",
+        "tomatoes",
+        "white vinegar",
+        "teaspoons    canned jalapeno slices, minced",
+        "onion",
+        "dried parsley",
+        "teaspoon    hot sauce",
+        "salt",
+        "paprika",
+        "dried dill weed",
+        "cayenne pepper",
+        "ground cumin",
+        "garlic powder",
+        "ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

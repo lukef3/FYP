@@ -1,0 +1,21 @@
+{
+    "dish_name": "easy pumpkin pancakes",
+    "ingredients": [
+        "flour",
+        "granulated sugar",
+        "baking powder",
+        "salt",
+        "cinnamon",
+        "milk",
+        "canned pumpkin",
+        "eggs",
+        "margarine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

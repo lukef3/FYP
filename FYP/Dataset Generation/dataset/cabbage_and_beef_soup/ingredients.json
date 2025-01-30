@@ -1,0 +1,22 @@
+{
+    "dish_name": "cabbage and beef soup",
+    "ingredients": [
+        "lean ground beef",
+        "teaspoon    garlic salt",
+        "garlic powder",
+        "black pepper",
+        "garlic",
+        "onion",
+        "celery",
+        "kidney beans",
+        "cabbage",
+        "diced tomatoes",
+        "water",
+        "beef bouillon cubes",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

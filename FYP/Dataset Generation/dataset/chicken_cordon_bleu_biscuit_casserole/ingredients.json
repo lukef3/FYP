@@ -1,0 +1,25 @@
+{
+    "dish_name": "chicken cordon bleu biscuit casserole",
+    "ingredients": [
+        "butter",
+        "margarine",
+        "flour",
+        "salt",
+        "pepper",
+        "milk",
+        "cups    cooked chicken, cubed",
+        "ham",
+        "swiss cheese",
+        "(7 1/2  ounce) can   refrigerated biscuits",
+        "butter",
+        "margarine",
+        "cup    Italian breadcrumbs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

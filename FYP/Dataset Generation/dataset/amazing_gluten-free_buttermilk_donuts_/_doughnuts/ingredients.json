@@ -1,0 +1,24 @@
+{
+    "dish_name": "amazing gluten-free buttermilk donuts / doughnuts",
+    "ingredients": [
+        "eggs",
+        "buttermilk",
+        "butter",
+        "cups    gluten-free rice flour mix (see note)",
+        "sugar",
+        "nutmeg",
+        "cinnamon",
+        "baking soda",
+        "baking powder",
+        "salt",
+        "xanthan gum",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

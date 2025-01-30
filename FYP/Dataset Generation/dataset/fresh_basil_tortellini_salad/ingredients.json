@@ -1,0 +1,19 @@
+{
+    "dish_name": "fresh basil tortellini salad",
+    "ingredients": [
+        "lb   uncooked dry cheese-filled egg tortellini",
+        "olive oil",
+        "cup    balsamic vinegar",
+        "fresh basil",
+        "parmesan cheese",
+        "pepper",
+        "green onion",
+        "carrot"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

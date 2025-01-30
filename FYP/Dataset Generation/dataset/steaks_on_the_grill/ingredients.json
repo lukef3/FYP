@@ -1,0 +1,15 @@
+{
+    "dish_name": "steaks on the grill",
+    "ingredients": [
+        "New York strip steaks or 5       rib eye steaks, medium thickness",
+        "A.1. Original Sauce (to taste)",
+        "Worcestershire sauce",
+        "seasoning salt",
+        "dried parsley flakes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

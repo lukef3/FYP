@@ -1,0 +1,22 @@
+{
+    "dish_name": "healthy sesame chicken",
+    "ingredients": [
+        "unbleached flour",
+        "all-purpose flour",
+        "salt",
+        "ground black pepper",
+        "boneless skinless chicken breast halves",
+        "reduced sodium soy sauce",
+        "sugar",
+        "teaspoon    dark sesame oil",
+        "sesame seeds",
+        "fresh chives"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

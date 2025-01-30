@@ -1,0 +1,20 @@
+{
+    "dish_name": "kielbasa, cabbage, and onions (low-carb slow cooker crock pot)",
+    "ingredients": [
+        "cooking spray",
+        "head of cabbage",
+        "onion",
+        "kosher salt",
+        "black pepper",
+        "chicken broth",
+        "brown mustard",
+        "kielbasa"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

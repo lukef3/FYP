@@ -1,0 +1,16 @@
+{
+    "dish_name": "teriyaki glaze marinade",
+    "ingredients": [
+        "canola oil",
+        "soy sauce",
+        "tomato juice",
+        "brown sugar",
+        "garlic",
+        "black pepper",
+        "lbs    meat (of choice)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

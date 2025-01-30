@@ -1,0 +1,19 @@
+{
+    "dish_name": "new york deli potato salad",
+    "ingredients": [
+        "new potatoes",
+        "sugar",
+        "white vinegar",
+        "water",
+        "onion",
+        "white pepper",
+        "salt",
+        "cup    vegetable oil",
+        "Hellmann's mayonnaise",
+        "parsley",
+        "carrot"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

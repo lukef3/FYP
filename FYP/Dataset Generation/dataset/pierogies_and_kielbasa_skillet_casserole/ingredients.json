@@ -1,0 +1,16 @@
+{
+    "dish_name": "pierogies and kielbasa skillet casserole",
+    "ingredients": [
+        "onions",
+        "margarine",
+        "cabbage",
+        "kielbasa",
+        "potato & cheese pierogies",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

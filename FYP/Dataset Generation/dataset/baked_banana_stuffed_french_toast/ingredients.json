@@ -1,0 +1,21 @@
+{
+    "dish_name": "baked banana stuffed french toast",
+    "ingredients": [
+        "bananas",
+        "thin slices light mixed grain bread",
+        "nonfat milk",
+        "eggs",
+        "vanilla extract",
+        "ground cinnamon",
+        "vegetable oil cooking spray",
+        "powdered sugar",
+        "strawberries",
+        "pure maple syrup"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

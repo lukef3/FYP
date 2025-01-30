@@ -1,0 +1,20 @@
+{
+    "dish_name": "szechuan stir-fried beef",
+    "ingredients": [
+        "boneless beef top sirloin steak",
+        "low sodium soy sauce",
+        "dry sherry",
+        "water",
+        "cornstarch",
+        "teaspoons    fresh gingerroot, peeled and minced",
+        "crushed red pepper flakes",
+        "fresh ground black pepper",
+        "chili powder",
+        "tablespoon    vegetable oil",
+        "garlic"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

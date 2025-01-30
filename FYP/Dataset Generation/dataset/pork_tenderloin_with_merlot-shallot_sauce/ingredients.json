@@ -1,0 +1,23 @@
+{
+    "dish_name": "pork tenderloin with merlot-shallot sauce",
+    "ingredients": [
+        "pork tenderloin (about 1 lb each)",
+        "olive oil",
+        "fresh rosemary leaf",
+        "salt",
+        "pepper",
+        "shallots",
+        "garlic",
+        "dry red wine",
+        "tablespoon    chicken stock powder or 1   tablespoon    chicken soup base (a concentrated reduced chicken broth can be substituted)",
+        "tablespoons    cherry preserves or 2   tablespoons    blackberry preserves",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

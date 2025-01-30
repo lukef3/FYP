@@ -1,0 +1,20 @@
+{
+    "dish_name": "tuna & egg salad",
+    "ingredients": [
+        "tuna",
+        "hard-boiled eggs",
+        "cup    pickle relish (dill or sweet)",
+        "mayonnaise",
+        "onion",
+        "garlic powder",
+        "salt",
+        "dill weed"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "sweet-n-tangy asian pork tenderloin",
+    "ingredients": [
+        "lbs    pork tenderloin",
+        "honey",
+        "molasses",
+        "garlic",
+        "teaspoon   minced fresh gingerroot",
+        "light soy sauce",
+        "teaspoon    sesame oil",
+        "sesame seeds",
+        "green onions"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "poppy seed chicken casserole",
+    "ingredients": [
+        "boneless skinless chicken",
+        "(10 3/4  ounce) cans   cream of chicken soup",
+        "sour cream",
+        "Ritz crackers, crushed",
+        "poppy seed",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

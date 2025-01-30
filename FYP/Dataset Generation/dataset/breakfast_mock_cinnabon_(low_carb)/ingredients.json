@@ -1,0 +1,14 @@
+{
+    "dish_name": "breakfast mock cinnabon (low carb)",
+    "ingredients": [
+        "1% fat cottage cheese",
+        "sugar substitute",
+        "pecan halves",
+        "ground cinnamon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

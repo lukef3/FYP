@@ -1,0 +1,15 @@
+{
+    "dish_name": "no-knead food processor thin crust pizza dough",
+    "ingredients": [
+        "all-purpose flour",
+        "fast rise yeast",
+        "salt",
+        "hot water",
+        "olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

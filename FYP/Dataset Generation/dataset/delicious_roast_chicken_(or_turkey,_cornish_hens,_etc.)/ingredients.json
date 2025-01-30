@@ -1,0 +1,21 @@
+{
+    "dish_name": "delicious roast chicken (or turkey, cornish hens, etc.)",
+    "ingredients": [
+        "roasting chickens",
+        "olive oil",
+        "seasoning salt",
+        "paprika",
+        "garlic powder",
+        "dried thyme",
+        "teaspoon    dried Italian seasoning",
+        "fresh coarse ground black pepper",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

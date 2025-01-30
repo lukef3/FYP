@@ -1,0 +1,17 @@
+{
+    "dish_name": "macaroni goulash",
+    "ingredients": [
+        "ground beef",
+        "green pepper",
+        "onion",
+        "margarine",
+        "salt",
+        "black pepper",
+        "cups    cooked macaroni",
+        "tomatoes",
+        "tomato sauce"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

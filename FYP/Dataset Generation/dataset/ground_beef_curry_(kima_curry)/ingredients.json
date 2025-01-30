@@ -1,0 +1,24 @@
+{
+    "dish_name": "ground beef curry (kima curry)",
+    "ingredients": [
+        "tablespoons    oil",
+        "onion",
+        "lean ground beef",
+        "curry powder",
+        "garlic cloves",
+        "gingerroot",
+        "tomatoes",
+        "tomato paste",
+        "ground cinnamon",
+        "cilantro",
+        "water",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

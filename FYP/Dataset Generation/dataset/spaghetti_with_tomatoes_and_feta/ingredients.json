@@ -1,0 +1,18 @@
+{
+    "dish_name": "spaghetti with tomatoes and feta",
+    "ingredients": [
+        "olive oil",
+        "dried oregano",
+        "garlic",
+        "tomatoes",
+        "green onion",
+        "fresh parsley",
+        "lemon juice",
+        "ounces    thin spaghetti, cooked  (about 4 cups cooked)",
+        "feta cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

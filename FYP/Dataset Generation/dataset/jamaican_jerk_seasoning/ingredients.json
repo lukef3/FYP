@@ -1,0 +1,27 @@
+{
+    "dish_name": "jamaican jerk seasoning",
+    "ingredients": [
+        "tablespoon    onion flakes",
+        "teaspoons    ground thyme",
+        "dried parsley",
+        "ground allspice",
+        "ground cinnamon",
+        "ground black pepper",
+        "cayenne pepper",
+        "paprika",
+        "teaspoon    hot pepper flakes",
+        "ground cumin",
+        "garlic powder",
+        "salt",
+        "ground nutmeg",
+        "sugar",
+        "dried chives"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

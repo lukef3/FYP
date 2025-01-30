@@ -1,0 +1,20 @@
+{
+    "dish_name": "grammie bea's boston baked beans",
+    "ingredients": [
+        "dried navy beans",
+        "onion",
+        "salt pork",
+        "sugar",
+        "brown sugar",
+        "molasses",
+        "dry mustard",
+        "pepper",
+        "salt",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

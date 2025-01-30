@@ -2,19 +2,17 @@
     "dish_name": "pancakes",
     "ingredients": [
         "egg",
-        "milk",
-        "butter",
-        "margarine",
+        "buttermilk",
+        "tablespoons    oil",
         "flour",
         "sugar",
         "baking powder",
+        "baking soda",
         "salt"
     ],
     "images": [
         "images/image_1.jpg",
         "images/image_2.jpg",
-        "images/image_3.jpg",
-        "images/image_4.jpg",
-        "images/image_5.jpg"
+        "images/image_3.jpg"
     ]
 }

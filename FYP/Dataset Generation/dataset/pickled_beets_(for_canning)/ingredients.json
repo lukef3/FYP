@@ -1,0 +1,18 @@
+{
+    "dish_name": "pickled beets (for canning)",
+    "ingredients": [
+        "beets",
+        "sugar",
+        "water",
+        "white vinegar",
+        "ground cloves",
+        "allspice",
+        "cinnamon",
+        "whole cloves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

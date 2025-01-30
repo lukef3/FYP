@@ -1,0 +1,20 @@
+{
+    "dish_name": "amy's pumpkin chocolate chip cookies",
+    "ingredients": [
+        "sugar",
+        "pumpkin",
+        "cup    oil",
+        "egg",
+        "vanilla",
+        "white flour",
+        "baking powder",
+        "baking soda",
+        "cinnamon",
+        "salt",
+        "chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

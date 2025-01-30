@@ -1,0 +1,19 @@
+{
+    "dish_name": "penne with vodka",
+    "ingredients": [
+        "onion",
+        "garlic",
+        "butter",
+        "vodka",
+        "tomato puree",
+        "cup    cream",
+        "cooked ham",
+        "Tabasco sauce",
+        "penne",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

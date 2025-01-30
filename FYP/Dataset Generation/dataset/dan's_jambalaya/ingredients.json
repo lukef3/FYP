@@ -1,0 +1,27 @@
+{
+    "dish_name": "dan's jambalaya",
+    "ingredients": [
+        "cup    oil",
+        "skinless chicken thighs",
+        "andouille sausages",
+        "chorizo sausage",
+        "tablespoon   tony's creole seasoning",
+        "salt",
+        "onions",
+        "celery ribs",
+        "bell pepper",
+        "garlic cloves",
+        "Rotel Tomatoes",
+        "tomato sauce",
+        "salt",
+        "fresh shrimp",
+        "parsley",
+        "green onion tops",
+        "rice",
+        "cups    chicken stock"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

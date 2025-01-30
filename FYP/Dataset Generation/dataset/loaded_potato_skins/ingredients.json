@@ -1,0 +1,27 @@
+{
+    "dish_name": "loaded potato skins",
+    "ingredients": [
+        "baking potatoes",
+        "tablespoons    vegetable oil",
+        "salt and pepper",
+        "paprika",
+        "chili powder",
+        "cheddar cheese",
+        "green peppers",
+        "chives",
+        "green onion",
+        "garlic",
+        "mustard",
+        "teaspoon    hot sauce (optional)",
+        "sour cream",
+        "egg",
+        "bacon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

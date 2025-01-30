@@ -1,0 +1,14 @@
+{
+    "dish_name": "fake rotisserie chicken",
+    "ingredients": [
+        "chicken",
+        "onion",
+        "lemon",
+        "rosemary",
+        "herbs",
+        "soy sauce"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "mousse au chocolat (chocolate mousse)",
+    "ingredients": [
+        "bittersweet chocolate",
+        "sugar",
+        "water",
+        "eggs",
+        "extra egg yolks",
+        "cup    espresso",
+        "very strong coffee",
+        "Grand Marnier",
+        "unsalted butter",
+        "heavy cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dish_name": "stuffed cinnamon crescent rolls",
+    "ingredients": [
+        "(8   ounce) package   refrigerated crescent dinner rolls",
+        "marshmallows",
+        "ground cinnamon",
+        "sugar",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

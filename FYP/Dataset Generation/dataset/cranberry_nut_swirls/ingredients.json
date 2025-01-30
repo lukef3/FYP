@@ -1,0 +1,24 @@
+{
+    "dish_name": "cranberry nut swirls",
+    "ingredients": [
+        "butter",
+        "sugar",
+        "egg",
+        "vanilla",
+        "flour",
+        "baking powder",
+        "salt",
+        "cranberries",
+        "walnuts",
+        "orange zest",
+        "brown sugar",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

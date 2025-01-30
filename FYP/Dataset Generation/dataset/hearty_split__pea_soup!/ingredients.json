@@ -1,0 +1,28 @@
+{
+    "dish_name": "hearty split  pea soup!",
+    "ingredients": [
+        "olive oil",
+        "onion",
+        "celery rib",
+        "potatoes",
+        "carrots",
+        "garlic cloves",
+        "oregano",
+        "pepper",
+        "bay leaf",
+        "2       smoked pork shanks or 2      smoked turkey wings",
+        "(16   ounce) package   dried split peas",
+        "salt & pepper",
+        "hot sauce (optional)",
+        "sherry wine",
+        "herbed croutons",
+        "cup   crumbled cooked bacon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

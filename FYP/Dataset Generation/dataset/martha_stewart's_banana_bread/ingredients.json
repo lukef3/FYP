@@ -1,0 +1,22 @@
+{
+    "dish_name": "martha stewart's banana bread",
+    "ingredients": [
+        "unsalted butter",
+        "unsalted margarine",
+        "sugar",
+        "eggs",
+        "flour",
+        "baking soda",
+        "salt",
+        "banana",
+        "sour cream",
+        "vanilla extract",
+        "walnuts",
+        "pecans",
+        "chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

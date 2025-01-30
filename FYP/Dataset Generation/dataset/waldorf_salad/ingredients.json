@@ -1,0 +1,22 @@
+{
+    "dish_name": "waldorf salad",
+    "ingredients": [
+        "apples",
+        "celery",
+        "red grapes",
+        "banana",
+        "miniature marshmallow",
+        "walnuts",
+        "lemon juice",
+        "mayonnaise",
+        "sugar",
+        "half-and-half"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

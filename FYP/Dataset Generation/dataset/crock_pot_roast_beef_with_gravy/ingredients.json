@@ -1,0 +1,17 @@
+{
+    "dish_name": "crock pot roast beef with gravy",
+    "ingredients": [
+        "sirloin tip roast",
+        "all-purpose flour",
+        "(1 1/4  ounce) envelope   onion soup mix",
+        "(1 1/4  ounce) envelope   brown gravy mix",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

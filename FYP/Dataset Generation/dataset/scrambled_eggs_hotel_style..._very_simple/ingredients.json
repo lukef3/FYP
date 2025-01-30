@@ -1,0 +1,18 @@
+{
+    "dish_name": "scrambled eggs hotel style... very simple",
+    "ingredients": [
+        "eggs",
+        "tap water",
+        "margarine",
+        "whipped butter",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

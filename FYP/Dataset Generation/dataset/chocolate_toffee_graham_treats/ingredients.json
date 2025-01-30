@@ -1,0 +1,17 @@
+{
+    "dish_name": "chocolate toffee graham treats",
+    "ingredients": [
+        "honey graham crackers",
+        "butter",
+        "sugar",
+        "pecans",
+        "cup    semi-sweet chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

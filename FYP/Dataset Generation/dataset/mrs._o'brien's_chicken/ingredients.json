@@ -1,0 +1,14 @@
+{
+    "dish_name": "mrs. o'brien's chicken",
+    "ingredients": [
+        "chicken pieces",
+        "(8   ounce) bottle  catalina French dressing",
+        "cranberry sauce",
+        "package    dry onion soup mix"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

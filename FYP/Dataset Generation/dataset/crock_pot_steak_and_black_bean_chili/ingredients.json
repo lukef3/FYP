@@ -1,0 +1,25 @@
+{
+    "dish_name": "crock pot steak and black bean chili",
+    "ingredients": [
+        "boneless beef cubes",
+        "chili powder",
+        "garlic powder",
+        "ground cumin",
+        "onion",
+        "green pepper",
+        "black beans",
+        "chopped tomatoes",
+        "sugar",
+        "tomato paste",
+        "salt and pepper, to taste",
+        "sour cream",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

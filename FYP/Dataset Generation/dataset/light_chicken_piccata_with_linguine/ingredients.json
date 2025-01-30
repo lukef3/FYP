@@ -1,0 +1,23 @@
+{
+    "dish_name": "light chicken piccata with linguine",
+    "ingredients": [
+        "boneless skinless chicken breast halves",
+        "flour",
+        "salt",
+        "black pepper",
+        "butter",
+        "olive oil",
+        "white wine",
+        "fresh lemon juice",
+        "capers",
+        "fresh parsley",
+        "linguine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

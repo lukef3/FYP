@@ -1,0 +1,22 @@
+{
+    "dish_name": "baked  mushroom chicken i i",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "flour",
+        "butter",
+        "mushroom",
+        "chicken broth",
+        "salt",
+        "pepper",
+        "mozzarella cheese",
+        "parmesan cheese",
+        "green onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

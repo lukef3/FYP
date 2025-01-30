@@ -1,0 +1,22 @@
+{
+    "dish_name": "beef fajitas",
+    "ingredients": [
+        "beef steak",
+        "onion",
+        "green bell pepper",
+        "tomatoes",
+        "teaspoons    cooking oil",
+        "chili powder",
+        "ground cumin",
+        "Worcestershire sauce",
+        "water",
+        "tortilla",
+        "sour cream",
+        "guacamole",
+        "salsa"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

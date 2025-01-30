@@ -1,0 +1,22 @@
+{
+    "dish_name": "old-fashioned banana pudding",
+    "ingredients": [
+        "all-purpose flour",
+        "salt",
+        "milk",
+        "sweetened condensed milk",
+        "egg yolks",
+        "vanilla extract",
+        "bananas",
+        "vanilla wafers",
+        "egg whites",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

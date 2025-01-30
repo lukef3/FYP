@@ -1,0 +1,17 @@
+{
+    "dish_name": "vanilla sauce",
+    "ingredients": [
+        "water",
+        "sugar",
+        "cornstarch",
+        "butter",
+        "margarine",
+        "vanilla extract",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

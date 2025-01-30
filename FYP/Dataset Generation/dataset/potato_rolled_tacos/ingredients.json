@@ -1,0 +1,19 @@
+{
+    "dish_name": "potato rolled tacos",
+    "ingredients": [
+        "whole jalapeno peppers (or 1 depending on heat)",
+        "corn tortillas",
+        "cups    boiled potatoes (or mashed or any left over soft skillet potato leftovers)",
+        "tablespoons    taco seasoning",
+        "cheese",
+        "fresh cilantro",
+        "cooking oil (enough to lightly fry)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

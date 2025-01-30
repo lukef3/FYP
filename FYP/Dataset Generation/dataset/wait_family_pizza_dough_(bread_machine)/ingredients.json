@@ -1,0 +1,20 @@
+{
+    "dish_name": "wait family pizza dough (bread machine)",
+    "ingredients": [
+        "water",
+        "margarine",
+        "egg",
+        "bread flour",
+        "all-purpose flour",
+        "salt",
+        "sugar",
+        "teaspoons    yeast"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

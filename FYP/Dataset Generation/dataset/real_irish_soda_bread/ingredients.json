@@ -1,0 +1,24 @@
+{
+    "dish_name": "real irish soda bread",
+    "ingredients": [
+        "flour",
+        "baking soda",
+        "baking powder",
+        "sugar",
+        "cream of tartar",
+        "butter",
+        "eggs",
+        "sour cream",
+        "plain yogurt",
+        "buttermilk",
+        "caraway seed",
+        "currants",
+        "raisins",
+        "oatmeal"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

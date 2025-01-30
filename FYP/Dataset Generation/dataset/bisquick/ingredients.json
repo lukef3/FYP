@@ -1,0 +1,13 @@
+{
+    "dish_name": "bisquick",
+    "ingredients": [
+        "flour",
+        "baking powder",
+        "salt",
+        "shortening"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

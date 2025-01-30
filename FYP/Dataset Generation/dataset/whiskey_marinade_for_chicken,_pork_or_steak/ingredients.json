@@ -1,0 +1,19 @@
+{
+    "dish_name": "whiskey marinade for chicken, pork or steak",
+    "ingredients": [
+        "cup    whiskey (any brand)",
+        "brown sugar",
+        "olive oil",
+        "garlic powder",
+        "soy sauce",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

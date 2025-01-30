@@ -1,0 +1,27 @@
+{
+    "dish_name": "sweet potato burritos",
+    "ingredients": [
+        "teaspoons    vegetable oil",
+        "onion",
+        "garlic",
+        "canned kidney beans",
+        "water",
+        "chili powder",
+        "ground cumin",
+        "prepared mustard",
+        "cayenne pepper",
+        "soy sauce",
+        "mashed sweet potatoes",
+        "10-inch flour tortillas",
+        "cheddar cheese",
+        "sour cream",
+        "green onion",
+        "salsa"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

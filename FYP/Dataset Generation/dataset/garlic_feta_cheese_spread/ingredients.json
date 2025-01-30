@@ -1,0 +1,19 @@
+{
+    "dish_name": "garlic feta cheese spread",
+    "ingredients": [
+        "feta cheese",
+        "cream cheese",
+        "mayonnaise",
+        "garlic",
+        "basil",
+        "oregano",
+        "dill weed",
+        "thyme"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

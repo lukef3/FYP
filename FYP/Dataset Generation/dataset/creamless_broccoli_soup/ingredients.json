@@ -1,0 +1,25 @@
+{
+    "dish_name": "creamless broccoli soup",
+    "ingredients": [
+        "canola oil",
+        "onions",
+        "celery",
+        "garlic cloves",
+        "salt",
+        "broccoli",
+        "water",
+        "quick-cooking oatmeal",
+        "fresh lemon juice",
+        "dried dill",
+        "black pepper",
+        "fresh chives",
+        "lemon slice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

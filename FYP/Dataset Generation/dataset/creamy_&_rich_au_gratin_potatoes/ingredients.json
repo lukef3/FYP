@@ -1,0 +1,21 @@
+{
+    "dish_name": "creamy & rich au gratin potatoes",
+    "ingredients": [
+        "butter",
+        "margarine",
+        "all-purpose flour",
+        "salt",
+        "pepper",
+        "milk",
+        "half-and-half",
+        "white potatoes",
+        "onion",
+        "dried parsley flakes",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "my mum's easy and traditional english yorkshire pudding",
+    "ingredients": [
+        "egg",
+        "plain flour",
+        "milk",
+        "water",
+        "salt",
+        "pepper",
+        "tablespoon    cooking oil or 1 -2   tablespoon    dripping"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

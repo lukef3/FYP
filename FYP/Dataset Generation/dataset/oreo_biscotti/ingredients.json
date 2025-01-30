@@ -1,0 +1,21 @@
+{
+    "dish_name": "oreo biscotti",
+    "ingredients": [
+        "sugar",
+        "butter",
+        "eggs",
+        "vanilla extract",
+        "flour",
+        "baking powder",
+        "salt",
+        "Oreo cookies, coarsely chopped",
+        "white chocolate"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "southern lima beans with rice",
+    "ingredients": [
+        "lima beans",
+        "baby lima beans",
+        "onion",
+        "ham hocks",
+        "ham bone",
+        "garlic cloves",
+        "black pepper",
+        "salt",
+        "olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

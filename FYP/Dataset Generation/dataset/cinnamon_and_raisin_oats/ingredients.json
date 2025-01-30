@@ -1,0 +1,18 @@
+{
+    "dish_name": "cinnamon and raisin oats",
+    "ingredients": [
+        "skim milk",
+        "sugar",
+        "g    instant oats (1/2 cup)",
+        "raisins",
+        "cinnamon",
+        "ground cinnamon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

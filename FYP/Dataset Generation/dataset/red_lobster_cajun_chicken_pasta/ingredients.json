@@ -1,0 +1,24 @@
+{
+    "dish_name": "red lobster cajun chicken pasta",
+    "ingredients": [
+        "boneless skinless chicken breast halves",
+        "teaspoons    cajun seasoning",
+        "butter",
+        "margarine",
+        "heavy cream",
+        "dried basil",
+        "lemon pepper seasoning",
+        "salt",
+        "garlic powder",
+        "pepper",
+        "linguine",
+        "fettuccine pasta",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

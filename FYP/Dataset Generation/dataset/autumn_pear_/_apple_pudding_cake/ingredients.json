@@ -1,0 +1,30 @@
+{
+    "dish_name": "autumn pear / apple pudding cake",
+    "ingredients": [
+        "pears",
+        "apples",
+        "lemon juice",
+        "unsalted butter",
+        "sugar",
+        "baking powder",
+        "ginger",
+        "cinnamon",
+        "salt",
+        "egg",
+        "flour",
+        "milk",
+        "sugar",
+        "cornstarch",
+        "salt",
+        "ginger",
+        "cinnamon",
+        "tap water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "dish_name": "hot artichoke dip",
+    "ingredients": [
+        "artichoke hearts",
+        "cream cheese",
+        "mayonnaise",
+        "mozzarella cheese",
+        "parmesan cheese",
+        "garlic powder"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

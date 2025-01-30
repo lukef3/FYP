@@ -1,0 +1,18 @@
+{
+    "dish_name": "olive garden alfredo sauce",
+    "ingredients": [
+        "heavy cream",
+        "butter",
+        "flour",
+        "parmesan cheese",
+        "Fontina cheese",
+        "garlic",
+        "salt",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

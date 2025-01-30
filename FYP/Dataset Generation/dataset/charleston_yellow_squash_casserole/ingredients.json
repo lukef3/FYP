@@ -1,0 +1,25 @@
+{
+    "dish_name": "charleston yellow squash casserole",
+    "ingredients": [
+        "lbs    yellow squash, sliced",
+        "onions",
+        "salt",
+        "black pepper",
+        "ground nutmeg",
+        "sharp cheddar cheese",
+        "low-fat cheddar cheese",
+        "fat-free cheddar cheese",
+        "skim milk",
+        "egg substitute",
+        "eggs",
+        "saltine crackers or 16       Ritz crackers, crushed",
+        "paprika"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

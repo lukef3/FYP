@@ -1,0 +1,19 @@
+{
+    "dish_name": "food processor french bread",
+    "ingredients": [
+        "water",
+        "tablespoons    yeast",
+        "sugar",
+        "flour",
+        "salt",
+        "sugar",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

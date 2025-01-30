@@ -1,0 +1,19 @@
+{
+    "dish_name": "grandma's clam dip",
+    "ingredients": [
+        "clam",
+        "cream cheese",
+        "Worcestershire sauce",
+        "garlic powder",
+        "lemon juice",
+        "salt and pepper",
+        "Tabasco sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

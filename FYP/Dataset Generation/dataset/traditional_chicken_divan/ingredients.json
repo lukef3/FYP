@@ -1,0 +1,21 @@
+{
+    "dish_name": "traditional chicken divan",
+    "ingredients": [
+        "broccoli",
+        "boneless skinless chicken breasts",
+        "extra virgin olive oil",
+        "butter",
+        "flour",
+        "chicken broth",
+        "milk",
+        "half-and-half",
+        "sherry wine",
+        "cheddar cheese",
+        "salt and pepper",
+        "nutmeg"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

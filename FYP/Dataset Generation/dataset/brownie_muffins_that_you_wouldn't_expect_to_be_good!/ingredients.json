@@ -1,0 +1,15 @@
+{
+    "dish_name": "brownie muffins that you wouldn't expect to be good!",
+    "ingredients": [
+        "(18   ounce) box   chocolate cake mix (can be devils food or dark chocolate)",
+        "pumpkin",
+        "chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

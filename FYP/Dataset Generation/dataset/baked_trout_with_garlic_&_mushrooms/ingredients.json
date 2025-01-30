@@ -1,0 +1,23 @@
+{
+    "dish_name": "baked trout with garlic & mushrooms",
+    "ingredients": [
+        "trout",
+        "olive oil",
+        "garlic",
+        "fresh ground black pepper",
+        "salt",
+        "fresh mushrooms",
+        "butter",
+        "tablespoons    fine dry breadcrumbs",
+        "green onions",
+        "lemons",
+        "parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

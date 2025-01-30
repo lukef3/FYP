@@ -1,0 +1,13 @@
+{
+    "dish_name": "holiday potpourri",
+    "ingredients": [
+        "orange",
+        "lemon",
+        "bay leaf",
+        "cinnamon stick",
+        "whole cloves"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

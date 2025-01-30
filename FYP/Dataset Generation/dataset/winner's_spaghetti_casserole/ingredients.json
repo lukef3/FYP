@@ -1,0 +1,19 @@
+{
+    "dish_name": "winner's spaghetti casserole",
+    "ingredients": [
+        "(10 -16   ounce) package   thin spaghetti, cooked and drained",
+        "(28   ounce) jar  prepared spaghetti sauce",
+        "lean ground beef",
+        "onion",
+        "green bell pepper",
+        "cream cheese",
+        "butter",
+        "margarine",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

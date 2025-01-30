@@ -1,0 +1,21 @@
+{
+    "dish_name": "chocolate-fudge brownies",
+    "ingredients": [
+        "chocolate",
+        "butter",
+        "sugar",
+        "vanilla",
+        "eggs",
+        "salt",
+        "all-purpose flour",
+        "chocolate chips",
+        "walnuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

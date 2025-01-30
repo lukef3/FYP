@@ -1,0 +1,17 @@
+{
+    "dish_name": "nifty carrots",
+    "ingredients": [
+        "fresh carrots",
+        "water",
+        "mayonnaise",
+        "sour cream",
+        "horseradish",
+        "onions",
+        "salt and pepper",
+        "cup    breadcrumbs (optional)",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

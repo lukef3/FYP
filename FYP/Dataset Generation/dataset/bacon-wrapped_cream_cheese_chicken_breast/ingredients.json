@@ -1,0 +1,24 @@
+{
+    "dish_name": "bacon-wrapped cream cheese chicken breast",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "cream cheese with chives",
+        "bacon",
+        "(10   ounce) cans   cream of chicken soup",
+        "parmesan cheese",
+        "onion",
+        "milk",
+        "sour cream",
+        "mayonnaise",
+        "salt",
+        "black pepper",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

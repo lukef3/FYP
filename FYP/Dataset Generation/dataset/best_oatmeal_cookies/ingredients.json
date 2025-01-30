@@ -1,0 +1,20 @@
+{
+    "dish_name": "best oatmeal cookies",
+    "ingredients": [
+        "low-fat margarine",
+        "white sugar",
+        "brown sugar",
+        "large    egg whites, slightly beaten",
+        "all-purpose flour",
+        "baking soda",
+        "cinnamon",
+        "nutmeg",
+        "oats",
+        "raisins",
+        "vanilla"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

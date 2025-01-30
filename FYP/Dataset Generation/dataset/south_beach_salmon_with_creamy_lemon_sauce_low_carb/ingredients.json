@@ -1,0 +1,19 @@
+{
+    "dish_name": "south beach salmon with creamy lemon sauce low carb",
+    "ingredients": [
+        "olive oil",
+        "garlic clove",
+        "lemon juice",
+        "capers",
+        "lemon-pepper seasoning",
+        "fat free sour cream",
+        "salmon fillets"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

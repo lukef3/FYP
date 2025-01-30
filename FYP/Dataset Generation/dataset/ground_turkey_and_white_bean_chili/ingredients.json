@@ -1,0 +1,23 @@
+{
+    "dish_name": "ground turkey and white bean chili",
+    "ingredients": [
+        "canola oil",
+        "ground turkey",
+        "salt and pepper",
+        "onion",
+        "jalapenos, seeded and minced",
+        "ground cumin",
+        "tomato sauce",
+        "cannellini beans",
+        "chicken broth",
+        "water",
+        "cilantro",
+        "light sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "rice and black beans (rice cooker)",
+    "ingredients": [
+        "cup    uncooked rice",
+        "diced tomatoes with green chilies",
+        "chicken broth",
+        "black beans",
+        "(14 3/4  ounce) can   sweet corn (optional)",
+        "cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

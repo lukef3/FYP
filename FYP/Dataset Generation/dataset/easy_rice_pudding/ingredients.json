@@ -1,0 +1,15 @@
+{
+    "dish_name": "easy rice pudding",
+    "ingredients": [
+        "cooked white rice",
+        "milk",
+        "butter",
+        "sugar",
+        "vanilla extract",
+        "nutmeg",
+        "cinnamon"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

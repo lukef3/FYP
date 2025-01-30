@@ -1,0 +1,16 @@
+{
+    "dish_name": "fresh tomato and corn salad",
+    "ingredients": [
+        "tomatoes",
+        "cherry tomatoes",
+        "fresh corn",
+        "frozen corn",
+        "fresh basil leaves",
+        "balsamic vinegar",
+        "extra virgin olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "shake and  bake mix",
+    "ingredients": [
+        "cup   finely crushed corn flakes",
+        "flour",
+        "salt",
+        "sugar",
+        "parsley flakes",
+        "paprika",
+        "garlic powder",
+        "onion powder",
+        "dry mustard",
+        "teaspoon    celery salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "white chocolate chip and macadamia nut cookies",
+    "ingredients": [
+        "butter",
+        "margarine",
+        "granulated sugar",
+        "brown sugar",
+        "eggs",
+        "vanilla extract",
+        "flour",
+        "baking soda",
+        "salt",
+        "white chocolate chips",
+        "cups   chopped dry roasted macadamia nuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

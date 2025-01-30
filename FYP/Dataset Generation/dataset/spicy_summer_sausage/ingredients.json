@@ -1,0 +1,20 @@
+{
+    "dish_name": "spicy summer sausage",
+    "ingredients": [
+        "ground beef",
+        "water",
+        "Morton Tender Quick salt",
+        "liquid smoke",
+        "garlic juice",
+        "onion powder",
+        "mustard seeds",
+        "ground cumin",
+        "red pepper flakes",
+        "teaspoon    cajun-louisiana seasoning blend (your favorite)",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

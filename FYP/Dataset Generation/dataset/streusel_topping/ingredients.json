@@ -1,0 +1,13 @@
+{
+    "dish_name": "streusel topping",
+    "ingredients": [
+        "sugar",
+        "flour",
+        "water",
+        "cinnamon",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

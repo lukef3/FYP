@@ -1,0 +1,21 @@
+{
+    "dish_name": "old bay spicy shrimp scampi",
+    "ingredients": [
+        "tablespoon    Old Bay Seasoning",
+        "dried oregano leaves",
+        "garlic powder",
+        "onion powder",
+        "chili powder",
+        "olive oil",
+        "lemon juice",
+        "large shrimp",
+        "angel hair pasta"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

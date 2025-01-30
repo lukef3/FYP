@@ -1,0 +1,19 @@
+{
+    "dish_name": "swiss chard, stir fried, with feta cheese",
+    "ingredients": [
+        "pine nuts",
+        "tablespoons    peanut oil",
+        "shallots",
+        "red swiss chard",
+        "white swiss chard",
+        "feta cheese",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

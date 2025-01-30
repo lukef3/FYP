@@ -1,0 +1,21 @@
+{
+    "dish_name": "pressure cooker hungarian chicken",
+    "ingredients": [
+        "tablespoon    vegetable oil",
+        "lbs    chicken leg quarters, bone-in and skinned",
+        "onion",
+        "hot paprika",
+        "chicken broth",
+        "tomatoes",
+        "salt",
+        "sour cream",
+        "ounces   extra- wide egg noodles, cooked, drained and buttered"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

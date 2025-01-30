@@ -1,0 +1,31 @@
+{
+    "dish_name": "brunswick stew georgia style ( chicken & pork )",
+    "ingredients": [
+        "celery ribs",
+        "carrots",
+        "onion",
+        "whole chicken",
+        "water",
+        "salt",
+        "black pepper",
+        "pork",
+        "barbecue sauce",
+        "ketchup",
+        "Worcestershire sauce",
+        "potatoes",
+        "frozen lima beans",
+        "frozen whole kernel corn",
+        "white shoepeg corn",
+        "mirepoix",
+        "bay leaf",
+        "whole tomatoes",
+        "hot sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

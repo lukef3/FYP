@@ -1,0 +1,22 @@
+{
+    "dish_name": "red lobster shrimp pasta",
+    "ingredients": [
+        "extra virgin olive oil",
+        "garlic cloves",
+        "shrimp",
+        "cup    clam juice (or chicken broth)",
+        "white wine",
+        "heavy cream",
+        "parmesan cheese",
+        "dried basil",
+        "dried oregano",
+        "pasta"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

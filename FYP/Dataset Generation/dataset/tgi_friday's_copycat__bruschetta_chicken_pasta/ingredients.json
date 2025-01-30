@@ -1,0 +1,24 @@
+{
+    "dish_name": "tgi friday's copycat  bruschetta chicken pasta",
+    "ingredients": [
+        "chicken breasts",
+        "salt and black pepper (To Taste)",
+        "angel hair pasta",
+        "roma tomatoes",
+        "olive oil",
+        "salt",
+        "black pepper",
+        "fresh basil leaves",
+        "garlic cloves",
+        "tomato sauce",
+        "cup    balsamic vinegar",
+        "granulated sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

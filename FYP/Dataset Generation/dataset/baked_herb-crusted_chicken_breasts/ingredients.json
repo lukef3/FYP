@@ -1,0 +1,23 @@
+{
+    "dish_name": "baked herb-crusted chicken breasts",
+    "ingredients": [
+        "boneless skinless chicken breast halves",
+        "fresh lemon juice",
+        "butter",
+        "olive oil",
+        "cups    plain breadcrumbs",
+        "fresh basil",
+        "fresh parsley",
+        "fresh rosemary",
+        "salt",
+        "ground black pepper",
+        "lemon wedge"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

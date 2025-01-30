@@ -1,0 +1,17 @@
+{
+    "dish_name": "quick & simple pesto (classic pesto recipe) sauce",
+    "ingredients": [
+        "basil leaves",
+        "parmesan cheese",
+        "olive oil",
+        "garlic cloves",
+        "pine nuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

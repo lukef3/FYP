@@ -1,0 +1,15 @@
+{
+    "dish_name": "strawberry-cream cheese bars",
+    "ingredients": [
+        "(18   ounce)    strawberry cake mix",
+        "butter",
+        "eggs",
+        "cream cheese",
+        "powdered sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

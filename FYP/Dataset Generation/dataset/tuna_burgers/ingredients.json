@@ -1,0 +1,27 @@
+{
+    "dish_name": "tuna burgers",
+    "ingredients": [
+        "tuna in water",
+        "tablespoons    fresh breadcrumbs (or canned)",
+        "tablespoon    pickle relish",
+        "Egg Beaters egg substitute",
+        "egg",
+        "pimiento",
+        "green onion",
+        "celery",
+        "light mayonnaise",
+        "Dijon mustard",
+        "teaspoon    Old Bay Seasoning (or I use extra Old Bay!) (optional)",
+        "Tabasco sauce",
+        "green pepper",
+        "cheddar cheese",
+        "hamburger bun"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

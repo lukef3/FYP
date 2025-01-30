@@ -1,0 +1,22 @@
+{
+    "dish_name": "spicy potato bumps",
+    "ingredients": [
+        "baking potatoes",
+        "olive oil",
+        "parsley flakes",
+        "salt",
+        "chili powder",
+        "paprika",
+        "dried thyme",
+        "garlic powder",
+        "cayenne pepper",
+        "ground rosemary"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

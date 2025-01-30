@@ -1,0 +1,24 @@
+{
+    "dish_name": "ham and  corn chowder",
+    "ingredients": [
+        "celery ribs",
+        "onion",
+        "margarine",
+        "butter",
+        "flour",
+        "milk",
+        "cooked ham",
+        "potatoes",
+        "frozen corn",
+        "(14 3/4  ounce) can   cream-style corn",
+        "dried thyme",
+        "cayenne pepper",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

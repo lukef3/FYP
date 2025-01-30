@@ -1,0 +1,22 @@
+{
+    "dish_name": "rosemary chicken salad sandwiches",
+    "ingredients": [
+        "cups   chopped cooked chicken breasts",
+        "green onion",
+        "cup   chopped smoked almonds",
+        "plain fat-free yogurt",
+        "light mayonnaise",
+        "fresh rosemary",
+        "Dijon mustard",
+        "salt",
+        "fresh ground black pepper",
+        "slices    whole grain bread"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

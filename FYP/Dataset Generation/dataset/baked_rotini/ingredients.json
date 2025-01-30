@@ -1,0 +1,25 @@
+{
+    "dish_name": "baked rotini",
+    "ingredients": [
+        "ground beef",
+        "onion",
+        "green pepper",
+        "crushed tomatoes",
+        "tomato paste",
+        "(4 1/2  ounce) jar   sliced mushrooms, drained",
+        "salt",
+        "dried basil",
+        "garlic powder",
+        "oregano",
+        "dry crushed red pepper",
+        "rotini pasta",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

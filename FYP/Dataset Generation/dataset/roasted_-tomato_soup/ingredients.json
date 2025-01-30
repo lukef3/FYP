@@ -1,0 +1,20 @@
+{
+    "dish_name": "roasted -tomato soup",
+    "ingredients": [
+        "tomatoes",
+        "garlic",
+        "olive oil",
+        "salt",
+        "black pepper",
+        "onion",
+        "dried oregano",
+        "sugar",
+        "unsalted butter",
+        "low sodium chicken broth",
+        "heavy cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

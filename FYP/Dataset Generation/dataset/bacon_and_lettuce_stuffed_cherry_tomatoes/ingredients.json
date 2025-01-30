@@ -1,0 +1,16 @@
+{
+    "dish_name": "bacon and lettuce stuffed cherry tomatoes",
+    "ingredients": [
+        "cherry tomatoes",
+        "fresh chives",
+        "green onion",
+        "bacon",
+        "lettuce",
+        "mayonnaise",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

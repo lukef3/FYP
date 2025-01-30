@@ -1,0 +1,21 @@
+{
+    "dish_name": "danished glazed mushrooms",
+    "ingredients": [
+        "mushroom cap",
+        "olive oil",
+        "salt",
+        "paprika",
+        "garlic clove",
+        "green onion",
+        "fresh parsley",
+        "fresh dill weed",
+        "basil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

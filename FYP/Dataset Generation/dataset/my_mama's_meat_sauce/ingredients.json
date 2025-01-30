@@ -1,0 +1,23 @@
+{
+    "dish_name": "my mama's meat sauce",
+    "ingredients": [
+        "onions",
+        "tablespoon    oil",
+        "ground beef",
+        "tablespoon    italian seasoning",
+        "salt",
+        "pepper",
+        "garlic powder",
+        "stewed tomatoes",
+        "tomato paste",
+        "garlic",
+        "white wine",
+        "vermouth"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

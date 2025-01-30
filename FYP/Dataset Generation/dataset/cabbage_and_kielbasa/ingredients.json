@@ -1,0 +1,20 @@
+{
+    "dish_name": "cabbage and kielbasa",
+    "ingredients": [
+        "bacon",
+        "head of cabbage",
+        "onion",
+        "water",
+        "brown sugar",
+        "garlic clove",
+        "seasoning salt",
+        "dry crushed red pepper",
+        "kielbasa",
+        "Polish sausage"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

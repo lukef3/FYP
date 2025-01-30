@@ -1,0 +1,19 @@
+{
+    "dish_name": "copycat marie callender's cornbread",
+    "ingredients": [
+        "eggs",
+        "milk",
+        "butter",
+        "margarine",
+        "Bisquick",
+        "cornmeal",
+        "sugar",
+        "baking powder"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

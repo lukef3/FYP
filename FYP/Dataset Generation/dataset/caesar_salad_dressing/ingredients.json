@@ -1,0 +1,27 @@
+{
+    "dish_name": "caesar salad dressing",
+    "ingredients": [
+        "garlic cloves",
+        "anchovy fillets",
+        "salt",
+        "fresh ground pepper",
+        "fresh lemon juice",
+        "Worcestershire sauce",
+        "dashes    hot sauce (like Tabasco)",
+        "Dijon mustard",
+        "large    egg yolks",
+        "extra virgin olive oil",
+        "canola oil",
+        "romaine lettuce",
+        "parmesan cheese",
+        "romano cheese",
+        "crouton"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

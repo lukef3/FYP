@@ -1,0 +1,19 @@
+{
+    "dish_name": "aunt emma's bread pudding",
+    "ingredients": [
+        "loaf    white bread (regular size as opposed to Jumbo or family size)",
+        "milk",
+        "butter",
+        "white sugar",
+        "eggs",
+        "vanilla",
+        "raisins",
+        "brown sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

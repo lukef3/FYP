@@ -1,0 +1,23 @@
+{
+    "dish_name": "chop! chop! chicken",
+    "ingredients": [
+        "soy sauce",
+        "white onion, quartered",
+        "brown sugar",
+        "orange, juice of",
+        "orange zest",
+        "garlic cloves",
+        "ginger",
+        "pepper",
+        "five-spice powder",
+        "whole chicken",
+        "cornstarch"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

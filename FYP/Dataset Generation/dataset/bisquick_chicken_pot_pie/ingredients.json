@@ -1,0 +1,20 @@
+{
+    "dish_name": "bisquick chicken pot pie",
+    "ingredients": [
+        "cups    cooked chicken",
+        "(15   ounce) can   Veg-All, well drained  (diced, mixed vegetables)",
+        "(10 1/4  ounce) can   cream of chicken soup, undiluted",
+        "chicken broth",
+        "pepper",
+        "Bisquick",
+        "milk",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

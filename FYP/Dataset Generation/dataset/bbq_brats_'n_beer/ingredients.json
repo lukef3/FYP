@@ -1,0 +1,21 @@
+{
+    "dish_name": "bbq brats 'n beer",
+    "ingredients": [
+        "bratwursts",
+        "lager beer",
+        "onion",
+        "whole black peppercorns",
+        "whole cloves",
+        "garlic cloves",
+        "Italian bread",
+        "sweet dark mustard",
+        "pickled hot peppers (or other relish or chutney)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

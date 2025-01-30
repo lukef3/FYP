@@ -1,0 +1,20 @@
+{
+    "dish_name": "ultimate chocolate chip bars",
+    "ingredients": [
+        "margarine",
+        "granulated sugar",
+        "brown sugar",
+        "eggs",
+        "vanilla extract",
+        "all-purpose flour",
+        "baking soda",
+        "salt",
+        "chocolate chips",
+        "cup    nuts, chopped  (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

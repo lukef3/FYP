@@ -1,0 +1,21 @@
+{
+    "dish_name": "chocolate chess pie",
+    "ingredients": [
+        "sugar",
+        "cocoa powder",
+        "all-purpose flour",
+        "salt",
+        "evaporated milk",
+        "eggs",
+        "unsalted butter",
+        "vanilla",
+        "partially 9-inch baked pie crust"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "chinese style fried pork chops",
+    "ingredients": [
+        "pork chops or 4       pork tenderloin",
+        "soy sauce",
+        "rice wine",
+        "sugar",
+        "salt",
+        "pepper",
+        "five-spice powder",
+        "garlic",
+        "egg",
+        "cornstarch",
+        "oil (for frying)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

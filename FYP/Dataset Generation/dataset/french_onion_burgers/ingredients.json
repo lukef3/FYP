@@ -1,0 +1,18 @@
+{
+    "dish_name": "french onion burgers",
+    "ingredients": [
+        "(2 7/8  ounce) can   French-fried onions",
+        "Worcestershire sauce",
+        "salt",
+        "ground beef",
+        "mushrooms",
+        "hamburger buns"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

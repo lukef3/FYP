@@ -1,0 +1,17 @@
+{
+    "dish_name": "beer cheese dip",
+    "ingredients": [
+        "cream cheese",
+        "tablespoons    ranch dressing mix or 1   package    ranch dressing mix",
+        "sharp cheddar cheese",
+        "green onions",
+        "beer",
+        "non-alcoholic beer"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "orange creamsicle fudge",
+    "ingredients": [
+        "marshmallow creme",
+        "white chocolate chips",
+        "granulated sugar",
+        "heavy cream",
+        "salted butter",
+        "teaspoons    orange extract",
+        "drops    red food coloring",
+        "drops    yellow food coloring (suggested)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

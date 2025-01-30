@@ -1,0 +1,19 @@
+{
+    "dish_name": "cheese ball",
+    "ingredients": [
+        "cream cheese",
+        "sharp cheddar cheese",
+        "onion",
+        "Worcestershire sauce",
+        "cayenne pepper",
+        "teaspoons    garlic salt",
+        "pecans"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

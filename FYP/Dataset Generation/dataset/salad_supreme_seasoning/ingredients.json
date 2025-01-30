@@ -1,0 +1,19 @@
+{
+    "dish_name": "salad supreme seasoning",
+    "ingredients": [
+        "sesame seeds",
+        "paprika",
+        "salt",
+        "poppy seed",
+        "celery seed",
+        "garlic powder",
+        "black pepper",
+        "cayenne pepper",
+        "romano cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

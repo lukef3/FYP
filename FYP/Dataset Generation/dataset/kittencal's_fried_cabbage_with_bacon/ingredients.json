@@ -1,0 +1,20 @@
+{
+    "dish_name": "kittencal's fried cabbage with bacon",
+    "ingredients": [
+        "bacon",
+        "onion",
+        "garlic",
+        "crushed red pepper flakes",
+        "cabbage",
+        "chicken broth",
+        "brown sugar",
+        "seasoned salt & freshly ground black pepper (to taste, or use white salt)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,19 +1,13 @@
 {
     "dish_name": "tilapia",
     "ingredients": [
-        "ounces    tilapia fillets",
-        "dried oregano",
-        "chili powder",
-        "cayenne pepper",
-        "salt",
-        "butter",
-        "lemon juice"
+        "parmesan cheese",
+        "diced tomatoes with basil oregano and garlic",
+        "(8   ounce) bag   Baby Spinach, rinsed and drained",
+        "onion",
+        "tilapia fillets"
     ],
     "images": [
-        "images/image_1.jpg",
-        "images/image_2.jpg",
-        "images/image_3.jpg",
-        "images/image_4.jpg",
-        "images/image_5.jpg"
+        "images/image_1.jpg"
     ]
 }

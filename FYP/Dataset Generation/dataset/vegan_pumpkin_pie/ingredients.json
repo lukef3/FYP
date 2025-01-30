@@ -1,0 +1,20 @@
+{
+    "dish_name": "vegan pumpkin pie",
+    "ingredients": [
+        "pumpkin puree",
+        "sugar",
+        "salt",
+        "cinnamon",
+        "ginger",
+        "clove",
+        "soft tofu",
+        "9 inch pie shell"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

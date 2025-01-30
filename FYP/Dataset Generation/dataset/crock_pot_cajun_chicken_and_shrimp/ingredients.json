@@ -1,0 +1,27 @@
+{
+    "dish_name": "crock pot cajun chicken and shrimp",
+    "ingredients": [
+        "skinless chicken thighs",
+        "red bell pepper",
+        "onion",
+        "celery",
+        "stewed tomatoes",
+        "garlic cloves",
+        "granulated sugar",
+        "paprika",
+        "teaspoon    cajun seasoning",
+        "salt",
+        "fresh ground pepper",
+        "shrimp",
+        "fresh lemon juice",
+        "hot sauce, to taste",
+        "cooked rice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

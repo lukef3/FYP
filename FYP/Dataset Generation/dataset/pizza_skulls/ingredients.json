@@ -1,0 +1,21 @@
+{
+    "dish_name": "pizza skulls",
+    "ingredients": [
+        "nonstick cooking spray, for pan",
+        "pizza dough",
+        "mozzarella cheese",
+        "parmesan cheese",
+        "cup    pizza sauce, plus more warmed for dipping",
+        "Italian sausage",
+        "slices    pepperoni",
+        "teaspoons    italian seasoning",
+        "parsley sprig"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

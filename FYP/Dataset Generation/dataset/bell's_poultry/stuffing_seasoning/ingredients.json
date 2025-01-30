@@ -1,0 +1,18 @@
+{
+    "dish_name": "bell's poultry/stuffing seasoning",
+    "ingredients": [
+        "rosemary",
+        "oregano",
+        "sage",
+        "ginger",
+        "marjoram",
+        "thyme",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

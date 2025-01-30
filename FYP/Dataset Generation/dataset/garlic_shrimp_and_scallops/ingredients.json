@@ -1,0 +1,21 @@
+{
+    "dish_name": "garlic shrimp and scallops",
+    "ingredients": [
+        "olive oil",
+        "garlic",
+        "red pepper flakes",
+        "large shrimp",
+        "bay scallop",
+        "paprika",
+        "chicken broth",
+        "fresh lime juice",
+        "fresh Italian parsley",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

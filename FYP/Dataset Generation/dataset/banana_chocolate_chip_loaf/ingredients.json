@@ -1,0 +1,22 @@
+{
+    "dish_name": "banana chocolate chip loaf",
+    "ingredients": [
+        "all-purpose flour",
+        "granulated sugar",
+        "baking powder",
+        "baking soda",
+        "salt",
+        "chocolate chips",
+        "bananas",
+        "butter",
+        "milk",
+        "eggs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

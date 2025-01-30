@@ -1,0 +1,16 @@
+{
+    "dish_name": "roasted asparagus with balsamic brown butter sauce",
+    "ingredients": [
+        "asparagus spears",
+        "olive oil",
+        "salt",
+        "black pepper",
+        "unsalted butter",
+        "soy sauce",
+        "teaspoon    balsamic vinegar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

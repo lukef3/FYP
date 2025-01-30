@@ -1,0 +1,22 @@
+{
+    "dish_name": "maggie's minestrone soup",
+    "allergens": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

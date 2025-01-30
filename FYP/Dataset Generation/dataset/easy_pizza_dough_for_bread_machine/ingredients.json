@@ -1,0 +1,19 @@
+{
+    "dish_name": "easy pizza dough for bread machine",
+    "ingredients": [
+        "water",
+        "extra virgin olive oil",
+        "salt",
+        "bread flour",
+        "sugar",
+        "bread machine quick-acting active dry yeast",
+        "dried herbs",
+        "semolina"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

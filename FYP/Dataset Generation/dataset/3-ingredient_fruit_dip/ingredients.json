@@ -1,0 +1,12 @@
+{
+    "dish_name": "3-ingredient fruit dip",
+    "ingredients": [
+        "cream cheese",
+        "marshmallow creme",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

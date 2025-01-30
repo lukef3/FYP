@@ -1,0 +1,18 @@
+{
+    "dish_name": "rainbow cupcakes",
+    "ingredients": [
+        "ounces    white cake mix",
+        "eggs",
+        "cup    vegetable oil",
+        "water",
+        "ounces    food coloring (Gel food coloring is best, Betty Crocker offers traditional colors as well as neon colors)",
+        "ounces    cream cheese frosting"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

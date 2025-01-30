@@ -1,0 +1,23 @@
+{
+    "dish_name": "chicken fajita pizza",
+    "ingredients": [
+        "olive oil",
+        "chicken breast",
+        "chili powder",
+        "salt",
+        "garlic powder",
+        "onion",
+        "green bell pepper",
+        "red bell pepper",
+        "pizza dough, for 12 inch pizza  (you can use refrigerated pizza crust if you like(I like Pizza Dough #8497 by Steve Sickenberger)",
+        "mild salsa",
+        "monterey jack cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "dish_name": "curried lentils and rice",
+    "ingredients": [
+        "vegetable broth",
+        "onion",
+        "garlic cloves",
+        "ground ginger",
+        "turmeric",
+        "curry powder",
+        "brown rice",
+        "dried lentils",
+        "water",
+        "vegetable bouillon cubes",
+        "salt",
+        "raisins",
+        "currants",
+        "tart apple"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

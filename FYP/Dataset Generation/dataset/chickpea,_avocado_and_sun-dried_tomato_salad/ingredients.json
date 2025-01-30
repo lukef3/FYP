@@ -1,0 +1,21 @@
+{
+    "dish_name": "chickpea, avocado and sun-dried tomato salad",
+    "ingredients": [
+        "chickpeas",
+        "avocado",
+        "cabbage",
+        "cup   pitted olive",
+        "sun-dried tomato",
+        "spring onion",
+        "fresh parsley",
+        "extra virgin olive oil",
+        "herb-seasoned salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

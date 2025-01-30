@@ -1,0 +1,23 @@
+{
+    "dish_name": "aloo matar ka pulao ( indian rice with potatoes and peas )",
+    "ingredients": [
+        "basmati rice",
+        "water",
+        "butter",
+        "cumin seed",
+        "fresh ginger",
+        "green peas",
+        "potato",
+        "tablespoons   powdered coriander seeds",
+        "garam masala",
+        "salt",
+        "turmeric",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dish_name": "blueberry jam",
+    "ingredients": [
+        "frozen blueberries",
+        "lemon juice",
+        "(3   ounce) envelope  100% fruit pectin (Ball brand recommended)",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

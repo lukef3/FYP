@@ -1,0 +1,19 @@
+{
+    "dish_name": "hot sausage and mozzarella roll",
+    "ingredients": [
+        "lbs    pizza dough (thawed if frozen) or 2   lbs    bread dough (thawed if frozen)",
+        "Italian sausage",
+        "onion",
+        "mozzarella cheese",
+        "parmesan cheese",
+        "fresh parsley",
+        "egg",
+        "water",
+        "sesame seeds"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

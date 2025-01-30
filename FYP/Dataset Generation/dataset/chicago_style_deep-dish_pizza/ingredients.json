@@ -1,0 +1,26 @@
+{
+    "dish_name": "chicago style deep-dish pizza",
+    "ingredients": [
+        "mild Italian sausage",
+        "red bell peppers",
+        "green bell pepper",
+        "onion",
+        "olive oil",
+        "garlic clove",
+        "tablespoons    pepperoni, thinly sliced and cut into strips",
+        "basil",
+        "oregano",
+        "black pepper",
+        "(10   ounce) package  refrigerated pizza dough",
+        "cup    pizza sauce",
+        "parmesan cheese",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

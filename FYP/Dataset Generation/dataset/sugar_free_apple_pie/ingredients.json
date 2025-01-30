@@ -1,0 +1,19 @@
+{
+    "dish_name": "sugar free apple pie",
+    "ingredients": [
+        "Splenda sugar substitute",
+        "flour",
+        "ground cinnamon",
+        "granny smith apples",
+        "golden delicious apple",
+        "butter",
+        "(15   ounce) package  of pillsbury refrigerated pie crusts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

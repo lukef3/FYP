@@ -1,0 +1,21 @@
+{
+    "dish_name": "ultimate grilled cheese - gotta try this!",
+    "ingredients": [
+        "light cream cheese",
+        "mayonnaise",
+        "ounces    shredded cheddar cheese",
+        "mozzarella cheese",
+        "garlic powder",
+        "Season-All salt",
+        "slices    Italian bread (1/2-inch thick slices)",
+        "butter",
+        "margarine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

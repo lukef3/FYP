@@ -1,0 +1,26 @@
+{
+    "dish_name": "turkey soup with egg  noodles and vegetables",
+    "ingredients": [
+        "olive oil",
+        "leeks",
+        "carrots",
+        "garlic clove",
+        "celery",
+        "cups    cooked turkey, shredded",
+        "bay leaves",
+        "dried thyme",
+        "salt",
+        "fresh ground black pepper",
+        "reduced-sodium chicken broth",
+        "ounces    egg noodles, uncooked",
+        "frozen green pea",
+        "fresh parsley leaves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

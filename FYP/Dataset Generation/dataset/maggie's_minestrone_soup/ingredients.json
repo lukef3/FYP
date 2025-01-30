@@ -1,0 +1,25 @@
+{
+    "dish_name": "maggie's minestrone soup",
+    "ingredients": [
+        "butter",
+        "olive oil",
+        "carrots",
+        "onion",
+        "celery",
+        "potatoes",
+        "leek",
+        "beef broth",
+        "chicken broth",
+        "salt",
+        "pepper",
+        "diced tomatoes",
+        "zucchini",
+        "red kidney beans",
+        "white kidney beans",
+        "spaghetti",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

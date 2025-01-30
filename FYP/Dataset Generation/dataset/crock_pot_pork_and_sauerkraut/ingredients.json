@@ -1,0 +1,18 @@
+{
+    "dish_name": "crock pot pork and sauerkraut",
+    "ingredients": [
+        "lbs    pork loin roast",
+        "caraway seed",
+        "black pepper",
+        "baking apple",
+        "sauerkraut",
+        "brown sugar",
+        "butter",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

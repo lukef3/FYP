@@ -1,0 +1,23 @@
+{
+    "dish_name": "decadent chocolate chip cookies",
+    "ingredients": [
+        "margarine",
+        "butter flavor shortening",
+        "brown sugar",
+        "sugar",
+        "eggs",
+        "light corn syrup",
+        "water",
+        "vanilla",
+        "flour",
+        "baking soda",
+        "salt",
+        "chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

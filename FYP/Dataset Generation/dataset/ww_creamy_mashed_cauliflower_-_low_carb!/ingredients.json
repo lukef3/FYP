@@ -1,0 +1,17 @@
+{
+    "dish_name": "ww creamy mashed cauliflower - low carb!",
+    "ingredients": [
+        "cauliflower florets",
+        "water",
+        "garlic clove",
+        "mayonnaise",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

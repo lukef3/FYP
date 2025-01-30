@@ -1,0 +1,25 @@
+{
+    "dish_name": "banana crunch muffins",
+    "ingredients": [
+        "all-purpose flour",
+        "sugar",
+        "baking powder",
+        "baking soda",
+        "salt",
+        "unsalted butter",
+        "extra large eggs",
+        "cup    whole milk",
+        "pure vanilla extract",
+        "banana",
+        "banana",
+        "walnuts",
+        "granola cereal",
+        "sweetened flaked coconut",
+        "granola cereal"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

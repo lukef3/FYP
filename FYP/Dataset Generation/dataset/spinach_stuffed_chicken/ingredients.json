@@ -1,0 +1,25 @@
+{
+    "dish_name": "spinach stuffed chicken",
+    "ingredients": [
+        "fresh spinach",
+        "onion",
+        "fresh mushrooms",
+        "garlic",
+        "tablespoon    oil",
+        "oregano",
+        "salt",
+        "pepper",
+        "boneless skinless chicken breast halves",
+        "cup    dry breadcrumbs",
+        "parmesan cheese",
+        "paprika",
+        "egg",
+        "water",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

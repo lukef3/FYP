@@ -1,0 +1,17 @@
+{
+    "dish_name": "baked garlic parmesan potatoes",
+    "ingredients": [
+        "garlic",
+        "butter",
+        "baby red potatoes",
+        "cup    fine breadcrumbs",
+        "parmesan cheese",
+        "salt and black pepper",
+        "paprika"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

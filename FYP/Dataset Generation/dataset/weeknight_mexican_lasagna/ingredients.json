@@ -1,0 +1,25 @@
+{
+    "dish_name": "weeknight mexican lasagna",
+    "ingredients": [
+        "lean ground beef",
+        "onion",
+        "garlic cloves",
+        "(16   ounce) can   refried beans",
+        "chili powder",
+        "dried oregano",
+        "ground cumin",
+        "salt",
+        "pepper",
+        "uncooked lasagna noodles",
+        "water",
+        "salsa",
+        "monterey jack cheese",
+        "sour cream",
+        "green onion",
+        "black olives"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "ranch pasta salad",
+    "ingredients": [
+        "tri-color spiral pasta",
+        "onion",
+        "green bell pepper",
+        "roma tomatoes",
+        "black olives",
+        "cheddar cheese",
+        "tablespoon    Bacos bacon bits",
+        "cup   of your favorite bottled ranch dressing (I use Kraft Free Ranch)",
+        "water",
+        "fresh black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

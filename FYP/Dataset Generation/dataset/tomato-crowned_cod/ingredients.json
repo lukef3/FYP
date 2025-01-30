@@ -1,0 +1,22 @@
+{
+    "dish_name": "tomato-crowned cod",
+    "ingredients": [
+        "cod fish fillets",
+        "lemon juice",
+        "pepper",
+        "tomatoes",
+        "medium    sweet green pepper, finely chopped",
+        "onions",
+        "cup    dry breadcrumbs",
+        "fresh basil",
+        "dry basil",
+        "tablespoon    oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

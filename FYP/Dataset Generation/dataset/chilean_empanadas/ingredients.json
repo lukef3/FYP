@@ -1,0 +1,27 @@
+{
+    "dish_name": "chilean empanadas",
+    "ingredients": [
+        "olive oil",
+        "lean ground beef",
+        "green bell pepper",
+        "garlic",
+        "raisins",
+        "cup    pimento stuffed olive, chopped",
+        "red wine vinegar",
+        "flour",
+        "allspice",
+        "cumin",
+        "cayenne pepper",
+        "monterey jack cheese",
+        "cilantro",
+        "(12   ounce) packages   refrigerated buttermilk biscuits",
+        "egg"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

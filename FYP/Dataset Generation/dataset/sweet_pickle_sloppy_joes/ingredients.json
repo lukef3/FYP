@@ -1,0 +1,20 @@
+{
+    "dish_name": "sweet pickle sloppy joes",
+    "ingredients": [
+        "lb    ground chuck",
+        "onion",
+        "ketchup",
+        "tablespoons    sweet pickle relish",
+        "light brown sugar",
+        "prepared mustard",
+        "salt",
+        "pepper",
+        "hamburger buns, toasted"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

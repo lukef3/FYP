@@ -1,18 +1,18 @@
 {
     "dish_name": "banana bread",
     "ingredients": [
+        "brown sugar",
+        "cup    vegetable oil",
+        "eggs",
         "bananas",
-        "white sugar",
-        "cup    oil",
+        "cup    orange juice",
         "all-purpose flour",
         "baking soda",
         "salt",
-        "egg"
+        "baking powder"
     ],
     "images": [
         "images/image_1.jpg",
-        "images/image_2.jpg",
-        "images/image_3.jpg",
-        "images/image_4.jpg"
+        "images/image_2.jpg"
     ]
 }

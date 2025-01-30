@@ -1,0 +1,21 @@
+{
+    "dish_name": "turkey pot pie with stuffing crust (using leftovers)",
+    "ingredients": [
+        "cups   diced leftover cooked turkey",
+        "cups   leftover turkey gravy",
+        "(16   ounce) bags   frozen mixed vegetables (canned or already cooked works well too)",
+        "prepared stuffing",
+        "garlic powder",
+        "ground sage",
+        "pepper",
+        "salt",
+        "pie crust (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

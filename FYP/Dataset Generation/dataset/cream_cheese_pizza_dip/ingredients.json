@@ -1,0 +1,17 @@
+{
+    "dish_name": "cream cheese pizza dip",
+    "ingredients": [
+        "cream cheese",
+        "teaspoons    Italian spices",
+        "parmesan cheese",
+        "mozzarella cheese",
+        "cup    pizza sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

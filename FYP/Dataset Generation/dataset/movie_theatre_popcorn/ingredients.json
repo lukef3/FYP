@@ -1,0 +1,12 @@
+{
+    "dish_name": "movie theatre popcorn",
+    "ingredients": [
+        "popcorn",
+        "butter",
+        "olive oil",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

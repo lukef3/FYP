@@ -1,0 +1,23 @@
+{
+    "dish_name": "banana cookies",
+    "ingredients": [
+        "flour",
+        "baking powder",
+        "salt",
+        "baking soda",
+        "sugar",
+        "margarine",
+        "eggs",
+        "vanilla",
+        "chocolate chips",
+        "raisins",
+        "banana"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

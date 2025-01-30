@@ -1,0 +1,15 @@
+{
+    "dish_name": "pickled beets",
+    "ingredients": [
+        "beets",
+        "whole cloves",
+        "allspice",
+        "cinnamon sticks",
+        "sugar",
+        "cider vinegar",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

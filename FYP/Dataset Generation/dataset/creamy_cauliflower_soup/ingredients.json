@@ -1,0 +1,20 @@
+{
+    "dish_name": "creamy cauliflower soup",
+    "ingredients": [
+        "water",
+        "vegetable broth",
+        "cauliflower",
+        "carrots",
+        "onion",
+        "parsley",
+        "salt",
+        "white pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

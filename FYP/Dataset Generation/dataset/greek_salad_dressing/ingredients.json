@@ -1,21 +1,18 @@
 {
     "dish_name": "greek salad dressing",
     "ingredients": [
-        "fresh garlic cloves",
+        "olive oil",
+        "garlic powder",
+        "dried oregano",
+        "dried basil",
+        "ground black pepper",
         "salt",
-        "Dijon mustard",
-        "extra virgin olive oil",
-        "fresh lemon juice",
-        "sugar",
-        "red wine vinegar",
-        "basil leaves",
-        "oregano leaves"
+        "onion powder",
+        "ground mustard",
+        "rosemary",
+        "red wine vinegar"
     ],
     "images": [
-        "images/image_1.jpg",
-        "images/image_2.jpg",
-        "images/image_3.jpg",
-        "images/image_4.jpg",
-        "images/image_5.jpg"
+        "images/image_1.jpg"
     ]
 }

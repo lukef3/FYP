@@ -1,0 +1,18 @@
+{
+    "dish_name": "cilantro dressing for salads",
+    "ingredients": [
+        "garlic cloves",
+        "salt",
+        "cilantro",
+        "parsley",
+        "sherry wine vinegar",
+        "olive oil",
+        "teaspoon    hot pepper sauce",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

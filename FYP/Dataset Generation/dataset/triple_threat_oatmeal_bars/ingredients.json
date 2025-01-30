@@ -1,0 +1,25 @@
+{
+    "dish_name": "triple threat oatmeal bars",
+    "ingredients": [
+        "butter",
+        "light brown sugar",
+        "eggs",
+        "milk",
+        "vanilla extract",
+        "all-purpose flour",
+        "baking powder",
+        "cinnamon",
+        "salt",
+        "rolled oats",
+        "walnuts",
+        "golden raisin",
+        "sweetened coconut"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

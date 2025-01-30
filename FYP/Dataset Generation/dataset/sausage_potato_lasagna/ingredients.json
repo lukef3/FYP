@@ -1,0 +1,26 @@
+{
+    "dish_name": "sausage potato lasagna",
+    "ingredients": [
+        "bulk Italian sausage",
+        "fresh mushrooms",
+        "potatoes",
+        "frozen chopped spinach",
+        "cottage cheese",
+        "parmesan cheese",
+        "egg",
+        "onion",
+        "garlic cloves",
+        "all-purpose flour",
+        "salt and pepper",
+        "nutmeg",
+        "milk",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

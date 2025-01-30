@@ -1,0 +1,18 @@
+{
+    "dish_name": "chili roasted sweet potatoes",
+    "ingredients": [
+        "sweet potatoes",
+        "olive oil",
+        "sugar",
+        "chili powder",
+        "kosher salt",
+        "fresh ground pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

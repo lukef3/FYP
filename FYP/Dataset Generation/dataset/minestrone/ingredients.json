@@ -1,0 +1,31 @@
+{
+    "dish_name": "minestrone",
+    "ingredients": [
+        "olive oil",
+        "garlic",
+        "onion",
+        "head of cabbage",
+        "zucchini",
+        "carrots",
+        "celery",
+        "whole tomatoes",
+        "garbanzo beans",
+        "kidney bean",
+        "spinach",
+        "chicken broth",
+        "tomato juice",
+        "dry white wine",
+        "dried basil leaves",
+        "oregano",
+        "pepper",
+        "pasta",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

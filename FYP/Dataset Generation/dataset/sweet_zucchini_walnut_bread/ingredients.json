@@ -1,0 +1,23 @@
+{
+    "dish_name": "sweet zucchini walnut bread",
+    "ingredients": [
+        "cup    vegetable oil",
+        "sugar",
+        "eggs",
+        "raw zucchini",
+        "flour",
+        "baking soda",
+        "salt",
+        "baking powder",
+        "cinnamon",
+        "vanilla",
+        "walnuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

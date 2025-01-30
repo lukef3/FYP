@@ -1,0 +1,18 @@
+{
+    "dish_name": "very vanilla cupcakes",
+    "ingredients": [
+        "flour",
+        "baking powder",
+        "salt",
+        "butter",
+        "sugar",
+        "eggs",
+        "vanilla extract",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

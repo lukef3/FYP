@@ -1,0 +1,24 @@
+{
+    "dish_name": "scallops carbonara",
+    "ingredients": [
+        "bacon",
+        "sea scallops",
+        "roasted red pepper, sliced",
+        "mushroom",
+        "shallots",
+        "garlic cloves",
+        "white wine",
+        "heavy cream",
+        "pecorino romano cheese",
+        "parmesan cheese",
+        "fettuccine pasta",
+        "flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

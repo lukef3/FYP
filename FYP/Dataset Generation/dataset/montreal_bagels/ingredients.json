@@ -1,0 +1,23 @@
+{
+    "dish_name": "montreal bagels",
+    "ingredients": [
+        "water",
+        "sugar",
+        "canola oil",
+        "dry yeast",
+        "egg",
+        "tablespoon    malt drink powder or 1   tablespoon    syrup",
+        "white bread flour",
+        "kosher salt",
+        "poppy seed",
+        "water",
+        "honey"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

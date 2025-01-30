@@ -1,0 +1,22 @@
+{
+    "dish_name": "scott's dry pork and rib rub",
+    "ingredients": [
+        "light brown sugar",
+        "paprika",
+        "seasoning salt",
+        "kosher salt",
+        "garlic powder",
+        "black pepper",
+        "cayenne pepper",
+        "dried oregano",
+        "dried thyme",
+        "onion powder",
+        "chili powder",
+        "dry mustard"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

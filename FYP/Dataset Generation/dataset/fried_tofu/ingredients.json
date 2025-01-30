@@ -1,0 +1,18 @@
+{
+    "dish_name": "fried tofu",
+    "ingredients": [
+        "extra firm tofu",
+        "tamari",
+        "soya sauce",
+        "Red Star nutritional yeast",
+        "teaspoon    seasoning (EG Tony Chachere's, Mrs Dash or mix your own combination)",
+        "olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

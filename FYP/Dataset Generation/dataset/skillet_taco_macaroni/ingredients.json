@@ -1,0 +1,23 @@
+{
+    "dish_name": "skillet taco macaroni",
+    "ingredients": [
+        "lb   extra lean ground sirloin",
+        "onion",
+        "tomato sauce",
+        "water",
+        "tomatoes and green chilies",
+        "elbow macaroni",
+        "salt",
+        "pepper",
+        "cumin",
+        "cayenne pepper",
+        "garlic powder",
+        "dried cilantro",
+        "milk",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

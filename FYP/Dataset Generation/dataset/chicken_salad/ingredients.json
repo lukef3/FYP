@@ -1,0 +1,24 @@
+{
+    "dish_name": "chicken salad",
+    "ingredients": [
+        "cups   chopped cooked chicken or 1 1/2  cups    cooked turkey",
+        "celery",
+        "onions",
+        "tablespoons    sweet pickle relish",
+        "hard-boiled eggs",
+        "mayonnaise",
+        "Miracle Whip",
+        "parsley",
+        "lemon pepper",
+        "kosher salt",
+        "seasoning salt",
+        "lettuce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

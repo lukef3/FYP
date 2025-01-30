@@ -1,0 +1,17 @@
+{
+    "dish_name": "bechamel - basic white sauce",
+    "ingredients": [
+        "milk",
+        "onion",
+        "bay leaf",
+        "peppercorn",
+        "unsalted butter",
+        "flour",
+        "nutmeg",
+        "salt",
+        "white pepper"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

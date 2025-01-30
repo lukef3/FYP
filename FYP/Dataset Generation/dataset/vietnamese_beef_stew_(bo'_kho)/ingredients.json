@@ -1,0 +1,28 @@
+{
+    "dish_name": "vietnamese beef stew (bo' kho)",
+    "ingredients": [
+        "boneless beef chuck",
+        "lemongrass",
+        "fish sauce",
+        "Chinese five spice powder",
+        "brown sugar",
+        "ginger",
+        "bay leaf",
+        "tablespoons    vegetable oil",
+        "onion",
+        "fresh tomatoes",
+        "crushed tomatoes",
+        "salt",
+        "carrot",
+        "star anise",
+        "water",
+        "Thai basil",
+        "cilantro"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

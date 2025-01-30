@@ -1,0 +1,19 @@
+{
+    "dish_name": "crock-pot roast pork",
+    "ingredients": [
+        "lbs   center cut pork roast or 4 -5   lbs   end cut pork roast",
+        "salt and pepper",
+        "garlic clove",
+        "onions",
+        "bay leaf",
+        "hot water",
+        "soy sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

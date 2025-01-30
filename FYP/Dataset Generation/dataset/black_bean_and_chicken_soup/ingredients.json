@@ -1,0 +1,24 @@
+{
+    "dish_name": "black bean and chicken soup",
+    "ingredients": [
+        "black beans",
+        "boneless skinless chicken breast",
+        "cumin powder",
+        "garlic powder",
+        "black pepper",
+        "onions",
+        "diced tomatoes",
+        "corn",
+        "chicken broth",
+        "cumin",
+        "garlic powder",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

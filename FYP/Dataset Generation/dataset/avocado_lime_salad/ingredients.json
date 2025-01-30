@@ -1,0 +1,24 @@
+{
+    "dish_name": "avocado lime salad",
+    "ingredients": [
+        "fresh lime juice",
+        "salt",
+        "salt",
+        "tomatoes",
+        "avocados",
+        "scallions",
+        "garlic clove",
+        "extra virgin olive oil",
+        "ground cumin",
+        "boston lettuce",
+        "cucumber",
+        "fresh cilantro"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

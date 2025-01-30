@@ -1,0 +1,26 @@
+{
+    "dish_name": "mediterranean kale & white bean soup with sausage",
+    "ingredients": [
+        "mild Italian sausage",
+        "olive oil",
+        "yellow onion",
+        "carrot",
+        "celery rib",
+        "garlic cloves",
+        "crushed red pepper flakes",
+        "kosher salt",
+        "fresh ground black pepper",
+        "low sodium chicken broth",
+        "cannellini beans",
+        "kale",
+        "lemon juice",
+        "lemon zest"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

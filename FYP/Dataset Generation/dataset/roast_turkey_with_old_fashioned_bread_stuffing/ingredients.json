@@ -1,0 +1,23 @@
+{
+    "dish_name": "roast turkey with old fashioned bread stuffing",
+    "ingredients": [
+        "celery",
+        "fresh mushrooms",
+        "onion",
+        "butter",
+        "ground sage",
+        "pepper",
+        "salt",
+        "cups    dry bread, cubes  (I will tell you how to make these at the end of the cooking directions)",
+        "chicken broth",
+        "water",
+        "turkey",
+        "cooking oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

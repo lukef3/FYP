@@ -1,0 +1,21 @@
+{
+    "dish_name": "lebanese bulgur",
+    "ingredients": [
+        "olive oil",
+        "onion",
+        "garlic cloves",
+        "dried basil",
+        "bulgur",
+        "tomatoes",
+        "vegetable broth",
+        "chicken broth",
+        "honey",
+        "tomato paste",
+        "salt and pepper",
+        "cayenne",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

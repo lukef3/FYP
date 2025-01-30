@@ -1,0 +1,22 @@
+{
+    "dish_name": "cornbread with jalapeno and cheddar cheese",
+    "ingredients": [
+        "cornmeal",
+        "flour",
+        "sugar",
+        "baking powder",
+        "salt",
+        "canola oil",
+        "buttermilk",
+        "egg",
+        "cheddar cheese",
+        "jalapeno, finely diced"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

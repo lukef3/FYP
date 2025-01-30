@@ -1,0 +1,21 @@
+{
+    "dish_name": "tilapia meunier",
+    "ingredients": [
+        "tilapia fillets",
+        "salt",
+        "fresh parsley",
+        "butter",
+        "flour",
+        "pepper",
+        "lemon juice",
+        "dried thyme",
+        "olive oil",
+        "lemon",
+        "capers"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

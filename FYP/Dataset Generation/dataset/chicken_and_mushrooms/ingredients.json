@@ -1,0 +1,21 @@
+{
+    "dish_name": "chicken and mushrooms",
+    "ingredients": [
+        "butter",
+        "paprika",
+        "thyme",
+        "salt",
+        "pepper",
+        "broiler-fryer chickens",
+        "chicken thighs",
+        "flour",
+        "dry white wine",
+        "fresh mushrooms"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

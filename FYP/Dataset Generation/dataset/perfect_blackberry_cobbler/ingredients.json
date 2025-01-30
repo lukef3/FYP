@@ -1,0 +1,18 @@
+{
+    "dish_name": "perfect blackberry cobbler",
+    "ingredients": [
+        "sugar",
+        "flour",
+        "skim milk",
+        "baking powder",
+        "salt",
+        "berries"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

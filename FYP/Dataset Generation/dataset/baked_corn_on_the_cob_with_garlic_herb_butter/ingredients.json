@@ -1,0 +1,19 @@
+{
+    "dish_name": "baked corn on the cob with garlic herb butter",
+    "ingredients": [
+        "corn cobs, leaves and silks removed",
+        "butter",
+        "garlic clove",
+        "dried herbs",
+        "fresh parsley",
+        "ground black pepper",
+        "sea salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

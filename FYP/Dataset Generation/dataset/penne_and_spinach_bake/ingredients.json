@@ -1,0 +1,26 @@
+{
+    "dish_name": "penne and spinach bake",
+    "ingredients": [
+        "penne pasta",
+        "butter",
+        "margarine",
+        "onion",
+        "garlic",
+        "flour",
+        "milk",
+        "parmesan cheese",
+        "teaspoons    italian seasoning",
+        "pepper",
+        "salt",
+        "diced tomatoes with basil oregano and garlic",
+        "frozen spinach",
+        "cup    dry breadcrumbs",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "half-and-half scrambled eggs",
+    "ingredients": [
+        "eggs",
+        "half-and-half",
+        "water",
+        "salt",
+        "pepper",
+        "butter",
+        "margarine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

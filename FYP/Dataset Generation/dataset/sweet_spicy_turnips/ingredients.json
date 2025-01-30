@@ -1,0 +1,16 @@
+{
+    "dish_name": "sweet spicy turnips",
+    "ingredients": [
+        "brown sugar",
+        "butter",
+        "salt",
+        "crushed red pepper flakes",
+        "ground ginger",
+        "ground allspice",
+        "turnips",
+        "cooking spray"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

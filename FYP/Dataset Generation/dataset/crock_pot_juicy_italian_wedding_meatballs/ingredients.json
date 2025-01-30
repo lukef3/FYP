@@ -1,0 +1,22 @@
+{
+    "dish_name": "crock pot juicy italian wedding meatballs",
+    "ingredients": [
+        "ounces    meatballs",
+        "chicken broth",
+        "cup    cooked chicken, chopped",
+        "carrot",
+        "celery",
+        "frozen chopped spinach",
+        "garlic salt, to taste",
+        "pepper",
+        "romano cheese",
+        "acini di pepe pasta"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

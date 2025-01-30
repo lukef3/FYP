@@ -1,0 +1,20 @@
+{
+    "dish_name": "stir-fried zucchini with hoisin sauce",
+    "ingredients": [
+        "zucchini",
+        "salt",
+        "soy sauce",
+        "hoisin sauce",
+        "dry sherry",
+        "teaspoon    sesame oil",
+        "canola oil",
+        "garlic",
+        "teaspoon    chili flakes",
+        "sesame seeds"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

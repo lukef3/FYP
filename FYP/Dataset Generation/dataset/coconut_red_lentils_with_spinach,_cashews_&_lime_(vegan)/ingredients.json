@@ -1,0 +1,25 @@
+{
+    "dish_name": "coconut red lentils with spinach, cashews & lime (vegan)",
+    "ingredients": [
+        "onion",
+        "olive oil",
+        "curry powder",
+        "mustard seeds",
+        "turmeric",
+        "red lentil",
+        "sea salt",
+        "light coconut milk",
+        "lime",
+        "water",
+        "cashews",
+        "fresh spinach",
+        "fresh cilantro"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

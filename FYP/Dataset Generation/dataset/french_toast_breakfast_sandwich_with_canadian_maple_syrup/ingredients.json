@@ -1,0 +1,21 @@
+{
+    "dish_name": "french toast breakfast sandwich with canadian maple syrup",
+    "ingredients": [
+        "eggs",
+        "milk",
+        "butter",
+        "margarine",
+        "slices    bread (I like white for this sandwich)",
+        "deli ham",
+        "swiss cheese",
+        "grape jelly (optional)",
+        "maple syrup"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

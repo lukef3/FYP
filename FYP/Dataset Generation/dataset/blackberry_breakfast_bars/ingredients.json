@@ -1,0 +1,25 @@
+{
+    "dish_name": "blackberry breakfast bars",
+    "ingredients": [
+        "blackberries",
+        "raspberries",
+        "sugar",
+        "water",
+        "lemon juice",
+        "ground cinnamon",
+        "flour",
+        "cup    quick-cooking rolled oats",
+        "brown sugar",
+        "ground cinnamon",
+        "baking soda",
+        "margarine",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

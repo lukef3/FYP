@@ -1,0 +1,30 @@
+{
+    "dish_name": "authentic jamaican brown stew chicken",
+    "ingredients": [
+        "whole chicken",
+        "tomatoes",
+        "scallions",
+        "onion",
+        "garlic cloves",
+        "hot pepper, chopped  (scotch bonnet)",
+        "carrot",
+        "limes",
+        "lime juice",
+        "fresh thyme",
+        "dried thyme",
+        "pimiento",
+        "allspice",
+        "soy sauce",
+        "flour",
+        "cornstarch",
+        "unsweetened coconut milk",
+        "coconut oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

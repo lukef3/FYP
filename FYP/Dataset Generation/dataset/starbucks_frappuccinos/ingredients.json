@@ -1,0 +1,15 @@
+{
+    "dish_name": "starbucks frappuccinos",
+    "ingredients": [
+        "coffee",
+        "low-fat milk",
+        "sugar",
+        "cups    ice (crushed seems to work a little better)",
+        "tablespoons    chocolate syrup"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

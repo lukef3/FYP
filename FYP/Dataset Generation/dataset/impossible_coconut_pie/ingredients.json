@@ -1,0 +1,20 @@
+{
+    "dish_name": "impossible coconut pie",
+    "ingredients": [
+        "Bisquick baking mix",
+        "milk",
+        "flaked coconut",
+        "sugar",
+        "butter",
+        "margarine",
+        "vanilla",
+        "eggs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

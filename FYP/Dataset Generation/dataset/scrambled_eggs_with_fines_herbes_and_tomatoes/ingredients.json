@@ -1,0 +1,20 @@
+{
+    "dish_name": "scrambled eggs with fines herbes and tomatoes",
+    "ingredients": [
+        "eggs",
+        "fresh herbs",
+        "salt",
+        "fresh ground black pepper",
+        "creme fraiche",
+        "Dijon mustard",
+        "butter",
+        "tomatoes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

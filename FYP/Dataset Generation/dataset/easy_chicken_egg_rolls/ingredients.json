@@ -1,0 +1,23 @@
+{
+    "dish_name": "easy chicken egg rolls",
+    "ingredients": [
+        "chicken",
+        "onion",
+        "garlic cloves",
+        "tablespoons    cooking oil",
+        "(16   ounce) bags   packaged coleslaw mix, with shredded carrots",
+        "bean sprouts",
+        "water chestnuts",
+        "cup   bottled teriyaki marinade",
+        "soy sauce",
+        "egg roll wraps",
+        "hot oil (for frying)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

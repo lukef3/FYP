@@ -1,0 +1,27 @@
+{
+    "dish_name": "gordon ramsay's tikka masala",
+    "ingredients": [
+        "peanut oil",
+        "onion",
+        "fresh green chile",
+        "fresh ginger",
+        "garlic cloves",
+        "chili powder",
+        "turmeric",
+        "garam masala",
+        "soft brown sugar",
+        "tomato puree",
+        "chopped tomatoes",
+        "boneless chicken breasts",
+        "dried curry leaves",
+        "yogurt",
+        "fresh coriander"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

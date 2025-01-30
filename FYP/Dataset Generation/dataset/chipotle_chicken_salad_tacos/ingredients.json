@@ -1,0 +1,22 @@
+{
+    "dish_name": "chipotle chicken salad tacos",
+    "ingredients": [
+        "tablespoons    balsamic vinegar",
+        "olive oil",
+        "chipotle chiles in adobo",
+        "salt",
+        "napa cabbage",
+        "carrot",
+        "red onion",
+        "fresh cilantro",
+        "cups   coarsely shredded cooked chicken, preferably grilled or roasted",
+        "avocado",
+        "queso anejo",
+        "cheese",
+        "corn tortillas"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

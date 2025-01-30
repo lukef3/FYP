@@ -1,0 +1,19 @@
+{
+    "dish_name": "pan-seared cod with basil sauce",
+    "ingredients": [
+        "fresh basil",
+        "reduced-sodium chicken broth",
+        "parmesan cheese",
+        "olive oil",
+        "salt",
+        "garlic cloves",
+        "cod fish fillets",
+        "black pepper",
+        "cooking spray"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

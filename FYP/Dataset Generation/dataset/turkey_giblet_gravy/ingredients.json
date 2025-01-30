@@ -1,0 +1,17 @@
+{
+    "dish_name": "turkey giblet gravy",
+    "ingredients": [
+        "turkey giblets, removed from bird, neck, gizzard and liver",
+        "salt and pepper",
+        "sage",
+        "celery",
+        "onion",
+        "seasoned flour",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

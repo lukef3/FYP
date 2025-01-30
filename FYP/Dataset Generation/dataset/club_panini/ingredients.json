@@ -1,0 +1,22 @@
+{
+    "dish_name": "club panini",
+    "ingredients": [
+        "mayonnaise",
+        "Dijon mustard",
+        "fresh herb",
+        "slices    smoked turkey breast (or ham)",
+        "swiss cheese",
+        "bacon",
+        "tomatoes",
+        "slices    sourdough bread or 8   slices    bread, of your own choice",
+        "olive oil",
+        "mayonnaise"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

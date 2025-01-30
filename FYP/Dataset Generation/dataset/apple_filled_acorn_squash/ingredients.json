@@ -1,0 +1,17 @@
+{
+    "dish_name": "apple filled acorn squash",
+    "ingredients": [
+        "acorn squash",
+        "apples",
+        "walnuts",
+        "tablespoon    orange rind, grated",
+        "brown sugar",
+        "margarine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

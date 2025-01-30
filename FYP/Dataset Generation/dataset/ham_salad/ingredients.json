@@ -1,0 +1,16 @@
+{
+    "dish_name": "ham salad",
+    "ingredients": [
+        "ham",
+        "mayonnaise",
+        "teaspoons    honey mustard (use more or less)",
+        "tablespoon    pickle relish (use more or less)",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

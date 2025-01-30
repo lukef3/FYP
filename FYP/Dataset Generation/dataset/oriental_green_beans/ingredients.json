@@ -1,0 +1,21 @@
+{
+    "dish_name": "oriental green beans",
+    "ingredients": [
+        "green beans",
+        "teaspoon    sesame oil",
+        "teaspoon    vegetable oil",
+        "garlic",
+        "fresh ginger",
+        "red pepper flakes",
+        "light soy sauce",
+        "water",
+        "sesame seeds"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

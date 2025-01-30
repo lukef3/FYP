@@ -1,0 +1,18 @@
+{
+    "dish_name": "banana blueberry bread",
+    "ingredients": [
+        "frozen blueberries",
+        "flour",
+        "sugar",
+        "baking powder",
+        "banana",
+        "salt",
+        "quick-cooking oats",
+        "eggs",
+        "cup    salad oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

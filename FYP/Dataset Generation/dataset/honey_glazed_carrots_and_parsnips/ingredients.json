@@ -1,0 +1,20 @@
+{
+    "dish_name": "honey glazed carrots and parsnips",
+    "ingredients": [
+        "vegetable broth",
+        "water",
+        "carrot",
+        "parsnip",
+        "unsalted butter",
+        "honey",
+        "onion",
+        "salt and pepper, to taste"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

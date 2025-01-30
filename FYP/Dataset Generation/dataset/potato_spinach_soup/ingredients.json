@@ -1,0 +1,21 @@
+{
+    "dish_name": "potato spinach soup",
+    "ingredients": [
+        "butter",
+        "onion",
+        "celery",
+        "flour",
+        "water",
+        "potatoes",
+        "salt",
+        "spinach",
+        "cup    cream (when dieting, I use canned evaporated skim milk)",
+        "swiss cheese",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

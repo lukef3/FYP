@@ -1,0 +1,22 @@
+{
+    "dish_name": "barbecue potatoes (oven or grill)",
+    "ingredients": [
+        "large    red potatoes (about 5 pounds)",
+        "cup    oil",
+        "chili powder",
+        "onion powder",
+        "garlic powder",
+        "sugar",
+        "paprika",
+        "salt",
+        "cayenne pepper",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

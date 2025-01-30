@@ -1,0 +1,22 @@
+{
+    "dish_name": "mexican style hot pickled carrots",
+    "ingredients": [
+        "carrots",
+        "yellow onions",
+        "warm water",
+        "ounces   whole canned jalapeno peppers, with liquid",
+        "dried oregano",
+        "garlic cloves",
+        "cider vinegar",
+        "cup    vegetable oil",
+        "bay leaves",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

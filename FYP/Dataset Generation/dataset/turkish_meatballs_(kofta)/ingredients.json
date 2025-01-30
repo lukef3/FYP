@@ -1,0 +1,21 @@
+{
+    "dish_name": "turkish meatballs (kofta)",
+    "ingredients": [
+        "cup   fine fresh breadcrumb",
+        "lean ground lamb",
+        "salt",
+        "pepper",
+        "ground cumin",
+        "allspice",
+        "dried mint",
+        "garlic",
+        "parsley",
+        "egg",
+        "olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

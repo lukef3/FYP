@@ -1,0 +1,21 @@
+{
+    "dish_name": "ham and cabbage soup",
+    "ingredients": [
+        "chicken broth",
+        "cooked ham",
+        "cabbage",
+        "baking potatoes",
+        "onion",
+        "carrots",
+        "bay leaf",
+        "dried parsley",
+        "frozen corn",
+        "cup    light cream",
+        "salt & freshly ground black pepper",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

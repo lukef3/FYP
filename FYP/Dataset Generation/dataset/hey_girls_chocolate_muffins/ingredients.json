@@ -1,0 +1,21 @@
+{
+    "dish_name": "hey girls chocolate muffins",
+    "ingredients": [
+        "all-purpose flour",
+        "sugar",
+        "cup    unsweetened cocoa powder",
+        "baking soda",
+        "baking powder",
+        "eggs",
+        "milk",
+        "butter",
+        "cup    mini chocolate chip"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

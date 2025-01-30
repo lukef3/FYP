@@ -1,0 +1,17 @@
+{
+    "dish_name": "dee-licious bruschetta",
+    "ingredients": [
+        "diced tomatoes",
+        "garlic cloves",
+        "olive oil",
+        "lemon juice",
+        "lemon pepper",
+        "fresh basil",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

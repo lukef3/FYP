@@ -1,0 +1,29 @@
+{
+    "dish_name": "beef barley veggy soup - crock pot",
+    "ingredients": [
+        "beef stew meat",
+        "green beans",
+        "onion",
+        "barley",
+        "frozen corn kernels",
+        "frozen corn kernels",
+        "celery",
+        "carrot",
+        "water",
+        "salt",
+        "fresh thyme leaves",
+        "dried thyme leaves",
+        "pepper",
+        "bell pepper",
+        "ready-to-serve beef broth",
+        "tomatoes with garlic",
+        "tomato sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

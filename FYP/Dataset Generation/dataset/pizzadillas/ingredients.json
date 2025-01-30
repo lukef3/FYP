@@ -1,0 +1,17 @@
+{
+    "dish_name": "pizzadillas",
+    "ingredients": [
+        "whole wheat tortillas",
+        "Pasta Sauce #1",
+        "mozzarella cheese",
+        "cooked sausage or  any other favorite pizza toppings",
+        "nonstick cooking spray"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

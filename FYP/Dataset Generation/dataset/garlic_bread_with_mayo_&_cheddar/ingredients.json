@@ -1,0 +1,18 @@
+{
+    "dish_name": "garlic bread with mayo & cheddar",
+    "ingredients": [
+        "loaf    French bread, split or sliced",
+        "mayonnaise",
+        "garlic",
+        "sweet onion",
+        "cheddar cheese",
+        "parmesan cheese",
+        "fresh parsley",
+        "half-and-half cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

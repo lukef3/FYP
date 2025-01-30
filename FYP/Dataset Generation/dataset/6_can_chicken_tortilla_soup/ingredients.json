@@ -1,0 +1,16 @@
+{
+    "dish_name": "6 can chicken tortilla soup",
+    "ingredients": [
+        "whole kernel corn",
+        "chicken broth",
+        "chicken",
+        "black beans",
+        "Rotel Tomatoes",
+        "ounces    refried beans"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

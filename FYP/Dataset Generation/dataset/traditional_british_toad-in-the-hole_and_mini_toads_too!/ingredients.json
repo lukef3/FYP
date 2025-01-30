@@ -1,0 +1,20 @@
+{
+    "dish_name": "traditional british toad-in-the-hole and mini toads too!",
+    "ingredients": [
+        "sausage",
+        "sausages",
+        "plain flour",
+        "eggs",
+        "milk",
+        "salt",
+        "pepper",
+        "tablespoon    drippings or 1   tablespoon    vegetable oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

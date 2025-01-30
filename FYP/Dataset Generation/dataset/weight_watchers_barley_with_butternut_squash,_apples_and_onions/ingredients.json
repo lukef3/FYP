@@ -1,0 +1,23 @@
+{
+    "dish_name": "weight watchers barley with butternut squash, apples and onions",
+    "ingredients": [
+        "salt",
+        "barley",
+        "olive oil",
+        "cups    butternut squash, peeled & diced",
+        "onion",
+        "cup    sweet red pepper, diced",
+        "apple",
+        "garlic",
+        "dried thyme",
+        "black pepper",
+        "fat-free chicken broth"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

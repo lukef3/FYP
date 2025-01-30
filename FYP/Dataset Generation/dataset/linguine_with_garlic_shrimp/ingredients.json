@@ -1,0 +1,27 @@
+{
+    "dish_name": "linguine with garlic shrimp",
+    "ingredients": [
+        "linguine",
+        "fettuccine",
+        "chicken broth",
+        "cornstarch",
+        "fresh basil",
+        "dried basil",
+        "fresh mushrooms",
+        "yellow sweet peppers",
+        "green sweet pepper",
+        "garlic cloves",
+        "olive oil",
+        "Italian-style stewed tomatoes",
+        "ounces    cooked shrimp, with, tails",
+        "parmesan cheese",
+        "fresh basil leaf"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

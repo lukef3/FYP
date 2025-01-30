@@ -1,0 +1,18 @@
+{
+    "dish_name": "butter pecan fudge",
+    "ingredients": [
+        "butter",
+        "heavy cream",
+        "granulated sugar",
+        "light brown sugar",
+        "salt",
+        "pecan halves",
+        "vanilla extract",
+        "confectioners' sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

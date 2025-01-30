@@ -1,0 +1,26 @@
+{
+    "dish_name": "refried bean soup",
+    "ingredients": [
+        "(16   ounce) can   fat free spicy refried beans",
+        "whole kernel corn",
+        "black beans",
+        "chicken broth",
+        "vegetable broth",
+        "stewed tomatoes",
+        "diced tomatoes",
+        "water",
+        "diced green chilies",
+        "salsa",
+        "ground cumin",
+        "monterey jack cheese",
+        "cilantro",
+        "tortilla chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

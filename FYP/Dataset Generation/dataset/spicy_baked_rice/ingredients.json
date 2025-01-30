@@ -1,0 +1,22 @@
+{
+    "dish_name": "spicy baked rice",
+    "ingredients": [
+        "ground beef",
+        "green bell pepper",
+        "onion",
+        "cooked long-grain rice",
+        "Mexican-style stewed tomatoes with jalapeno peppers",
+        "tomato juice",
+        "salt",
+        "chili powder",
+        "ground mustard",
+        "dried oregano",
+        "teaspoon    hot sauce",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

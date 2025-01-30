@@ -1,0 +1,21 @@
+{
+    "dish_name": "banana oat bran muffins with no added sugar",
+    "ingredients": [
+        "cups    oat bran",
+        "baking powder",
+        "cinnamon",
+        "nutmeg",
+        "cup    mashed banana",
+        "skim milk",
+        "egg whites",
+        "tablespoons    oil",
+        "raisins"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

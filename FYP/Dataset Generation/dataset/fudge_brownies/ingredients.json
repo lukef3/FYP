@@ -1,0 +1,18 @@
+{
+    "dish_name": "fudge brownies",
+    "ingredients": [
+        "butter",
+        "ounces    unsweetened chocolate",
+        "eggs",
+        "salt",
+        "sugar",
+        "flour",
+        "baking powder",
+        "vanilla",
+        "pecans"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

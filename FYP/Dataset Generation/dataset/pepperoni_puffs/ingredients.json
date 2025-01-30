@@ -1,0 +1,16 @@
+{
+    "dish_name": "pepperoni puffs",
+    "ingredients": [
+        "flour",
+        "milk",
+        "cheddar cheese",
+        "baking powder",
+        "egg",
+        "cups    pepperoni, diced"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

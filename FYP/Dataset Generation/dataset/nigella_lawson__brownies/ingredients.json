@@ -1,0 +1,19 @@
+{
+    "dish_name": "nigella lawson  brownies",
+    "ingredients": [
+        "unsalted butter",
+        "dark chocolate",
+        "eggs",
+        "vanilla extract",
+        "caster sugar",
+        "plain flour",
+        "salt",
+        "walnuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

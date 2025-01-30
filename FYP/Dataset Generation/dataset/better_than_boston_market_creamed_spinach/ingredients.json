@@ -1,0 +1,16 @@
+{
+    "dish_name": "better than boston market creamed spinach",
+    "ingredients": [
+        "frozen spinach",
+        "cream cheese",
+        "onion",
+        "garlic",
+        "fresh parmesan cheese",
+        "monterey jack cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

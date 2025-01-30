@@ -1,0 +1,16 @@
+{
+    "dish_name": "herbed crackers",
+    "ingredients": [
+        "flour",
+        "salt",
+        "butter",
+        "teaspoon    herbes de provence",
+        "pepper",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

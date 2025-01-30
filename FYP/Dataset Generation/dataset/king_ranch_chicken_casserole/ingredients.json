@@ -1,0 +1,22 @@
+{
+    "dish_name": "king ranch chicken casserole",
+    "ingredients": [
+        "butter",
+        "onion",
+        "bell pepper",
+        "(10 1/2  ounce) can   cream of mushroom soup",
+        "(10 1/2  ounce) can   cream of chicken soup",
+        "Rotel tomatoes & chilies",
+        "chicken broth",
+        "cups   diced cooked chicken (I used a roasted chicken from Albertsons)",
+        "corn tortillas",
+        "sharp cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "decadent creamed eggs on toast",
+    "ingredients": [
+        "hard-boiled eggs",
+        "butter",
+        "flour",
+        "cups    cream or 1 1/2  cups   fat-free cream",
+        "kosher salt",
+        "fresh ground pepper",
+        "slices    bread, toasted"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

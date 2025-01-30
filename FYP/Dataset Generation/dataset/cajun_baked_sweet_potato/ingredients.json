@@ -1,0 +1,20 @@
+{
+    "dish_name": "cajun baked sweet potato",
+    "ingredients": [
+        "paprika",
+        "brown sugar",
+        "black pepper",
+        "onion powder",
+        "thyme",
+        "rosemary",
+        "garlic powder",
+        "cayenne pepper",
+        "sweet potatoes",
+        "olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

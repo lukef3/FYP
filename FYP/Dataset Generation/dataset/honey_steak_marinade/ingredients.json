@@ -1,0 +1,17 @@
+{
+    "dish_name": "honey steak marinade",
+    "ingredients": [
+        "soy sauce",
+        "honey",
+        "vinegar",
+        "fresh ginger",
+        "garlic",
+        "olive oil",
+        "lbs    flank steaks"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

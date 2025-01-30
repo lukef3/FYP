@@ -1,0 +1,18 @@
+{
+    "dish_name": "basic mojito ingredients",
+    "ingredients": [
+        "of fresh mint",
+        "sugar",
+        "lemon juice",
+        "lime juice",
+        "light rum",
+        "club soda, chilled"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

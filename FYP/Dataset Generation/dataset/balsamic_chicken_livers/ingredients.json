@@ -1,0 +1,18 @@
+{
+    "dish_name": "balsamic chicken livers",
+    "ingredients": [
+        "flour",
+        "teaspoon    red chili pepper flakes",
+        "olive oil",
+        "chicken liver",
+        "tablespoons    balsamic vinegar",
+        "butter",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

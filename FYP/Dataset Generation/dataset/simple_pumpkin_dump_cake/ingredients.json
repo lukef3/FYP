@@ -1,0 +1,21 @@
+{
+    "dish_name": "simple pumpkin dump cake",
+    "ingredients": [
+        "pumpkin",
+        "evaporated milk",
+        "sugar",
+        "pumpkin pie spice",
+        "ground cinnamon",
+        "eggs",
+        "(18   ounce) box   yellow cake mix",
+        "pecans",
+        "butter",
+        "margarine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

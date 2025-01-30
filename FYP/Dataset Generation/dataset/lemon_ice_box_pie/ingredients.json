@@ -1,0 +1,15 @@
+{
+    "dish_name": "lemon ice box pie",
+    "ingredients": [
+        "(12   ounce) can   frozen lemonade",
+        "sweetened condensed milk",
+        "Cool Whip",
+        "pie shell, baked and cooled"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

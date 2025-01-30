@@ -1,0 +1,26 @@
+{
+    "dish_name": "barb's gingerbread biscotti",
+    "ingredients": [
+        "flour",
+        "ground cinnamon",
+        "baking powder",
+        "ground ginger",
+        "baking soda",
+        "ground nutmeg",
+        "ground allspice",
+        "egg",
+        "egg whites, lightly beaten",
+        "dark brown sugar",
+        "molasses",
+        "vanilla extract",
+        "pecans",
+        "dried currant"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

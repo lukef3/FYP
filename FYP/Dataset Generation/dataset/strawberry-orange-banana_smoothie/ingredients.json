@@ -1,0 +1,12 @@
+{
+    "dish_name": "strawberry-orange-banana smoothie",
+    "ingredients": [
+        "fresh strawberries",
+        "banana",
+        "cup    orange juice (more if necessary)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

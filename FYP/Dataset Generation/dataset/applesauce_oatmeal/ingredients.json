@@ -1,0 +1,18 @@
+{
+    "dish_name": "applesauce oatmeal",
+    "ingredients": [
+        "oatmeal",
+        "water",
+        "salt",
+        "cinnamon",
+        "ground ginger",
+        "vanilla",
+        "brown sugar",
+        "applesauce",
+        "candy sprinkles (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

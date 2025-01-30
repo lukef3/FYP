@@ -1,0 +1,26 @@
+{
+    "dish_name": "ground turkey goulash",
+    "ingredients": [
+        "ground turkey",
+        "olive oil",
+        "onion",
+        "celery",
+        "green pepper",
+        "(8   ounce) can   sliced mushrooms, drained",
+        "tomatoes",
+        "garlic cloves",
+        "dry pasta",
+        "teaspoon    italian seasoning",
+        "oregano",
+        "parsley",
+        "onion powder",
+        "garlic powder",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

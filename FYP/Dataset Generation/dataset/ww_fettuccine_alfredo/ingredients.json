@@ -1,0 +1,22 @@
+{
+    "dish_name": "ww fettuccine alfredo",
+    "ingredients": [
+        "butter",
+        "margarine",
+        "garlic cloves",
+        "all-purpose flour",
+        "nonfat milk",
+        "light cream cheese",
+        "fresh parmesan cheese",
+        "cups   hot cooked fettuccine (cooked without salt or fat, about 8 oz uncooked pasta)",
+        "fresh flat-leaf parsley",
+        "fresh ground pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "maryland crab salad",
+    "ingredients": [
+        "lb    crabmeat, fresh  (can use other suggested seafood)",
+        "tablespoon    Italian dressing (to marinate the crab)",
+        "teaspoon    Old Bay Seasoning (to taste, if prefer spicy go up to 1 tablespoon)",
+        "mayonnaise",
+        "cup    red pepper, diced",
+        "celery",
+        "spring onion",
+        "celery seed",
+        "dry mustard",
+        "garlic powder",
+        "Tabasco sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

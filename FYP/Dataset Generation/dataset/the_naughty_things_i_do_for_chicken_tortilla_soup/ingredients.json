@@ -1,0 +1,26 @@
+{
+    "dish_name": "the naughty things i do for chicken tortilla soup",
+    "ingredients": [
+        "canned tomatoes",
+        "onion",
+        "garlic clove",
+        "cilantro",
+        "parsley",
+        "sugar",
+        "salt and pepper",
+        "Tabasco sauce",
+        "chicken broth",
+        "chicken breasts",
+        "monterey jack cheese",
+        "avocados",
+        "tortilla chips",
+        "lime"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

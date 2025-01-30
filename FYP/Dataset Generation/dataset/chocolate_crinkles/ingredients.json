@@ -1,0 +1,22 @@
+{
+    "dish_name": "chocolate crinkles",
+    "ingredients": [
+        "cup    unsweetened cocoa powder",
+        "granulated sugar",
+        "cup    vegetable oil",
+        "eggs",
+        "pure vanilla extract",
+        "flour",
+        "baking powder",
+        "salt",
+        "powdered sugar",
+        "parchment paper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

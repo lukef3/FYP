@@ -1,0 +1,19 @@
+{
+    "dish_name": "cream-cheesy macaroni and cheese",
+    "ingredients": [
+        "elbow macaroni",
+        "margarine",
+        "flour",
+        "milk",
+        "cream cheese",
+        "sharp cheddar cheese",
+        "salt",
+        "breadcrumbs (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

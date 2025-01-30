@@ -1,0 +1,20 @@
+{
+    "dish_name": "oriental ramen broccoli coleslaw",
+    "ingredients": [
+        "(3   ounce) packages   beef-flavor ramen noodles",
+        "broccoli coleslaw mix",
+        "cup   toasted slivered almonds",
+        "sunflower seeds",
+        "green onion",
+        "sugar",
+        "cup    oil",
+        "white vinegar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

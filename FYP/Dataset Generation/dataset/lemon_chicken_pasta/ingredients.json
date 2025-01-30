@@ -1,0 +1,21 @@
+{
+    "dish_name": "lemon chicken pasta",
+    "ingredients": [
+        "lemon",
+        "flour",
+        "seasoning salt",
+        "chicken breasts",
+        "cup    garlic butter (I use Kerrygold Garlic & Herb Butter, which is imported from Irelend)",
+        "penne pasta",
+        "teaspoons    chicken base (I use Better Than Bouillon Chicken Base but can use regular bouillon but you might want to decrease )",
+        "white wine",
+        "cup    whipping cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

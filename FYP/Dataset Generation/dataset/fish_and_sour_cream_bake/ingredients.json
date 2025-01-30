@@ -1,0 +1,23 @@
+{
+    "dish_name": "fish and sour cream bake",
+    "ingredients": [
+        "fish fillets, 1 inch thick, about 8 oz each",
+        "water",
+        "lemon juice",
+        "salt and pepper",
+        "sour cream",
+        "mayonnaise",
+        "green onion",
+        "lemon juice",
+        "salt",
+        "teaspoon    ground red pepper",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

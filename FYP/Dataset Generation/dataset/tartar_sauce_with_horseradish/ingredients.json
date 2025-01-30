@@ -1,0 +1,19 @@
+{
+    "dish_name": "tartar sauce with horseradish",
+    "ingredients": [
+        "mayonnaise",
+        "sour cream",
+        "cup    sweet pickle relish, drained",
+        "dill pickles",
+        "onion",
+        "Worcestershire sauce",
+        "Tabasco sauce",
+        "fresh lemon juice",
+        "teaspoon   cream-style horseradish sauce (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

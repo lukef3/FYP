@@ -1,0 +1,14 @@
+{
+    "dish_name": "custard",
+    "ingredients": [
+        "milk",
+        "cornstarch",
+        "sugar",
+        "egg yolks",
+        "vanilla extract"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

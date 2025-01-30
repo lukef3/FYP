@@ -1,0 +1,24 @@
+{
+    "dish_name": "chili's copycat cajun chicken pasta",
+    "ingredients": [
+        "chicken breasts",
+        "teaspoons    cajun seasoning",
+        "butter",
+        "margarine",
+        "heavy cream",
+        "lemon pepper seasoning",
+        "salt",
+        "black pepper",
+        "garlic powder",
+        "penne pasta",
+        "roma tomatoes",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

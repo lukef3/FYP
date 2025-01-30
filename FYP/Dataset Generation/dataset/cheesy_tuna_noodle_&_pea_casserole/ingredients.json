@@ -1,0 +1,19 @@
+{
+    "dish_name": "cheesy tuna noodle & pea casserole",
+    "ingredients": [
+        "cups    medium noodles",
+        "cup    frozen peas",
+        "can    Campbell's condensed cream of celery soup or 1   can    Campbell's half-fat cream of celery soup",
+        "milk",
+        "tuna",
+        "cheddar cheese",
+        "paprika"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

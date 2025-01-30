@@ -1,0 +1,14 @@
+{
+    "dish_name": "potatoes tapas in garlic mayonnaise (potatoes aioli)",
+    "ingredients": [
+        "salad potatoes",
+        "mayonnaise",
+        "garlic cloves",
+        "parsley",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

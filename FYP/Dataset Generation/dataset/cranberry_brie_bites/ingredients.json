@@ -1,0 +1,15 @@
+{
+    "dish_name": "cranberry brie bites",
+    "ingredients": [
+        "puff pastry",
+        "cranberry sauce",
+        "(10   ounce)   triangle brie cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

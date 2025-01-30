@@ -1,0 +1,23 @@
+{
+    "dish_name": "moosewood italian stuffed portabellas",
+    "ingredients": [
+        "portabella mushrooms",
+        "olive oil",
+        "onion",
+        "garlic cloves",
+        "red bell pepper",
+        "fresh basil",
+        "ricotta cheese",
+        "mozzarella cheese",
+        "parmesan cheese",
+        "salt",
+        "tablespoons    breadcrumbs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

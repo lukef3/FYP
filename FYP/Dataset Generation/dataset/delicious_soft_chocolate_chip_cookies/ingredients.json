@@ -1,0 +1,18 @@
+{
+    "dish_name": "delicious soft chocolate chip cookies",
+    "ingredients": [
+        "butter",
+        "brown sugar",
+        "granulated sugar",
+        "egg",
+        "vanilla extract",
+        "all-purpose flour",
+        "cornstarch",
+        "baking soda",
+        "chocolate"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

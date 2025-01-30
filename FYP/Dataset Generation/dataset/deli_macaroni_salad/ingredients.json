@@ -1,0 +1,17 @@
+{
+    "dish_name": "deli macaroni salad",
+    "ingredients": [
+        "elbow macaroni",
+        "onion",
+        "dill pickles",
+        "salt and pepper",
+        "mayonnaise",
+        "pickle juice",
+        "fresh dill"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

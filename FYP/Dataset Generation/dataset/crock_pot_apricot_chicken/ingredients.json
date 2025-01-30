@@ -1,0 +1,16 @@
+{
+    "dish_name": "crock pot apricot chicken",
+    "ingredients": [
+        "cup    French dressing",
+        "cup    apricot jam",
+        "(1 1/2  ounce) packet   dry onion soup mix",
+        "skinless chicken pieces"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

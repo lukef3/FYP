@@ -1,0 +1,19 @@
+{
+    "dish_name": "spiced apple slices for two",
+    "ingredients": [
+        "baking apple",
+        "butter",
+        "margarine",
+        "all-purpose flour",
+        "brown sugar",
+        "ground cinnamon",
+        "lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "garlic mushroom risotto",
+    "ingredients": [
+        "mushroom",
+        "butter",
+        "olive oil",
+        "onion",
+        "garlic cloves",
+        "arborio rice",
+        "cups    hot chicken stock (or bouillon)",
+        "hot water",
+        "romano cheese",
+        "fresh parsley",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

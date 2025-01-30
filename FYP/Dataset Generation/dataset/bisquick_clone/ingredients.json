@@ -1,14 +1,15 @@
 {
     "dish_name": "bisquick clone",
     "ingredients": [
-        "all-purpose flour",
-        "cups    nonfat dry milk powder",
+        "flour",
         "baking powder",
+        "sugar",
         "salt",
-        "shortening"
+        "tablespoons    vegetable oil"
     ],
     "images": [
         "images/image_1.jpg",
-        "images/image_2.jpg"
+        "images/image_2.jpg",
+        "images/image_3.jpg"
     ]
 }

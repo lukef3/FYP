@@ -1,18 +1,16 @@
 {
     "dish_name": "tex-mex pork chops",
     "ingredients": [
-        "brown sugar",
+        "teaspoon    vegetable oil",
+        "boneless pork chops",
+        "chunky salsa",
+        "diced green chilies",
         "ground cumin",
-        "chili powder",
-        "salt",
-        "tablespoon    vegetable oil",
-        "pork loin chops with bone (about 1 1/2 lb/750 g in total)"
+        "cheddar cheese"
     ],
     "images": [
         "images/image_1.jpg",
         "images/image_2.jpg",
-        "images/image_3.jpg",
-        "images/image_4.jpg",
-        "images/image_5.jpg"
+        "images/image_3.jpg"
     ]
 }

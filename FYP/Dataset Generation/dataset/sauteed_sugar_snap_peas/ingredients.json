@@ -1,0 +1,18 @@
+{
+    "dish_name": "sauteed sugar snap peas",
+    "ingredients": [
+        "sugar snap pea",
+        "tablespoons    vegetable oil",
+        "garlic",
+        "fresh ginger",
+        "salt",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

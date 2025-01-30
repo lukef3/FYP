@@ -1,0 +1,17 @@
+{
+    "dish_name": "green grape delight",
+    "ingredients": [
+        "cream cheese",
+        "mayonnaise",
+        "sugar",
+        "cayenne pepper",
+        "garlic powder",
+        "green grapes",
+        "pecans"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

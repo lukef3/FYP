@@ -1,0 +1,21 @@
+{
+    "dish_name": "banana bread oatmeal",
+    "ingredients": [
+        "nonfat milk",
+        "soymilk",
+        "brown sugar",
+        "ground cinnamon",
+        "salt",
+        "ground nutmeg",
+        "oats",
+        "bananas",
+        "pecans",
+        "nonfat vanilla yogurt or   soy yogurt (optional)",
+        "banana",
+        "pecan halves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

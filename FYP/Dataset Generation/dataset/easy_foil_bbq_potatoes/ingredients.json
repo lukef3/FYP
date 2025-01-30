@@ -1,0 +1,19 @@
+{
+    "dish_name": "easy foil bbq potatoes",
+    "ingredients": [
+        "potato",
+        "Spanish onion",
+        "butter",
+        "margarine",
+        "olive oil",
+        "salt & fresh ground pepper",
+        "aluminum foil, large piece of"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

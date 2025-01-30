@@ -1,0 +1,19 @@
+{
+    "dish_name": "gourmet chocolate dipped pretzel rods",
+    "ingredients": [
+        "ounces    pretzel sticks (Pretzel RODS)",
+        "ounces    milk chocolate chips (or melting disks)",
+        "white chocolate chips",
+        "candy sprinkles (optional)",
+        "miniature M&M's chocolate candies (optional)",
+        "mini Reese's pieces (optional)",
+        "peanuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}
