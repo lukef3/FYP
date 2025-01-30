@@ -1,20 +1,20 @@
 {
     "dish_name": "pad thai (thai stir-fried noodles)",
     "allergens": [
+        1,
         0,
-        0,
+        1,
+        1,
+        1,
         1,
         0,
         0,
-        1,
         0,
         0,
         0,
         0,
         0,
-        0,
-        0,
-        0
+        1
     ],
     "images": [
         "images/image_1.jpg",

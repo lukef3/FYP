@@ -1,9 +1,9 @@
 {
     "dish_name": "quick and easy stove-top tuna noodle casserole",
     "allergens": [
+        1,
         0,
-        0,
-        0,
+        1,
         1,
         0,
         0,

@@ -1,13 +1,13 @@
 {
     "dish_name": "creamy pasta with bacon",
     "allergens": [
+        1,
         0,
         0,
         0,
         0,
         0,
-        0,
-        0,
+        1,
         0,
         0,
         0,

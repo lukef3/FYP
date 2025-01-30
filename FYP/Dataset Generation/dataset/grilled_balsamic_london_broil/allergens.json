@@ -1,12 +1,12 @@
 {
     "dish_name": "grilled balsamic london broil",
     "allergens": [
+        1,
         0,
         0,
         0,
         0,
-        0,
-        0,
+        1,
         0,
         0,
         0,

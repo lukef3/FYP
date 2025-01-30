@@ -1,13 +1,13 @@
 {
     "dish_name": "most delicious garlic cheese bread",
     "allergens": [
+        1,
         0,
         0,
         0,
         0,
         0,
-        0,
-        0,
+        1,
         0,
         0,
         0,

@@ -1,9 +1,9 @@
 {
     "dish_name": "hamburger skillet supper",
     "allergens": [
+        1,
         0,
-        0,
-        0,
+        1,
         0,
         0,
         0,

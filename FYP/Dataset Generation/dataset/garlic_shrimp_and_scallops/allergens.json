@@ -2,6 +2,7 @@
     "dish_name": "garlic shrimp and scallops",
     "allergens": [
         0,
+        1,
         0,
         0,
         0,
@@ -13,8 +14,7 @@
         0,
         0,
         0,
-        0,
-        0
+        1
     ],
     "images": [
         "images/image_1.jpg",

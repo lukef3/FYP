@@ -1,13 +1,13 @@
 {
     "dish_name": "highly rated ranch chicken",
     "allergens": [
+        1,
         0,
         0,
         0,
         0,
         0,
-        0,
-        0,
+        1,
         0,
         0,
         0,

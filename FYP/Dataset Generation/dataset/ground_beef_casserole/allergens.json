@@ -1,13 +1,13 @@
 {
     "dish_name": "ground beef casserole",
     "allergens": [
+        1,
         0,
         0,
         0,
         0,
         0,
-        0,
-        0,
+        1,
         0,
         0,
         0,

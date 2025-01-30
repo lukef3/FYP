@@ -1,9 +1,9 @@
 {
     "dish_name": "classic white cake",
     "allergens": [
+        1,
         0,
-        0,
-        0,
+        1,
         0,
         0,
         0,

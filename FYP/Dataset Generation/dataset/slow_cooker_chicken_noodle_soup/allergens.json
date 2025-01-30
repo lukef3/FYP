@@ -1,9 +1,9 @@
 {
     "dish_name": "slow cooker chicken noodle soup",
     "allergens": [
+        1,
         0,
-        0,
-        0,
+        1,
         0,
         0,
         0,

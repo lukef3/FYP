@@ -1,13 +1,13 @@
 {
     "dish_name": "chicken caesar wrap",
     "allergens": [
+        1,
         0,
         0,
         0,
         0,
         0,
-        0,
-        0,
+        1,
         0,
         0,
         0,

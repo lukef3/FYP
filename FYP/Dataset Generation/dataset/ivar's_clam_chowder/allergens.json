@@ -2,7 +2,7 @@
     "dish_name": "ivar's clam chowder",
     "allergens": [
         1,
-        0,
+        1,
         0,
         0,
         0,
@@ -14,7 +14,7 @@
         0,
         0,
         0,
-        0
+        1
     ],
     "images": [
         "images/image_1.jpg",

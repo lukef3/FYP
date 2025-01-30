@@ -2,19 +2,19 @@
     "dish_name": "thick and creamy new england clam chowder",
     "allergens": [
         0,
-        0,
+        1,
         0,
         0,
         0,
         0,
         1,
         0,
+        1,
         0,
         0,
         0,
         0,
-        0,
-        0
+        1
     ],
     "images": [
         "images/image_1.jpg",

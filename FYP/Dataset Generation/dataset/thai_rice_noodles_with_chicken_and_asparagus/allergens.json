@@ -1,10 +1,10 @@
 {
     "dish_name": "thai rice noodles with chicken and asparagus",
     "allergens": [
+        1,
         0,
         0,
-        0,
-        0,
+        1,
         0,
         1,
         0,

@@ -1,9 +1,9 @@
 {
     "dish_name": "crockpot chicken & noodles",
     "allergens": [
+        1,
         0,
-        0,
-        0,
+        1,
         0,
         0,
         0,

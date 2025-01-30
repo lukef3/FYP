@@ -1,10 +1,7 @@
 {
     "dish_name": "chicken lo mein with vegetables",
     "allergens": [
-        0,
-        0,
-        0,
-        0,
+        1,
         0,
         0,
         0,
@@ -12,6 +9,9 @@
         1,
         0,
         0,
+        1,
+        0,
+        1,
         0,
         0,
         0

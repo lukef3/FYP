@@ -1,9 +1,9 @@
 {
     "dish_name": "ultimate chocolate chip cookies",
     "allergens": [
+        1,
         0,
-        0,
-        0,
+        1,
         0,
         0,
         0,

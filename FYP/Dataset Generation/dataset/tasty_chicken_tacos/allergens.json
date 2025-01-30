@@ -1,13 +1,13 @@
 {
     "dish_name": "tasty chicken tacos",
     "allergens": [
+        1,
         0,
         0,
         0,
         0,
         0,
-        0,
-        0,
+        1,
         0,
         0,
         0,

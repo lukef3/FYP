@@ -1,9 +1,9 @@
 {
     "dish_name": "old-fashioned banana cream pie",
     "allergens": [
+        1,
         0,
-        0,
-        0,
+        1,
         0,
         0,
         0,

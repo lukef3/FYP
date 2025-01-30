@@ -1,13 +1,13 @@
 {
     "dish_name": "cheese ball with everything",
     "allergens": [
+        1,
         0,
         0,
         0,
         0,
         0,
-        0,
-        0,
+        1,
         1,
         0,
         0,

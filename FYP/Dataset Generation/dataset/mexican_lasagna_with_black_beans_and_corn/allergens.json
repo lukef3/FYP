@@ -1,13 +1,13 @@
 {
     "dish_name": "mexican lasagna with black beans and corn",
     "allergens": [
-        0,
+        1,
         0,
         1,
         0,
         0,
         0,
-        0,
+        1,
         0,
         0,
         0,

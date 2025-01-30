@@ -1,6 +1,7 @@
 {
     "dish_name": "bbq brats 'n beer",
     "allergens": [
+        1,
         0,
         0,
         0,
@@ -9,8 +10,7 @@
         0,
         0,
         0,
-        0,
-        0,
+        1,
         0,
         0,
         0,

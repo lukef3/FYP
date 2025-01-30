@@ -1,13 +1,13 @@
 {
     "dish_name": "mexican pizza like taco bells",
     "allergens": [
+        1,
         0,
         0,
         0,
         0,
         0,
-        0,
-        0,
+        1,
         0,
         0,
         0,

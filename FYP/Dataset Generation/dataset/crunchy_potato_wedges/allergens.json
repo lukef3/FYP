@@ -1,6 +1,7 @@
 {
     "dish_name": "crunchy potato wedges",
     "allergens": [
+        1,
         0,
         0,
         0,
@@ -8,8 +9,7 @@
         0,
         0,
         0,
-        0,
-        0,
+        1,
         0,
         0,
         0,

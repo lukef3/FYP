@@ -1,13 +1,13 @@
 {
     "dish_name": "smoked salmon spread",
     "allergens": [
+        1,
+        0,
         0,
         1,
         0,
         0,
-        0,
-        0,
-        0,
+        1,
         0,
         0,
         0,

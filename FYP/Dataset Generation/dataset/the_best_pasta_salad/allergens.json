@@ -1,13 +1,13 @@
 {
     "dish_name": "the best pasta salad",
     "allergens": [
+        1,
         0,
         0,
         0,
         0,
         0,
-        0,
-        0,
+        1,
         0,
         0,
         0,

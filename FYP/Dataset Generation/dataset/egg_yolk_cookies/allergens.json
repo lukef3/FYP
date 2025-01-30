@@ -1,9 +1,9 @@
 {
     "dish_name": "egg yolk cookies",
     "allergens": [
+        1,
         0,
-        0,
-        0,
+        1,
         0,
         0,
         0,

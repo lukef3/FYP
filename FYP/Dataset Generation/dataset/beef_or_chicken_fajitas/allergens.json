@@ -1,13 +1,13 @@
 {
     "dish_name": "beef or chicken fajitas",
     "allergens": [
+        1,
         0,
         0,
         0,
         0,
         0,
-        0,
-        0,
+        1,
         0,
         0,
         0,

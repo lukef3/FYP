@@ -1,10 +1,10 @@
 {
     "dish_name": "fish tacos and cilantro coleslaw, 20 minutes max",
     "allergens": [
+        1,
         0,
         0,
-        0,
-        0,
+        1,
         0,
         0,
         0,

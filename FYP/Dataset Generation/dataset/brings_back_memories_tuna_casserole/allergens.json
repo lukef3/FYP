@@ -1,9 +1,9 @@
 {
     "dish_name": "brings back memories tuna casserole",
     "allergens": [
+        1,
         0,
-        0,
-        0,
+        1,
         1,
         0,
         0,

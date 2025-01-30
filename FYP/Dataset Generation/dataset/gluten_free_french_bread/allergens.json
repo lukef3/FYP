@@ -1,9 +1,9 @@
 {
     "dish_name": "gluten free french bread",
     "allergens": [
+        1,
         0,
-        0,
-        0,
+        1,
         0,
         0,
         0,

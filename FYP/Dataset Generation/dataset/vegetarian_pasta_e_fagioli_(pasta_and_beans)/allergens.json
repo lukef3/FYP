@@ -1,13 +1,13 @@
 {
     "dish_name": "vegetarian pasta e fagioli (pasta and beans)",
     "allergens": [
+        1,
         0,
         0,
         0,
         0,
         0,
-        0,
-        0,
+        1,
         0,
         1,
         0,

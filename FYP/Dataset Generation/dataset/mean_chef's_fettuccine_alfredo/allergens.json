@@ -1,11 +1,11 @@
 {
     "dish_name": "mean chef's fettuccine alfredo",
     "allergens": [
-        0,
-        0,
-        0,
+        1,
         0,
         1,
+        0,
+        0,
         0,
         1,
         0,

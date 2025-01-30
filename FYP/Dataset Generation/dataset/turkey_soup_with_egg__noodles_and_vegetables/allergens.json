@@ -1,9 +1,9 @@
 {
     "dish_name": "turkey soup with egg  noodles and vegetables",
     "allergens": [
+        1,
         0,
-        0,
-        0,
+        1,
         0,
         0,
         0,
