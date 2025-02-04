@@ -91,9 +91,9 @@ def scrape_recipe(url, root_folder="dataset"):
 def scrape_recipe_links(url):
     options = webdriver.ChromeOptions()
     options.add_argument('--headless')
-    driver = webdriver.Chrome(options=options)  # Use the appropriate WebDriver for your browser
+    driver = webdriver.Chrome(options=options)
     driver.get(url)
-    time.sleep(2)  # Wait for the page to fully load. Page is loaded dynamically via javascript upon
+    time.sleep(2)  # Wait for the page to fully load. Page is loaded dynamically via javascript
     recipe_links = set()
 
     # Parse the current page source with BeautifulSoup
