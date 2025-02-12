@@ -1,0 +1,20 @@
+{
+    "dish_name": "red snapper livornese",
+    "ingredients": [
+        "olive oil",
+        "onion",
+        "garlic",
+        "canned tomatoes",
+        "capers",
+        "black olives",
+        "crushed red pepper flakes",
+        "fresh parsley",
+        "red snapper fillet",
+        "fresh lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

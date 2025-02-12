@@ -1,0 +1,21 @@
+{
+    "dish_name": "cabbage roll casserole",
+    "ingredients": [
+        "ground beef",
+        "onion",
+        "rice",
+        "cabbage",
+        "(10 1/2  ounce) can   tomato soup",
+        "tomato sauce",
+        "water",
+        "marjoram",
+        "salt",
+        "pepper",
+        "oregano",
+        "brown sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

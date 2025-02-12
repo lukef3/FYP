@@ -1,0 +1,24 @@
+{
+    "dish_name": "fast hamburger casserole with a mexican twist",
+    "ingredients": [
+        "pasta",
+        "hamburger",
+        "onion",
+        "bell pepper",
+        "garlic cloves",
+        "ounce    taco seasoning (I used a whole sachet)",
+        "water",
+        "cup    taco sauce (I used medium heat, but any other would be okay)",
+        "sour cream",
+        "cheddar cheese",
+        "corn kernel",
+        "cup    jalapeno pepper, minced  (optional)",
+        "black olives"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

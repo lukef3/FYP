@@ -1,0 +1,19 @@
+{
+    "dish_name": "oreo muffins",
+    "ingredients": [
+        "all-purpose flour",
+        "salt",
+        "baking soda",
+        "baking powder",
+        "sugar",
+        "milk",
+        "sour cream",
+        "egg",
+        "margarine",
+        "Oreo cookies, coarsely chopped"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

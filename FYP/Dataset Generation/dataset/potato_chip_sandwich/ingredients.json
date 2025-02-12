@@ -1,0 +1,18 @@
+{
+    "dish_name": "potato chip sandwich",
+    "ingredients": [
+        "slices    bread or 1       sandwich bun",
+        "slices   of lunch meat, any kind  (I use peppered turkey)",
+        "cheese",
+        "pickles",
+        "tomatoes",
+        "mayonnaise",
+        "onions",
+        "ruffled potato chips (as many as you can stack on)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

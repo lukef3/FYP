@@ -1,0 +1,17 @@
+{
+    "dish_name": "kittencal's fried potatoes and cabbage",
+    "ingredients": [
+        "russet potatoes",
+        "butter",
+        "savoy cabbage",
+        "seasoning salt",
+        "black pepper",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

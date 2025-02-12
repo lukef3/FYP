@@ -1,0 +1,17 @@
+{
+    "dish_name": "pammy's hoagie's (dough made in bread machine)",
+    "ingredients": [
+        "water",
+        "sugar",
+        "teaspoons    vegetable oil",
+        "salt",
+        "all-purpose flour",
+        "bread machine yeast"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

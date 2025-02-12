@@ -1,0 +1,19 @@
+{
+    "dish_name": "simple mint chocolate chip ice cream",
+    "ingredients": [
+        "2% low-fat milk",
+        "heavy whipping cream",
+        "sugar",
+        "salt",
+        "vanilla extract",
+        "teaspoon    peppermint extract",
+        "drops    green food coloring (optional)",
+        "cup    miniature semisweet chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

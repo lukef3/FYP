@@ -1,0 +1,22 @@
+{
+    "dish_name": "chocolate chip cookies - betty crocker's 1969 recipe",
+    "ingredients": [
+        "shortening",
+        "butter",
+        "margarine",
+        "granulated sugar",
+        "brown sugar",
+        "eggs",
+        "vanilla",
+        "all-purpose flour",
+        "baking soda",
+        "salt",
+        "cup   chopped nuts (walnuts or pecans recommended)",
+        "(12   ounce) package   semi-sweet chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dish_name": "sage and parmesan rice",
+    "ingredients": [
+        "butter",
+        "ground sage",
+        "chicken broth",
+        "long grain rice",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

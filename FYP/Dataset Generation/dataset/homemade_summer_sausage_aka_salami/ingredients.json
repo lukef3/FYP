@@ -1,0 +1,19 @@
+{
+    "dish_name": "homemade summer sausage aka salami",
+    "ingredients": [
+        "ground beef",
+        "water",
+        "liquid smoke",
+        "onion powder",
+        "coarse black pepper",
+        "garlic powder",
+        "mustard seeds",
+        "quick curing salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

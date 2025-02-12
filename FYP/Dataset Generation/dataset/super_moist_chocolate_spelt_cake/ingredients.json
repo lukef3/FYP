@@ -1,0 +1,21 @@
+{
+    "dish_name": "super moist chocolate spelt cake",
+    "ingredients": [
+        "raw sugar",
+        "cups    spelt flour",
+        "cocoa powder",
+        "baking powder",
+        "baking soda",
+        "sea salt",
+        "eggs",
+        "milk",
+        "butter",
+        "vanilla extract",
+        "boiling water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

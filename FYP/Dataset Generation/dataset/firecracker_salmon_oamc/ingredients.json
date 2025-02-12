@@ -1,0 +1,20 @@
+{
+    "dish_name": "firecracker salmon oamc",
+    "ingredients": [
+        "salmon fillets",
+        "cup    peanut oil",
+        "light soy sauce",
+        "cup    balsamic vinegar",
+        "green onion",
+        "brown sugar",
+        "garlic cloves",
+        "ground ginger",
+        "crushed red pepper flakes",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

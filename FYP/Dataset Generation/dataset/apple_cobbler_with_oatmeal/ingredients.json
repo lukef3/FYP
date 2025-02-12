@@ -1,0 +1,18 @@
+{
+    "dish_name": "apple cobbler with oatmeal",
+    "ingredients": [
+        "baking apples",
+        "white sugar",
+        "margarine",
+        "ground cinnamon",
+        "quick-cooking oatmeal",
+        "rolled oats",
+        "brown sugar",
+        "white flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

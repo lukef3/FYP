@@ -1,0 +1,28 @@
+{
+    "dish_name": "delicious cream of reuben soup",
+    "ingredients": [
+        "butter",
+        "onion",
+        "fresh garlic",
+        "dried thyme",
+        "dried tarragon",
+        "teaspoon    dried chili pepper flakes (optional or to taste)",
+        "chicken broth",
+        "corned beef",
+        "sauerkraut",
+        "carrots",
+        "bay leaf",
+        "cornstarch",
+        "water",
+        "swiss cheese",
+        "cup    whipping cream",
+        "salt and pepper",
+        "crouton"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

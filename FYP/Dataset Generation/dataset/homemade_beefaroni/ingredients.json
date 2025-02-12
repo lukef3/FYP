@@ -1,0 +1,17 @@
+{
+    "dish_name": "homemade beefaroni",
+    "ingredients": [
+        "elbow macaroni",
+        "lean ground beef",
+        "garlic",
+        "onion",
+        "cans    condensed tomato soup",
+        "water",
+        "sugar",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

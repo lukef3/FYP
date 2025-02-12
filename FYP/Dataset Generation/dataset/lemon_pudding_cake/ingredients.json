@@ -1,0 +1,19 @@
+{
+    "dish_name": "lemon pudding cake",
+    "ingredients": [
+        "lemons",
+        "all-purpose flour",
+        "salt",
+        "sugar",
+        "sugar",
+        "eggs",
+        "cups    whole milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

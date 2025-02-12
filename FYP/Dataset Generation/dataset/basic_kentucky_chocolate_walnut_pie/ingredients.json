@@ -1,0 +1,16 @@
+{
+    "dish_name": "basic kentucky chocolate walnut pie",
+    "ingredients": [
+        "sugar",
+        "flour",
+        "eggs",
+        "english walnuts",
+        "chocolate chips",
+        "pure vanilla extract",
+        "butter",
+        "ready-made pie crust"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

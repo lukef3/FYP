@@ -1,0 +1,22 @@
+{
+    "dish_name": "warm chicken a la king",
+    "ingredients": [
+        "chicken",
+        "butter",
+        "flour",
+        "milk",
+        "celery",
+        "button mushrooms",
+        "green pepper",
+        "canned pimiento",
+        "salt",
+        "black pepper",
+        "egg yolks",
+        "tablespoons    double cream",
+        "Worcestershire sauce",
+        "parsley"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

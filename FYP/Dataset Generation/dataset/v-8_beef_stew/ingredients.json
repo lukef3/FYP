@@ -1,0 +1,28 @@
+{
+    "dish_name": "v-8 beef stew",
+    "ingredients": [
+        "beef chuck",
+        "dried thyme",
+        "dried marjoram",
+        "salt",
+        "ground black pepper",
+        "flour",
+        "bacon fat",
+        "onion",
+        "garlic",
+        "cups   v-8 vegetable juice cocktail",
+        "water",
+        "beef bouillon granules",
+        "beef bouillon cubes",
+        "bay leaves",
+        "dried thyme",
+        "dried marjoram",
+        "dashes    hot pepper sauce (use as much or as little as you'd like) (optional)",
+        "celery",
+        "carrots",
+        "potatoes"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

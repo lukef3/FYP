@@ -1,0 +1,27 @@
+{
+    "dish_name": "ham-broccoli quiche",
+    "ingredients": [
+        "fresh mushrooms",
+        "garlic clove",
+        "butter",
+        "margarine",
+        "swiss cheese",
+        "(9   inch)    pie shells",
+        "ham",
+        "cup    cooked broccoli (chopped)",
+        "eggs",
+        "milk",
+        "flour",
+        "white pepper",
+        "nutmeg",
+        "romano cheese",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

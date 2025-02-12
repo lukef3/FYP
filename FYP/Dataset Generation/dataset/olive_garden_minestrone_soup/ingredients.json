@@ -1,0 +1,33 @@
+{
+    "dish_name": "olive garden minestrone soup",
+    "ingredients": [
+        "celery",
+        "onion",
+        "carrot",
+        "butter",
+        "garbanzo beans",
+        "kidney bean",
+        "cup    dried whole peas",
+        "cup    white pea beans",
+        "carrot",
+        "onion",
+        "celery",
+        "bell pepper",
+        "rice",
+        "barley",
+        "shell macaroni",
+        "parsley",
+        "oregano",
+        "basil",
+        "soy sauce",
+        "pepper",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

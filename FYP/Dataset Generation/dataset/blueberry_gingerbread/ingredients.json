@@ -1,0 +1,24 @@
+{
+    "dish_name": "blueberry gingerbread",
+    "ingredients": [
+        "cup    oil",
+        "sugar",
+        "salt",
+        "molasses",
+        "egg",
+        "flour",
+        "ginger",
+        "cinnamon",
+        "nutmeg",
+        "baking soda",
+        "fresh blueberries",
+        "frozen blueberries",
+        "buttermilk",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

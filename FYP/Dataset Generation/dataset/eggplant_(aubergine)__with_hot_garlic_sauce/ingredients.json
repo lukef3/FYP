@@ -1,0 +1,25 @@
+{
+    "dish_name": "eggplant (aubergine)  with hot garlic sauce",
+    "ingredients": [
+        "Chinese eggplants",
+        "Japanese eggplants",
+        "tablespoons    peanut oil or 5   tablespoons    corn oil",
+        "fresh ginger",
+        "fresh garlic",
+        "tablespoon    hot bean paste (available from Chinese groceries)",
+        "soy sauce",
+        "sugar",
+        "water",
+        "water chestnut",
+        "scallion",
+        "tablespoon    sesame oil",
+        "toasted sesame seeds"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

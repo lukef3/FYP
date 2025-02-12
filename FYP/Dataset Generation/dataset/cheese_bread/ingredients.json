@@ -1,0 +1,21 @@
+{
+    "dish_name": "cheese bread",
+    "ingredients": [
+        "dry yeast",
+        "warm water",
+        "sugar",
+        "salt",
+        "flour",
+        "egg",
+        "sharp cheddar cheese",
+        "caraway seed",
+        "tablespoon   minced dry onion (can add in more to taste)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

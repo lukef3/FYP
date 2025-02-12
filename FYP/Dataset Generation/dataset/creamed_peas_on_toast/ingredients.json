@@ -1,0 +1,16 @@
+{
+    "dish_name": "creamed peas on toast",
+    "ingredients": [
+        "green peas",
+        "butter",
+        "flour",
+        "milk",
+        "buttered toast",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

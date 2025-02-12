@@ -1,0 +1,19 @@
+{
+    "dish_name": "unfried chicken - ww",
+    "ingredients": [
+        "cup    reduced-calorie mayonnaise",
+        "Dijon mustard",
+        "lemon zest",
+        "salt",
+        "drops    hot pepper sauce",
+        "chicken",
+        "cup    corn flake crumbs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

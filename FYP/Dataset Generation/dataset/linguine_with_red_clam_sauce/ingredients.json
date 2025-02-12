@@ -1,0 +1,19 @@
+{
+    "dish_name": "linguine with red clam sauce",
+    "ingredients": [
+        "butter",
+        "olive oil",
+        "garlic",
+        "diced tomatoes",
+        "fresh parsley",
+        "dried oregano",
+        "dried basil",
+        "salt",
+        "minced clams",
+        "linguine",
+        "lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

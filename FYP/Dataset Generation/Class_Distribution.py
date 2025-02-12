@@ -44,10 +44,5 @@ def print_allergen_percentages(allergen_counts, total_images):
         print(f"  Present: {present} ({percentage_present:.2f}%)")
         print(f"  Absent: {absent}")
 
-# Main function
-def main():
-    allergen_counts, total_images = analyze_dataset(DATASET_PATH)
-    print_allergen_percentages(allergen_counts, total_images)
-
-if __name__ == "__main__":
-    main()
+allergen_counts, total_images = analyze_dataset(DATASET_PATH)
+print_allergen_percentages(allergen_counts, total_images)

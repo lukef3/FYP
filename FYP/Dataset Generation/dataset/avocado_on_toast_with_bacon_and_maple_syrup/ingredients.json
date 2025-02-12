@@ -1,0 +1,19 @@
+{
+    "dish_name": "avocado on toast with bacon and maple syrup",
+    "ingredients": [
+        "slices    bread (good, solid and crusty)",
+        "avocados",
+        "lemon",
+        "salt",
+        "pepper",
+        "bacon",
+        "maple syrup"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

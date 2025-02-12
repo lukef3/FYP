@@ -1,0 +1,19 @@
+{
+    "dish_name": "quick macaroni and cheese",
+    "ingredients": [
+        "elbow macaroni",
+        "butter",
+        "garlic",
+        "cayenne pepper",
+        "all-purpose flour",
+        "cup   canned evaporated skim milk",
+        "salt",
+        "low-fat cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

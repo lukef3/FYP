@@ -1,0 +1,24 @@
+{
+    "dish_name": "mexican chocolate pound cake",
+    "ingredients": [
+        "flour",
+        "cup    unsweetened cocoa powder (use Mexican for authenticity!)",
+        "ground cinnamon",
+        "baking powder",
+        "salt",
+        "unsalted butter",
+        "light brown sugar",
+        "sugar",
+        "eggs",
+        "cup    whole milk, at room temp",
+        "cup    strong coffee, at room temp",
+        "vanilla"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

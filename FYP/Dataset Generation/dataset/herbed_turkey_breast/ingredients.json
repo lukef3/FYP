@@ -1,0 +1,19 @@
+{
+    "dish_name": "herbed turkey breast",
+    "ingredients": [
+        "turkey breast",
+        "lemon juice",
+        "olive oil",
+        "canola oil",
+        "garlic cloves",
+        "salt",
+        "lemon rind",
+        "dried thyme",
+        "pepper",
+        "rubbed sage"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

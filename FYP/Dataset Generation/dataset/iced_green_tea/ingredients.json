@@ -1,0 +1,14 @@
+{
+    "dish_name": "iced green tea",
+    "ingredients": [
+        "boiling water",
+        "regular green tea bags (Celestial Seasonings)",
+        "cold water",
+        "Splenda granular"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

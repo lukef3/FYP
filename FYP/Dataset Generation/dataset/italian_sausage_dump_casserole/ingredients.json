@@ -1,0 +1,16 @@
+{
+    "dish_name": "italian sausage dump casserole",
+    "ingredients": [
+        "Italian sausage",
+        "potatoes",
+        "green bell pepper",
+        "garlic",
+        "onion",
+        "crushed tomatoes",
+        "dried basil",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

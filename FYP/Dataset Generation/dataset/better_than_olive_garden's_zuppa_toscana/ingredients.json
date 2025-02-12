@@ -1,0 +1,26 @@
+{
+    "dish_name": "better than olive garden's zuppa toscana",
+    "ingredients": [
+        "mild Italian sausage",
+        "russet potatoes",
+        "crushed red pepper flakes",
+        "olive oil",
+        "yellow onion",
+        "garlic cloves",
+        "cup   real bacon piece",
+        "water",
+        "teaspoons   organic better than bouillon chicken base",
+        "fresh kale",
+        "heavy cream",
+        "salt and pepper",
+        "pecorino romano cheese",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

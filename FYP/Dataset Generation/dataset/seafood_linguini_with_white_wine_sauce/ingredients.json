@@ -1,0 +1,23 @@
+{
+    "dish_name": "seafood linguini with white wine sauce",
+    "ingredients": [
+        "linguine",
+        "shrimp",
+        "bay scallop",
+        "extra virgin olive oil",
+        "garlic",
+        "crushed red pepper flakes",
+        "butter",
+        "white wine",
+        "lemon zest",
+        "sea salt",
+        "ground black pepper",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

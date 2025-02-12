@@ -1,0 +1,23 @@
+{
+    "dish_name": "cheesy stuffed bell peppers",
+    "ingredients": [
+        "green bell peppers",
+        "lean ground beef",
+        "onion",
+        "cooked rice",
+        "egg",
+        "Italian stewed tomatoes",
+        "seasoning salt",
+        "black pepper",
+        "garlic powder",
+        "Worcestershire sauce",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

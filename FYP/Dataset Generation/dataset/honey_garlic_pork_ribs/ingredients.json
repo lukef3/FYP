@@ -1,0 +1,19 @@
+{
+    "dish_name": "honey garlic pork ribs",
+    "ingredients": [
+        "lbs    pork back ribs",
+        "honey",
+        "brown sugar",
+        "soy sauce",
+        "garlic powder",
+        "ground ginger",
+        "ground mustard",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

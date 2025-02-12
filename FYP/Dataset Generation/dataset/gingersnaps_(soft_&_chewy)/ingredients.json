@@ -1,0 +1,21 @@
+{
+    "dish_name": "gingersnaps (soft & chewy)",
+    "ingredients": [
+        "shortening",
+        "sugar",
+        "molasses",
+        "egg",
+        "flour",
+        "salt",
+        "baking soda",
+        "cinnamon",
+        "clove",
+        "ground ginger"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

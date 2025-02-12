@@ -1,0 +1,23 @@
+{
+    "dish_name": "old world style italian turkey meatballs",
+    "ingredients": [
+        "ground turkey",
+        "dried basil",
+        "dried oregano",
+        "egg",
+        "cup   of white unseasoned breadcrumbs",
+        "water",
+        "garlic powder",
+        "parmesan cheese",
+        "salt",
+        "black pepper",
+        "dried parsley",
+        "olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

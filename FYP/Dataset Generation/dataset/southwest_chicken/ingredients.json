@@ -1,0 +1,22 @@
+{
+    "dish_name": "southwest chicken",
+    "ingredients": [
+        "light brown sugar",
+        "salt",
+        "chili powder",
+        "garlic powder",
+        "dried thyme",
+        "ground cumin",
+        "onion powder",
+        "cayenne pepper",
+        "chicken",
+        "fresh parsley",
+        "lime wedge"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

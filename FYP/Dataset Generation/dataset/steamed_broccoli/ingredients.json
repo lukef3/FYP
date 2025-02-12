@@ -1,0 +1,14 @@
+{
+    "dish_name": "steamed broccoli",
+    "ingredients": [
+        "broccoli",
+        "salt and pepper",
+        "butter",
+        "lemon, juice of"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

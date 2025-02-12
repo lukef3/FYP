@@ -1,0 +1,23 @@
+{
+    "dish_name": "cabbage and potato soup",
+    "ingredients": [
+        "chicken broth",
+        "cabbage",
+        "potatoes",
+        "butter",
+        "leek",
+        "all-purpose flour",
+        "half-and-half",
+        "Dijon mustard",
+        "Worcestershire sauce",
+        "caraway seed",
+        "pepper",
+        "salt",
+        "Tabasco sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

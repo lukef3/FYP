@@ -1,0 +1,19 @@
+{
+    "dish_name": "creamy velveeta santa fe soup",
+    "ingredients": [
+        "ground beef",
+        "onion",
+        "corn",
+        "pinto beans",
+        "black beans",
+        "stewed tomatoes",
+        "Ro-Tel tomatoes",
+        "Velveeta Mexican cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

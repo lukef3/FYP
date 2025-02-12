@@ -1,0 +1,25 @@
+{
+    "dish_name": "southern living pinto beans",
+    "ingredients": [
+        "dry pinto beans",
+        "smoked ham hock",
+        "tomatoes and green chilies",
+        "chicken broth",
+        "green bell pepper",
+        "celery rib",
+        "onion",
+        "dash    red hot sauce",
+        "salt",
+        "garlic powder",
+        "oregano",
+        "thyme",
+        "black pepper",
+        "Worcestershire sauce",
+        "cooked rice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

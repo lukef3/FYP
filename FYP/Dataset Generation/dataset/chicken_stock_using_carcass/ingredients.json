@@ -1,0 +1,18 @@
+{
+    "dish_name": "chicken stock using carcass",
+    "ingredients": [
+        "kg    chicken carcasses (with some meat remaining)",
+        "water",
+        "onion",
+        "carrot",
+        "garlic",
+        "ginger",
+        "bay leaf",
+        "celery seed"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

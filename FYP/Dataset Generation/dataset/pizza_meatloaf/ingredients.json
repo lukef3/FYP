@@ -1,0 +1,20 @@
+{
+    "dish_name": "pizza meatloaf",
+    "ingredients": [
+        "eggs",
+        "ounces    pizza sauce, divided",
+        "cup    cracker crumb",
+        "parmesan cheese",
+        "mozzarella cheese",
+        "onion",
+        "green pepper",
+        "seasoning salt",
+        "oregano",
+        "pepper",
+        "ground beef"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

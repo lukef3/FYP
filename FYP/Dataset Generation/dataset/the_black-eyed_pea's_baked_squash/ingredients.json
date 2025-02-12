@@ -1,0 +1,18 @@
+{
+    "dish_name": "the black-eyed pea's baked squash",
+    "ingredients": [
+        "lbs    yellow squash",
+        "eggs",
+        "cup    breadcrumbs",
+        "butter",
+        "sugar",
+        "salt",
+        "onions",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

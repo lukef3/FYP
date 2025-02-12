@@ -1,0 +1,27 @@
+{
+    "dish_name": "deliciously chunky spanish rice",
+    "ingredients": [
+        "margarine",
+        "onion",
+        "bell pepper",
+        "carrot",
+        "celery",
+        "garlic clove",
+        "white rice",
+        "Mexican-style stewed tomatoes",
+        "tomato sauce",
+        "water",
+        "salt",
+        "black pepper",
+        "chili powder",
+        "cumin",
+        "crushed red pepper flakes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

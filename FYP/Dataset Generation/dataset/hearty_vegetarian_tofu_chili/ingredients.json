@@ -1,0 +1,27 @@
+{
+    "dish_name": "hearty vegetarian tofu chili",
+    "ingredients": [
+        "onion",
+        "green pepper",
+        "garlic cloves",
+        "olive oil",
+        "extra firm tofu",
+        "cumin",
+        "teaspoon    hot sauce",
+        "salt",
+        "pepper",
+        "red kidney beans",
+        "white kidney beans",
+        "diced tomatoes",
+        "tomato sauce",
+        "carrots",
+        "chili powder"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

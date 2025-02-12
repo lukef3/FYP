@@ -1,0 +1,17 @@
+{
+    "dish_name": "chocolate milkshakes with no ice cream!",
+    "ingredients": [
+        "milk",
+        "cocoa powder",
+        "sugar",
+        "cup    non-dairy powdered coffee creamer",
+        "vanilla extract",
+        "full size ice cubes (from ice cube tray, if using small ice cubes, double)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

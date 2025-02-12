@@ -1,0 +1,20 @@
+{
+    "dish_name": "healthy egg rolls",
+    "ingredients": [
+        "olive oil",
+        "cornstarch",
+        "water",
+        "Chinese cabbage",
+        "carrots",
+        "shiitake mushrooms",
+        "celery",
+        "fresh ginger",
+        "low-sodium tamari",
+        "green onions",
+        "fat-free egg-roll wrappers"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

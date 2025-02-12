@@ -1,0 +1,16 @@
+{
+    "dish_name": "gravy with sausage or hamburger",
+    "ingredients": [
+        "hamburger",
+        "breakfast sausage",
+        "flour",
+        "salt & pepper",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

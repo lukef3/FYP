@@ -1,0 +1,25 @@
+{
+    "dish_name": "my french onion soup",
+    "ingredients": [
+        "butter",
+        "margarine",
+        "Spanish onions",
+        "flour",
+        "beef broth",
+        "beef bouillon cubes",
+        "brown sugar",
+        "Worcestershire sauce",
+        "water",
+        "salt and pepper",
+        "garlic",
+        "dry garlic bread",
+        "crouton",
+        "mozzarella cheese",
+        "swiss cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

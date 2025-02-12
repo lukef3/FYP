@@ -1,0 +1,18 @@
+{
+    "dish_name": "southern buttermilk fried chicken",
+    "ingredients": [
+        "chicken parts",
+        "frying chicken",
+        "buttermilk",
+        "self rising flour",
+        "salt and pepper (I usually use 1 tsp. salt and 1/2 tsp freshly ground black pepper)",
+        "oil (for frying)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

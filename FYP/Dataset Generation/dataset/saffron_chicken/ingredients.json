@@ -1,0 +1,18 @@
+{
+    "dish_name": "saffron chicken",
+    "ingredients": [
+        "saffron",
+        "chicken pieces",
+        "butter",
+        "onion",
+        "gingerroot",
+        "chili pepper",
+        "garlic",
+        "ground cardamom",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

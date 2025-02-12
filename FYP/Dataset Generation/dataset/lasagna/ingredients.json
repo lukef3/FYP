@@ -1,0 +1,27 @@
+{
+    "dish_name": "lasagna",
+    "ingredients": [
+        "tablespoons    oil",
+        "mushroom",
+        "bacon",
+        "water",
+        "garlic",
+        "salt",
+        "onion",
+        "pepper",
+        "lean ground beef",
+        "mozzarella cheese",
+        "lb    salami, Chopped",
+        "eggs",
+        "sweet basil",
+        "parmesan cheese",
+        "parsley",
+        "lb    lasagna noodle, Cooked",
+        "tomato paste",
+        "cottage cheese",
+        "canned tomatoes"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

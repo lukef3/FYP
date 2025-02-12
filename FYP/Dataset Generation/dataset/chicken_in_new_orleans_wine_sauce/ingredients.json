@@ -1,0 +1,30 @@
+{
+    "dish_name": "chicken in new orleans wine sauce",
+    "ingredients": [
+        "chicken breast fillets",
+        "flour",
+        "salt",
+        "pepper",
+        "paprika",
+        "butter",
+        "white wine",
+        "chicken bouillon",
+        "water",
+        "poultry seasoning",
+        "bay leaf",
+        "mushrooms",
+        "onion",
+        "celery",
+        "carrot",
+        "sour cream",
+        "green pepper",
+        "parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

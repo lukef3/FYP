@@ -1,0 +1,22 @@
+{
+    "dish_name": "authentic spanish rice",
+    "ingredients": [
+        "long grain white rice",
+        "garlic cloves",
+        "tablespoons    vegetable oil",
+        "onion",
+        "salsa fresca",
+        "chicken broth",
+        "cumin",
+        "chili powder",
+        "sea salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

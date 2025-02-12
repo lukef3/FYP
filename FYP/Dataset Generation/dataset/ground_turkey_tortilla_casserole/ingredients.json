@@ -1,0 +1,20 @@
+{
+    "dish_name": "ground turkey tortilla casserole",
+    "ingredients": [
+        "flour tortillas",
+        "ground turkey",
+        "onion",
+        "black beans",
+        "(1 1/4  ounce) packet   taco seasoning",
+        "sour cream",
+        "salsa",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

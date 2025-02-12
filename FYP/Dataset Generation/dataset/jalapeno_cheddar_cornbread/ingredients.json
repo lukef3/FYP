@@ -1,0 +1,19 @@
+{
+    "dish_name": "jalapeno cheddar cornbread",
+    "ingredients": [
+        "(8 1/2  ounce) box   Jiffy cornbread mix",
+        "egg",
+        "butter",
+        "milk",
+        "tablespoons    canned jalapeno peppers, diced and drained well",
+        "cheddar cheese",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

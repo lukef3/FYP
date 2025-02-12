@@ -1,0 +1,21 @@
+{
+    "dish_name": "natural peanut butter swirl brownies",
+    "ingredients": [
+        "butter",
+        "brown sugar",
+        "sugar",
+        "eggs",
+        "vanilla",
+        "flour",
+        "cup    unsweetened cocoa powder",
+        "baking powder",
+        "salt",
+        "creamy peanut butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

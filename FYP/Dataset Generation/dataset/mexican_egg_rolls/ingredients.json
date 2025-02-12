@@ -1,0 +1,23 @@
+{
+    "dish_name": "mexican egg rolls",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "monterey jack cheese",
+        "black beans",
+        "frozen sweet corn",
+        "chopped sweet red pepper",
+        "green onions",
+        "fresh garlic cloves",
+        "salt",
+        "pepper",
+        "chili powder",
+        "cumin",
+        "(16   ounce) package   egg roll wraps",
+        "oil (for frying)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

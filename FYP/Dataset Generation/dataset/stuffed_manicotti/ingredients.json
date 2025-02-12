@@ -1,0 +1,21 @@
+{
+    "dish_name": "stuffed manicotti",
+    "ingredients": [
+        "uncooked manicotti",
+        "ricotta cheese",
+        "mozzarella cheese",
+        "cheddar cheese",
+        "eggs",
+        "parmesan cheese",
+        "parmesan cheese",
+        "teaspoon    italian seasoning",
+        "garlic powder",
+        "salt",
+        "pepper",
+        "cups   prepared spaghetti sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

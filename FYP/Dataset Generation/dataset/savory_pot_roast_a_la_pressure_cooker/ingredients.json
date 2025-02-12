@@ -1,0 +1,21 @@
+{
+    "dish_name": "savory pot roast a la pressure cooker",
+    "ingredients": [
+        "lbs    chuck roast",
+        "Season-All salt",
+        "olive oil",
+        "cup   peeled baby carrots",
+        "celery",
+        "onion",
+        "water",
+        "Worcestershire sauce",
+        "potatoes",
+        "pepper",
+        "beef bouillon powder",
+        "bay leaves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

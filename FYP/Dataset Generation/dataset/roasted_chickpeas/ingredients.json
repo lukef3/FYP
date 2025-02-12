@@ -1,0 +1,14 @@
+{
+    "dish_name": "roasted chickpeas",
+    "ingredients": [
+        "olive oil flavored cooking spray",
+        "canned chick-peas",
+        "garlic powder",
+        "red pepper flakes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

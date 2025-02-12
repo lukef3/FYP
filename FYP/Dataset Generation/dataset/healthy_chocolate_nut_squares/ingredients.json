@@ -1,0 +1,29 @@
+{
+    "dish_name": "healthy chocolate nut squares",
+    "ingredients": [
+        "cup    Grape-nuts cereal or 1   cup   seven in the morning cereal",
+        "oats",
+        "whole wheat flour",
+        "ground flax seeds",
+        "wheat germ",
+        "pecans",
+        "walnut pieces",
+        "cup    mini chocolate chip (I use a little less)",
+        "baking soda",
+        "salt",
+        "cinnamon",
+        "nonfat yogurt",
+        "egg",
+        "egg white",
+        "applesauce",
+        "sugar",
+        "vanilla"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

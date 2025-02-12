@@ -1,0 +1,16 @@
+{
+    "dish_name": "5 minute - double layer chocolate pie",
+    "ingredients": [
+        "graham cracker pie crust",
+        "milk",
+        "chocolate flavor instant pudding and pie filling mix",
+        "frozen non-dairy topping"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "dish_name": "non alcoholic pina colada",
+    "ingredients": [
+        "ounces    unsweetened pineapple juice",
+        "cream of coconut",
+        "cup    ice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

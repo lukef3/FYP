@@ -1,0 +1,18 @@
+{
+    "dish_name": "almost like papa john's pizza dough",
+    "ingredients": [
+        "flour",
+        "sugar",
+        "fast rising yeast",
+        "salt",
+        "water",
+        "tablespoons    oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

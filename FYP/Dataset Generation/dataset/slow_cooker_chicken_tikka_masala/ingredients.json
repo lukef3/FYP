@@ -1,0 +1,34 @@
+{
+    "dish_name": "slow cooker chicken tikka masala",
+    "ingredients": [
+        "boneless skinless chicken breast halves",
+        "yellow onion",
+        "garlic cloves",
+        "ginger",
+        "jalapeno, stemmed, sliced in half and seeds removed",
+        "tomato puree",
+        "plain yogurt",
+        "extra virgin olive oil",
+        "lemon juice",
+        "garam masala",
+        "cumin",
+        "paprika",
+        "salt",
+        "cinnamon",
+        "fresh ground black pepper",
+        "cayenne pepper",
+        "bay leaves",
+        "heavy cream",
+        "cornstarch",
+        "long grain white rice",
+        "basmati rice",
+        "cilantro"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

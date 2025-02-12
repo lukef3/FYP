@@ -1,0 +1,19 @@
+{
+    "dish_name": "dorito casserole",
+    "ingredients": [
+        "(10 1/2  ounce) cans   cream of mushroom soup",
+        "water",
+        "Rotel Tomatoes",
+        "(13 -16   ounce) bag   plain Doritos",
+        "onions",
+        "ground beef",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

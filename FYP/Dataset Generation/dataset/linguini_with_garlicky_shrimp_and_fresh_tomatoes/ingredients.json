@@ -1,0 +1,21 @@
+{
+    "dish_name": "linguini with garlicky shrimp and fresh tomatoes",
+    "ingredients": [
+        "linguine",
+        "unsalted butter",
+        "large shrimp",
+        "salt",
+        "garlic cloves",
+        "crushed red pepper flakes",
+        "plum tomatoes",
+        "parsley",
+        "lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

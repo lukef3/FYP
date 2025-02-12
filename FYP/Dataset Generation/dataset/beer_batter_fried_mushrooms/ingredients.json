@@ -1,0 +1,20 @@
+{
+    "dish_name": "beer batter fried mushrooms",
+    "ingredients": [
+        "beer",
+        "flour",
+        "garlic powder",
+        "salt",
+        "pepper",
+        "parsley flakes",
+        "cups    cooking oil (depending on the size of your pot, and mushrooms)",
+        "fresh large mushroom"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

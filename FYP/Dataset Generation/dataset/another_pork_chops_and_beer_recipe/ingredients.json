@@ -1,0 +1,17 @@
+{
+    "dish_name": "another pork chops and beer recipe",
+    "ingredients": [
+        "pork chops",
+        "salt",
+        "pepper",
+        "garlic salt",
+        "onion",
+        "beef broth",
+        "Bud Light beer",
+        "olive oil",
+        "flour"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

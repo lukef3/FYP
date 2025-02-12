@@ -1,0 +1,19 @@
+{
+    "dish_name": "no-fat gravy",
+    "ingredients": [
+        "fat free chicken broth",
+        "vegetable broth",
+        "mushroom stems and pieces",
+        "black pepper",
+        "garlic powder",
+        "teaspoon    chicken soup base",
+        "soy sauce",
+        "Worcestershire sauce",
+        "tablespoons    instant potato flakes (Idaho)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

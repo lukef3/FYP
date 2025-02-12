@@ -1,0 +1,22 @@
+{
+    "dish_name": "it's a tuna salad wrap!",
+    "ingredients": [
+        "solid white tuna packed in water",
+        "celery",
+        "tablespoon    dill relish (or 1 small dill pickle, minced)",
+        "light mayonnaise",
+        "red onions",
+        "lemon juice",
+        "dried dill",
+        "salt",
+        "black pepper",
+        "fat free whole wheat tortillas"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

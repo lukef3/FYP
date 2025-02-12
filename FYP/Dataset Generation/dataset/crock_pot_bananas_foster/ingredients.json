@@ -1,0 +1,17 @@
+{
+    "dish_name": "crock pot bananas foster",
+    "ingredients": [
+        "margarine",
+        "butter",
+        "brown sugar",
+        "bananas",
+        "rum",
+        "vanilla ice cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

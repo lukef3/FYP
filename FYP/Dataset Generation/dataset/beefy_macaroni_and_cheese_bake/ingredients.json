@@ -1,0 +1,21 @@
+{
+    "dish_name": "beefy macaroni and cheese bake",
+    "ingredients": [
+        "elbow macaroni",
+        "onion",
+        "tablespoon    oil",
+        "lean ground beef",
+        "tomatoes",
+        "thyme",
+        "dried oregano",
+        "salt and pepper",
+        "flour",
+        "milk",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

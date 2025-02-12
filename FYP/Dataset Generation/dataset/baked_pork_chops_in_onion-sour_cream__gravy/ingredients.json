@@ -1,0 +1,17 @@
+{
+    "dish_name": "baked pork chops in onion-sour cream  gravy",
+    "ingredients": [
+        "pork chops",
+        "flour",
+        "(1 1/4  ounce) package   Lipton Onion Soup Mix",
+        "boiling water",
+        "sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

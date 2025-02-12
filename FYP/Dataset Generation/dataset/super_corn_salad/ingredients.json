@@ -1,0 +1,29 @@
+{
+    "dish_name": "super corn salad",
+    "ingredients": [
+        "kernel corn",
+        "celery",
+        "green pepper",
+        "cup   diced red pepper",
+        "yellow sweet pepper",
+        "green onions",
+        "parsley",
+        "marinade",
+        "sugar",
+        "vinegar",
+        "cup    vegetable oil",
+        "salt",
+        "pepper",
+        "dry mustard",
+        "tarragon",
+        "basil",
+        "parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

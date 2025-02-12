@@ -1,0 +1,18 @@
+{
+    "dish_name": "lemony chickpea stir-fry (vegan and yum)",
+    "ingredients": [
+        "extra virgin olive oil",
+        "sea salt",
+        "onion",
+        "chickpeas",
+        "extra firm tofu",
+        "kale",
+        "zucchini",
+        "lemon, juice and zest of"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

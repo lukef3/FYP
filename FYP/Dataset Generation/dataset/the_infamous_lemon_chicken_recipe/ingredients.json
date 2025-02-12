@@ -1,0 +1,18 @@
+{
+    "dish_name": "the infamous lemon chicken recipe",
+    "ingredients": [
+        "unsifted flour",
+        "salt",
+        "black pepper",
+        "boneless skinless chicken breasts",
+        "butter",
+        "ReaLemon juice",
+        "sugar",
+        "ounces   fresh sliced mushrooms",
+        "cooked rice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "dish_name": "graham crackers (gluten free)",
+    "ingredients": [
+        "cups    gluten-free flour (1 part each of bean flour, tapioca flour & cornstarch)",
+        "cup    sweet rice flour (Mochiko is gluten free)",
+        "brown sugar",
+        "cinnamon",
+        "baking powder",
+        "baking soda",
+        "xanthan gum",
+        "salt",
+        "butter",
+        "margarine",
+        "cold water",
+        "honey",
+        "vanilla",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,9 +1,8 @@
 {
-    "dish_name": "mock tuna salad (chickpea salad)",
     "allergens": [
         0,
         0,
-        0,
+        1,
         0,
         0,
         0,

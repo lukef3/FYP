@@ -1,0 +1,18 @@
+{
+    "dish_name": "salad dressing for teenage boys (and their families)",
+    "ingredients": [
+        "mayonnaise",
+        "water",
+        "vinegar",
+        "sugar",
+        "garlic powder",
+        "fresh garlic",
+        "onion powder",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

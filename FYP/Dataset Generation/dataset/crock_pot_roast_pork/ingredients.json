@@ -1,0 +1,17 @@
+{
+    "dish_name": "crock pot roast pork",
+    "ingredients": [
+        "boneless pork roast",
+        "garlic",
+        "salt and pepper",
+        "onion",
+        "cloves",
+        "bay leaves",
+        "water",
+        "soy sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

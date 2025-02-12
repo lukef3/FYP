@@ -1,0 +1,17 @@
+{
+    "dish_name": "cookies 'n cream ice cream",
+    "ingredients": [
+        "half-and-half",
+        "egg yolks",
+        "sugar",
+        "cups    whipping cream",
+        "vanilla",
+        "salt",
+        "crushed Oreo cookies"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

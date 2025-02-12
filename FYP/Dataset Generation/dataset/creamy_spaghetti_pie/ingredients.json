@@ -1,0 +1,26 @@
+{
+    "dish_name": "creamy spaghetti pie",
+    "ingredients": [
+        "ounces    thin spaghetti, broken in half, cooked and drained  (about 4 cups)",
+        "green onions with top",
+        "fresh parsley",
+        "garlic cloves",
+        "fresh parmesan cheese",
+        "part-skim ricotta cheese",
+        "egg",
+        "butter",
+        "salt",
+        "teaspoon    italian seasoning",
+        "mozzarella cheese",
+        "(26   ounce) jar   spaghetti sauce",
+        "diced tomatoes",
+        "parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dish_name": "pan seared veal chops with rosemary",
+    "ingredients": [
+        "veal chops (about 3/4-inch thick)",
+        "garlic",
+        "fresh rosemary",
+        "olive oil",
+        "salt & freshly ground black pepper",
+        "white wine",
+        "cup    chicken stock"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

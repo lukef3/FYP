@@ -1,0 +1,21 @@
+{
+    "dish_name": "chicken and barley stew",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "barley",
+        "cups    chicken stock (I use boullion cubes & water)",
+        "celery",
+        "carrots",
+        "onion",
+        "garlic",
+        "dried basil",
+        "dried thyme",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

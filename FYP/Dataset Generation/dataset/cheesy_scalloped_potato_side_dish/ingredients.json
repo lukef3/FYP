@@ -1,0 +1,18 @@
+{
+    "dish_name": "cheesy scalloped potato side dish",
+    "ingredients": [
+        "potatoes",
+        "flour",
+        "half-and-half",
+        "cheddar cheese",
+        "parmesan cheese",
+        "salt & pepper, to taste",
+        "paprika"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

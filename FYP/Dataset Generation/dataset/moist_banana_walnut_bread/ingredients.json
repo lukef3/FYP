@@ -1,0 +1,18 @@
+{
+    "dish_name": "moist banana walnut bread",
+    "ingredients": [
+        "butter",
+        "sugar",
+        "bananas",
+        "eggs",
+        "vanilla",
+        "flour",
+        "baking soda",
+        "salt",
+        "buttermilk",
+        "walnuts"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

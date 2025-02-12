@@ -1,0 +1,25 @@
+{
+    "dish_name": "cheesy ham-penne casserole",
+    "ingredients": [
+        "penne pasta",
+        "cooked ham",
+        "butter",
+        "mustard powder",
+        "ground black pepper",
+        "seasoning salt",
+        "cayenne pepper",
+        "onion",
+        "garlic",
+        "all-purpose flour",
+        "half-and-half cream",
+        "parmesan cheese",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

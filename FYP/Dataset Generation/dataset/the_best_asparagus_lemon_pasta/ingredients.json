@@ -1,0 +1,21 @@
+{
+    "dish_name": "the best asparagus lemon pasta",
+    "ingredients": [
+        "asparagus",
+        "linguine",
+        "unsalted butter",
+        "heavy cream",
+        "lemon zest",
+        "fresh lemon juice",
+        "salt",
+        "basil",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

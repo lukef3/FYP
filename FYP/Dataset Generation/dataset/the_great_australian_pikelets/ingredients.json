@@ -1,0 +1,15 @@
+{
+    "dish_name": "the great australian pikelets",
+    "ingredients": [
+        "egg",
+        "sugar",
+        "milk",
+        "self raising flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "christmas trash",
+    "ingredients": [
+        "cups    Rice Chex",
+        "cups    Corn Chex",
+        "cups   honey nut Cheerios toasted oat cereal",
+        "cups    small pretzels",
+        "salted peanuts",
+        "(12   ounce) bag  holiday M&M's plain chocolate candy (red & green)",
+        "(12   ounce) bag  holiday M&M's peanut chocolate candies",
+        "white chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

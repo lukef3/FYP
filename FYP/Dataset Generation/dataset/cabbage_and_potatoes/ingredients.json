@@ -1,0 +1,20 @@
+{
+    "dish_name": "cabbage and potatoes",
+    "ingredients": [
+        "bacon",
+        "medium    red potatoes, scrubbed and diced in 1/2 inch cubes",
+        "red onion",
+        "green cabbage",
+        "red wine vinegar",
+        "hot water",
+        "caraway seeds",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

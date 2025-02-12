@@ -1,0 +1,20 @@
+{
+    "dish_name": "morning glory muffins...for the gym obsessed",
+    "ingredients": [
+        "all-purpose flour",
+        "white sugar",
+        "baking soda",
+        "ground cinnamon",
+        "salt",
+        "carrots",
+        "raisins",
+        "apples",
+        "eggs",
+        "bananas",
+        "vanilla extract"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

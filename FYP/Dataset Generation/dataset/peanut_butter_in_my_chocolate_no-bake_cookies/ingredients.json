@@ -1,0 +1,19 @@
+{
+    "dish_name": "peanut butter in my chocolate no-bake cookies",
+    "ingredients": [
+        "sugar",
+        "tablespoons    cocoa",
+        "margarine",
+        "milk",
+        "vanilla",
+        "peanut butter",
+        "rolled oats"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "chocolate peanut butter bundt cake",
+    "ingredients": [
+        "(18   ounce)    devil's food cake mix",
+        "sour cream",
+        "eggs",
+        "miniature peanut butter cups, unwrapped and each cut in half",
+        "cup    semi-sweet chocolate chips",
+        "creamy peanut butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

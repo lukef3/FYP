@@ -1,0 +1,20 @@
+{
+    "dish_name": "quick cherry cobbler",
+    "ingredients": [
+        "cherry pie filling",
+        "teaspoon    almond extract (I use 1 teaspoon)",
+        "Bisquick baking mix",
+        "sugar",
+        "milk",
+        "butter",
+        "sugar",
+        "vanilla ice cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

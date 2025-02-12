@@ -1,0 +1,14 @@
+{
+    "dish_name": "mom's homemade apple cider (non-alchoholic)",
+    "ingredients": [
+        "apples",
+        "sugar",
+        "cinnamon",
+        "allspice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

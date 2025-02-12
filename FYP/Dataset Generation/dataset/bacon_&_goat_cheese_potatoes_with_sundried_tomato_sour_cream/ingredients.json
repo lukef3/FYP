@@ -1,0 +1,20 @@
+{
+    "dish_name": "bacon & goat cheese potatoes with sundried tomato sour cream",
+    "ingredients": [
+        "ounces    Simply Potatoes Traditional Mashed Potatoes",
+        "ounces   fresh spreadable goat spreadable cheese with garlic and herbs",
+        "bacon",
+        "salt",
+        "pepper",
+        "sour cream",
+        "lemon juice",
+        "sun-dried tomatoes",
+        "garlic cloves",
+        "green onions"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

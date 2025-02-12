@@ -1,0 +1,17 @@
+{
+    "dish_name": "sweet mustard chicken bake",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "honey",
+        "Dijon mustard",
+        "butter",
+        "fresh ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

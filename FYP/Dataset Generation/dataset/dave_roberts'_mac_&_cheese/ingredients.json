@@ -1,0 +1,18 @@
+{
+    "dish_name": "dave roberts' mac & cheese",
+    "ingredients": [
+        "rigatoni pasta",
+        "sharp cheddar cheese",
+        "monterey jack cheese",
+        "parmesan cheese",
+        "heavy cream",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "fresh strawberry cobbler",
+    "ingredients": [
+        "butter",
+        "margarine",
+        "sugar",
+        "egg",
+        "vanilla extract",
+        "all-purpose flour",
+        "baking powder",
+        "salt",
+        "milk",
+        "fresh strawberries",
+        "all-purpose flour",
+        "sugar",
+        "butter",
+        "margarine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

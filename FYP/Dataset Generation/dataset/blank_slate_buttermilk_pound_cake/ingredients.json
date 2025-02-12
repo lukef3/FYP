@@ -1,0 +1,20 @@
+{
+    "dish_name": "blank slate buttermilk pound cake",
+    "ingredients": [
+        "sugar",
+        "eggs",
+        "shortening",
+        "teaspoons    flavoring (vanilla, almond, lemon or whatever you like)",
+        "flour",
+        "baking soda",
+        "salt",
+        "buttermilk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

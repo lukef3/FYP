@@ -1,0 +1,21 @@
+{
+    "dish_name": "quick oat bran and banana muffins",
+    "ingredients": [
+        "all-purpose flour",
+        "cup    oat bran",
+        "brown sugar",
+        "baking powder",
+        "salt",
+        "cinnamon",
+        "milk",
+        "cup    vegetable oil",
+        "egg",
+        "vanilla",
+        "bananas"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

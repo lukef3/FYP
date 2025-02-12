@@ -1,0 +1,21 @@
+{
+    "dish_name": "russian-style turkey cutlets",
+    "ingredients": [
+        "slices   good-quality white bread, crusts removed",
+        "half-and-half",
+        "ground turkey",
+        "egg",
+        "salt",
+        "fresh ground black pepper",
+        "dried dill",
+        "butter",
+        "cup    dry breadcrumbs",
+        "tablespoons    cooking oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

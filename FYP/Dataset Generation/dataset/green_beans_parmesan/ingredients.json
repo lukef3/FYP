@@ -1,0 +1,15 @@
+{
+    "dish_name": "green beans parmesan",
+    "ingredients": [
+        "margarine",
+        "shallots",
+        "fresh green beans",
+        "chicken broth",
+        "salt",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

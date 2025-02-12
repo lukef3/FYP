@@ -1,0 +1,17 @@
+{
+    "dish_name": "chili roasted chicken breasts or thighs",
+    "ingredients": [
+        "barbecue sauce",
+        "chili powder",
+        "dried oregano",
+        "salt",
+        "chicken thighs",
+        "boneless skinless chicken breasts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

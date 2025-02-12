@@ -1,0 +1,21 @@
+{
+    "dish_name": "amanda's parmesan chicken",
+    "ingredients": [
+        "garlic clove",
+        "butter",
+        "cup    breadcrumbs, dried",
+        "parmesan cheese",
+        "fresh parsley",
+        "garlic powder",
+        "pinch    italian seasoning",
+        "black pepper",
+        "chicken meat"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

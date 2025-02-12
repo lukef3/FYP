@@ -1,9 +1,8 @@
 {
-    "dish_name": "chipotle oven fried chicken",
     "allergens": [
         1,
         0,
-        0,
+        1,
         0,
         0,
         0,

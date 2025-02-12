@@ -1,0 +1,20 @@
+{
+    "dish_name": "basic muffins",
+    "ingredients": [
+        "all-purpose flour",
+        "baking powder",
+        "salt",
+        "sugar",
+        "egg",
+        "milk",
+        "vanilla",
+        "butter",
+        "margarine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -37,3 +37,5 @@ for filename in os.listdir(metadata_dir):
         new_json_path = os.path.join(new_folder, 'ingredients.json')
         with open(new_json_path, 'w', encoding='utf-8') as f:
             json.dump(new_data, f, indent=4)
+
+

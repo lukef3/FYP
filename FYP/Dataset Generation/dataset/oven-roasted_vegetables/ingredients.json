@@ -1,0 +1,27 @@
+{
+    "dish_name": "oven-roasted vegetables",
+    "ingredients": [
+        "sweet potatoes",
+        "new potatoes",
+        "red onion",
+        "zucchini",
+        "summer squash, sliced 1-inch thick",
+        "(8   ounce) bag   baby carrots",
+        "button mushrooms",
+        "fresh thyme",
+        "fresh rosemary",
+        "dried basil",
+        "garlic",
+        "olive oil",
+        "tablespoons    balsamic vinegar",
+        "salt",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

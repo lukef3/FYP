@@ -1,0 +1,23 @@
+{
+    "dish_name": "the best butterscotch banana bread",
+    "ingredients": [
+        "bananas",
+        "flour",
+        "baking powder",
+        "baking soda",
+        "cinnamon",
+        "nutmeg",
+        "salt",
+        "sugar",
+        "eggs",
+        "butter",
+        "milk",
+        "cup    nuts, chopped  (optional)",
+        "ounces    butterscotch chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

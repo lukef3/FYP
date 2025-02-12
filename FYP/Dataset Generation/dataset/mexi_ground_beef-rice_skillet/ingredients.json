@@ -1,0 +1,27 @@
+{
+    "dish_name": "mexi ground beef-rice skillet",
+    "ingredients": [
+        "ground beef",
+        "onion",
+        "garlic",
+        "green bell pepper",
+        "jalapeno pepper, seeded and finely chopped",
+        "(1 1/4  ounce) package   taco seasoning mix (can use more to taste)",
+        "chicken broth",
+        "zucchini",
+        "stewed tomatoes",
+        "frozen corn",
+        "peas",
+        "Minute Rice",
+        "seasoning salt",
+        "fresh ground black pepper",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

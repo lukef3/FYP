@@ -1,0 +1,21 @@
+{
+    "dish_name": "tomato bisque",
+    "ingredients": [
+        "olive oil",
+        "onion",
+        "garlic",
+        "fresh thyme",
+        "crushed tomatoes",
+        "reduced-sodium chicken broth",
+        "honey",
+        "coarse salt",
+        "black pepper",
+        "heavy cream",
+        "fresh flat-leaf parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

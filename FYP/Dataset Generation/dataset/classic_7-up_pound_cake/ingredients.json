@@ -1,0 +1,20 @@
+{
+    "dish_name": "classic 7-up pound cake",
+    "ingredients": [
+        "butter",
+        "shortening",
+        "sugar",
+        "all-purpose flour",
+        "cups    7-up, soda divided",
+        "teaspoon    almond extract",
+        "vanilla",
+        "salt",
+        "eggs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

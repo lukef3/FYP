@@ -1,0 +1,19 @@
+{
+    "dish_name": "chocolate crinkle cookies",
+    "ingredients": [
+        "granulated sugar",
+        "cup    vegetable oil",
+        "cup    cocoa, unsweetened",
+        "eggs",
+        "vanilla",
+        "all-purpose flour",
+        "baking powder",
+        "salt",
+        "powdered sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

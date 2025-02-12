@@ -1,0 +1,18 @@
+{
+    "dish_name": "ranch mashed potatoes",
+    "ingredients": [
+        "potatoes",
+        "envelope    ranch dressing mix",
+        "sour cream",
+        "milk",
+        "margarine",
+        "butter",
+        "bacon",
+        "bacon bits"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

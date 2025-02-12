@@ -1,0 +1,22 @@
+{
+    "dish_name": "bacon cheddar potato soup",
+    "ingredients": [
+        "onion",
+        "celery",
+        "butter",
+        "potatoes",
+        "chicken broth",
+        "sharp cheddar cheese",
+        "pint    whipping cream",
+        "water",
+        "bacon bits",
+        "flour",
+        "white pepper",
+        "paprika",
+        "dried parsley",
+        "seasoned croutons"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "dish_name": "grilled chipotle-chicken quesadillas",
+    "ingredients": [
+        "boneless skinless chicken breast halves",
+        "olive oil",
+        "salt & freshly ground black pepper",
+        "chipotle chile in adobo",
+        "sour cream",
+        "mayonnaise",
+        "lime juice",
+        "fresh cilantro",
+        "corn tortillas",
+        "monterey jack cheese",
+        "pico de gallo",
+        "salsa"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

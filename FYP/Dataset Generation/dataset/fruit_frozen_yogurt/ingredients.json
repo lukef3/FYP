@@ -1,0 +1,15 @@
+{
+    "dish_name": "fruit frozen yogurt",
+    "ingredients": [
+        "cups   frozen mixed fruit",
+        "cup    superfine sugar (berry)",
+        "nonfat yogurt",
+        "fresh lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

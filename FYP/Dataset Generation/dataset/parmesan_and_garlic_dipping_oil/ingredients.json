@@ -1,0 +1,19 @@
+{
+    "dish_name": "parmesan and garlic dipping oil",
+    "ingredients": [
+        "parmesan cheese",
+        "pepper",
+        "salt",
+        "tablespoons    balsamic vinegar",
+        "garlic",
+        "fresh oregano",
+        "dried oregano",
+        "olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

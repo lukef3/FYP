@@ -1,0 +1,29 @@
+{
+    "dish_name": "chicken piccata for pressure cooker",
+    "ingredients": [
+        "chicken breast halves",
+        "all-purpose flour",
+        "olive oil",
+        "shallots",
+        "garlic cloves",
+        "chicken broth",
+        "fresh lemon juice",
+        "sherry wine",
+        "salt",
+        "white pepper",
+        "dried basil",
+        "cup    pimento stuffed olive, minced",
+        "sour cream",
+        "potato starch",
+        "flour",
+        "fresh parmesan cheese",
+        "lemon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

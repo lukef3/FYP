@@ -1,0 +1,19 @@
+{
+    "dish_name": "easter bunny racers",
+    "ingredients": [
+        "swiss rolls",
+        "(16   ounce) container   vanilla frosting or  (16   ounce) container   chocolate frosting",
+        "marshmallow peeps",
+        "(4 1/2  ounce) package  peach ring gummy candies (cut in half)",
+        "Lifesavers candies",
+        "M&M's plain chocolate candy",
+        "spree candies"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

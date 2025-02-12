@@ -1,0 +1,32 @@
+{
+    "dish_name": "lynn's favorite jerk chicken",
+    "ingredients": [
+        "chicken breasts",
+        "canola oil",
+        "chili powder",
+        "garlic powder",
+        "teaspoons    onion salt",
+        "basil",
+        "thyme",
+        "teaspoons    vegetable seasoning",
+        "crushed red pepper flakes",
+        "cumin",
+        "teaspoons    coriander",
+        "ginger",
+        "black pepper",
+        "cinnamon",
+        "ground cloves",
+        "allspice",
+        "salt",
+        "sugar",
+        "onion",
+        "green pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

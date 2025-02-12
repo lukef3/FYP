@@ -1,0 +1,27 @@
+{
+    "dish_name": "delicious chicken (or turkey!) tetrazzini",
+    "ingredients": [
+        "chicken bouillon cubes",
+        "hot water",
+        "lb    thin spaghetti",
+        "butter",
+        "flour",
+        "salt",
+        "pepper",
+        "cayenne pepper",
+        "milk",
+        "sour cream",
+        "cottage cheese",
+        "cups   diced cooked chicken",
+        "(4   ounce) jar   sliced mushrooms",
+        "parsley",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

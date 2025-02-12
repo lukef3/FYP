@@ -1,0 +1,24 @@
+{
+    "dish_name": "my grandma's chocolate pies",
+    "ingredients": [
+        "(9   inch)    deep dish pie shells, baked  (bought or homemade)",
+        "sugar",
+        "cornstarch",
+        "cocoa powder",
+        "salt",
+        "eggs",
+        "vanilla flavoring",
+        "evaporated milk",
+        "cups    whole milk",
+        "butter",
+        "sugar",
+        "cream of tartar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dish_name": "blueberry peach cobbler",
+    "ingredients": [
+        "flour",
+        "sugar",
+        "baking powder",
+        "salt",
+        "skim milk",
+        "blueberries",
+        "cup   canned peach"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

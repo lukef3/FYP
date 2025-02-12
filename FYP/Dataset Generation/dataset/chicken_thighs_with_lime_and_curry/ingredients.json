@@ -1,0 +1,21 @@
+{
+    "dish_name": "chicken thighs with lime and curry",
+    "ingredients": [
+        "chicken thighs",
+        "flour",
+        "pepper",
+        "tablespoons    oil",
+        "red onion",
+        "garlic",
+        "cup    stock (depending on how much broth you like)",
+        "curry powder",
+        "dashes    hot pepper sauce",
+        "lime",
+        "fresh cilantro",
+        "sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

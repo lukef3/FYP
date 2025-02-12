@@ -1,0 +1,19 @@
+{
+    "dish_name": "herb butter for french bread",
+    "ingredients": [
+        "large    French bread (can sub Italian or any other hearty bread)",
+        "butter",
+        "garlic clove",
+        "parsley",
+        "sage",
+        "green onion",
+        "fresh ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

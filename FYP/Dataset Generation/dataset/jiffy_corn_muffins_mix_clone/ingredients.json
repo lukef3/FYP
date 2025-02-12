@@ -1,0 +1,20 @@
+{
+    "dish_name": "jiffy corn muffins mix clone",
+    "ingredients": [
+        "all-purpose flour",
+        "yellow cornmeal",
+        "granulated sugar",
+        "baking powder",
+        "salt",
+        "tablespoons    vegetable oil",
+        "egg",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

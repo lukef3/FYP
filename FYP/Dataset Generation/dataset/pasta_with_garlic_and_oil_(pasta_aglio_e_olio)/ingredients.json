@@ -1,0 +1,13 @@
+{
+    "dish_name": "pasta with garlic and oil (pasta aglio e olio)",
+    "ingredients": [
+        "pasta",
+        "hot pepper, crushed",
+        "olive oil",
+        "garlic cloves",
+        "cup    breadcrumbs (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

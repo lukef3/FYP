@@ -1,0 +1,12 @@
+{
+    "dish_name": "weight watchers' candy",
+    "ingredients": [
+        "Hershey Bar",
+        "cup    reduced-fat peanut butter",
+        "cup    Fiber One cereal"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

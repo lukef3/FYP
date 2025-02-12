@@ -1,0 +1,19 @@
+{
+    "dish_name": "satisfying french toast",
+    "ingredients": [
+        "all-purpose flour",
+        "milk",
+        "salt",
+        "eggs",
+        "cinnamon",
+        "vanilla",
+        "white sugar",
+        "slices    bread (I use Texas toast)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

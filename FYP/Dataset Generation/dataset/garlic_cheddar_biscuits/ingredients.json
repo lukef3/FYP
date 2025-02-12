@@ -1,0 +1,19 @@
+{
+    "dish_name": "garlic cheddar biscuits",
+    "ingredients": [
+        "all-purpose flour",
+        "baking powder",
+        "sugar",
+        "salt",
+        "butter",
+        "margarine",
+        "milk",
+        "cup    shredded cheddar cheese",
+        "teaspoon    garlic salt, depends on your taste"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

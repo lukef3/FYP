@@ -1,0 +1,15 @@
+{
+    "dish_name": "chocolate chip shortbread",
+    "ingredients": [
+        "butter",
+        "sugar",
+        "vanilla",
+        "flour",
+        "salt",
+        "cup    miniature semisweet chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

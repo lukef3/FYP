@@ -1,0 +1,24 @@
+{
+    "dish_name": "tuscan potato soup (zuppa toscana)",
+    "ingredients": [
+        "chicken broth",
+        "water",
+        "bacon",
+        "Italian sausage",
+        "russet potatoes",
+        "large    white onion, finely chopped",
+        "garlic cloves",
+        "olive oil",
+        "half-and-half",
+        "salt",
+        "black pepper",
+        "ground cayenne pepper",
+        "mustard powder",
+        "fennel seed",
+        "kale leaves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

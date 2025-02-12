@@ -1,0 +1,19 @@
+{
+    "dish_name": "baked buffalo thighs",
+    "ingredients": [
+        "boneless skinless chicken thighs",
+        "teaspoons    vegetable oil",
+        "cup    hot sauce",
+        "margarine",
+        "water",
+        "white vinegar",
+        "pepper",
+        "cooking spray",
+        "blue cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

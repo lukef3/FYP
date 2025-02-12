@@ -1,0 +1,27 @@
+{
+    "dish_name": "chicken curry",
+    "ingredients": [
+        "onions",
+        "butter",
+        "garlic",
+        "ginger",
+        "green chili peppers",
+        "tomatoes",
+        "tomato paste",
+        "methi seeds",
+        "teaspoon    dry red pepper",
+        "salt",
+        "turmeric",
+        "garam masala",
+        "skinless chicken thighs",
+        "chicken legs",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dish_name": "hot pepper relish",
+    "ingredients": [
+        "red chili peppers",
+        "green chili peppers",
+        "onions",
+        "canning salt",
+        "boiling water",
+        "cider vinegar",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

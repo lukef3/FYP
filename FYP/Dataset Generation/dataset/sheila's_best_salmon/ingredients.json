@@ -1,0 +1,23 @@
+{
+    "dish_name": "sheila's best salmon",
+    "ingredients": [
+        "butter",
+        "onion",
+        "salmon fillets",
+        "mayonnaise",
+        "parmesan cheese",
+        "Worcestershire sauce",
+        "paprika",
+        "salt",
+        "lemon juice",
+        "oregano",
+        "parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "italian style skillet zucchini",
+    "ingredients": [
+        "tablespoons    vegetable oil",
+        "zucchini",
+        "onion",
+        "water",
+        "tomatoes",
+        "fresh basil",
+        "dried basil",
+        "garlic cloves",
+        "pepper",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

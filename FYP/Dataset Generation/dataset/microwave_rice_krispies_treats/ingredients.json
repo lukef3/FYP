@@ -1,0 +1,15 @@
+{
+    "dish_name": "microwave rice krispies treats",
+    "ingredients": [
+        "butter",
+        "margarine",
+        "marshmallows",
+        "cups    Rice Krispies"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

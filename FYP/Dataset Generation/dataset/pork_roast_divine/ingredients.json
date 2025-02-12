@@ -1,0 +1,22 @@
+{
+    "dish_name": "pork roast divine",
+    "ingredients": [
+        "lbs    pork loin (boneless)",
+        "leeks",
+        "olive oil",
+        "sage",
+        "dry mustard",
+        "paprika",
+        "salt",
+        "thyme",
+        "pepper",
+        "(1 1/4  ounce) package   onion soup mix (or 1 onion, minced)",
+        "water",
+        "chicken broth",
+        "minced garlic clove"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

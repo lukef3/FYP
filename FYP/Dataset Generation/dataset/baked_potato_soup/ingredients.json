@@ -3,17 +3,16 @@
     "ingredients": [
         "baking potatoes",
         "butter",
-        "margarine",
-        "all-purpose flour",
-        "salt",
-        "pepper",
+        "flour",
         "milk",
+        "salt and pepper",
+        "green onions",
         "sour cream",
-        "green onion",
-        "bacon",
+        "cups   crisp cooked bacon, crumbled",
         "cheddar cheese"
     ],
     "images": [
-        "images/image_1.jpg"
+        "images/image_1.jpg",
+        "images/image_2.jpg"
     ]
 }

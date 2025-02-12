@@ -1,0 +1,23 @@
+{
+    "dish_name": "gluten free bagels",
+    "ingredients": [
+        "milk",
+        "tablespoons    yeast",
+        "sugar",
+        "eggs",
+        "potato starch",
+        "cornstarch",
+        "baking soda",
+        "baking powder",
+        "xanthan gum",
+        "salt",
+        "cider vinegar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

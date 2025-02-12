@@ -1,0 +1,29 @@
+{
+    "dish_name": "best damn borracho beans period!",
+    "ingredients": [
+        "pinto beans",
+        "small    white onions",
+        "fresh jalapenos (optional)",
+        "garlic cloves",
+        "roma tomatoes",
+        "fresh cilantro",
+        "smoked ham hocks",
+        "chili powder",
+        "garlic powder",
+        "onion powder",
+        "paprika",
+        "black pepper",
+        "kosher salt",
+        "cumin",
+        "bacon drippings",
+        "ounces    chicken stock",
+        "dark beer"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "intensely deep dark chocolate brownies",
+    "ingredients": [
+        "unsalted butter",
+        "bittersweet chocolate",
+        "sugar",
+        "vanilla extract",
+        "eggs",
+        "all-purpose flour",
+        "cup    unsweetened dutch cocoa",
+        "salt",
+        "walnuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "open face cheddar broil",
+    "ingredients": [
+        "English muffin",
+        "tomatoes",
+        "deli ham",
+        "bacon",
+        "sharp cheddar cheese",
+        "light mayonnaise"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "lemon cranberry muffins",
+    "ingredients": [
+        "all-purpose flour",
+        "baking powder",
+        "salt",
+        "sugar",
+        "lemon, zest of",
+        "lemon, juice of",
+        "fresh cranberries",
+        "milk",
+        "egg",
+        "cup    oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

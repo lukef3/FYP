@@ -1,0 +1,20 @@
+{
+    "dish_name": "cola burgers",
+    "ingredients": [
+        "egg",
+        "cup    cola, divided",
+        "cup   crushed saltine",
+        "tablespoons    French dressing, divided",
+        "parmesan cheese",
+        "salt",
+        "hamburger",
+        "hamburger bun"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

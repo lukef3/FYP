@@ -2,25 +2,20 @@
     "dish_name": "spaghetti pie",
     "ingredients": [
         "spaghetti",
-        "margarine",
-        "parmesan cheese",
-        "eggs",
-        "cottage cheese",
-        "ground beef",
+        "egg",
+        "nonfat parmesan cheese",
+        "extra lean beef",
         "onion",
         "green pepper",
-        "diced tomatoes",
-        "tomato paste",
-        "sugar",
-        "oregano",
+        "fennel seed",
         "garlic",
-        "mozzarella cheese"
+        "tomato sauce",
+        "oregano",
+        "low fat cottage cheese",
+        "lowfat mozzarella cheese"
     ],
     "images": [
         "images/image_1.jpg",
-        "images/image_2.jpg",
-        "images/image_3.jpg",
-        "images/image_4.jpg",
-        "images/image_5.jpg"
+        "images/image_2.jpg"
     ]
 }

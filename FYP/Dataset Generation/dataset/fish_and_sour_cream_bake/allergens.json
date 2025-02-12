@@ -1,9 +1,8 @@
 {
-    "dish_name": "fish and sour cream bake",
     "allergens": [
         0,
         0,
-        0,
+        1,
         1,
         0,
         0,

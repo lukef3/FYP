@@ -1,0 +1,21 @@
+{
+    "dish_name": "chicken with mustard mascarpone marsala sauce",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "salt & freshly ground black pepper",
+        "olive oil",
+        "butter",
+        "onion",
+        "cremini mushroom",
+        "garlic",
+        "dry marsala wine",
+        "mascarpone cheese",
+        "Dijon mustard",
+        "fresh Italian parsley",
+        "dry fettuccine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

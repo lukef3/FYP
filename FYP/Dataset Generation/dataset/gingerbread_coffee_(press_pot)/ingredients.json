@@ -1,0 +1,20 @@
+{
+    "dish_name": "gingerbread coffee (press pot)",
+    "ingredients": [
+        "coffee beans",
+        "ground cinnamon",
+        "ground nutmeg",
+        "ground allspice",
+        "ground ginger",
+        "molasses",
+        "boiling water",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

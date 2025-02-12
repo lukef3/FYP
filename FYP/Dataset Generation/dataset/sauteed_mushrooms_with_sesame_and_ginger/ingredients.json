@@ -1,0 +1,21 @@
+{
+    "dish_name": "sauteed mushrooms with sesame and ginger",
+    "ingredients": [
+        "tablespoons    peanut oil",
+        "white button mushrooms",
+        "sesame seeds",
+        "fresh ginger",
+        "tablespoons    rice wine vinegar",
+        "sugar",
+        "soy sauce",
+        "teaspoon    toasted sesame oil",
+        "scallions"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

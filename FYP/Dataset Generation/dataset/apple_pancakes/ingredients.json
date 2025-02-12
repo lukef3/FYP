@@ -1,0 +1,18 @@
+{
+    "dish_name": "apple pancakes",
+    "ingredients": [
+        "flour",
+        "baking powder",
+        "salt",
+        "sugar",
+        "cinnamon",
+        "nutmeg",
+        "milk",
+        "canola oil",
+        "eggs",
+        "apple"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "skillet pizza crust",
+    "ingredients": [
+        "active dry yeast",
+        "sugar",
+        "warm water",
+        "all-purpose flour",
+        "salt",
+        "warm water",
+        "olive oil",
+        "vegetable oil cooking spray",
+        "tablespoon    Italian spices (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

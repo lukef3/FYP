@@ -1,0 +1,26 @@
+{
+    "dish_name": "cheesy beef-stuffed pasta shells",
+    "ingredients": [
+        "jumbo pasta shells",
+        "ground beef",
+        "onion",
+        "garlic cloves",
+        "mozzarella cheese",
+        "cup    Italian style breadcrumbs",
+        "parsley",
+        "egg",
+        "pepper",
+        "salt",
+        "(15 1/2  ounce) jar   spaghetti sauce",
+        "Burgundy wine",
+        "dry red wine",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

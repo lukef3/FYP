@@ -1,0 +1,19 @@
+{
+    "dish_name": "southern living basic yellow cake recipe ( or chocolate)",
+    "ingredients": [
+        "unsalted butter",
+        "sugar",
+        "eggs",
+        "cups    sifted flour",
+        "baking powder",
+        "milk",
+        "vanilla"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

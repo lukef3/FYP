@@ -1,0 +1,17 @@
+{
+    "dish_name": "cheesy potatoes au gratin",
+    "ingredients": [
+        "idaho potato",
+        "cheddar cheese",
+        "heavy cream",
+        "salt",
+        "pepper",
+        "garlic powder",
+        "onion powder"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

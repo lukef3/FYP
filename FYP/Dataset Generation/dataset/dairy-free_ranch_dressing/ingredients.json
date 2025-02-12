@@ -1,0 +1,19 @@
+{
+    "dish_name": "dairy-free ranch dressing",
+    "ingredients": [
+        "mayonnaise",
+        "lemon juice",
+        "soymilk",
+        "dried chives",
+        "dried parsley",
+        "dried dill weed",
+        "garlic powder",
+        "onion powder",
+        "salt",
+        "ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

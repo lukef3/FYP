@@ -1,0 +1,16 @@
+{
+    "dish_name": "feta cheese, kale & red onions",
+    "ingredients": [
+        "kale",
+        "olive oil",
+        "red onion",
+        "garlic cloves",
+        "salt & pepper",
+        "cup    reduced-sodium vegetable broth",
+        "feta cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

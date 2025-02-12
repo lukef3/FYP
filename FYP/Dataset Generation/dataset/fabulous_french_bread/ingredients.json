@@ -1,0 +1,19 @@
+{
+    "dish_name": "fabulous french bread",
+    "ingredients": [
+        "warm water",
+        "sugar",
+        "salt",
+        "tablespoons    vegetable oil",
+        "flour",
+        "dry yeast",
+        "cornmeal",
+        "egg"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "weight watchers chicken marsala",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "salt",
+        "fresh coarse ground black pepper",
+        "olive oil",
+        "fresh mushrooms",
+        "all-purpose flour",
+        "marsala wine",
+        "reduced-sodium chicken broth"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

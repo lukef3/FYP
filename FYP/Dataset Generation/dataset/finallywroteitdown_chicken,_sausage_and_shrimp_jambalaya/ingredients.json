@@ -1,0 +1,27 @@
+{
+    "dish_name": "finallywroteitdown chicken, sausage and shrimp jambalaya",
+    "ingredients": [
+        "cups    cooked chicken (I like a combination of roasted light and dark chicken... with crispy skin)",
+        "raw shrimp",
+        "smoked sausage",
+        "onions",
+        "garlic cloves",
+        "olive oil",
+        "dried thyme",
+        "dried oregano",
+        "bay leaves",
+        "cayenne pepper",
+        "white pepper",
+        "black pepper",
+        "rice",
+        "chicken broth",
+        "Worcestershire sauce",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

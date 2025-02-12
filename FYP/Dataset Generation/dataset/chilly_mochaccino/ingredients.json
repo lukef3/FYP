@@ -1,0 +1,14 @@
+{
+    "dish_name": "chilly mochaccino",
+    "ingredients": [
+        "instant coffee",
+        "boiling water",
+        "chocolate milk",
+        "ice cubes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

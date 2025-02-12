@@ -1,0 +1,23 @@
+{
+    "dish_name": "chicken and mushrooms in sherry-cream sauce",
+    "ingredients": [
+        "salt and pepper, to taste",
+        "boneless skinless chicken breasts",
+        "all-purpose flour",
+        "olive oil",
+        "onion",
+        "garlic cloves",
+        "mushroom",
+        "medium-dry sherry",
+        "fresh lemon juice",
+        "cup    cream",
+        "chicken broth",
+        "cooked noodles",
+        "fresh parsley leaves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

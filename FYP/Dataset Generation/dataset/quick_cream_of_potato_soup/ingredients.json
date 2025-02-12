@@ -1,0 +1,23 @@
+{
+    "dish_name": "quick cream of potato soup",
+    "ingredients": [
+        "butter",
+        "margarine",
+        "onion",
+        "potatoes",
+        "chicken broth",
+        "fresh parsley",
+        "dried thyme",
+        "celery seed",
+        "salt",
+        "black pepper",
+        "milk",
+        "flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

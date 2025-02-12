@@ -1,0 +1,14 @@
+{
+    "dish_name": "ty's winter toast",
+    "ingredients": [
+        "slices    bread",
+        "sugar",
+        "pumpkin pie spice",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

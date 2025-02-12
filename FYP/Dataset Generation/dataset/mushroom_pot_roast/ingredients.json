@@ -1,0 +1,28 @@
+{
+    "dish_name": "mushroom pot roast",
+    "ingredients": [
+        "lbs    blade pot roast, trimmed of fat",
+        "flour",
+        "olive oil",
+        "onions",
+        "water",
+        "ketchup",
+        "dry sherry",
+        "garlic",
+        "dry mustard",
+        "marjoram",
+        "rosemary",
+        "thyme",
+        "whole bay leaf",
+        "fresh mushrooms",
+        "water",
+        "flour",
+        "to taste    wide egg noodles, cooked and drained"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

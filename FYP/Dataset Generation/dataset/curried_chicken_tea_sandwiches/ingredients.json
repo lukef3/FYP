@@ -1,0 +1,19 @@
+{
+    "dish_name": "curried chicken tea sandwiches",
+    "ingredients": [
+        "cups   cubed cooked chicken",
+        "red apples",
+        "dried cranberries",
+        "celery",
+        "pecans",
+        "green onions",
+        "mayonnaise",
+        "lime juice",
+        "curry powder",
+        "slices    bread",
+        "lettuce leaf"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

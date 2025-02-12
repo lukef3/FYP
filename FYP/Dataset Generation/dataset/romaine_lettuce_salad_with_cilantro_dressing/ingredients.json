@@ -1,0 +1,21 @@
+{
+    "dish_name": "romaine lettuce salad with cilantro dressing",
+    "ingredients": [
+        "romaine lettuce",
+        "cucumber",
+        "celery ribs",
+        "fresh cilantro stems",
+        "olive oil",
+        "cider vinegar",
+        "small    white onion, finely chopped",
+        "salt",
+        "fresh ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

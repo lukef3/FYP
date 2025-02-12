@@ -1,0 +1,19 @@
+{
+    "dish_name": "deep fried mars bars",
+    "ingredients": [
+        "Mars bars or 1       Milky Way bar",
+        "plain flour",
+        "cornflour",
+        "baking soda",
+        "milk",
+        "beer",
+        "oil (for deep frying)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

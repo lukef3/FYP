@@ -1,0 +1,23 @@
+{
+    "dish_name": "classic beef stew in a crock pot",
+    "ingredients": [
+        "bottom round steaks",
+        "all-purpose flour",
+        "olive oil",
+        "onions",
+        "tomato paste",
+        "dry red wine",
+        "potatoes",
+        "lb    baby carrots",
+        "beef broth",
+        "kosher salt",
+        "dried thyme leaves",
+        "bay leaf",
+        "cup    frozen peas, thawed"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

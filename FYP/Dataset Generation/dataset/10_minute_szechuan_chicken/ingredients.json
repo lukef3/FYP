@@ -1,0 +1,21 @@
+{
+    "dish_name": "10 minute szechuan chicken",
+    "ingredients": [
+        "boneless skinless chicken breast halves",
+        "cornstarch",
+        "garlic clove",
+        "soya sauce",
+        "rice wine",
+        "sugar",
+        "water",
+        "green onions",
+        "cayenne",
+        "vegetable oil (for frying)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "grilled chicken with mango habanero glaze",
+    "ingredients": [
+        "sugar",
+        "mango",
+        "ginger",
+        "habanero pepper",
+        "cider vinegar",
+        "dark rum",
+        "orange",
+        "boneless skinless chicken breast halves",
+        "salt",
+        "cilantro"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "banana nut yeast bread (bread machine)",
+    "ingredients": [
+        "milk",
+        "cup    mashed banana",
+        "egg",
+        "butter",
+        "bread flour",
+        "sugar",
+        "salt",
+        "cinnamon",
+        "active dry yeast",
+        "walnuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

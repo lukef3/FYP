@@ -1,0 +1,16 @@
+{
+    "dish_name": "peas amandine",
+    "ingredients": [
+        "(16   ounce) bag   frozen peas",
+        "cup    slivered almonds",
+        "butter",
+        "mushrooms",
+        "onion",
+        "salt",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

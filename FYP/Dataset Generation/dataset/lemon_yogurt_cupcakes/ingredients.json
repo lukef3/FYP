@@ -1,0 +1,22 @@
+{
+    "dish_name": "lemon yogurt cupcakes",
+    "ingredients": [
+        "flour",
+        "baking powder",
+        "salt",
+        "granulated sugar",
+        "unsalted butter",
+        "egg",
+        "plain yogurt",
+        "lemon zest",
+        "fresh lemon juice",
+        "teaspoon    lemon extract"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

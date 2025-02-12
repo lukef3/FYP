@@ -1,0 +1,21 @@
+{
+    "dish_name": "crispy tofu with sweet & tangy glaze",
+    "ingredients": [
+        "firm tofu",
+        "canola oil",
+        "soy sauce",
+        "ketchup",
+        "brown sugar",
+        "prepared mustard",
+        "white vinegar",
+        "chili sauce",
+        "chili powder",
+        "garlic",
+        "sesame seeds",
+        "green onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

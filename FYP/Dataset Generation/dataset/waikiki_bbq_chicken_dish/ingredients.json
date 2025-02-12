@@ -1,0 +1,17 @@
+{
+    "dish_name": "waikiki bbq chicken dish",
+    "ingredients": [
+        "boneless skinless chicken breast halves",
+        "flour",
+        "salt and pepper",
+        "teaspoon    oil",
+        "crushed pineapple",
+        "barbecue sauce",
+        "cornstarch",
+        "ginger"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

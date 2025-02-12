@@ -1,0 +1,17 @@
+{
+    "dish_name": "fish and chips",
+    "ingredients": [
+        "deep fat (for frying) or   oil (for frying)",
+        "medium    white fish fillets",
+        "self-raising flour",
+        "salt",
+        "egg",
+        "butter",
+        "milk",
+        "lemon wedge"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

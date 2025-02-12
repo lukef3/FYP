@@ -1,17 +1,19 @@
 {
     "dish_name": "chocolate chip cookies",
     "ingredients": [
-        "shortening",
-        "butter",
-        "sugar",
-        "brown sugar",
-        "eggs",
-        "vanilla",
+        "unbleached flour",
         "all-purpose flour",
+        "whole wheat flour",
+        "quick-cooking oats",
         "baking soda",
         "salt",
-        "cups    semi-sweet chocolate chips",
-        "pecans"
+        "sugar",
+        "brown sugar",
+        "butter",
+        "egg whites",
+        "1% low-fat milk",
+        "vanilla",
+        "chocolate chips"
     ],
     "images": [
         "images/image_1.jpg",

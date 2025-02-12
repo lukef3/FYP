@@ -1,0 +1,24 @@
+{
+    "dish_name": "quick creamy broccoli soup",
+    "ingredients": [
+        "cups    frozen chopped broccoli (or fresh broccoli florets)",
+        "onion",
+        "garlic",
+        "chicken broth",
+        "water",
+        "salt",
+        "milk",
+        "flour",
+        "basil",
+        "parsley",
+        "vinegar",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

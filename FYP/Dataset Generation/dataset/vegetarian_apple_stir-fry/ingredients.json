@@ -1,0 +1,17 @@
+{
+    "dish_name": "vegetarian apple stir-fry",
+    "ingredients": [
+        "granny smith apples",
+        "carrot",
+        "snow peas",
+        "cup    dry roasted salted peanut",
+        "canola oil",
+        "basil",
+        "cooked brown rice",
+        "soy sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

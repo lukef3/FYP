@@ -1,0 +1,20 @@
+{
+    "dish_name": "marinated and grilled zucchini and summer squash",
+    "ingredients": [
+        "white wine vinegar",
+        "fresh lemon juice",
+        "garlic",
+        "fresh thyme leaves",
+        "salt and black pepper",
+        "extra virgin olive oil",
+        "zucchini",
+        "large    yellow squash"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

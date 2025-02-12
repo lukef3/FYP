@@ -1,0 +1,19 @@
+{
+    "dish_name": "molasses sugar cookies",
+    "ingredients": [
+        "shortening",
+        "sugar",
+        "molasses",
+        "egg",
+        "all-purpose flour",
+        "baking soda",
+        "cinnamon",
+        "clove",
+        "ginger",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

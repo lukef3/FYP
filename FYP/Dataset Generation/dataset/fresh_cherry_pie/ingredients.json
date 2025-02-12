@@ -1,0 +1,18 @@
+{
+    "dish_name": "fresh cherry pie",
+    "ingredients": [
+        "pastry for a double-crust 9-inch pie",
+        "quick-cooking tapioca",
+        "salt",
+        "white sugar",
+        "cherries",
+        "teaspoon    almond extract",
+        "vanilla extract",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

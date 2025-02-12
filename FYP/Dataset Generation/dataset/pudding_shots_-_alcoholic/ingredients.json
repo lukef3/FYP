@@ -1,0 +1,17 @@
+{
+    "dish_name": "pudding shots - alcoholic",
+    "ingredients": [
+        "instant chocolate pudding mix",
+        "milk",
+        "vodka",
+        "irish cream",
+        "Cool Whip"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

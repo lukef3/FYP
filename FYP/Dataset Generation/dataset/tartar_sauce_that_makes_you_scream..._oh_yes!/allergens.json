@@ -1,9 +1,8 @@
 {
-    "dish_name": "tartar sauce that makes you scream... oh yes!",
     "allergens": [
         0,
         0,
-        0,
+        1,
         0,
         0,
         0,

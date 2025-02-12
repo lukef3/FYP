@@ -1,0 +1,17 @@
+{
+    "dish_name": "parmesan chicken wings",
+    "ingredients": [
+        "parmesan cheese",
+        "salt",
+        "dried parsley flakes",
+        "paprika",
+        "garlic powder",
+        "black pepper",
+        "chicken wings",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

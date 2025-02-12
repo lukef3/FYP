@@ -1,0 +1,23 @@
+{
+    "dish_name": "baked peach oatmeal",
+    "ingredients": [
+        "soymilk",
+        "vanilla",
+        "eggs",
+        "quick oats",
+        "brown sugar",
+        "baking powder",
+        "cinnamon",
+        "salt",
+        "margarine",
+        "cup    fresh peach, chopped  (You could also use frozen or canned if fresh peaches aren't available)",
+        "vanilla-flavored soymilk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

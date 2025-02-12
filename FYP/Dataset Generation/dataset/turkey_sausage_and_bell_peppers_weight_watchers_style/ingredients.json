@@ -1,0 +1,21 @@
+{
+    "dish_name": "turkey sausage and bell peppers weight watchers style",
+    "ingredients": [
+        "lb    Italian turkey sausage, cut into 1/4 slices",
+        "red bell pepper",
+        "green bell pepper",
+        "yellow bell pepper",
+        "onion",
+        "chicken broth",
+        "garlic",
+        "crushed red pepper flakes",
+        "dried oregano leaves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

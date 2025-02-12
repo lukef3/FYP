@@ -1,0 +1,19 @@
+{
+    "dish_name": "baked salmon with herbs",
+    "ingredients": [
+        "cups    fresh breadcrumbs",
+        "garlic cloves",
+        "parmesan cheese",
+        "parsley",
+        "thyme",
+        "rosemary",
+        "salt",
+        "pepper",
+        "butter",
+        "salmon fillets"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

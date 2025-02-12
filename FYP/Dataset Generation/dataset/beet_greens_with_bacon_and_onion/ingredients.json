@@ -1,0 +1,19 @@
+{
+    "dish_name": "beet greens with bacon and onion",
+    "ingredients": [
+        "olive oil",
+        "garlic",
+        "yellow onion",
+        "cups   fresh beet leaves",
+        "white wine",
+        "bacon bits",
+        "salt",
+        "fresh ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "black bean soup",
+    "ingredients": [
+        "black beans",
+        "reduced-sodium chicken broth",
+        "nonstick cooking spray",
+        "onion",
+        "garlic",
+        "chunky salsa",
+        "lime juice",
+        "ground cumin",
+        "crushed red pepper flakes",
+        "plain yogurt",
+        "fresh cilantro leaves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

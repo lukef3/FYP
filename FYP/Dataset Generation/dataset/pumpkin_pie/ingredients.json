@@ -1,0 +1,17 @@
+{
+    "dish_name": "pumpkin pie",
+    "ingredients": [
+        "ready-made pie crust (or follow a pie crust recipe)",
+        "pumpkin",
+        "sugar",
+        "ground cinnamon",
+        "ground ginger",
+        "ground nutmeg",
+        "eggs",
+        "evaporated milk",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

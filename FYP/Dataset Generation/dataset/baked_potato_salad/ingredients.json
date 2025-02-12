@@ -1,0 +1,29 @@
+{
+    "dish_name": "baked potato salad",
+    "ingredients": [
+        "potatoes",
+        "olive oil",
+        "envelopes    Italian salad dressing mix",
+        "green pepper",
+        "medium    sweet red pepper, chopped",
+        "green onion",
+        "onion",
+        "tomatoes",
+        "eggs",
+        "bacon",
+        "mayonnaise",
+        "vinegar",
+        "lemon juice",
+        "dried basil",
+        "salt",
+        "pepper",
+        "garlic powder"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

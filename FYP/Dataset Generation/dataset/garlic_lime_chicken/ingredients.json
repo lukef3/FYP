@@ -1,0 +1,20 @@
+{
+    "dish_name": "garlic lime chicken",
+    "ingredients": [
+        "salt",
+        "pepper",
+        "cayenne pepper",
+        "paprika",
+        "garlic powder",
+        "onion powder",
+        "thyme",
+        "boneless skinless chicken breast halves",
+        "butter",
+        "olive oil",
+        "lime juice",
+        "chicken broth"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "dish_name": "german-style crisp potato pancakes",
+    "ingredients": [
+        "fresh lemon juice",
+        "mashed potatoes",
+        "onion",
+        "caraway seed",
+        "fresh parsley",
+        "unbleached flour",
+        "egg",
+        "milk",
+        "salt",
+        "pepper",
+        "sour cream",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

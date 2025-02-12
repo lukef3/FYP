@@ -1,0 +1,19 @@
+{
+    "dish_name": "chocolate-almond coffee frappe",
+    "ingredients": [
+        "black coffee",
+        "milk",
+        "chocolate ice cream",
+        "teaspoon    almond extract",
+        "cup    ice, crushed",
+        "tablespoons    chocolate syrup",
+        "cinnamon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

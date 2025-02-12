@@ -1,0 +1,21 @@
+{
+    "dish_name": "down to earth granola weight watchers",
+    "ingredients": [
+        "old fashioned oats",
+        "cup    sliced almonds",
+        "light brown sugar",
+        "salt",
+        "cinnamon",
+        "cup    cooking oil",
+        "honey",
+        "vanilla",
+        "raisins",
+        "dried cranberries"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

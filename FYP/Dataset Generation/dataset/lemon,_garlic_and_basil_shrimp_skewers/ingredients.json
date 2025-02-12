@@ -1,0 +1,20 @@
+{
+    "dish_name": "lemon, garlic and basil shrimp skewers",
+    "ingredients": [
+        "lemon juice",
+        "olive oil",
+        "tablespoon    honey mustard",
+        "garlic cloves",
+        "lemon peel",
+        "extra-large shrimp",
+        "salt",
+        "basil leaves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

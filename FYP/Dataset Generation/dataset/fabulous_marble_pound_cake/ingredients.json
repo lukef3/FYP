@@ -1,0 +1,22 @@
+{
+    "dish_name": "fabulous marble pound cake",
+    "ingredients": [
+        "all-purpose flour",
+        "baking powder",
+        "salt",
+        "unsalted butter",
+        "butter",
+        "tablespoons    unsweetened cocoa powder, preferably Dutch process",
+        "granulated sugar",
+        "eggs",
+        "pure vanilla extract",
+        "heavy cream",
+        "milk",
+        "confectioners' sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

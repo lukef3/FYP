@@ -1,0 +1,22 @@
+{
+    "dish_name": "zucchini and fresh tomato pizza with fontina",
+    "ingredients": [
+        "onions",
+        "garlic",
+        "salt",
+        "olive oil",
+        "ground fennel",
+        "zucchini",
+        "fresh tomatoes",
+        "fresh basil",
+        "pizza dough (homemade or storebought)",
+        "Fontina cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

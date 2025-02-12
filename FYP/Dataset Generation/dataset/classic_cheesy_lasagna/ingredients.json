@@ -1,0 +1,26 @@
+{
+    "dish_name": "classic cheesy lasagna",
+    "ingredients": [
+        "ground beef",
+        "onion",
+        "olive oil",
+        "tomatoes",
+        "tomato paste",
+        "water",
+        "parsley",
+        "salt",
+        "sugar",
+        "garlic powder",
+        "pepper",
+        "oregano leaves",
+        "ounces    lasagna noodles",
+        "ricotta cheese",
+        "mozzarella cheese",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

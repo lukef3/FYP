@@ -1,0 +1,15 @@
+{
+    "dish_name": "bev's quick and easy shrimp cocktail sauce",
+    "ingredients": [
+        "ketchup",
+        "horseradish",
+        "lemon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

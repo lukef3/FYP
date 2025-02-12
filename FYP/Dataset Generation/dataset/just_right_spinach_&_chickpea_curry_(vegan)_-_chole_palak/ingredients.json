@@ -1,0 +1,27 @@
+{
+    "dish_name": "just right spinach & chickpea curry (vegan) - chole palak",
+    "ingredients": [
+        "fresh tomatoes",
+        "fresh ginger",
+        "fresh green chile",
+        "tablespoons    grapeseed oil (or any other light oil such as canola)",
+        "asafoetida powder",
+        "whole cumin seed",
+        "fresh spinach",
+        "chickpeas",
+        "water",
+        "ground coriander",
+        "chili powder",
+        "turmeric",
+        "sea salt",
+        "garam masala",
+        "fresh cilantro"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

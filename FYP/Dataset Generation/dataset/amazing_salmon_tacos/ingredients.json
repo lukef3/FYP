@@ -1,0 +1,19 @@
+{
+    "dish_name": "amazing salmon tacos",
+    "ingredients": [
+        "salmon",
+        "cumin",
+        "chili powder",
+        "olive oil",
+        "yellow onion",
+        "limes",
+        "diced tomatoes with green chilies",
+        "fresh cilantro",
+        "green onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

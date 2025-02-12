@@ -1,0 +1,17 @@
+{
+    "dish_name": "super moist chocolate brownies",
+    "ingredients": [
+        "flour",
+        "sugar",
+        "salt",
+        "cup    cocoa",
+        "butter",
+        "eggs",
+        "vanilla",
+        "cup    nuts, chopped  (I like pecans)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

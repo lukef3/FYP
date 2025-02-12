@@ -1,0 +1,27 @@
+{
+    "dish_name": "tom kha gai",
+    "ingredients": [
+        "coconut milk",
+        "cups    chicken stock",
+        "Thai red chili peppers, diced  (aka Birds eye chiles, red or green)",
+        "fresh galangal root",
+        "inch    fresh gingerroot, minced",
+        "chicken breasts",
+        "(8   ounce) cans   straw mushrooms (or fresh mushrooms)",
+        "roma tomatoes",
+        "lemongrass",
+        "kaffir lime leaves",
+        "fresh cilantro",
+        "tablespoon    thai chili paste (optional, can also use Thai red curry paste)",
+        "lime juice",
+        "fish sauce",
+        "brown sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

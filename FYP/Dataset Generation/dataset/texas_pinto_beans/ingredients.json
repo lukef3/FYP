@@ -1,0 +1,17 @@
+{
+    "dish_name": "texas pinto beans",
+    "ingredients": [
+        "dried pinto beans",
+        "water",
+        "onion",
+        "garlic",
+        "bacon",
+        "salt",
+        "tomatoes",
+        "jalapeno peppers, seeded,and chopped"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

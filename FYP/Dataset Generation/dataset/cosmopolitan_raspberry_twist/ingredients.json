@@ -1,0 +1,15 @@
+{
+    "dish_name": "cosmopolitan raspberry twist",
+    "ingredients": [
+        "raspberry vodka",
+        "triple sec",
+        "fresh lime juice",
+        "cranberry juice",
+        "frozen raspberries",
+        "limes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

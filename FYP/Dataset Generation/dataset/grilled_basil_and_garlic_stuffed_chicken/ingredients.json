@@ -1,0 +1,22 @@
+{
+    "dish_name": "grilled basil and garlic stuffed chicken",
+    "ingredients": [
+        "lemon",
+        "lemon juice",
+        "butter",
+        "parmesan cheese",
+        "fresh basil",
+        "dried basil",
+        "garlic cloves",
+        "skinless chicken breast half",
+        "salt and pepper",
+        "ground red pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

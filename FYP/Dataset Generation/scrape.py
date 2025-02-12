@@ -111,8 +111,8 @@ def scrape_recipe_links(url):
 
 def main():
     base_url = "https://www.food.com/recipe/?pn={}"
-    start_page = 675
-    max_page = 700
+    start_page = 900
+    max_page = 1000
 
     for page_number in range(start_page, max_page + 1):
         # Append page number to search URL

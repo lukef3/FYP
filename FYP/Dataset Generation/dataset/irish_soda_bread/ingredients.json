@@ -1,0 +1,19 @@
+{
+    "dish_name": "irish soda bread",
+    "ingredients": [
+        "all-purpose flour",
+        "sugar",
+        "baking soda",
+        "baking powder",
+        "salt",
+        "eggs",
+        "buttermilk",
+        "cup    corn oil",
+        "caraway seeds",
+        "golden raisin",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

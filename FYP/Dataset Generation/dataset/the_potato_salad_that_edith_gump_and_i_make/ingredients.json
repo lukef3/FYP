@@ -1,0 +1,23 @@
+{
+    "dish_name": "the potato salad that edith gump and i make",
+    "ingredients": [
+        "potatoes",
+        "hard-boiled eggs",
+        "mayonnaise",
+        "cup    oil (vegetable or canola we use)",
+        "prepared mustard",
+        "prepared mustard",
+        "salt",
+        "pepper",
+        "pickle juice",
+        "tablespoon    pickle relish (we prefer Vlasic Dill Relish or a finely minced dill pickle)",
+        "capers",
+        "black olives",
+        "green onions"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

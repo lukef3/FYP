@@ -1,0 +1,23 @@
+{
+    "dish_name": "gingersnap cookies (soft & chewy)",
+    "ingredients": [
+        "flour",
+        "baking soda",
+        "ground ginger",
+        "ground cinnamon",
+        "ground cloves",
+        "white sugar",
+        "margarine",
+        "butter",
+        "egg",
+        "molasses",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

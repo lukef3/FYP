@@ -1,0 +1,18 @@
+{
+    "dish_name": "frozen mango daiquiri",
+    "ingredients": [
+        "rum",
+        "mangoes",
+        "fresh lime juice",
+        "triple sec",
+        "sugar",
+        "cups    ice cubes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

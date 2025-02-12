@@ -1,0 +1,19 @@
+{
+    "dish_name": "peking salmon maple and ginger",
+    "ingredients": [
+        "maple syrup",
+        "water",
+        "fresh ginger",
+        "garlic clove",
+        "cayenne pepper",
+        "salmon fillets",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

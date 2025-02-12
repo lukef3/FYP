@@ -1,0 +1,18 @@
+{
+    "dish_name": "dreamsicle margarita",
+    "ingredients": [
+        "ounces    tequila",
+        "triple sec",
+        "ounces    orange soda",
+        "cup    frozen orange juice concentrate",
+        "vanilla ice cream",
+        "cups   crushed ice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

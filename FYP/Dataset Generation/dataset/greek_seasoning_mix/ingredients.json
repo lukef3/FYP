@@ -1,0 +1,19 @@
+{
+    "dish_name": "greek seasoning mix",
+    "ingredients": [
+        "dried oregano",
+        "salt",
+        "onion powder",
+        "garlic powder",
+        "cornstarch",
+        "black pepper",
+        "dried parsley flakes",
+        "paprika",
+        "ground cinnamon",
+        "ground nutmeg",
+        "thyme"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

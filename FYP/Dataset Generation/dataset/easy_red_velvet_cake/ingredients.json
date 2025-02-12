@@ -1,0 +1,16 @@
+{
+    "dish_name": "easy red velvet cake",
+    "ingredients": [
+        "box    white cake mix, with pudding in the mix",
+        "eggs",
+        "margarine",
+        "buttermilk",
+        "ounces    red food coloring",
+        "tablespoons    baking cocoa"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

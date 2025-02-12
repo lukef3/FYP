@@ -1,0 +1,21 @@
+{
+    "dish_name": "best ever cheeseburger soup",
+    "ingredients": [
+        "ground beef",
+        "onion",
+        "carrots",
+        "basil",
+        "parsley",
+        "butter",
+        "chicken broth",
+        "frozen hash browns",
+        "flour",
+        "Velveeta cheese",
+        "milk",
+        "salt and pepper",
+        "sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

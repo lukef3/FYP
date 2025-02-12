@@ -1,0 +1,19 @@
+{
+    "dish_name": "hoisin sauce - microwave",
+    "ingredients": [
+        "beef broth",
+        "soy sauce",
+        "dry sherry",
+        "arrowroot",
+        "cornstarch",
+        "molasses",
+        "tomato paste",
+        "garlic",
+        "ground ginger",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

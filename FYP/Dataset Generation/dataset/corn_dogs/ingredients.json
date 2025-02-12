@@ -1,0 +1,20 @@
+{
+    "dish_name": "corn dogs",
+    "ingredients": [
+        "yellow cornmeal",
+        "flour",
+        "baking powder",
+        "salt",
+        "egg",
+        "milk",
+        "small    wooden sticks",
+        "hot dogs",
+        "oil, for deep-fat frying"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

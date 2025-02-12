@@ -1,0 +1,20 @@
+{
+    "dish_name": "chickpea and tahini salad",
+    "ingredients": [
+        "canned chick-peas",
+        "red onion",
+        "tomatoes",
+        "coriander leaves",
+        "mint leaves",
+        "tahini",
+        "garlic clove",
+        "lemon juice",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

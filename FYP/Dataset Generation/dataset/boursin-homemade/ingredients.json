@@ -1,0 +1,17 @@
+{
+    "dish_name": "boursin-homemade",
+    "ingredients": [
+        "cream cheese",
+        "butter",
+        "dried oregano",
+        "dried dill",
+        "dried basil",
+        "dried thyme",
+        "marjoram",
+        "fresh ground black pepper",
+        "garlic"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "turtle tarts",
+    "ingredients": [
+        "prepared tart shells (prepared or homemade)",
+        "sweetened condensed milk",
+        "brown sugar",
+        "margarine",
+        "corn syrup",
+        "vanilla",
+        "pecan pieces",
+        "chocolate melting wafers, 1 for each tart"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "grilled thai thighs",
+    "ingredients": [
+        "skinless chicken thighs",
+        "onion powder",
+        "honey",
+        "Dijon mustard",
+        "soy sauce",
+        "sriracha sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

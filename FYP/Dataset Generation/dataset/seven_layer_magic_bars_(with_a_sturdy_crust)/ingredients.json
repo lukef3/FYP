@@ -1,0 +1,19 @@
+{
+    "dish_name": "seven layer magic bars (with a sturdy crust)",
+    "ingredients": [
+        "graham cracker crumbs",
+        "butter",
+        "margarine",
+        "cup    butterscotch chips",
+        "semi-sweet chocolate chips",
+        "flaked coconut",
+        "cup    nuts, chopped",
+        "sweetened condensed milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

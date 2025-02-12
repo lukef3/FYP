@@ -1,0 +1,18 @@
+{
+    "dish_name": "easy beef stroganoff",
+    "ingredients": [
+        "beef stew meat",
+        "beef chuck",
+        "cans    cream of mushroom soup",
+        "package    onion soup mix",
+        "water",
+        "wide egg noodles"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

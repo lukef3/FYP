@@ -1,0 +1,19 @@
+{
+    "dish_name": "roasted cherry tomatoes",
+    "ingredients": [
+        "cherry tomatoes",
+        "garlic cloves",
+        "olive oil",
+        "tablespoons    balsamic vinegar",
+        "kosher salt",
+        "fresh ground black pepper",
+        "fresh basil leaf"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

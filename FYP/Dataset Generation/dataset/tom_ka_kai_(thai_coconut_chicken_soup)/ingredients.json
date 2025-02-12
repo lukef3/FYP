@@ -1,0 +1,28 @@
+{
+    "dish_name": "tom ka kai (thai coconut chicken soup)",
+    "ingredients": [
+        "tablespoons    vegetable oil",
+        "boneless skinless chicken breasts",
+        "salt",
+        "fresh mushrooms",
+        "green onions",
+        "lemongrass",
+        "fresh galangal root",
+        "gingerroot",
+        "red chilies",
+        "cups    chicken stock (use good quality here)",
+        "coconut milk",
+        "fresh lime juice",
+        "fish sauce",
+        "brown sugar",
+        "fresh cilantro",
+        "fresh basil leaf"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

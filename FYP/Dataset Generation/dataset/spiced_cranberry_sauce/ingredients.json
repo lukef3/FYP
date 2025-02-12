@@ -1,0 +1,16 @@
+{
+    "dish_name": "spiced cranberry sauce",
+    "ingredients": [
+        "cranberries",
+        "honey",
+        "brown sugar",
+        "cinnamon sticks",
+        "whole cloves",
+        "nutmeg",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

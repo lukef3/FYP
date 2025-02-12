@@ -1,0 +1,18 @@
+{
+    "dish_name": "asian salmon",
+    "ingredients": [
+        "salmon fillets",
+        "extra virgin olive oil",
+        "teaspoons    sesame oil",
+        "tablespoon    rice wine vinegar",
+        "soy sauce",
+        "brown sugar",
+        "garlic",
+        "fresh ground black pepper",
+        "onions"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

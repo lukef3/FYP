@@ -1,0 +1,21 @@
+{
+    "dish_name": "lemon crinkle cookies",
+    "ingredients": [
+        "shortening",
+        "brown sugar",
+        "egg",
+        "fresh lemon rind",
+        "all-purpose flour",
+        "baking soda",
+        "cream of tartar",
+        "ground ginger",
+        "salt",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

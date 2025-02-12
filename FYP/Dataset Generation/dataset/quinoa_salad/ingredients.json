@@ -1,0 +1,24 @@
+{
+    "dish_name": "quinoa salad",
+    "ingredients": [
+        "quinoa",
+        "water",
+        "garlic",
+        "extra virgin olive oil",
+        "fresh lemon juice",
+        "lemon zest",
+        "cucumber",
+        "garbanzo beans",
+        "fresh dill",
+        "fresh parsley",
+        "golden raisin",
+        "hazelnuts",
+        "green onion",
+        "carrot",
+        "sea salt",
+        "fresh ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

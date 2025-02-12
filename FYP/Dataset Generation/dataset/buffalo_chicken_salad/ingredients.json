@@ -1,0 +1,22 @@
+{
+    "dish_name": "buffalo chicken salad",
+    "ingredients": [
+        "romaine lettuce hearts",
+        "carrot",
+        "celery ribs",
+        "cup    ranch dressing",
+        "blue cheese",
+        "chicken breast",
+        "tablespoon    vegetable oil",
+        "butter",
+        "salt and black pepper",
+        "cup    hot sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

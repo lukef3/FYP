@@ -1,0 +1,22 @@
+{
+    "dish_name": "rosemary white beans",
+    "ingredients": [
+        "dried white beans",
+        "bacon",
+        "onion",
+        "garlic",
+        "cups    chicken stock",
+        "water",
+        "fresh rosemary",
+        "unsalted butter",
+        "kosher salt",
+        "fresh ground pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

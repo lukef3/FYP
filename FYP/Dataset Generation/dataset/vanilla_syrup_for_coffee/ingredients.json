@@ -1,0 +1,13 @@
+{
+    "dish_name": "vanilla syrup for coffee",
+    "ingredients": [
+        "water",
+        "white sugar",
+        "brown sugar",
+        "vanilla extract"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

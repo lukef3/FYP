@@ -1,0 +1,19 @@
+{
+    "dish_name": "yosi's israeli salad",
+    "ingredients": [
+        "plum tomatoes",
+        "cucumbers",
+        "scallions",
+        "parsley",
+        "fresh mint leaves",
+        "fresh dill",
+        "olive oil",
+        "lemon, juice of",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

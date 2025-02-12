@@ -1,0 +1,23 @@
+{
+    "dish_name": "monster m&m cookies",
+    "ingredients": [
+        "peanut butter",
+        "butter",
+        "granulated sugar",
+        "brown sugar",
+        "eggs",
+        "baking soda",
+        "corn syrup",
+        "vanilla",
+        "quick-cooking oats",
+        "chocolate chips",
+        "(6   ounce) package   M&M's plain chocolate candy"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

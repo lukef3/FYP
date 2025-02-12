@@ -1,0 +1,19 @@
+{
+    "dish_name": "grilled shrimp scampi",
+    "ingredients": [
+        "light olive oil",
+        "lemon juice",
+        "fresh parsley",
+        "garlic",
+        "ground black pepper",
+        "crushed red pepper flakes",
+        "shrimp"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

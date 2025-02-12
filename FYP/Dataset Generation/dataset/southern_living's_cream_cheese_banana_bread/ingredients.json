@@ -1,0 +1,23 @@
+{
+    "dish_name": "southern living's cream cheese banana bread",
+    "ingredients": [
+        "butter",
+        "cream cheese",
+        "sugar",
+        "eggs",
+        "all-purpose flour",
+        "baking powder",
+        "baking soda",
+        "salt",
+        "cups    mashed bananas (1 1/4 pounds unpeeled bananas, about 4 medium)",
+        "pecans",
+        "vanilla extract"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

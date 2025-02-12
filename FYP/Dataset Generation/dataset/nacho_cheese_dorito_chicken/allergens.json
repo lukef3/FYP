@@ -1,9 +1,8 @@
 {
-    "dish_name": "nacho cheese dorito chicken",
     "allergens": [
         0,
         0,
-        0,
+        1,
         0,
         0,
         0,

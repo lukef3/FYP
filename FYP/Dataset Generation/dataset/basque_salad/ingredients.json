@@ -1,0 +1,20 @@
+{
+    "dish_name": "basque salad",
+    "ingredients": [
+        "olive oil",
+        "garlic cloves",
+        "apple cider vinegar",
+        "salt",
+        "garlic powder",
+        "mayonnaise",
+        "hard-boiled egg",
+        "salad greens (the Basque houses use only head luttuce, but you can use whatever salad greens you like)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

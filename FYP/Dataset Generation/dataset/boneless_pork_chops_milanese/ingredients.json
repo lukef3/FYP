@@ -1,0 +1,18 @@
+{
+    "dish_name": "boneless pork chops milanese",
+    "ingredients": [
+        "cup   panko Japanese-style bread crumbs",
+        "parmesan cheese",
+        "eggs",
+        "boneless pork chops",
+        "salt",
+        "fresh ground black pepper",
+        "olive oil",
+        "lemon wedges"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

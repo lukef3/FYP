@@ -1,0 +1,19 @@
+{
+    "dish_name": "pot sticker dipping sauce",
+    "ingredients": [
+        "soy sauce",
+        "cup    rice wine vinegar",
+        "water",
+        "dark brown sugar",
+        "scallions",
+        "minced garlic cloves",
+        "tablespoons    toasted sesame oil",
+        "hot red pepper flakes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

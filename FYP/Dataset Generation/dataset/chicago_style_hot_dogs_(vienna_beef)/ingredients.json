@@ -1,0 +1,20 @@
+{
+    "dish_name": "chicago style hot dogs (vienna beef)",
+    "ingredients": [
+        "vienna beef hot dog",
+        "poppyseed bun",
+        "yellow mustard",
+        "bright green relish",
+        "fresh onion",
+        "tomatoes",
+        "kosher pickle, spear",
+        "bell peppers",
+        "dash    celery salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "dish_name": "seafood stuffed mushrooms",
+    "ingredients": [
+        "mushroom caps",
+        "light cream cheese",
+        "1% low-fat milk",
+        "garlic",
+        "nutmeg",
+        "pepper",
+        "flour",
+        "low-fat mayonnaise",
+        "lemon juice",
+        "parmesan cheese",
+        "green onion",
+        "can    crabmeat, drained",
+        "baby shrimp",
+        "light cheddar cheese",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

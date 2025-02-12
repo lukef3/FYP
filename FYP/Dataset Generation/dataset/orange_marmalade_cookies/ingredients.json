@@ -1,0 +1,15 @@
+{
+    "dish_name": "orange marmalade cookies",
+    "ingredients": [
+        "unsalted butter",
+        "granulated sugar",
+        "egg",
+        "orange marmalade",
+        "all-purpose flour",
+        "baking powder"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

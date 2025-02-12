@@ -1,0 +1,22 @@
+{
+    "dish_name": "texas-style barbecued beef brisket",
+    "ingredients": [
+        "sweet onion",
+        "garlic cloves",
+        "chili powder",
+        "tablespoon   jarred beef base",
+        "Worcestershire sauce",
+        "cumin",
+        "hickory liquid smoke",
+        "beef brisket",
+        "beer",
+        "bottled chili sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "dish_name": "rabbit stifado",
+    "ingredients": [
+        "rabbit",
+        "bay leaves",
+        "red wine vinegar",
+        "olive oil",
+        "tomato paste",
+        "sugar",
+        "garlic cloves",
+        "cinnamon stick",
+        "whole allspice",
+        "rosemary",
+        "red wine",
+        "hot water",
+        "salt and black pepper",
+        "lbs    white pearl onions, peeled, left whole"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

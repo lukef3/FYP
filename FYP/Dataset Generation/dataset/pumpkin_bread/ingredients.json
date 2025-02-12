@@ -2,14 +2,15 @@
     "dish_name": "pumpkin bread",
     "ingredients": [
         "flour",
+        "sugar",
         "baking soda",
         "salt",
         "cinnamon",
-        "sugar",
         "pumpkin",
+        "cup    vegetable oil",
+        "water",
         "eggs",
-        "cups    cooking oil",
-        "cup    nuts"
+        "walnuts"
     ],
     "images": [
         "images/image_1.jpg",

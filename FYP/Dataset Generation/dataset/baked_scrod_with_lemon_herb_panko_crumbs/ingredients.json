@@ -1,0 +1,22 @@
+{
+    "dish_name": "baked scrod with lemon herb panko crumbs",
+    "ingredients": [
+        "lbs    scrod fillets (cod or haddock)",
+        "butter",
+        "olive oil",
+        "lemon",
+        "onion",
+        "panko breadcrumbs",
+        "white wine",
+        "red pepper flakes",
+        "parsley",
+        "salt and pepper",
+        "olive oil flavored cooking spray"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

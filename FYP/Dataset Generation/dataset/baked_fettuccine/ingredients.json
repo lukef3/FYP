@@ -1,0 +1,19 @@
+{
+    "dish_name": "baked fettuccine",
+    "ingredients": [
+        "fettuccine pasta",
+        "butter",
+        "teaspoon    garlic salt",
+        "parsley flakes",
+        "romano cheese",
+        "parmesan cheese",
+        "half-and-half cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

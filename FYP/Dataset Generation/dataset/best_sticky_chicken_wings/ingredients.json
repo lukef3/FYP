@@ -1,0 +1,21 @@
+{
+    "dish_name": "best sticky chicken wings",
+    "ingredients": [
+        "soy sauce",
+        "cup    teriyaki sauce",
+        "butter",
+        "light brown sugar",
+        "tablespoon    creole seasoning",
+        "mustard powder",
+        "garlic powder",
+        "fresh ground black pepper",
+        "chicken wings"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

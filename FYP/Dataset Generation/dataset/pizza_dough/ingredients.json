@@ -1,20 +1,16 @@
 {
     "dish_name": "pizza dough",
     "ingredients": [
-        "fast rising yeast",
         "water",
-        "sugar",
-        "salt",
+        "tablespoons    yeast (You can use less, but I prefer the dough a bit yeasty)",
+        "honey",
         "olive oil",
-        "cup    salad oil",
-        "parmigiano",
+        "salt",
         "flour"
     ],
     "images": [
         "images/image_1.jpg",
         "images/image_2.jpg",
-        "images/image_3.jpg",
-        "images/image_4.jpg",
-        "images/image_5.jpg"
+        "images/image_3.jpg"
     ]
 }

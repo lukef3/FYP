@@ -1,0 +1,18 @@
+{
+    "dish_name": "japanese chicken drumettes",
+    "ingredients": [
+        "lb    chicken drummettes",
+        "sugar",
+        "soy sauce",
+        "red wine",
+        "sesame seeds",
+        "parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,9 +1,8 @@
 {
-    "dish_name": "cucumber sandwich filling",
     "allergens": [
         0,
         0,
-        0,
+        1,
         0,
         0,
         0,

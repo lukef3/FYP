@@ -1,0 +1,20 @@
+{
+    "dish_name": "oatmeal-raisin muffins",
+    "ingredients": [
+        "rolled oats",
+        "buttermilk",
+        "flour",
+        "baking powder",
+        "salt",
+        "baking soda",
+        "cinnamon",
+        "eggs",
+        "light brown sugar",
+        "butter",
+        "raisins"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

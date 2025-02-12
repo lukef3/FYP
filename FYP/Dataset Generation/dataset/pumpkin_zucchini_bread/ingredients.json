@@ -1,0 +1,26 @@
+{
+    "dish_name": "pumpkin zucchini bread",
+    "ingredients": [
+        "eggs",
+        "sugar",
+        "pumpkin puree",
+        "butter",
+        "vanilla",
+        "flour",
+        "baking soda",
+        "baking powder",
+        "salt",
+        "cinnamon",
+        "ground nutmeg",
+        "ground cloves",
+        "zucchini",
+        "walnuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "imam bayildi (a stuffed eggplant recipe from asia minor)",
+    "ingredients": [
+        "onions",
+        "olive oil",
+        "garlic cloves",
+        "tomatoes",
+        "parsley",
+        "of fresh mint",
+        "dried mint",
+        "salt and pepper",
+        "eggplants",
+        "sugar",
+        "fresh lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

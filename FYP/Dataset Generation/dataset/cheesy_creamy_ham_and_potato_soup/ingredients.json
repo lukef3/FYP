@@ -1,0 +1,24 @@
+{
+    "dish_name": "cheesy creamy ham and potato soup",
+    "ingredients": [
+        "water",
+        "ham bone",
+        "potatoes",
+        "potatoes",
+        "ham",
+        "onion",
+        "garlic cloves",
+        "butter",
+        "flour",
+        "milk",
+        "cups    shredded cheddar cheese",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

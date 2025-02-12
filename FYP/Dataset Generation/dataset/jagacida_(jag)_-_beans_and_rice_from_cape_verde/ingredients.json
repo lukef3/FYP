@@ -1,0 +1,21 @@
+{
+    "dish_name": "jagacida (jag) - beans and rice from cape verde",
+    "ingredients": [
+        "tablespoons    oil",
+        "onion",
+        "rice",
+        "water",
+        "kidney beans",
+        "paprika",
+        "bay leaves",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

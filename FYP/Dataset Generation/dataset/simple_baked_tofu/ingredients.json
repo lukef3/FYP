@@ -1,0 +1,18 @@
+{
+    "dish_name": "simple baked tofu",
+    "ingredients": [
+        "firm tofu",
+        "soy sauce",
+        "tablespoons    balsamic vinegar",
+        "garlic powder",
+        "ground ginger",
+        "salt",
+        "white pepper",
+        "black pepper",
+        "olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

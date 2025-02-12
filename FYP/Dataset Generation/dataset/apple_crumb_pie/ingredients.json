@@ -1,0 +1,20 @@
+{
+    "dish_name": "apple crumb pie",
+    "ingredients": [
+        "granulated sugar",
+        "nutmeg",
+        "cinnamon",
+        "granny smith apples",
+        "flour",
+        "light brown sugar",
+        "butter",
+        "9-inch pie shell"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

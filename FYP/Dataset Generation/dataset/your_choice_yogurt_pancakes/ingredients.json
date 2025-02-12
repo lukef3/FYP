@@ -1,0 +1,21 @@
+{
+    "dish_name": "your choice yogurt pancakes",
+    "ingredients": [
+        "flour",
+        "salt",
+        "baking powder",
+        "baking soda",
+        "sugar",
+        "yogurt",
+        "milk",
+        "soymilk",
+        "egg",
+        "butter",
+        "cup    fruit (fresh or frozen) (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

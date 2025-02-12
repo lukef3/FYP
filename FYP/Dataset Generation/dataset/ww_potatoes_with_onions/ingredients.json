@@ -1,0 +1,19 @@
+{
+    "dish_name": "ww potatoes with onions",
+    "ingredients": [
+        "reduced-calorie margarine",
+        "onions",
+        "yukon gold potatoes",
+        "reduced-sodium chicken broth",
+        "fresh thyme",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

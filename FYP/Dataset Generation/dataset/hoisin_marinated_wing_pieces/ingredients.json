@@ -1,0 +1,18 @@
+{
+    "dish_name": "hoisin marinated wing pieces",
+    "ingredients": [
+        "hoisin sauce",
+        "garlic clove",
+        "fresh ginger",
+        "soy sauce",
+        "tablespoons    sesame oil",
+        "chicken wings"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

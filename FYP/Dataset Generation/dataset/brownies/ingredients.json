@@ -1,13 +1,14 @@
 {
     "dish_name": "brownies",
     "ingredients": [
-        "tablespoons    cocoa",
         "butter",
+        "ounces    unsweetened chocolate",
         "sugar",
         "eggs",
-        "vanilla",
-        "all-purpose flour",
-        "salt"
+        "salt",
+        "flour",
+        "walnuts",
+        "vanilla"
     ],
     "images": [
         "images/image_1.jpg",

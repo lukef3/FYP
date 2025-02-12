@@ -1,0 +1,16 @@
+{
+    "dish_name": "richly baked macaroni & cheese",
+    "ingredients": [
+        "macaroni",
+        "butter",
+        "flour",
+        "milk",
+        "sour cream",
+        "salt",
+        "pepper",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

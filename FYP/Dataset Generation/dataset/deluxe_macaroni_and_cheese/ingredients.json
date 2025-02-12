@@ -1,0 +1,18 @@
+{
+    "dish_name": "deluxe macaroni and cheese",
+    "ingredients": [
+        "small curd cottage cheese",
+        "sour cream",
+        "egg",
+        "salt",
+        "garlic",
+        "sharp cheddar cheese",
+        "elbow macaroni",
+        "paprika",
+        "to taste    buttered bread crumb"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

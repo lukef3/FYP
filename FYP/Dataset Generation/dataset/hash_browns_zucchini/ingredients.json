@@ -1,0 +1,14 @@
+{
+    "dish_name": "hash browns zucchini",
+    "ingredients": [
+        "zucchini",
+        "salt",
+        "eggs",
+        "parmesan cheese",
+        "garlic clove",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

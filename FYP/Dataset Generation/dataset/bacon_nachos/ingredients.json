@@ -1,0 +1,19 @@
+{
+    "dish_name": "bacon nachos",
+    "ingredients": [
+        "bacon",
+        "red onion",
+        "tomatoes",
+        "black olives",
+        "jalapeno peppers, seeded and chopped  (divided)",
+        "cups    Mexican blend cheese (Shredded cheddar and Monterey Jack Cheese, divided)",
+        "tortilla chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

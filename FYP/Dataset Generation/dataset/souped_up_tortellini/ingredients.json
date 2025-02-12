@@ -1,0 +1,21 @@
+{
+    "dish_name": "souped up tortellini",
+    "ingredients": [
+        "olive oil",
+        "carrots",
+        "onion",
+        "cups    vegetable stock",
+        "chopped tomatoes",
+        "ounces    frozen peas (or rinsed canned beans)",
+        "ounces   fresh filled tortellini (choose non meat filling for a vegetarian soup )",
+        "basil leaves",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

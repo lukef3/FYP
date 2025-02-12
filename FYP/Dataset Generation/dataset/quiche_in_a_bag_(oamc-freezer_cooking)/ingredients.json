@@ -1,0 +1,23 @@
+{
+    "dish_name": "quiche in a bag (oamc-freezer cooking)",
+    "ingredients": [
+        "cup    meat, any diced and browned  (such as bacon, ham, chicken, sausage etc)",
+        "cup    vegetables (thawed chopped spinach, broccoli, chopped green pepper)",
+        "cheese",
+        "onion",
+        "milk",
+        "eggs",
+        "salt",
+        "black pepper",
+        "Tabasco sauce",
+        "whole wheat flour",
+        "baking powder"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

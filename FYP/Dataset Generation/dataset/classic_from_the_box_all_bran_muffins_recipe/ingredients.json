@@ -1,0 +1,18 @@
+{
+    "dish_name": "classic from the box all bran muffins recipe",
+    "ingredients": [
+        "all-purpose flour",
+        "sugar",
+        "baking powder",
+        "salt",
+        "cups    all-bran cereal",
+        "milk",
+        "egg",
+        "cup    vegetable oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

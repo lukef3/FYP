@@ -1,0 +1,19 @@
+{
+    "dish_name": "baked shrimp in lemony garlic sauce",
+    "ingredients": [
+        "large shrimp",
+        "cooking spray",
+        "fresh lemon juice",
+        "light butter",
+        "garlic cloves",
+        "Worcestershire sauce",
+        "lemon pepper seasoning",
+        "teaspoon    ground red pepper",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "incredible bourbon chicken",
+    "ingredients": [
+        "boneless chicken breasts",
+        "olive oil",
+        "garlic cloves",
+        "ginger",
+        "crushed red pepper flakes",
+        "cup    apple juice",
+        "brown sugar",
+        "ketchup",
+        "vinegar",
+        "water",
+        "soy sauce",
+        "cornstarch",
+        "cold water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

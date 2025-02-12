@@ -1,0 +1,24 @@
+{
+    "dish_name": "delicious acorn squash soup",
+    "ingredients": [
+        "onion",
+        "garlic",
+        "celery",
+        "butter",
+        "flour",
+        "chicken bouillon granules",
+        "dill weed",
+        "curry powder",
+        "cayenne pepper",
+        "chicken broth",
+        "cups    whipping cream (can use evaporated milk)",
+        "acorn squash",
+        "salt and pepper",
+        "bacon",
+        "crouton"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

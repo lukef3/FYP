@@ -1,0 +1,21 @@
+{
+    "dish_name": "mushroom risotto in pressure cooker",
+    "ingredients": [
+        "olive oil",
+        "butter",
+        "onion",
+        "garlic cloves",
+        "portabella mushrooms",
+        "arborio rice",
+        "risotto rice",
+        "chicken broth",
+        "parmigiano-reggiano cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

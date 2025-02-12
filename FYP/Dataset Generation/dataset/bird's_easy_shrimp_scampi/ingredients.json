@@ -1,0 +1,23 @@
+{
+    "dish_name": "bird's easy shrimp scampi",
+    "ingredients": [
+        "large shrimp",
+        "paprika",
+        "olive oil",
+        "butter",
+        "garlic cloves",
+        "white wine",
+        "salt",
+        "black pepper",
+        "fresh parsley",
+        "tablespoons    seasoned bread crumbs (optional)",
+        "lemon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

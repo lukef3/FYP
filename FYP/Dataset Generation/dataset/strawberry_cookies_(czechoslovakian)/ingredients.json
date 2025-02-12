@@ -1,0 +1,15 @@
+{
+    "dish_name": "strawberry cookies (czechoslovakian)",
+    "ingredients": [
+        "butter",
+        "sugar",
+        "eggs",
+        "flour",
+        "walnuts",
+        "cup    strawberry jam"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

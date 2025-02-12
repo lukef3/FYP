@@ -1,0 +1,20 @@
+{
+    "dish_name": "brattens famous clam chowder",
+    "ingredients": [
+        "onion",
+        "celery",
+        "potatoes",
+        "minced clams",
+        "red wine vinegar",
+        "butter",
+        "flour",
+        "half-and-half",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

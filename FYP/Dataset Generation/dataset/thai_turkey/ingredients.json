@@ -1,0 +1,23 @@
+{
+    "dish_name": "thai turkey",
+    "ingredients": [
+        "turkey meat",
+        "green onions",
+        "medium    red pepper, very thinly sliced",
+        "garlic",
+        "soy sauce",
+        "cilantro",
+        "honey",
+        "curry powder",
+        "teaspoon    sesame oil",
+        "cornstarch",
+        "crushed red pepper flakes",
+        "tablespoon    salad oil",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

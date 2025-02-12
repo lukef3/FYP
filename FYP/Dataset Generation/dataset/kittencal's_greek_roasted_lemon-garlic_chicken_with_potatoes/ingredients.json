@@ -1,0 +1,21 @@
+{
+    "dish_name": "kittencal's greek roasted lemon-garlic chicken with potatoes",
+    "ingredients": [
+        "whole chicken",
+        "medium    red potatoes, peeled  (left whole do not slice, can use more)",
+        "salt & freshly ground black pepper",
+        "lemons, juice of",
+        "olive oil",
+        "dried oregano",
+        "bulb of garlic",
+        "green olives",
+        "chicken broth"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

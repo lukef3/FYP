@@ -1,0 +1,22 @@
+{
+    "dish_name": "big mac salad",
+    "ingredients": [
+        "slices    white bread",
+        "lb    extra lean ground beef",
+        "onion",
+        "iceberg lettuce",
+        "cups    shredded cheddar cheese",
+        "mayonnaise",
+        "ketchup",
+        "tablespoons    sweet pickle relish",
+        "salt",
+        "pepper",
+        "sesame seeds"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

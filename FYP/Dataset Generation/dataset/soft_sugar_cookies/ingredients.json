@@ -1,0 +1,16 @@
+{
+    "dish_name": "soft sugar cookies",
+    "ingredients": [
+        "flour",
+        "baking powder",
+        "salt",
+        "butter",
+        "sugar",
+        "egg",
+        "vanilla",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

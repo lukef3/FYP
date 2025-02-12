@@ -1,0 +1,19 @@
+{
+    "dish_name": "garlic steak with mushrooms",
+    "ingredients": [
+        "garlic cloves",
+        "extra virgin olive oil",
+        "teaspoon    McCormick's Montreal Brand steak seasoning",
+        "salt",
+        "lbs    top sirloin steaks",
+        "butter",
+        "baby portabella mushrooms"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

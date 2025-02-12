@@ -1,0 +1,20 @@
+{
+    "dish_name": "spicy roasted potatoes",
+    "ingredients": [
+        "spicy brown mustard",
+        "extra virgin olive oil",
+        "roasted garlic cloves, minced",
+        "teaspoon    dried Italian seasoning",
+        "dried thyme",
+        "teaspoon    smoked paprika",
+        "teaspoon    red pepper (or more if you like it hotter)",
+        "russet potatoes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

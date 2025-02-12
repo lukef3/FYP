@@ -1,0 +1,22 @@
+{
+    "dish_name": "thai shrimp & spinach curry",
+    "ingredients": [
+        "unsweetened coconut milk",
+        "green curry paste",
+        "red curry paste",
+        "medium shrimp",
+        "nam pla",
+        "carrots",
+        "red bell pepper",
+        "spinach",
+        "fresh coriander",
+        "cooked rice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

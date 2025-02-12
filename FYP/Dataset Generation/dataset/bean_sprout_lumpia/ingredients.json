@@ -1,0 +1,20 @@
+{
+    "dish_name": "bean sprout lumpia",
+    "ingredients": [
+        "cabbage",
+        "bean sprouts",
+        "hamburger",
+        "onion",
+        "garlic",
+        "soy sauce",
+        "egg roll wrap",
+        "oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

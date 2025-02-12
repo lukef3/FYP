@@ -1,0 +1,22 @@
+{
+    "dish_name": "chili, plain and simple but darn good",
+    "ingredients": [
+        "lean ground beef",
+        "onions",
+        "green bell pepper",
+        "garlic cloves",
+        "dried oregano",
+        "crushed red pepper flakes",
+        "chili powder",
+        "cumin",
+        "stewed tomatoes",
+        "tomato sauce",
+        "seasoning salt",
+        "salt",
+        "red kidney beans"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

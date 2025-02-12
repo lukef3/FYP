@@ -1,0 +1,15 @@
+{
+    "dish_name": "world's best sloppy joes",
+    "ingredients": [
+        "hamburger",
+        "onion",
+        "ketchup",
+        "barbecue sauce",
+        "curry powder",
+        "chili powder",
+        "bay leaves"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

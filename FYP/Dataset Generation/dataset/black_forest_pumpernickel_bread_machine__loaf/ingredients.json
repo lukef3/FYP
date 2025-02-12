@@ -1,0 +1,22 @@
+{
+    "dish_name": "black forest pumpernickel bread machine  loaf",
+    "ingredients": [
+        "warm water",
+        "molasses",
+        "canola oil",
+        "bread flour",
+        "cup    rye flour",
+        "whole wheat flour",
+        "salt",
+        "cocoa powder",
+        "caraway seeds",
+        "active dry yeast"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

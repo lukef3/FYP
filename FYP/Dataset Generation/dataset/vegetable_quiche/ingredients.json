@@ -1,0 +1,21 @@
+{
+    "dish_name": "vegetable quiche",
+    "ingredients": [
+        "onion",
+        "green bell pepper",
+        "cheddar cheese",
+        "flour",
+        "mushrooms",
+        "eggs",
+        "milk",
+        "salt",
+        "cayenne"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

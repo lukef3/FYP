@@ -1,0 +1,16 @@
+{
+    "dish_name": "oataroons",
+    "ingredients": [
+        "egg white",
+        "cream of tartar",
+        "sugar",
+        "teaspoon    almond extract",
+        "walnuts",
+        "rolled oats"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

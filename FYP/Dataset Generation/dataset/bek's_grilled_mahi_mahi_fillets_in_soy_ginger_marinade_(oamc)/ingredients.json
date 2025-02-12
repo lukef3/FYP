@@ -1,0 +1,21 @@
+{
+    "dish_name": "bek's grilled mahi mahi fillets in soy ginger marinade (oamc)",
+    "ingredients": [
+        "mahi mahi fillets",
+        "olive oil",
+        "fresh ginger",
+        "garlic",
+        "fresh lime juice",
+        "soy sauce",
+        "honey",
+        "dry red wine",
+        "cayenne pepper",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

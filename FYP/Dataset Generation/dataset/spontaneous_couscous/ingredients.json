@@ -1,0 +1,20 @@
+{
+    "dish_name": "spontaneous couscous",
+    "ingredients": [
+        "olive oil",
+        "garlic clove",
+        "onion",
+        "frozen corn",
+        "tomatoes",
+        "couscous",
+        "water",
+        "parsley",
+        "Tabasco sauce",
+        "cayenne"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

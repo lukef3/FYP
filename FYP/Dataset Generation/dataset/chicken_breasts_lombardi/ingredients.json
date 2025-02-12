@@ -1,0 +1,23 @@
+{
+    "dish_name": "chicken breasts lombardi",
+    "ingredients": [
+        "fresh mushrooms",
+        "butter",
+        "boneless skinless chicken breast halves",
+        "flour",
+        "butter",
+        "marsala",
+        "chicken broth",
+        "salt",
+        "mozzarella cheese",
+        "parmesan cheese",
+        "green onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "dish_name": "chicken alfredo with crispy bacon (paula deen)",
+    "ingredients": [
+        "bacon",
+        "boneless skinless chicken breasts",
+        "pepper",
+        "salt",
+        "chicken broth",
+        "onion",
+        "garlic cloves",
+        "heavy whipping cream",
+        "parmesan cheese",
+        "parsley",
+        "fettuccine pasta",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

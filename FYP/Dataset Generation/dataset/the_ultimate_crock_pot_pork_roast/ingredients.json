@@ -1,0 +1,17 @@
+{
+    "dish_name": "the ultimate crock pot pork roast",
+    "ingredients": [
+        "lbs   rolled pork roast",
+        "crushed pineapple with juice",
+        "brown sugar",
+        "soy sauce",
+        "minced garlic clove",
+        "dried basil",
+        "flour",
+        "cold water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

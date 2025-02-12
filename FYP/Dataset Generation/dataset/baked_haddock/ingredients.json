@@ -1,0 +1,21 @@
+{
+    "dish_name": "baked haddock",
+    "ingredients": [
+        "haddock fillets",
+        "pepper",
+        "salt",
+        "butter",
+        "lemon juice",
+        "garlic cloves",
+        "parsley",
+        "tarragon",
+        "paprika"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

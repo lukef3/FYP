@@ -1,0 +1,18 @@
+{
+    "dish_name": "mock sliders (white castles)",
+    "ingredients": [
+        "ground beef",
+        "cup    breadcrumbs",
+        "water",
+        "fresh ground pepper",
+        "egg",
+        "(1   ounce) envelope   Lipton Onion Soup Mix",
+        "(24   count) package  pepperidge farm party rolls",
+        "hamburger dills, for topping"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "dish_name": "crock pot ground beef stew",
+    "ingredients": [
+        "ground beef",
+        "potatoes",
+        "(16   ounce) package   baby carrots",
+        "water",
+        "tablespoons    dry onion soup mix",
+        "garlic clove",
+        "teaspoon    italian seasoning",
+        "salt",
+        "garlic powder",
+        "pepper",
+        "(10 3/4  ounce) can   condensed tomato soup, undiluted",
+        "italian tomato paste"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

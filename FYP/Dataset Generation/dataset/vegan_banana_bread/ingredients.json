@@ -1,0 +1,20 @@
+{
+    "dish_name": "vegan banana bread",
+    "ingredients": [
+        "brown sugar",
+        "white sugar",
+        "margarine",
+        "bananas",
+        "flour",
+        "baking soda",
+        "soymilk",
+        "apple cider vinegar",
+        "vanilla",
+        "cinnamon",
+        "allspice",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

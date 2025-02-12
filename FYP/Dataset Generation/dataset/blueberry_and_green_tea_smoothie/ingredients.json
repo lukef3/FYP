@@ -1,0 +1,19 @@
+{
+    "dish_name": "blueberry and green tea smoothie",
+    "ingredients": [
+        "water",
+        "green tea bags (brew tea the night before to save time in the morning)",
+        "blueberries",
+        "ice cubes",
+        "non-fat vanilla yogurt",
+        "tablespoons    almonds, whole dry-roasted, unsalted  (about 20)",
+        "flax seeds"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

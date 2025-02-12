@@ -1,0 +1,19 @@
+{
+    "dish_name": "cocoa brownies",
+    "ingredients": [
+        "eggs",
+        "cup    vegetable oil",
+        "vanilla",
+        "sugar",
+        "cup    cocoa",
+        "all-purpose flour",
+        "salt",
+        "cup   chopped nuts (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

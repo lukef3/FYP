@@ -1,0 +1,22 @@
+{
+    "dish_name": "honey-walnut prawns",
+    "ingredients": [
+        "walnuts",
+        "sugar",
+        "cups    oil",
+        "jumbo shrimp",
+        "cornstarch",
+        "egg whites",
+        "honey",
+        "mayonnaise",
+        "lemon juice",
+        "white vinegar",
+        "sweetened condensed milk",
+        "cabbage"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

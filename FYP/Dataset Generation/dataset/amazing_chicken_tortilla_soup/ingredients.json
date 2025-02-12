@@ -1,0 +1,22 @@
+{
+    "dish_name": "amazing chicken tortilla soup",
+    "ingredients": [
+        "cooked chicken (leftover roasted or rotisserie)",
+        "onion",
+        "Rotel tomatoes & chilies",
+        "crushed red pepper flakes",
+        "cumin",
+        "garlic",
+        "chili powder",
+        "black pepper",
+        "Velveeta cheese",
+        "cilantro",
+        "corn tortillas",
+        "oil",
+        "sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

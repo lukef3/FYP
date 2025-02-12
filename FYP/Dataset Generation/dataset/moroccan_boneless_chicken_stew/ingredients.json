@@ -1,0 +1,29 @@
+{
+    "dish_name": "moroccan boneless chicken stew",
+    "ingredients": [
+        "boneless skinless chicken breast",
+        "salt",
+        "onion",
+        "garlic cloves",
+        "carrots",
+        "celery",
+        "gingerroot",
+        "paprika",
+        "ground cumin",
+        "dried oregano",
+        "ground cayenne pepper",
+        "ground turmeric",
+        "chicken broth",
+        "tomatoes",
+        "canned chick-peas",
+        "zucchini",
+        "lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

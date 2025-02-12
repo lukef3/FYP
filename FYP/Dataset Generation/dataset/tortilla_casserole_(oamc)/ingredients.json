@@ -1,0 +1,19 @@
+{
+    "dish_name": "tortilla casserole (oamc)",
+    "ingredients": [
+        "tortillas",
+        "ground beef",
+        "(1 1/4  ounce) package   taco seasoning mix",
+        "sour cream",
+        "onion",
+        "water",
+        "cheddar cheese",
+        "(8   ounce) cans   refried beans"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

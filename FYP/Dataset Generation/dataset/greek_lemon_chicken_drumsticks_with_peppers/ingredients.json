@@ -1,0 +1,20 @@
+{
+    "dish_name": "greek lemon chicken drumsticks with peppers",
+    "ingredients": [
+        "skinless chicken drumsticks, rinsed, and patted dry",
+        "green bell pepper",
+        "yellow onions",
+        "garlic clove",
+        "lemons",
+        "dry oregano leaves",
+        "lemon pepper",
+        "paprika"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

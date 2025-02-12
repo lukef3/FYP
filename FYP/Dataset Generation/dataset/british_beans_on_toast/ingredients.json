@@ -1,0 +1,15 @@
+{
+    "dish_name": "british beans on toast",
+    "ingredients": [
+        "slices    bread (white is traditional, but I use low-carb rye)",
+        "(220   g) can  of heinz baked beans in tomato sauce (both products come in a blue can, DO NOT USE AMERICAN Pork & Beans or \"Bush's Beans\" etc. ONLY Heinz)",
+        "Worcestershire sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

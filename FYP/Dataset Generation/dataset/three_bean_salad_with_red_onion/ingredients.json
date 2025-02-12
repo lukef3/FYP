@@ -1,0 +1,20 @@
+{
+    "dish_name": "three bean salad with red onion",
+    "ingredients": [
+        "cup    vegetable oil",
+        "red wine vinegar",
+        "sugar",
+        "salt",
+        "pepper",
+        "green beans",
+        "(14   ounce) can   yellow beans, drained",
+        "red kidney beans",
+        "green pepper",
+        "red onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

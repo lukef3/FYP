@@ -1,0 +1,24 @@
+{
+    "dish_name": "spanakopita",
+    "ingredients": [
+        "frozen spinach",
+        "eggs",
+        "onion",
+        "lemon, juice of",
+        "dill",
+        "garlic",
+        "salt",
+        "pepper",
+        "butter",
+        "margarine",
+        "feta cheese",
+        "phyllo pastry",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

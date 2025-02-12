@@ -1,0 +1,19 @@
+{
+    "dish_name": "easy weeknight taco casserole",
+    "ingredients": [
+        "ground beef",
+        "(1 1/4  ounce) envelope   taco seasoning",
+        "(10 1/2  ounce) can   mushroom soup",
+        "beef broth",
+        "rotel",
+        "cheddar cheese",
+        "tortilla chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

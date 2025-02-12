@@ -1,0 +1,23 @@
+{
+    "dish_name": "chicken enchilada ring",
+    "ingredients": [
+        "chicken",
+        "pitted ripe olives",
+        "cheddar cheese",
+        "green chilies",
+        "mayonnaise",
+        "tablespoon   pampered chef pantry southwest seasoning",
+        "plum tomatoes",
+        "lime",
+        "corn tortilla chips",
+        "(8   ounce) packages   refrigerated crescent dinner rolls",
+        "salsa",
+        "sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

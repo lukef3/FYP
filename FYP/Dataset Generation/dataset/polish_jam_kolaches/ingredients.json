@@ -1,0 +1,17 @@
+{
+    "dish_name": "polish jam kolaches",
+    "ingredients": [
+        "butter",
+        "cream cheese",
+        "all-purpose flour",
+        "cup    strawberry jam",
+        "confectioners' sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

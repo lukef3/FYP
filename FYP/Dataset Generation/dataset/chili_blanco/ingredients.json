@@ -1,0 +1,21 @@
+{
+    "dish_name": "chili blanco",
+    "ingredients": [
+        "tablespoon    vegetable oil",
+        "onion",
+        "garlic cloves",
+        "diced jalapeno pepper",
+        "green chili peppers",
+        "ground cumin",
+        "oregano",
+        "ground cayenne pepper",
+        "chicken broth",
+        "cups   chopped cooked chicken",
+        "white beans",
+        "monterey jack cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

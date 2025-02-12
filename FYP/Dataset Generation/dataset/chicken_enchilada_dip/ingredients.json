@@ -1,18 +1,21 @@
 {
     "dish_name": "chicken enchilada dip",
     "ingredients": [
-        "boneless skinless chicken breast half",
         "cream cheese",
-        "mayonnaise",
-        "colby-monterey jack cheese",
-        "green chili peppers",
-        "jalapeno pepper, finely diced"
+        "Rotel Tomatoes",
+        "(12   ounce) package   cooked chicken, southwestern seasoned  (precooked in the meat section, it actually states Southwestern Chicken on the package)",
+        "cheddar cheese",
+        "green onions",
+        "cumin",
+        "chili powder",
+        "garlic",
+        "oregano",
+        "cilantro",
+        "black pepper",
+        "tortilla chips"
     ],
     "images": [
         "images/image_1.jpg",
-        "images/image_2.jpg",
-        "images/image_3.jpg",
-        "images/image_4.jpg",
-        "images/image_5.jpg"
+        "images/image_2.jpg"
     ]
 }

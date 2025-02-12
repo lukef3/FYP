@@ -1,0 +1,20 @@
+{
+    "dish_name": "sunday morning fried potatoes",
+    "ingredients": [
+        "potatoes",
+        "onion",
+        "butter",
+        "garlic clove",
+        "dill weed",
+        "oregano",
+        "cayenne pepper",
+        "salt & pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

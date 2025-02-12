@@ -1,0 +1,20 @@
+{
+    "dish_name": "pear bread delight",
+    "ingredients": [
+        "all-purpose flour",
+        "baking soda",
+        "baking powder",
+        "salt",
+        "cinnamon",
+        "cup    vegetable oil",
+        "eggs",
+        "sugar",
+        "pears",
+        "cup    nuts, chopped  (or less)",
+        "vanilla"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

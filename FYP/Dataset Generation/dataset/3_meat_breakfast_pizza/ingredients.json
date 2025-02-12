@@ -1,0 +1,23 @@
+{
+    "dish_name": "3 meat breakfast pizza",
+    "ingredients": [
+        "prebaked refrigerated 12-inch pizza crust, at room temperature",
+        "(2 1/2  ounce) package   country gravy mix",
+        "milk",
+        "water",
+        "cup   chopped sausage links, cooked",
+        "ham",
+        "bacon bits",
+        "milk",
+        "margarine",
+        "eggs",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "cookies 'n cream fudge",
+    "ingredients": [
+        "sugar",
+        "margarine",
+        "butter",
+        "evaporated milk",
+        "marshmallow creme",
+        "ounces    almond bark or 8   ounces    vanilla candy coating, cut into pieces",
+        "vanilla",
+        "Oreo cookies, broken into bite-size pieces"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

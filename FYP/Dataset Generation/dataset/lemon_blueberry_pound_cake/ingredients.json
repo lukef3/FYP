@@ -1,0 +1,24 @@
+{
+    "dish_name": "lemon blueberry pound cake",
+    "ingredients": [
+        "sugar",
+        "light butter",
+        "reduced-fat cream cheese",
+        "eggs",
+        "large    egg white",
+        "flour",
+        "blueberries",
+        "baking powder",
+        "baking soda",
+        "salt",
+        "lemon low fat yogurt",
+        "vanilla extract",
+        "cooking spray",
+        "powdered sugar",
+        "lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

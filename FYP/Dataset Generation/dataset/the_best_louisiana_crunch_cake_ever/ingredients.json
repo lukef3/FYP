@@ -1,0 +1,24 @@
+{
+    "dish_name": "the best louisiana crunch cake ever",
+    "ingredients": [
+        "cake flour",
+        "salt",
+        "baking powder",
+        "baking soda",
+        "granulated sugar",
+        "butter",
+        "eggs",
+        "sour cream",
+        "buttermilk",
+        "pure vanilla extract",
+        "granulated sugar",
+        "sweetened flaked coconut"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

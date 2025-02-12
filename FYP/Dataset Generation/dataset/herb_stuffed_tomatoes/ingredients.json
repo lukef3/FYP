@@ -1,0 +1,20 @@
+{
+    "dish_name": "herb stuffed tomatoes",
+    "ingredients": [
+        "beefsteak tomatoes",
+        "flat leaf parsley",
+        "cup    Italian seasoned breadcrumbs",
+        "provolone cheese",
+        "ground black pepper",
+        "butter",
+        "extra virgin olive oil",
+        "garlic clove"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "cajun remoulade sauce",
+    "ingredients": [
+        "mayonnaise",
+        "catsup",
+        "mustard",
+        "fresh parsley",
+        "cayenne pepper",
+        "lemon juice",
+        "teaspoons    prepared horseradish",
+        "garlic cloves",
+        "Worcestershire sauce",
+        "teaspoon    celery salt",
+        "paprika"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

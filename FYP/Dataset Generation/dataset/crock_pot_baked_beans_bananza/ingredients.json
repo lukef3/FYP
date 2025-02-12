@@ -1,0 +1,22 @@
+{
+    "dish_name": "crock pot baked beans bananza",
+    "ingredients": [
+        "(15   ounce) can   pork and beans",
+        "lima beans",
+        "garbanzo beans",
+        "kidney beans",
+        "ground beef",
+        "bacon",
+        "ketchup",
+        "mustard",
+        "vinegar",
+        "salt",
+        "brown sugar",
+        "chili sauce",
+        "onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

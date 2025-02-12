@@ -1,0 +1,22 @@
+{
+    "dish_name": "roast pork tenderloin",
+    "ingredients": [
+        "thyme",
+        "marjoram",
+        "sage",
+        "garlic powder",
+        "onion powder",
+        "ground ginger",
+        "soy sauce",
+        "Worcestershire sauce",
+        "olive oil",
+        "lbs    pork tenderloin"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

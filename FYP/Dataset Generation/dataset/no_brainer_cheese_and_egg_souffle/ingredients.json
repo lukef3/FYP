@@ -1,0 +1,17 @@
+{
+    "dish_name": "no brainer cheese and egg souffle",
+    "ingredients": [
+        "eggs",
+        "milk",
+        "garlic salt",
+        "fresh ground black pepper",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

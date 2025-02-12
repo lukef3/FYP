@@ -1,0 +1,22 @@
+{
+    "dish_name": "apple chicken",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "dried thyme",
+        "salt",
+        "pepper",
+        "tablespoons    vegetable oil",
+        "apples",
+        "onion",
+        "apple cider",
+        "cider vinegar",
+        "cornstarch"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

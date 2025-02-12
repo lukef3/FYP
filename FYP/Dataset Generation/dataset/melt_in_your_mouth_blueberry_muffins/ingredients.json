@@ -1,0 +1,21 @@
+{
+    "dish_name": "melt in your mouth blueberry muffins",
+    "ingredients": [
+        "white sugar",
+        "shortening",
+        "egg yolks (beaten)",
+        "flour",
+        "baking powder",
+        "salt",
+        "milk",
+        "egg whites (beaten stiff)",
+        "vanilla",
+        "blueberries",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

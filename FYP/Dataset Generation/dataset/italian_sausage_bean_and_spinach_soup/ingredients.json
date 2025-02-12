@@ -1,0 +1,26 @@
+{
+    "dish_name": "italian sausage bean and spinach soup",
+    "ingredients": [
+        "Italian sausage",
+        "olive oil",
+        "carrots",
+        "onion",
+        "fresh garlic",
+        "teaspoons    dried chili pepper flakes (optional or to taste)",
+        "dried basil",
+        "chicken broth",
+        "diced tomatoes",
+        "cannellini beans",
+        "shell pasta",
+        "fresh spinach",
+        "parmesan cheese",
+        "salt and black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

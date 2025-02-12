@@ -1,0 +1,21 @@
+{
+    "dish_name": "the best honey cornbread",
+    "ingredients": [
+        "yellow cornmeal",
+        "flour",
+        "honey",
+        "baking powder",
+        "butter flavor shortening",
+        "salt",
+        "eggs",
+        "half-and-half cream",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

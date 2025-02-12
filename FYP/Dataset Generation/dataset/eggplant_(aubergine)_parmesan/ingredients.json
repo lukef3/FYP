@@ -1,22 +1,17 @@
 {
     "dish_name": "eggplant (aubergine) parmesan",
     "ingredients": [
-        "eggplant",
-        "mozzarella-parmesan cheese blend",
-        "egg",
-        "milk",
-        "cups    breadcrumbs, seasoned with garlic powder",
-        "salt",
-        "pepper",
-        "olive oil",
-        "cups    spaghetti sauce",
-        "cooked pasta"
+        "eggplants",
+        "mozzarella cheese",
+        "parmesan cheese",
+        "cups    marinara sauce (Such as Trader Joe's)",
+        "fresh basil",
+        "salt and pepper"
     ],
     "images": [
         "images/image_1.jpg",
         "images/image_2.jpg",
         "images/image_3.jpg",
-        "images/image_4.jpg",
-        "images/image_5.jpg"
+        "images/image_4.jpg"
     ]
 }

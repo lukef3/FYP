@@ -1,0 +1,18 @@
+{
+    "dish_name": "lemon pie",
+    "ingredients": [
+        "sugar",
+        "all-purpose flour",
+        "cornstarch",
+        "salt",
+        "boiling water",
+        "egg yolks, beaten",
+        "lemon juice",
+        "lemons, rind of",
+        "baked 9-inch baked pie crust"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

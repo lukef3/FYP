@@ -1,0 +1,21 @@
+{
+    "dish_name": "christmas biscotti",
+    "ingredients": [
+        "unsalted butter",
+        "sugar",
+        "eggs",
+        "vanilla extract",
+        "orange zest",
+        "flour",
+        "baking powder",
+        "ground cloves",
+        "salt",
+        "dried cranberries",
+        "pistachio nut"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

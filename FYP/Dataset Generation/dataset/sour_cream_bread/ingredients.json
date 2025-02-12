@@ -1,0 +1,16 @@
+{
+    "dish_name": "sour cream bread",
+    "ingredients": [
+        "water",
+        "sour cream",
+        "flour",
+        "brown sugar",
+        "salt",
+        "teaspoons    yeast"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

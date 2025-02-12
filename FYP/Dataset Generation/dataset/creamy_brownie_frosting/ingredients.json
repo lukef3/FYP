@@ -1,0 +1,18 @@
+{
+    "dish_name": "creamy brownie frosting",
+    "ingredients": [
+        "butter",
+        "margarine",
+        "tablespoons    cocoa",
+        "light corn syrup",
+        "vanilla",
+        "powdered sugar",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

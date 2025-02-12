@@ -1,0 +1,18 @@
+{
+    "dish_name": "mushroom chicken",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "white button mushrooms",
+        "green onion",
+        "chicken broth",
+        "water",
+        "soya sauce",
+        "cornstarch",
+        "water",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

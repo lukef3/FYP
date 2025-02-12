@@ -1,0 +1,23 @@
+{
+    "dish_name": "kmart subs - a blast from the past!",
+    "ingredients": [
+        "submarine rolls, White Soft Split Sarah Lee",
+        "slices    salami, with the embedded peppercorns",
+        "slices   oscar mayer bologna",
+        "slices   oscar mayer honey-roasted ham",
+        "American cheese",
+        "onion",
+        "lettuce",
+        "tomatoes",
+        "banana pepper",
+        "dill pickle",
+        "yellow mustard"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

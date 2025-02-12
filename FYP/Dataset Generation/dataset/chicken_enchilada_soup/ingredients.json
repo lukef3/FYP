@@ -1,0 +1,23 @@
+{
+    "dish_name": "chicken enchilada soup",
+    "ingredients": [
+        "cup    cooked chicken, diced",
+        "chicken broth",
+        "black beans",
+        "(19   ounce) can   enchilada sauce (I prefer Old El Paso)",
+        "diced tomatoes",
+        "(10 3/4  ounce) can   cream of chicken soup",
+        "onion",
+        "green pepper",
+        "frozen corn",
+        "tablespoon    oil",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

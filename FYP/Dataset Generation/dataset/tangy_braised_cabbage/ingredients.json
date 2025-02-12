@@ -1,0 +1,21 @@
+{
+    "dish_name": "tangy braised cabbage",
+    "ingredients": [
+        "tablespoons    sunflower oil",
+        "shallots",
+        "cabbage",
+        "teaspoon    prepared horseradish",
+        "garlic clove",
+        "fresh ginger",
+        "sugar",
+        "white wine vinegar",
+        "fresh lemon juice",
+        "salt & freshly ground black pepper, to taste"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

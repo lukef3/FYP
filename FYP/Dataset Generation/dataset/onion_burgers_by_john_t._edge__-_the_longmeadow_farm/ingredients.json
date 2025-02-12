@@ -1,0 +1,17 @@
+{
+    "dish_name": "onion burgers by john t. edge  - the longmeadow farm",
+    "ingredients": [
+        "lb    ground chuck",
+        "onions",
+        "tablespoons    pimento cheese (or Cheddar, American, Provolone cheese)",
+        "buns, split",
+        "mustard"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

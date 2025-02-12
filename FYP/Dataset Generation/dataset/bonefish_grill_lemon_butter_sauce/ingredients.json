@@ -1,0 +1,18 @@
+{
+    "dish_name": "bonefish grill lemon butter sauce",
+    "ingredients": [
+        "fresh garlic",
+        "shallot",
+        "white wine",
+        "fresh lemon juice",
+        "unsalted butter",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "collard greens - pressure cooker method",
+    "ingredients": [
+        "bunch   fresh collard greens",
+        "chicken broth",
+        "olive oil",
+        "tomato puree",
+        "diced tomatoes",
+        "onion",
+        "minced garlic cloves",
+        "tablespoon    balsamic vinegar",
+        "salt",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

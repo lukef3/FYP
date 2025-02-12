@@ -1,0 +1,23 @@
+{
+    "dish_name": "bacon and cheese salad with honey dressing",
+    "ingredients": [
+        "honey",
+        "sugar",
+        "dry mustard",
+        "salt",
+        "cider vinegar",
+        "lemon juice",
+        "cup    vegetable oil",
+        "celery seed",
+        "romaine lettuce",
+        "cheddar cheese",
+        "bacon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

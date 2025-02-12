@@ -1,0 +1,19 @@
+{
+    "dish_name": "jasmine rice with garlic, ginger, and cilantro",
+    "ingredients": [
+        "cups    jasmine rice",
+        "tablespoons    vegetable oil",
+        "fresh ginger",
+        "garlic cloves",
+        "low sodium chicken broth",
+        "salt",
+        "fresh cilantro"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

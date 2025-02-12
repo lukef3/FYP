@@ -1,0 +1,14 @@
+{
+    "dish_name": "vegetarian blt",
+    "ingredients": [
+        "slices    white bread, toasted",
+        "tomatoes",
+        "lettuce leaf",
+        "mayonnaise",
+        "provolone cheese",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

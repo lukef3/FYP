@@ -1,0 +1,23 @@
+{
+    "dish_name": "black bean tuna salad",
+    "ingredients": [
+        "albacore tuna",
+        "black beans",
+        "green chilies",
+        "red onions",
+        "fresh cilantro",
+        "mayonnaise",
+        "chili powder",
+        "cumin",
+        "cayenne pepper",
+        "salt",
+        "fresh ground pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

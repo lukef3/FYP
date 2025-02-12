@@ -1,19 +1,19 @@
 {
     "dish_name": "butternut squash soup",
     "ingredients": [
-        "lbs    butternut squash",
-        "onion",
-        "fresh ginger",
-        "butter",
-        "vegetable broth",
+        "lbs   unpeeled butternut squash, halved and seeded",
+        "onions",
+        "head of garlic",
+        "olive oil",
+        "fresh thyme",
+        "dried thyme",
         "chicken broth",
-        "sour cream"
+        "cup    whipping cream",
+        "fresh parsley",
+        "salt",
+        "pepper"
     ],
     "images": [
-        "images/image_1.jpg",
-        "images/image_2.jpg",
-        "images/image_3.jpg",
-        "images/image_4.jpg",
-        "images/image_5.jpg"
+        "images/image_1.jpg"
     ]
 }

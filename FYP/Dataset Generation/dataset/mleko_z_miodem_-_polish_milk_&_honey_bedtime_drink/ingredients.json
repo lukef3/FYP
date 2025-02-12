@@ -1,0 +1,15 @@
+{
+    "dish_name": "mleko z miodem - polish milk & honey bedtime drink",
+    "ingredients": [
+        "cup    whole milk",
+        "honey",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

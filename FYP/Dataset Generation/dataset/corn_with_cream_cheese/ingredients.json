@@ -1,0 +1,16 @@
+{
+    "dish_name": "corn with cream cheese",
+    "ingredients": [
+        "cream cheese",
+        "milk",
+        "butter",
+        "margarine",
+        "salt",
+        "pepper",
+        "whole kernel corn"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

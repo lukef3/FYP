@@ -1,0 +1,17 @@
+{
+    "dish_name": "cucumber open faced sandwiches",
+    "ingredients": [
+        "cucumbers",
+        "cream cheese",
+        "package    hidden valley ranch dressing mix",
+        "mayonnaise",
+        "sour cream",
+        "loaf    rye cocktail bread",
+        "dill weed"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

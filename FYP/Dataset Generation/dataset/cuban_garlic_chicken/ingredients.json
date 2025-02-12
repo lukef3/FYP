@@ -1,0 +1,19 @@
+{
+    "dish_name": "cuban garlic chicken",
+    "ingredients": [
+        "whole chickens",
+        "garlic cloves",
+        "cup    sour orange juice (or 1/2 cup orange juice mixed with 1/2 cup lime juice)",
+        "salt",
+        "white vinegar",
+        "fresh ground pepper",
+        "dried oregano",
+        "ground cumin"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "jalapeno pepper jelly chicken",
+    "ingredients": [
+        "boneless chicken breasts",
+        "teaspoon    garlic salt",
+        "chili powder",
+        "fresh ground black pepper",
+        "ground cumin",
+        "dried oregano",
+        "tablespoons    vegetable oil",
+        "chicken broth",
+        "red wine vinegar",
+        "tablespoons    jalapeno jelly"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

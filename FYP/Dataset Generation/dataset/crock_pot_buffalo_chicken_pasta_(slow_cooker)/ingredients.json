@@ -1,0 +1,19 @@
+{
+    "dish_name": "crock pot buffalo chicken pasta (slow cooker)",
+    "ingredients": [
+        "chicken breast",
+        "(11 1/2  ounce) can   cream of chicken soup",
+        "cup    hot sauce (like for buffalo wings)",
+        "mozzarella cheese",
+        "blue cheese",
+        "sour cream",
+        "penne"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

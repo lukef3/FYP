@@ -1,0 +1,23 @@
+{
+    "dish_name": "homemade wonder bread",
+    "ingredients": [
+        "active dry yeast",
+        "warm water",
+        "white sugar",
+        "all-purpose flour",
+        "cup    instant potato flakes",
+        "powdered milk",
+        "salt",
+        "white sugar",
+        "butter",
+        "margarine",
+        "warm water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

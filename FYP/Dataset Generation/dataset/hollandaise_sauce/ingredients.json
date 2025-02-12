@@ -1,0 +1,14 @@
+{
+    "dish_name": "hollandaise sauce",
+    "ingredients": [
+        "egg yolks",
+        "cup    cream",
+        "salt",
+        "lemon",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

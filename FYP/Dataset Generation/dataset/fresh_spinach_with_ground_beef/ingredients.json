@@ -1,0 +1,19 @@
+{
+    "dish_name": "fresh spinach with ground beef",
+    "ingredients": [
+        "spinach",
+        "ground beef",
+        "garlic cloves",
+        "onion",
+        "teaspoon    chili-garlic sauce",
+        "beef broth",
+        "red pepper flakes",
+        "lb    sliced mushrooms",
+        "sour cream",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

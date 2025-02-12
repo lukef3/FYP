@@ -1,0 +1,21 @@
+{
+    "dish_name": "black & white vegetarian chipotle chili (crock pot)",
+    "ingredients": [
+        "black beans",
+        "navy beans",
+        "diced tomatoes",
+        "tomatoes and green chilies",
+        "diced tomatoes with jalapenos",
+        "onion",
+        "garlic cloves",
+        "chili powder",
+        "sweet Hungarian paprika",
+        "dried cilantro",
+        "fresh coarse ground black pepper",
+        "chipotle chile"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

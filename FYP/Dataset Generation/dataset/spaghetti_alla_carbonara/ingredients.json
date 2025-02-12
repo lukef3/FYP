@@ -1,0 +1,19 @@
+{
+    "dish_name": "spaghetti alla carbonara",
+    "ingredients": [
+        "spaghetti",
+        "olive oil",
+        "onion",
+        "bacon",
+        "pancetta",
+        "garlic clove",
+        "eggs",
+        "heavy cream",
+        "parmesan cheese",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

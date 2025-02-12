@@ -1,0 +1,18 @@
+{
+    "dish_name": "pesto-zucchini quesadillas",
+    "ingredients": [
+        "tortilla",
+        "pesto sauce",
+        "zucchini",
+        "avocado",
+        "monterey jack pepper cheese",
+        "sour cream",
+        "salsa"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

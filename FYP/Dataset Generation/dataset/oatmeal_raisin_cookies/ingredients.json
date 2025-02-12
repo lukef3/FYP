@@ -1,0 +1,24 @@
+{
+    "dish_name": "oatmeal raisin cookies",
+    "ingredients": [
+        "margarine",
+        "shortening",
+        "light brown sugar",
+        "sugar",
+        "eggs",
+        "water",
+        "light corn syrup",
+        "vanilla",
+        "cinnamon",
+        "nutmeg",
+        "ginger",
+        "flour",
+        "baking soda",
+        "salt",
+        "oats",
+        "raisins"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

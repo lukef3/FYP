@@ -1,0 +1,23 @@
+{
+    "dish_name": "potato-stuffed red bell peppers",
+    "ingredients": [
+        "baking potatoes",
+        "large    red peppers, halved",
+        "sour cream",
+        "gouda cheese",
+        "green onion",
+        "butter",
+        "parsley flakes",
+        "salt",
+        "ground black pepper",
+        "seasoning salt",
+        "paprika"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

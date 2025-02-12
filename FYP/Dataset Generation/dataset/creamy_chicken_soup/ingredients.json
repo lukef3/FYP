@@ -1,0 +1,26 @@
+{
+    "dish_name": "creamy chicken soup",
+    "ingredients": [
+        "margarine",
+        "tablespoon    vegetable oil",
+        "boneless skinless chicken breast",
+        "Basic Chicken Stock",
+        "carrots",
+        "celery",
+        "yellow onion",
+        "long-grain white rice",
+        "parsley",
+        "salt",
+        "black pepper",
+        "cornstarch",
+        "half-and-half cream",
+        "ground nutmeg"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dish_name": "french dip au jus",
+    "ingredients": [
+        "water",
+        "tablespoon   better than bouillon beef base",
+        "teaspoons   better than bouillon beef base",
+        "celery",
+        "onion",
+        "thyme",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

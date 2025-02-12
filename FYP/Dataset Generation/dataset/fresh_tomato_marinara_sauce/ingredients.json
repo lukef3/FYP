@@ -1,0 +1,26 @@
+{
+    "dish_name": "fresh tomato marinara sauce",
+    "ingredients": [
+        "tomatoes",
+        "tomato paste",
+        "garlic",
+        "onion",
+        "olive oil",
+        "parsley flakes",
+        "oregano",
+        "salt",
+        "black pepper",
+        "red pepper flakes",
+        "tablespoons    italian seasoning",
+        "sugar",
+        "chicken broth",
+        "red wine",
+        "dried basil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dish_name": "blushing peach jam",
+    "ingredients": [
+        "cups   crushed peaches",
+        "red raspberries",
+        "lemon juice",
+        "granulated sugar",
+        "ounces    liquid pectin",
+        "teaspoon    almond extract"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

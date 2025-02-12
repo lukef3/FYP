@@ -1,0 +1,17 @@
+{
+    "dish_name": "ez baked frito pie",
+    "ingredients": [
+        "cans    hormel chili (hot or mild, with or without beans)",
+        "onion",
+        "sliced jalapeno (optional)",
+        "green chili",
+        "bag    Fritos corn chips",
+        "cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

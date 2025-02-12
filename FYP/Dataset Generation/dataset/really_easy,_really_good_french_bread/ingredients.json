@@ -1,0 +1,20 @@
+{
+    "dish_name": "really easy, really good french bread",
+    "ingredients": [
+        "dry active yeast",
+        "warm water",
+        "sugar",
+        "hot water",
+        "granulated sugar",
+        "salt",
+        "cup    oil",
+        "all-purpose flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

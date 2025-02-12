@@ -1,0 +1,21 @@
+{
+    "dish_name": "chicken wings with thai sweet & hot chili glaze",
+    "ingredients": [
+        "cup    sweet chili sauce",
+        "soy sauce",
+        "tablespoon   hot chili-garlic sauce, such as sriracha",
+        "teaspoons    dark sesame oil",
+        "fresh ginger",
+        "chicken wings",
+        "vegetable oil",
+        "kosher salt",
+        "fresh ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

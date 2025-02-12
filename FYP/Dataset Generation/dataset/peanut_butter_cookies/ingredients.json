@@ -1,10 +1,15 @@
 {
     "dish_name": "peanut butter cookies",
     "ingredients": [
+        "butter",
         "peanut butter",
-        "sugar",
+        "granulated sugar",
+        "brown sugar",
         "egg",
-        "vanilla"
+        "flour",
+        "baking powder",
+        "baking soda",
+        "salt"
     ],
     "images": [
         "images/image_1.jpg",

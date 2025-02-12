@@ -1,0 +1,17 @@
+{
+    "dish_name": "margarita parfaits",
+    "ingredients": [
+        "(8   ounce) containers   lime yogurt",
+        "triple sec",
+        "tablespoon    tequila",
+        "lime zest",
+        "ounces    dessert topping (such as Cool Whip)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

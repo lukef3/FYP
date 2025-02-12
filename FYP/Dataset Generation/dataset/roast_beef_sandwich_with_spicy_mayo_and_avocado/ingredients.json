@@ -1,0 +1,22 @@
+{
+    "dish_name": "roast beef sandwich with spicy mayo and avocado",
+    "ingredients": [
+        "mayonnaise",
+        "Tabasco sauce",
+        "cilantro",
+        "good crusty rolls or 1      long French bread, cut horizontally and hollowed out somewhat",
+        "deli roast beef",
+        "salt",
+        "swiss cheese",
+        "provolone cheese",
+        "avocado",
+        "romaine lettuce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

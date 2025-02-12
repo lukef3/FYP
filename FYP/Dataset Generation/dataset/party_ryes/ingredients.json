@@ -1,0 +1,16 @@
+{
+    "dish_name": "party ryes",
+    "ingredients": [
+        "cucumbers",
+        "(1   ounce) envelope   Good Seasons Italian dressing",
+        "loaf    miniature party rye rounds (can be found usually in deli section of supermarket) or 1   loaf    pumpernickel rounds (can be found usually in deli section of supermarket)",
+        "cream cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

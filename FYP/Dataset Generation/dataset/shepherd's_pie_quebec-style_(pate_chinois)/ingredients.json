@@ -1,0 +1,14 @@
+{
+    "dish_name": "shepherd's pie quebec-style (pate chinois)",
+    "ingredients": [
+        "lean ground beef",
+        "can    cream-style corn",
+        "mashed potatoes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

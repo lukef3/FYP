@@ -1,0 +1,14 @@
+{
+    "dish_name": "my own pie crust",
+    "ingredients": [
+        "all-purpose flour",
+        "sugar",
+        "salt",
+        "cup    oil",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dish_name": "iced vanilla coffee",
+    "ingredients": [
+        "instant coffee",
+        "pure vanilla extract",
+        "sugar",
+        "coffee",
+        "water",
+        "milk",
+        "chocolate shavings (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "dish_name": "insalata caprese",
+    "ingredients": [
+        "beefsteak tomatoes",
+        "fresh mozzarella cheese",
+        "fresh basil",
+        "extra virgin olive oil",
+        "tablespoon    balsamic vinegar",
+        "salt and pepper, to taste"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

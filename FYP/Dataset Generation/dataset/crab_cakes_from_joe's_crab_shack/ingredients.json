@@ -1,0 +1,22 @@
+{
+    "dish_name": "crab cakes from joe's crab shack",
+    "ingredients": [
+        "mayonnaise",
+        "egg yolks",
+        "lemon juice",
+        "Worcestershire sauce",
+        "Dijon mustard",
+        "black pepper",
+        "salt",
+        "teaspoon    blackening seasoning",
+        "crushed red pepper flakes",
+        "parsley",
+        "cups    breadcrumbs",
+        "lbs    crabmeat"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

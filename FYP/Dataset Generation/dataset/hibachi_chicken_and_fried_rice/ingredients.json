@@ -1,0 +1,41 @@
+{
+    "dish_name": "hibachi chicken and fried rice",
+    "ingredients": [
+        "chicken",
+        "chicken breast",
+        "tablespoon    vegetable oil",
+        "teaspoon    sesame seed oil",
+        "butter",
+        "soy sauce",
+        "fresh lemon juice",
+        "salt",
+        "pepper",
+        "for the hibachi vegetables",
+        "tablespoon    vegetable oil",
+        "teaspoon    sesame seed oil",
+        "large    white onion",
+        "zucchini",
+        "butter",
+        "soy sauce",
+        "salt",
+        "pepper",
+        "for the hibachi fried rice",
+        "cooked rice",
+        "tablespoons    vegetable oil",
+        "cup    white onion",
+        "bean sprouts",
+        "eggs",
+        "butter",
+        "soy sauce",
+        "bean sprouts",
+        "butter",
+        "soy sauce",
+        "bean sprouts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "zero points soup (weight watchers)",
+    "ingredients": [
+        "nonfat beef broth",
+        "green cabbage",
+        "carrots",
+        "onion",
+        "garlic cloves",
+        "green beans",
+        "tomato paste",
+        "celery",
+        "bell pepper",
+        "mushrooms",
+        "broccoli"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "dish_name": "boeuf en daube - french beef  burgundy in the crock pot",
+    "ingredients": [
+        "beef",
+        "shallot",
+        "garlic cloves",
+        "fresh thyme",
+        "bay leaves",
+        "Burgundy wine",
+        "olive oil",
+        "lardons",
+        "ounce    dried cepes, soaked for 1 hr",
+        "pieces    dried orange peel, see method",
+        "soft brown sugar",
+        "sea salt",
+        "fresh ground black pepper",
+        "cornflour",
+        "cognac",
+        "sun-dried tomatoes",
+        "chopped tomatoes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "dish_name": "creamy cheddar fondue",
+    "ingredients": [
+        "fat free cream cheese",
+        "low-fat milk",
+        "nonfat milk",
+        "cheddar cheese",
+        "onion",
+        "chunky French bread, cubed  (dipper)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

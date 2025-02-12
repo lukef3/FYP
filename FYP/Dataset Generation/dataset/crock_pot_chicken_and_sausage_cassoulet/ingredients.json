@@ -1,0 +1,24 @@
+{
+    "dish_name": "crock pot chicken and sausage cassoulet",
+    "ingredients": [
+        "white beans",
+        "tomato juice",
+        "carrots",
+        "celery ribs",
+        "onion",
+        "garlic cloves",
+        "bay leaves",
+        "basil",
+        "oregano",
+        "boneless skinless chicken thighs",
+        "ounces    smoked turkey or 8   ounces    chicken sausage",
+        "salt and pepper, to taste"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "broiled scallops",
+    "ingredients": [
+        "scallops",
+        "unsalted butter",
+        "margarine",
+        "olive oil",
+        "garlic powder",
+        "onion powder",
+        "paprika",
+        "chives",
+        "parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

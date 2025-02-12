@@ -1,0 +1,24 @@
+{
+    "dish_name": "linda's spaghetti pie",
+    "ingredients": [
+        "spaghetti",
+        "cups   of your own homemade spaghetti sauce or  (32   ounce) jar  of your favorite spaghetti sauce",
+        "ground beef",
+        "onion",
+        "teaspoon    italian seasoning (add only if you are using a jar or can of spaghetti sauce)",
+        "basil",
+        "salt and pepper, to taste",
+        "eggs",
+        "parmesan cheese",
+        "ricotta cheese",
+        "parsley",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

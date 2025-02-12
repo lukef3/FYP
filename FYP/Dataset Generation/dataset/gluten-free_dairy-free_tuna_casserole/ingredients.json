@@ -1,0 +1,24 @@
+{
+    "dish_name": "gluten-free dairy-free tuna casserole",
+    "ingredients": [
+        "cups    brown rice pasta (or other wheat free pasta, fusilli shape, cooked to aldente, other shapes may be used like penne)",
+        "olive oil",
+        "onion",
+        "cup    sliced mushrooms",
+        "cup    frozen peas, rinsed of ice  (optional)",
+        "cup    rice flour (to be gluten free)",
+        "chicken broth",
+        "cup   helmans olive oil mayonnaise (to be soy free)",
+        "salt",
+        "pepper",
+        "tuna in water",
+        "cup    bread, torn into crumbs  (optional, wheat free bread only from health food stores)",
+        "paprika"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

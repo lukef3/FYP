@@ -1,0 +1,19 @@
+{
+    "dish_name": "white wine and garlic mushroom cream sauce",
+    "ingredients": [
+        "onion",
+        "garlic cloves",
+        "mushrooms",
+        "chicken stock cube, undiluted",
+        "white wine",
+        "heavy cream",
+        "olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

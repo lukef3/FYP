@@ -1,0 +1,16 @@
+{
+    "dish_name": "pork chops and rice",
+    "ingredients": [
+        "(10 1/2  ounce) can   French onion soup",
+        "long grain white rice",
+        "pork chops (at least four bone-in)",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

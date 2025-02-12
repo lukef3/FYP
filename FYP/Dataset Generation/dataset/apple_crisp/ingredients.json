@@ -2,14 +2,12 @@
     "dish_name": "apple crisp",
     "ingredients": [
         "apples",
-        "sugar",
-        "lemon juice",
-        "rolled oats",
         "brown sugar",
         "flour",
-        "ground cinnamon",
-        "butter",
-        "margarine"
+        "rolled oats",
+        "cinnamon",
+        "nutmeg",
+        "butter"
     ],
     "images": [
         "images/image_1.jpg",

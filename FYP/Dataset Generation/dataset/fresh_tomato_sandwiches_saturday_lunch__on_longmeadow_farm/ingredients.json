@@ -1,0 +1,17 @@
+{
+    "dish_name": "fresh tomato sandwiches saturday lunch  on longmeadow farm",
+    "ingredients": [
+        "fresh tomatoes",
+        "large    white onion, sliced  (1/4 inch thick)",
+        "butter",
+        "slices   fresh white bread (not toasted, prefer homemade, but can use sandwich bread, soft)",
+        "fresh chives"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

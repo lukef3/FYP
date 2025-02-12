@@ -1,0 +1,21 @@
+{
+    "dish_name": "surfer bars",
+    "ingredients": [
+        "(6   ounce) package   butterscotch chips",
+        "cup    granulated brown sugar",
+        "butter",
+        "egg",
+        "flour",
+        "baking powder",
+        "baking soda",
+        "salt",
+        "(6   ounce) package   semi-sweet chocolate chips",
+        "mini marshmallows",
+        "walnuts",
+        "vanilla"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

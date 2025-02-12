@@ -1,0 +1,21 @@
+{
+    "dish_name": "it's a gouda!  hot ham sandwich",
+    "ingredients": [
+        "French roll",
+        "Dijon mustard",
+        "mustard",
+        "honey",
+        "ground cayenne pepper",
+        "ham",
+        "teaspoons    raspberry preserves",
+        "onions",
+        "shallot",
+        "gouda cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

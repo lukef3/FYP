@@ -1,0 +1,22 @@
+{
+    "dish_name": "blueberry pancakes, milk-free, egg-free",
+    "ingredients": [
+        "white flour",
+        "white sugar",
+        "baking powder",
+        "salt",
+        "margarine",
+        "water",
+        "eggs",
+        "water",
+        "fresh blueberries",
+        "frozen blueberries"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

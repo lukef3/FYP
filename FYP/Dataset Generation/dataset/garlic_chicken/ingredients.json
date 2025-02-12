@@ -1,19 +1,24 @@
 {
     "dish_name": "garlic chicken",
     "ingredients": [
-        "garlic",
-        "olive oil",
-        "cup    dry breadcrumbs (I use the Italian seasoned ones)",
-        "parmesan cheese",
         "boneless skinless chicken breasts",
         "salt",
         "pepper",
-        "italian seasoning"
+        "garlic",
+        "tablespoon    oil",
+        "dry white wine",
+        "chicken broth",
+        "chicken broth",
+        "fresh lemon juice",
+        "dried basil",
+        "dried oregano",
+        "flour",
+        "dry white wine",
+        "chicken broth"
     ],
     "images": [
         "images/image_1.jpg",
         "images/image_2.jpg",
-        "images/image_3.jpg",
-        "images/image_4.jpg"
+        "images/image_3.jpg"
     ]
 }

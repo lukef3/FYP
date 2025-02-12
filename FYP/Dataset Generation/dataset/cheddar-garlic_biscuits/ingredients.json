@@ -1,0 +1,15 @@
+{
+    "dish_name": "cheddar-garlic biscuits",
+    "ingredients": [
+        "Bisquick baking mix",
+        "milk",
+        "cheddar cheese",
+        "margarine",
+        "butter",
+        "garlic powder"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

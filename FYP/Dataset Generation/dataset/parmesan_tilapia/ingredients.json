@@ -1,0 +1,16 @@
+{
+    "dish_name": "parmesan tilapia",
+    "ingredients": [
+        "mayonnaise",
+        "parmesan cheese",
+        "garlic powder",
+        "black pepper",
+        "dill weed",
+        "tilapia fillets (this recipe will coat 4-6 pieces fish, depending on the size of the pieces)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

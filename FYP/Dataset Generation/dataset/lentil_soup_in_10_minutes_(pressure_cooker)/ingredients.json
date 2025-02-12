@@ -1,0 +1,29 @@
+{
+    "dish_name": "lentil soup in 10 minutes (pressure cooker)",
+    "ingredients": [
+        "olive oil",
+        "canola oil",
+        "onion",
+        "carrots",
+        "bay leaves",
+        "fresh thyme",
+        "dried thyme",
+        "winter savory",
+        "summer savory",
+        "water",
+        "vegetable broth",
+        "green lentils",
+        "brown lentils",
+        "red lentil",
+        "potato",
+        "kosher salt",
+        "fresh ground black pepper",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "ed's salad",
+    "ingredients": [
+        "cherry tomatoes",
+        "green olives",
+        "cucumber",
+        "vidalia onion, thinly sliced and diced",
+        "parmesan cheese",
+        "salt",
+        "pepper",
+        "cup   zesty Italian salad dressing (optional)",
+        "lettuce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

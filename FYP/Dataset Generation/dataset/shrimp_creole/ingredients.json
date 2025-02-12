@@ -1,0 +1,28 @@
+{
+    "dish_name": "shrimp creole",
+    "ingredients": [
+        "onions",
+        "celery",
+        "green peppers",
+        "garlic",
+        "butter",
+        "tomato sauce",
+        "water",
+        "parsley",
+        "salt",
+        "red cayenne pepper",
+        "thyme",
+        "bay leaves",
+        "shrimp",
+        "cooked long-grain rice",
+        "green onion",
+        "Tabasco sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

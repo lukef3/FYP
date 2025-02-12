@@ -1,0 +1,21 @@
+{
+    "dish_name": "buffalo chicken mac-n-cheese",
+    "ingredients": [
+        "elbow macaroni",
+        "chicken breasts",
+        "low-fat milk",
+        "flour",
+        "sharp cheddar cheese",
+        "ounces    buffalo wing sauce",
+        "onion powder",
+        "garlic powder",
+        "celery",
+        "hot sauce, to taste  (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

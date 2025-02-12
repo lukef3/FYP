@@ -1,0 +1,24 @@
+{
+    "dish_name": "giant oatmeal drop cookies",
+    "ingredients": [
+        "dark brown sugar",
+        "butter",
+        "margarine",
+        "applesauce",
+        "egg",
+        "flour",
+        "rolled oats",
+        "baking soda",
+        "cinnamon",
+        "salt",
+        "raisins",
+        "walnuts",
+        "vanilla",
+        "cooking spray"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

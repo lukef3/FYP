@@ -1,0 +1,21 @@
+{
+    "dish_name": "carbonara",
+    "ingredients": [
+        "salt & freshly ground black pepper, to taste",
+        "pasta",
+        "extra virgin olive oil",
+        "pancetta",
+        "red pepper flakes",
+        "garlic cloves",
+        "dry white wine",
+        "large    egg yolks",
+        "romano cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

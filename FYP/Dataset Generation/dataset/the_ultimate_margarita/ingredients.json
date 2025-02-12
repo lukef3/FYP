@@ -1,0 +1,18 @@
+{
+    "dish_name": "the ultimate margarita",
+    "ingredients": [
+        "lime wedge",
+        "coarse salt",
+        "fresh lime juice",
+        "cup   silver 100 percent agave tequila",
+        "cup    orange liqueur",
+        "cup   coarsely cracked ice cube"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

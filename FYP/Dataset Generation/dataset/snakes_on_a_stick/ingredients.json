@@ -1,0 +1,16 @@
+{
+    "dish_name": "snakes on a stick",
+    "ingredients": [
+        "(11   ounce) can   refrigerated breadstick dough",
+        "butter",
+        "herbs",
+        "pimiento",
+        "black olives"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

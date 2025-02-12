@@ -1,0 +1,20 @@
+{
+    "dish_name": "mom's hammy macaroni  n' cheese",
+    "ingredients": [
+        "macaroni",
+        "ham",
+        "(10 1/2  ounce) can   cream of mushroom soup",
+        "prepared mustard",
+        "milk",
+        "pepper",
+        "cheese",
+        "cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "razberi bars",
+    "ingredients": [
+        "butter",
+        "margarine",
+        "white chocolate chips",
+        "eggs",
+        "sugar",
+        "flour",
+        "salt",
+        "teaspoon    almond extract",
+        "cup    seedless raspberry jam",
+        "cup    toasted sliced almonds"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

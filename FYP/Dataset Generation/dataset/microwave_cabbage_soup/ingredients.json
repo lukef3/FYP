@@ -1,0 +1,24 @@
+{
+    "dish_name": "microwave cabbage soup",
+    "ingredients": [
+        "green cabbage",
+        "unsalted butter",
+        "margarine",
+        "onions",
+        "scallion",
+        "salt",
+        "black pepper",
+        "granulated sugar",
+        "chicken broth",
+        "vegetable broth",
+        "skim milk",
+        "carrot"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

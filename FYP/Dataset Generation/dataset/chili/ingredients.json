@@ -1,0 +1,32 @@
+{
+    "dish_name": "chili",
+    "ingredients": [
+        "ground beef",
+        "ground pork",
+        "yellow onion",
+        "red onion",
+        "celery",
+        "garlic",
+        "diced tomatoes",
+        "kidney beans",
+        "black beans",
+        "(398   ml) can   baked beans with molasses",
+        "(284   ml) can   tomato soup",
+        "water",
+        "cup   diced red pepper",
+        "green pepper",
+        "fresh mushrooms",
+        "frozen corn",
+        "cumin",
+        "chili powder",
+        "paprika",
+        "vinegar",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

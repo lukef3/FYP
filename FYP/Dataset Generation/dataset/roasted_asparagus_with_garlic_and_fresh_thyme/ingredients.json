@@ -1,0 +1,17 @@
+{
+    "dish_name": "roasted asparagus with garlic and fresh thyme",
+    "ingredients": [
+        "asparagus",
+        "garlic cloves",
+        "butter",
+        "olive oil",
+        "fresh thyme",
+        "black pepper",
+        "coarse salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

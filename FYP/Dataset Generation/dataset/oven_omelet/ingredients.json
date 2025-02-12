@@ -1,0 +1,16 @@
+{
+    "dish_name": "oven omelet",
+    "ingredients": [
+        "eggs",
+        "milk",
+        "cheese",
+        "fresh mushrooms",
+        "green pepper",
+        "fresh onion",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

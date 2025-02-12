@@ -1,0 +1,22 @@
+{
+    "dish_name": "jamaican carrots",
+    "ingredients": [
+        "carrot",
+        "butter",
+        "brown sugar",
+        "teaspoon    hot sauce",
+        "fresh lemon juice",
+        "teaspoon    orange juice (or pineapple juice)",
+        "ground cumin",
+        "garlic cloves",
+        "chili powder",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

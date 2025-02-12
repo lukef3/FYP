@@ -1,0 +1,17 @@
+{
+    "dish_name": "simple tex-mex rice",
+    "ingredients": [
+        "water",
+        "long-grain rice",
+        "tablespoons    taco seasoning",
+        "butter",
+        "chicken bouillon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

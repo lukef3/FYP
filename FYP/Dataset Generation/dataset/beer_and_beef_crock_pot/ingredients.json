@@ -1,0 +1,21 @@
+{
+    "dish_name": "beer and beef crock pot",
+    "ingredients": [
+        "beer",
+        "boneless beef chuck roast",
+        "plain flour",
+        "butter",
+        "onions",
+        "garlic cloves",
+        "tomato paste",
+        "cayenne",
+        "crushed red pepper flakes",
+        "bay leaves",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

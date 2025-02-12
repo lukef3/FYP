@@ -1,0 +1,24 @@
+{
+    "dish_name": "best ever tortellini soup",
+    "ingredients": [
+        "package   fresh, frozen tortellini or 1   package   fresh, frozen tortellini",
+        "diced tomato",
+        "chicken broth",
+        "fresh spinach",
+        "celery",
+        "carrots",
+        "bay leaf",
+        "fresh basil",
+        "fresh parsley",
+        "fresh oregano",
+        "garlic",
+        "onion",
+        "black pepper",
+        "olive oil",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "roasted cod and tomatoes with basil and white wine",
+    "ingredients": [
+        "cherry tomatoes",
+        "olive oil",
+        "kosher salt",
+        "cod fish fillets",
+        "salt",
+        "fresh ground black pepper",
+        "garlic cloves",
+        "fresh basil",
+        "dry white wine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

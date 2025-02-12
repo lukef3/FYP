@@ -1,0 +1,21 @@
+{
+    "dish_name": "corn and black bean quesadillas",
+    "ingredients": [
+        "mayonnaise",
+        "low-fat mayonnaise",
+        "monterey jack cheese",
+        "cheddar cheese",
+        "salsa",
+        "whole wheat tortillas",
+        "corn kernel",
+        "canned black beans",
+        "green onions"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

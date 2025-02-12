@@ -1,0 +1,23 @@
+{
+    "dish_name": "stir-fried shrimp with spicy orange sauce",
+    "ingredients": [
+        "large shrimp",
+        "cornstarch",
+        "cup   fresh squeezed orange juice",
+        "low sodium soy sauce",
+        "honey",
+        "tablespoon    rice wine vinegar",
+        "sambal oelek",
+        "canola oil",
+        "fresh ginger",
+        "garlic cloves",
+        "green onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dish_name": "baked brie with caramelized pecans",
+    "ingredients": [
+        "(8   ounce) package   brie cheese (with rind)",
+        "sour cream",
+        "brown sugar",
+        "pecans",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

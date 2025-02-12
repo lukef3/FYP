@@ -1,0 +1,19 @@
+{
+    "dish_name": "raspberry swirl cheesecake pie",
+    "ingredients": [
+        "graham cracker pie crust",
+        "cream cheese",
+        "sweetened condensed milk",
+        "egg",
+        "lemon juice",
+        "lemon juice",
+        "cup    raspberry preserves (Strawberry preserves can always be substituted)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

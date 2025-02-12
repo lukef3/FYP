@@ -1,0 +1,25 @@
+{
+    "dish_name": "bison meat loaf #1 (buffalo)",
+    "ingredients": [
+        "lbs    ground buffalo meat (Bison)",
+        "garlic cloves",
+        "eggs",
+        "sweet onion",
+        "pepper",
+        "cup    seasoned bread crumbs",
+        "parmesan cheese",
+        "salt",
+        "Worcestershire sauce",
+        "teaspoon    ground thyme",
+        "oregano",
+        "basil",
+        "sage"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "dish_name": "kittencal's ground beef fried rice",
+    "ingredients": [
+        "ground beef",
+        "garlic cloves",
+        "ginger powder",
+        "fresh ginger",
+        "tablespoons    oil (not olive oil)",
+        "red bell pepper",
+        "broccoli florets",
+        "cooked white rice",
+        "soy sauce",
+        "teaspoons    dark sesame oil",
+        "green onions",
+        "salt and pepper (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "south beach diet p1 peanut butter muffins",
+    "ingredients": [
+        "cup    egg white",
+        "ground flax seeds",
+        "cup    ground almonds",
+        "Splenda granular",
+        "cup    natural-style peanut butter",
+        "ricotta cheese",
+        "vanilla",
+        "baking soda"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

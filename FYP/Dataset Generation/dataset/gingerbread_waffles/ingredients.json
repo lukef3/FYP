@@ -1,17 +1,19 @@
 {
     "dish_name": "gingerbread waffles",
     "ingredients": [
+        "butter",
         "flour",
         "baking powder",
         "baking soda",
-        "cinnamon",
-        "ginger",
         "salt",
-        "eggs",
-        "sugar",
+        "ground ginger",
+        "cinnamon",
+        "ground cloves",
+        "ground nutmeg",
+        "brown sugar",
         "buttermilk",
         "molasses",
-        "margarine"
+        "eggs"
     ],
     "images": [
         "images/image_1.jpg",

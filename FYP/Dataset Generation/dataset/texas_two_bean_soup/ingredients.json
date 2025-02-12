@@ -1,0 +1,31 @@
+{
+    "dish_name": "texas two bean soup",
+    "ingredients": [
+        "onions",
+        "garlic cloves",
+        "olive oil",
+        "salt",
+        "celery",
+        "red bell pepper",
+        "green bell pepper",
+        "fresh chili pepper",
+        "dried oregano",
+        "dried thyme",
+        "ground cumin",
+        "ground black pepper",
+        "water",
+        "tomatoes",
+        "black-eyed peas",
+        "black-eyed peas",
+        "black beans",
+        "barbecue sauce",
+        "salt",
+        "tortilla chips",
+        "sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

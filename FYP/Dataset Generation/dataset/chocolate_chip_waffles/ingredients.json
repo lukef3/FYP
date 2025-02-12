@@ -1,0 +1,21 @@
+{
+    "dish_name": "chocolate chip waffles",
+    "ingredients": [
+        "all-purpose flour",
+        "cup    semi-sweet chocolate chips (I used Ghirardelli dark) or 1   cup    dark chocolate chips (I used Ghirardelli dark)",
+        "granulated sugar",
+        "baking powder",
+        "salt",
+        "cinnamon",
+        "2% low-fat milk",
+        "unsalted butter",
+        "extra large eggs, lightly beaten  (I actually prefer Jumbo)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

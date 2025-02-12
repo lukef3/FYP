@@ -1,0 +1,20 @@
+{
+    "dish_name": "chocolate cobbler",
+    "ingredients": [
+        "flour",
+        "sugar",
+        "baking powder",
+        "salt",
+        "tablespoons    cocoa",
+        "milk",
+        "tablespoons    vegetable oil",
+        "brown sugar",
+        "cup    cocoa",
+        "hot water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

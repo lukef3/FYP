@@ -1,0 +1,21 @@
+{
+    "dish_name": "threadgill's pinto beans",
+    "ingredients": [
+        "pinto beans",
+        "cold water",
+        "yellow onion",
+        "garlic clove",
+        "chili sauce",
+        "chili powder",
+        "black pepper",
+        "ground cumin",
+        "cayenne pepper",
+        "Tabasco sauce",
+        "salt",
+        "onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

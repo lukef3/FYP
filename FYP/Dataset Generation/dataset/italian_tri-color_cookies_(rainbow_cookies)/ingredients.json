@@ -1,0 +1,25 @@
+{
+    "dish_name": "italian tri-color cookies (rainbow cookies)",
+    "ingredients": [
+        "almond paste",
+        "sugar",
+        "teaspoon    almond extract",
+        "margarine",
+        "butter",
+        "eggs",
+        "all-purpose flour",
+        "salt",
+        "drops    green food coloring",
+        "drops    red food coloring",
+        "cup    apricot preserves (pressed into a coarse sieve to remove any large pieces of fruit)",
+        "ounces    semisweet chocolate",
+        "vegetable shortening"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

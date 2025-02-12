@@ -1,0 +1,17 @@
+{
+    "dish_name": "garlic mayonnaise (aioli)",
+    "ingredients": [
+        "mayonnaise",
+        "garlic",
+        "lemon juice",
+        "teaspoon    hot sauce",
+        "tablespoons   fresh, chopped coriander",
+        "salt",
+        "fresh ground pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

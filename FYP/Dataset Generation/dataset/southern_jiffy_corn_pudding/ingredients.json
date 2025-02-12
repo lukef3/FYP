@@ -1,0 +1,18 @@
+{
+    "dish_name": "southern jiffy corn pudding",
+    "ingredients": [
+        "butter",
+        "egg",
+        "sour cream",
+        "(8 1/2  ounce) box   Jiffy cornbread mix",
+        "(14 1/2  ounce) can   creamed corn",
+        "whole kernel corn"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

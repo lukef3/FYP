@@ -1,0 +1,17 @@
+{
+    "dish_name": "white chocolate no-bake cheesecake pie",
+    "ingredients": [
+        "white chocolate chips",
+        "cream cheese",
+        "(8   ounce) container   frozen whipped topping, thawed",
+        "9-inch graham cracker crust",
+        "cup    toffee pieces (or other topping of your choice)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

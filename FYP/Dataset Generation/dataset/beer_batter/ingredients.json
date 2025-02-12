@@ -1,0 +1,14 @@
+{
+    "dish_name": "beer batter",
+    "ingredients": [
+        "beer",
+        "flour",
+        "baking powder",
+        "salt",
+        "egg"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

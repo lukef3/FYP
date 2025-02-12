@@ -1,0 +1,23 @@
+{
+    "dish_name": "ranch pasta salad with bacon",
+    "ingredients": [
+        "rotini pasta",
+        "bacon",
+        "mayonnaise",
+        "(1   ounce) packet   dry ranch dressing mix",
+        "garlic powder",
+        "milk",
+        "tomatoes",
+        "grape tomatoes",
+        "black olives",
+        "sharp cheddar cheese",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

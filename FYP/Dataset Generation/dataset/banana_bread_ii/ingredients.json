@@ -1,0 +1,20 @@
+{
+    "dish_name": "banana bread ii",
+    "ingredients": [
+        "all-purpose flour",
+        "baking powder",
+        "baking soda",
+        "cinnamon",
+        "applesauce",
+        "granulated sugar",
+        "large    egg whites",
+        "bananas",
+        "vanilla extract"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

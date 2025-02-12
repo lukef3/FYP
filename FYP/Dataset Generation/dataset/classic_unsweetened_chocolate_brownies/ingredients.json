@@ -1,0 +1,18 @@
+{
+    "dish_name": "classic unsweetened chocolate brownies",
+    "ingredients": [
+        "ounces    unsweetened chocolate, chopped",
+        "unsalted butter",
+        "sugar",
+        "vanilla",
+        "salt",
+        "eggs",
+        "all-purpose flour",
+        "walnuts",
+        "pecans"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

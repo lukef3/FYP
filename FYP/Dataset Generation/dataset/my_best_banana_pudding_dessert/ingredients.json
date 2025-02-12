@@ -1,0 +1,19 @@
+{
+    "dish_name": "my best banana pudding dessert",
+    "ingredients": [
+        "vanilla instant pudding mix",
+        "milk",
+        "sweetened condensed milk",
+        "vanilla extract",
+        "Cool Whip",
+        "(11   ounce) box  nabsico vanilla wafers",
+        "bananas"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

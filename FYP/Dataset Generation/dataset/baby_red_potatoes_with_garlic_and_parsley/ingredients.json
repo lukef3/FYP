@@ -1,0 +1,15 @@
+{
+    "dish_name": "baby red potatoes with garlic and parsley",
+    "ingredients": [
+        "baby red potatoes",
+        "garlic",
+        "dried parsley",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

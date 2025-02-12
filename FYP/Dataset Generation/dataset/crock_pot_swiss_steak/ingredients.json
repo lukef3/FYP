@@ -1,0 +1,19 @@
+{
+    "dish_name": "crock pot swiss steak",
+    "ingredients": [
+        "tablespoons    oil",
+        "beef round steak",
+        "flour",
+        "potatoes",
+        "onions",
+        "carrots",
+        "salt",
+        "pepper",
+        "diced tomatoes",
+        "tomato sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

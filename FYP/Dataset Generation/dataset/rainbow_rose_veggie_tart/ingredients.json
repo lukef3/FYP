@@ -1,0 +1,23 @@
+{
+    "dish_name": "rainbow rose veggie tart",
+    "ingredients": [
+        "puff pastry",
+        "ricotta cheese",
+        "eggs",
+        "parmesan cheese",
+        "nutmeg",
+        "salt",
+        "olive oil",
+        "oregano",
+        "mozzarella cheese",
+        "carrots",
+        "zucchini"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "dish_name": "grilled chicken dijon",
+    "ingredients": [
+        "bottle    Italian salad dressing (fat-free okay)",
+        "Dijon mustard",
+        "boneless skinless chicken breasts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

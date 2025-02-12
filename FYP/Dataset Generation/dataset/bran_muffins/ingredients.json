@@ -1,0 +1,20 @@
+{
+    "dish_name": "bran muffins",
+    "ingredients": [
+        "flour",
+        "baking powder",
+        "baking soda",
+        "cinnamon",
+        "cups   100% all-bran cereal",
+        "skim milk",
+        "brown sugar",
+        "eggs",
+        "water",
+        "nonfat plain yogurt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

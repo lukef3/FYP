@@ -1,0 +1,22 @@
+{
+    "dish_name": "shishlik (israeli skewers)",
+    "ingredients": [
+        "olive oil",
+        "lemon juice",
+        "garlic cloves",
+        "onion",
+        "parsley",
+        "salt",
+        "pepper",
+        "dried thyme",
+        "beef steaks",
+        "skewer, metal but wooden would do but needs to be presoaked, as needed"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

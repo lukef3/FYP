@@ -1,0 +1,23 @@
+{
+    "dish_name": "tvp vegan sloppy joes",
+    "ingredients": [
+        "onion",
+        "green pepper",
+        "olive oil",
+        "boiling water",
+        "tomato sauce",
+        "chili powder",
+        "pepper",
+        "salt",
+        "soy sauce",
+        "mustard",
+        "sugar",
+        "cups   dry textured vegetable protein"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "tomato and barley soup",
+    "ingredients": [
+        "onion",
+        "carrot",
+        "celery",
+        "garlic",
+        "olive oil",
+        "pearl barley",
+        "stewed tomatoes",
+        "chicken broth",
+        "water",
+        "bay leaf",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

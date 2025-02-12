@@ -1,0 +1,22 @@
+{
+    "dish_name": "panko-coated chicken schnitzel with capers and lemon",
+    "ingredients": [
+        "flour",
+        "eggs",
+        "panko breadcrumbs",
+        "boneless skinless chicken breast halves",
+        "salt & freshly ground black pepper",
+        "canola oil",
+        "butter",
+        "capers",
+        "lemon juice",
+        "parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

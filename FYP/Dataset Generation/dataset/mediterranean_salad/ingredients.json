@@ -1,0 +1,23 @@
+{
+    "dish_name": "mediterranean salad",
+    "ingredients": [
+        "olive oil",
+        "tablespoons    balsamic vinegar",
+        "Dijon mustard",
+        "garlic clove",
+        "salt",
+        "pepper",
+        "chickpeas",
+        "red pepper, julienned",
+        "green pepper",
+        "stuffed green olive",
+        "capers"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

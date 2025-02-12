@@ -1,0 +1,23 @@
+{
+    "dish_name": "pork chops with crust of onions",
+    "ingredients": [
+        "large    pork chops (center-cut, with bone in weighing about 10 oz each)",
+        "salt",
+        "white pepper",
+        "butter",
+        "fresh tarragon",
+        "dried tarragon",
+        "fresh thyme",
+        "dried thyme",
+        "dry white wine",
+        "cup    chicken stock",
+        "cup    fresh homemade breadcrumbs",
+        "parmesan cheese",
+        "onions"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

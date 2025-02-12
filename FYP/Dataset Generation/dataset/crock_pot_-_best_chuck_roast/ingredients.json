@@ -1,0 +1,23 @@
+{
+    "dish_name": "crock pot - best chuck roast",
+    "ingredients": [
+        "lbs    chuck roast",
+        "tablespoons    vegetable oil",
+        "potatoes",
+        "carrots",
+        "celery ribs",
+        "onions",
+        "ketchup",
+        "Worcestershire sauce",
+        "(10   ounce)    cream of mushroom soup",
+        "water",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

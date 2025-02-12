@@ -1,0 +1,19 @@
+{
+    "dish_name": "new england hot chocolate",
+    "ingredients": [
+        "sugar",
+        "tablespoon    baking cocoa",
+        "salt",
+        "hot water",
+        "butter",
+        "margarine",
+        "milk",
+        "teaspoon    maple flavoring",
+        "vanilla extract",
+        "marshmallows"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "dish_name": "thai cucumber salad",
+    "ingredients": [
+        "fresh lime juice",
+        "tablespoons    rice wine vinegar",
+        "canola oil",
+        "garlic",
+        "brown sugar",
+        "lime zest",
+        "small    jalapeno, seeded and minced",
+        "salt and pepper",
+        "seedless cucumber",
+        "red bell pepper",
+        "carrot",
+        "red onion",
+        "cilantro",
+        "cup    dry roasted peanuts, chopped"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

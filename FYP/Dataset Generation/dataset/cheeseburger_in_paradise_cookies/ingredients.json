@@ -1,0 +1,23 @@
+{
+    "dish_name": "cheeseburger in paradise cookies",
+    "ingredients": [
+        "(12   ounce) boxes   vanilla wafers",
+        "egg white",
+        "sesame seeds",
+        "powdered sugar",
+        "milk",
+        "teaspoon    almond extract",
+        "green food coloring",
+        "yellow food coloring",
+        "red food coloring",
+        "sweetened coconut",
+        "(10   ounce) packages   peppermint patties (anything resembling the girl scouts' \"thin mints\")"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

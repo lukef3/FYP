@@ -1,0 +1,23 @@
+{
+    "dish_name": "awesome cajun chicken wings",
+    "ingredients": [
+        "chicken wings",
+        "cayenne",
+        "paprika",
+        "garlic powder",
+        "dried oregano",
+        "dried thyme",
+        "onion powder",
+        "salt",
+        "white pepper",
+        "fresh ground black pepper",
+        "cup    vegetable oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

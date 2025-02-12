@@ -1,0 +1,17 @@
+{
+    "dish_name": "peanut butter banana bars (healthy)",
+    "ingredients": [
+        "egg",
+        "cup    reduced-fat peanut butter",
+        "banana",
+        "skim milk",
+        "sugar substitute",
+        "flour",
+        "baking powder",
+        "baking soda"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

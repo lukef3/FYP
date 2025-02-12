@@ -1,0 +1,18 @@
+{
+    "dish_name": "easy creamy garlic and parmesan rice",
+    "ingredients": [
+        "long grain rice",
+        "cups    hot chicken stock",
+        "heavy cream",
+        "garlic cloves",
+        "parmesan cheese",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

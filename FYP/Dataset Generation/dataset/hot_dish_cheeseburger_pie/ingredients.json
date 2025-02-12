@@ -1,0 +1,17 @@
+{
+    "dish_name": "hot dish cheeseburger pie",
+    "ingredients": [
+        "ground beef",
+        "onions",
+        "salt",
+        "pepper",
+        "cheddar cheese",
+        "milk",
+        "Bisquick baking mix",
+        "eggs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

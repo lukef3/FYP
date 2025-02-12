@@ -1,0 +1,24 @@
+{
+    "dish_name": "beef brisket with burgundy-orange sauce",
+    "ingredients": [
+        "envelope    onion soup mix",
+        "Burgundy wine",
+        "water",
+        "flour",
+        "dried basil",
+        "dried thyme",
+        "orange marmalade",
+        "teaspoons   grated orange rind",
+        "sugar",
+        "garlic",
+        "pepper",
+        "beef brisket",
+        "mushroom"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

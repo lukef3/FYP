@@ -1,0 +1,17 @@
+{
+    "dish_name": "pinto bean bread",
+    "ingredients": [
+        "milk",
+        "packages    yeast",
+        "pinto beans",
+        "sugar",
+        "salt",
+        "shortening",
+        "flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "dish_name": "chicken or turkey tetrazzini",
+    "ingredients": [
+        "turkey",
+        "spaghetti",
+        "ounces    cream of mushroom soup, undiluted",
+        "cups    shredded cheddar cheese, divided",
+        "parmesan cheese",
+        "milk",
+        "onion",
+        "bell pepper",
+        "mushroom pieces",
+        "bacon",
+        "garlic powder",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "devious diners devilishly delicious southwest burger",
+    "ingredients": [
+        "lb    ground buffalo meat",
+        "teaspoons    taco seasoning",
+        "salsa",
+        "cup    guacamole",
+        "sour cream",
+        "jalapeno jack cheese",
+        "green chili",
+        "lettuce",
+        "tomatoes",
+        "French fried onion rings",
+        "buns"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

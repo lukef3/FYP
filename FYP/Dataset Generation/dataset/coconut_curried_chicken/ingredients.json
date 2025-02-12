@@ -1,0 +1,19 @@
+{
+    "dish_name": "coconut curried chicken",
+    "ingredients": [
+        "curry powder",
+        "salt",
+        "canola oil",
+        "garlic",
+        "ginger",
+        "onion",
+        "boneless chicken breast",
+        "low-fat coconut milk",
+        "lime juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

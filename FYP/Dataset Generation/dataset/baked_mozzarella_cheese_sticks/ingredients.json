@@ -1,0 +1,21 @@
+{
+    "dish_name": "baked mozzarella cheese sticks",
+    "ingredients": [
+        "eggs",
+        "water",
+        "cup    dry breadcrumbs",
+        "teaspoons    italian seasoning",
+        "garlic powder",
+        "pepper",
+        "mozzarella string cheese",
+        "flour",
+        "margarine",
+        "cup   heated marinara sauce or 1   cup    spaghetti sauce",
+        "butter",
+        "margarine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

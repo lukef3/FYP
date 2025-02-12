@@ -1,0 +1,24 @@
+{
+    "dish_name": "pepper parmesan salad dressing",
+    "ingredients": [
+        "mayonnaise",
+        "milk",
+        "parmesan cheese",
+        "cracked pepper",
+        "red wine vinegar",
+        "onion powder",
+        "tablespoon    garlic salt",
+        "paprika",
+        "dill weed",
+        "lemon juice",
+        "Worcestershire sauce",
+        "dash    hot pepper sauce (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

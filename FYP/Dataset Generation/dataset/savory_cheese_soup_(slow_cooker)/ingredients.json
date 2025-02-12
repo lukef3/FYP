@@ -1,0 +1,25 @@
+{
+    "dish_name": "savory cheese soup (slow cooker)",
+    "ingredients": [
+        "chicken broth",
+        "onion",
+        "carrot",
+        "celery rib",
+        "cup   chopped sweet red pepper",
+        "butter",
+        "salt",
+        "pepper",
+        "flour",
+        "cold water",
+        "cream cheese",
+        "cheddar cheese",
+        "beer"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

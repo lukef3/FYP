@@ -1,0 +1,17 @@
+{
+    "dish_name": "egg burritos",
+    "ingredients": [
+        "eggs",
+        "salt and pepper",
+        "flour tortilla",
+        "cheddar cheese",
+        "tablespoon    taco sauce (I use La Victoria brand)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

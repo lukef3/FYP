@@ -1,0 +1,22 @@
+{
+    "dish_name": "skillet meatball goulash",
+    "ingredients": [
+        "green bell pepper",
+        "onion",
+        "(12   ounce) jar   beef gravy",
+        "beef broth",
+        "water",
+        "chili sauce",
+        "ounces   frozen cooked italian meatballs",
+        "ounces   uncooked mini lasagna noodles (aka mafalda)",
+        "light sour cream",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

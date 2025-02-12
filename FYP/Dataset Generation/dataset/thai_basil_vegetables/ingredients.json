@@ -1,0 +1,26 @@
+{
+    "dish_name": "thai basil vegetables",
+    "ingredients": [
+        "zucchini",
+        "cups    sliced mushrooms",
+        "carrot",
+        "fresh basil",
+        "cilantro",
+        "soy sauce",
+        "fish sauce",
+        "lime, juice of",
+        "ginger",
+        "garlic",
+        "sugar",
+        "tablespoon    sambal oelek chili paste (to taste)",
+        "cornstarch",
+        "tablespoons    vegetable oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

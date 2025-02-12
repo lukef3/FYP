@@ -1,0 +1,25 @@
+{
+    "dish_name": "cinnamon rolls",
+    "ingredients": [
+        "warm water",
+        "butter",
+        "milk",
+        "egg",
+        "vanilla instant pudding mix",
+        "salt",
+        "bread flour",
+        "bread machine yeast",
+        "butter",
+        "brown sugar",
+        "ground cinnamon",
+        "cream cheese",
+        "butter",
+        "confectioners' sugar",
+        "vanilla extract",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

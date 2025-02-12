@@ -1,0 +1,20 @@
+{
+    "dish_name": "mititei (small ground beef sausages)",
+    "ingredients": [
+        "lean ground beef",
+        "extra virgin olive oil",
+        "garlic cloves",
+        "baking soda",
+        "dried thyme",
+        "red pepper flakes",
+        "paprika",
+        "caraway seed",
+        "salt & freshly ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

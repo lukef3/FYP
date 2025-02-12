@@ -1,0 +1,15 @@
+{
+    "dish_name": "hot chocolate marshmallow coffee",
+    "ingredients": [
+        "cup   fresh fresh brewed decaffeinated coffee",
+        "(3/4  ounce)   single-serving envelope hot chocolate powder",
+        "marshmallow whip",
+        "cinnamon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

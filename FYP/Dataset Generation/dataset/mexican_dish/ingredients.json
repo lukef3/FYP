@@ -1,0 +1,17 @@
+{
+    "dish_name": "mexican dish",
+    "ingredients": [
+        "ground beef",
+        "onion",
+        "teaspoons    garlic salt (to taste)",
+        "black pepper",
+        "Rotel Tomatoes",
+        "can    ranch style bean",
+        "can    cream of mushroom soup",
+        "cheddar cheese",
+        "corn tortilla"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

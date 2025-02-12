@@ -1,0 +1,25 @@
+{
+    "dish_name": "granny cake",
+    "ingredients": [
+        "flour",
+        "sugar",
+        "brown sugar",
+        "salt",
+        "baking soda",
+        "eggs",
+        "crushed pineapple",
+        "brown sugar",
+        "cup    nuts",
+        "butter",
+        "sugar",
+        "evaporated milk",
+        "vanilla"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

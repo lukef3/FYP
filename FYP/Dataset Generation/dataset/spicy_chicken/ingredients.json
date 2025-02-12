@@ -1,0 +1,27 @@
+{
+    "dish_name": "spicy chicken",
+    "ingredients": [
+        "chicken thighs",
+        "chicken drumsticks",
+        "tablespoons    oil (for frying)",
+        "salt and pepper",
+        "onion",
+        "garlic",
+        "bay leaves",
+        "cinnamon stick",
+        "cloves",
+        "cardamom pods",
+        "garam masala",
+        "curry powder",
+        "fresh ginger",
+        "ground turmeric",
+        "lemon, zest of",
+        "green chili",
+        "chicken",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

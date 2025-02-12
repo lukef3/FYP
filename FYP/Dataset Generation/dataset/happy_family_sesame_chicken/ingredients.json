@@ -1,0 +1,22 @@
+{
+    "dish_name": "happy family sesame chicken",
+    "ingredients": [
+        "honey",
+        "sesame seeds",
+        "soy sauce",
+        "garlic clove",
+        "cornstarch",
+        "egg whites",
+        "boneless skinless chicken breast halves",
+        "tablespoons    vegetable oil",
+        "green onions",
+        "sesame seeds"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

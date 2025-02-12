@@ -1,0 +1,29 @@
+{
+    "dish_name": "chile con queso cheeseburger",
+    "ingredients": [
+        "anaheim chilies",
+        "jalapenos",
+        "extra virgin olive oil",
+        "garlic clove",
+        "tomatoes",
+        "cumin",
+        "chili powder",
+        "monterey jack cheese",
+        "cheddar cheese",
+        "salt & freshly ground black pepper",
+        "ground beef",
+        "kaiser rolls or 4      onion topped hamburger buns, split",
+        "lettuce leaf",
+        "onion",
+        "tomatoes",
+        "mayonnaise",
+        "ketchup"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

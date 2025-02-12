@@ -1,0 +1,21 @@
+{
+    "dish_name": "white trash hamburger gravy and breakfast biscuits",
+    "ingredients": [
+        "ground beef",
+        "pork sausage",
+        "butter",
+        "flour",
+        "cups    whole milk",
+        "half-and-half cream",
+        "salt",
+        "pepper",
+        "purchased refrigerated buttermilk biscuit"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

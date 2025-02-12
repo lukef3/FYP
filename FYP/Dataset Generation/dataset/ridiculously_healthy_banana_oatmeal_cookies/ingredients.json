@@ -1,0 +1,18 @@
+{
+    "dish_name": "ridiculously healthy banana oatmeal cookies",
+    "ingredients": [
+        "bananas",
+        "oats",
+        "skim milk",
+        "egg",
+        "Splenda sugar substitute",
+        "vanilla extract",
+        "low-fat peanut butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

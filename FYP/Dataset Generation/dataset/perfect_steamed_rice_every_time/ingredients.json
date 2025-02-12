@@ -1,0 +1,11 @@
+{
+    "dish_name": "perfect steamed rice every time",
+    "ingredients": [
+        "long-grain rice",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

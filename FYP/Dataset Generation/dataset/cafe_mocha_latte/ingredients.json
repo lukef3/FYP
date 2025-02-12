@@ -1,0 +1,15 @@
+{
+    "dish_name": "cafe mocha latte",
+    "ingredients": [
+        "half-and-half cream",
+        "brown sugar",
+        "brewed coffee",
+        "cup    chocolate syrup",
+        "vanilla extract",
+        "cup    whiskey (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

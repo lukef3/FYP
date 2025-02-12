@@ -1,0 +1,20 @@
+{
+    "dish_name": "baked oatmeal",
+    "ingredients": [
+        "oatmeal",
+        "baking powder",
+        "skim milk",
+        "egg",
+        "egg white (or 1/4 cup egg substitute)",
+        "applesauce",
+        "brown sugar",
+        "raisins",
+        "cinnamon",
+        "vanilla extract"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

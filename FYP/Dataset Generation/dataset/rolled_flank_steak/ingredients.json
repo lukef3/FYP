@@ -1,0 +1,21 @@
+{
+    "dish_name": "rolled flank steak",
+    "ingredients": [
+        "lbs    flank steaks",
+        "garlic cloves",
+        "croutons",
+        "Italian parsley",
+        "sea salt",
+        "olive oil",
+        "kitchen string",
+        "butter",
+        "Italian parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

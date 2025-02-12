@@ -1,0 +1,21 @@
+{
+    "dish_name": "chicken lover's ultimate baked chicken",
+    "ingredients": [
+        "whole chickens",
+        "cups    Wishbone Italian salad dressing",
+        "soy sauce",
+        "Worcestershire sauce",
+        "butter",
+        "bay leaves",
+        "poultry seasoning",
+        "pepper",
+        "salt",
+        "basil",
+        "garlic powder"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

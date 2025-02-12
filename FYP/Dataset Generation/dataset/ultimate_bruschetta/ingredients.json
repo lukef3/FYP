@@ -1,0 +1,20 @@
+{
+    "dish_name": "ultimate bruschetta",
+    "ingredients": [
+        "plum tomatoes",
+        "onions",
+        "garlic cloves",
+        "fresh basil",
+        "red wine vinegar",
+        "extra virgin olive oil",
+        "salt & pepper",
+        "slices   thick crusty Italian bread (we usually just use a baguette)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

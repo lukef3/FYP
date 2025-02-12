@@ -1,0 +1,19 @@
+{
+    "dish_name": "tomato and avocado salad a la caribe",
+    "ingredients": [
+        "tomatoes",
+        "avocado",
+        "green onion",
+        "tablespoons    orange juice",
+        "red wine vinegar",
+        "garlic clove",
+        "dash    salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

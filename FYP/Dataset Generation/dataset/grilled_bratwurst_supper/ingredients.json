@@ -1,0 +1,23 @@
+{
+    "dish_name": "grilled bratwurst supper",
+    "ingredients": [
+        "lbs   uncooked bratwursts",
+        "small    red potatoes, cut into wedges",
+        "lb    baby carrots, sliced in half",
+        "red onion",
+        "fresh mushrooms",
+        "garlic clove",
+        "butter",
+        "(1   ounce) envelope   onion soup mix",
+        "light soy sauce",
+        "fresh ground pepper",
+        "cooked rice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

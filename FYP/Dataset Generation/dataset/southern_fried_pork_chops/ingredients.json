@@ -1,0 +1,13 @@
+{
+    "dish_name": "southern fried pork chops",
+    "ingredients": [
+        "salt & pepper",
+        "flour",
+        "oil or   lard",
+        "mixed pork chops"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

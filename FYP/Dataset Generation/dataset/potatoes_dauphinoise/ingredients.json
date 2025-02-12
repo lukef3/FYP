@@ -1,0 +1,22 @@
+{
+    "dish_name": "potatoes dauphinoise",
+    "ingredients": [
+        "potatoes",
+        "butter",
+        "margarine",
+        "garlic",
+        "salt",
+        "fresh ground black pepper",
+        "nutmeg",
+        "cup    cream (low fat is fine)",
+        "milk",
+        "cup   grated tasty cheese (low fat is fine)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

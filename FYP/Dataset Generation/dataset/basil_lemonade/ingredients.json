@@ -1,0 +1,13 @@
+{
+    "dish_name": "basil lemonade",
+    "ingredients": [
+        "fresh basil leaf",
+        "sugar",
+        "water",
+        "lemon juice",
+        "fresh basil"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

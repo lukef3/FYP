@@ -1,0 +1,19 @@
+{
+    "dish_name": "pb&j breakfast muffins",
+    "ingredients": [
+        "flour",
+        "sugar",
+        "baking powder",
+        "salt",
+        "peanut butter",
+        "egg",
+        "milk",
+        "jam or   preserves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

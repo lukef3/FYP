@@ -1,0 +1,16 @@
+{
+    "dish_name": "hawaiian baked beans",
+    "ingredients": [
+        "great northern beans",
+        "onion",
+        "dark brown sugar",
+        "cooked ham",
+        "ketchup",
+        "crushed pineapple",
+        "prepared mustard",
+        "cider vinegar"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "weight watchers roasted vegetables - 0 points!",
+    "ingredients": [
+        "olive oil flavored cooking spray",
+        "medium    sweet red peppers, seeded and quartered",
+        "green pepper",
+        "summer squash, halved lengthwise",
+        "zucchini",
+        "red onion",
+        "canned artichoke hearts",
+        "dried thyme",
+        "table salt",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "amazing peanut butter chocolate chip brownies",
+    "ingredients": [
+        "butter",
+        "peanut butter",
+        "white sugar",
+        "light brown sugar",
+        "vanilla",
+        "eggs",
+        "flour",
+        "baking powder",
+        "salt",
+        "chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

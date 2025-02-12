@@ -1,0 +1,22 @@
+{
+    "dish_name": "reduced-calorie banana bread",
+    "ingredients": [
+        "flour",
+        "baking powder",
+        "baking soda",
+        "ground cinnamon",
+        "salt",
+        "egg whites, slightly beaten",
+        "banana",
+        "sugar",
+        "Splenda sugar substitute",
+        "canola oil",
+        "nonstick cooking spray"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

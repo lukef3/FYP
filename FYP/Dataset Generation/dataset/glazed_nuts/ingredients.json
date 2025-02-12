@@ -1,0 +1,13 @@
+{
+    "dish_name": "glazed nuts",
+    "ingredients": [
+        "lb    whole almond, blanched  (or cashews, peanuts, pecan halves, etc.)",
+        "sugar",
+        "butter",
+        "margarine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

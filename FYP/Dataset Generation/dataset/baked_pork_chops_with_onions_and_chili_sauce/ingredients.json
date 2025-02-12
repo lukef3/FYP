@@ -1,0 +1,15 @@
+{
+    "dish_name": "baked pork chops with onions and chili sauce",
+    "ingredients": [
+        "boneless pork loin chops",
+        "olive oil",
+        "onion",
+        "brown sugar",
+        "Heinz Chili Sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

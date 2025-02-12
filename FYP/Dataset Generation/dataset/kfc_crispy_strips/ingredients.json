@@ -1,0 +1,22 @@
+{
+    "dish_name": "kfc crispy strips",
+    "ingredients": [
+        "chicken breasts",
+        "egg",
+        "milk",
+        "all-purpose flour",
+        "salt",
+        "pepper",
+        "msg",
+        "paprika",
+        "garlic powder",
+        "baking powder"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

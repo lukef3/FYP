@@ -1,0 +1,24 @@
+{
+    "dish_name": "no bean chili",
+    "ingredients": [
+        "pork sausage",
+        "lean ground beef",
+        "diced tomatoes",
+        "onion",
+        "green pepper",
+        "celery",
+        "minced garlic cloves",
+        "salt",
+        "chili powder",
+        "crushed red pepper flakes",
+        "tomato paste",
+        "crushed tomatoes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

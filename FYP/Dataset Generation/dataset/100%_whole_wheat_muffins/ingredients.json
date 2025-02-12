@@ -1,0 +1,21 @@
+{
+    "dish_name": "100% whole wheat muffins",
+    "ingredients": [
+        "whole wheat flour",
+        "peanut butter",
+        "salt",
+        "baking powder",
+        "eggs",
+        "milk",
+        "brown sugar",
+        "butter",
+        "margarine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "dish_name": "chicken and spinach rigatoni casserole",
+    "ingredients": [
+        "rigatoni pasta",
+        "frozen chopped spinach",
+        "teaspoons    vegetable oil",
+        "onion",
+        "garlic cloves",
+        "boneless skinless chicken breast",
+        "whole tomatoes",
+        "tomato paste",
+        "dried basil",
+        "oregano",
+        "red pepper flakes",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

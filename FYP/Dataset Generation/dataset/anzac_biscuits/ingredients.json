@@ -1,20 +1,18 @@
 {
     "dish_name": "anzac biscuits",
     "ingredients": [
-        "rolled oats",
-        "plain flour",
-        "sugar",
-        "cup    desiccated coconut",
-        "golden syrup",
-        "butter",
+        "cup    quick-cooking rolled oats",
+        "coconut",
+        "flour",
         "bicarbonate of soda",
-        "water"
+        "sugar",
+        "butter",
+        "golden syrup",
+        "boiling water"
     ],
     "images": [
         "images/image_1.jpg",
         "images/image_2.jpg",
-        "images/image_3.jpg",
-        "images/image_4.jpg",
-        "images/image_5.jpg"
+        "images/image_3.jpg"
     ]
 }

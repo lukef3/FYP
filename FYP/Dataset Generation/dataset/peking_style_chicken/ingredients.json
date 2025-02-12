@@ -1,0 +1,22 @@
+{
+    "dish_name": "peking style chicken",
+    "ingredients": [
+        "dry mustard",
+        "sugar",
+        "soy sauce",
+        "tablespoons    sesame oil",
+        "vinegar",
+        "teaspoon    dried chili pepper flakes (optional)",
+        "boneless chicken breasts",
+        "cornstarch",
+        "egg whites, beaten",
+        "cup    vegetable oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

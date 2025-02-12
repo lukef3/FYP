@@ -1,0 +1,16 @@
+{
+    "dish_name": "linda's chunky garlic mashed potatoes",
+    "ingredients": [
+        "potatoes",
+        "head of garlic",
+        "butter",
+        "margarine",
+        "sour cream",
+        "salt",
+        "fresh coarse ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "texas trash",
+    "ingredients": [
+        "butter",
+        "teaspoon    celery salt",
+        "teaspoon    garlic salt",
+        "seasoning salt",
+        "Worcestershire sauce",
+        "cayenne pepper",
+        "Tabasco sauce",
+        "cup    Cheerios toasted oat cereal",
+        "cups    Wheat Chex",
+        "cups    Rice Chex",
+        "cups    Corn Chex",
+        "cup    pretzel",
+        "cup    nuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

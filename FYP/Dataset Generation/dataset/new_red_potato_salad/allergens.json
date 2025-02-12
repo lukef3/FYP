@@ -1,9 +1,8 @@
 {
-    "dish_name": "new red potato salad",
     "allergens": [
         0,
         0,
-        0,
+        1,
         0,
         0,
         0,

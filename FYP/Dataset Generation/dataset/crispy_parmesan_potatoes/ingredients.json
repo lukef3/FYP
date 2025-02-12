@@ -1,0 +1,18 @@
+{
+    "dish_name": "crispy parmesan potatoes",
+    "ingredients": [
+        "russet potatoes",
+        "fresh ground black pepper",
+        "salt",
+        "garlic powder",
+        "parmesan cheese",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

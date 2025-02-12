@@ -1,0 +1,24 @@
+{
+    "dish_name": "its the great pumpkin cookies, charlie brown",
+    "ingredients": [
+        "flour",
+        "quick-cooking oats",
+        "baking soda",
+        "cinnamon",
+        "salt",
+        "butter",
+        "brown sugar",
+        "sugar",
+        "egg",
+        "vanilla",
+        "pumpkin",
+        "chocolate chips",
+        "cup    cinnamon baking chips (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "dry rub for chicken or turkey",
+    "ingredients": [
+        "brown sugar",
+        "chili powder",
+        "paprika",
+        "cumin",
+        "cayenne pepper",
+        "garlic powder",
+        "mustard powder",
+        "salt",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

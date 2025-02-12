@@ -1,0 +1,17 @@
+{
+    "dish_name": "marshmallow creme frosting",
+    "ingredients": [
+        "margarine",
+        "marshmallow cream",
+        "vanilla extract",
+        "teaspoon    almond extract",
+        "milk",
+        "powdered sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

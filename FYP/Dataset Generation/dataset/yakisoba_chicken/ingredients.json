@@ -1,0 +1,23 @@
+{
+    "dish_name": "yakisoba chicken",
+    "ingredients": [
+        "teaspoon    sesame oil",
+        "canola oil",
+        "Thai red curry paste",
+        "garlic cloves",
+        "chicken breasts",
+        "light soy sauce",
+        "red onion",
+        "red bell pepper",
+        "cabbage",
+        "carrots",
+        "ounces    soba noodles, cooked and drained  (or wheat spaghetti noodles, which is what I used)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

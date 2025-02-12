@@ -1,0 +1,22 @@
+{
+    "dish_name": "buffalo wild wings spicy garlic sauce",
+    "ingredients": [
+        "cup    Frank's red hot sauce",
+        "cup    vegetable oil",
+        "sugar",
+        "garlic powder",
+        "ground black pepper",
+        "cayenne powder",
+        "Worcestershire sauce",
+        "egg yolk",
+        "water",
+        "cornstarch"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

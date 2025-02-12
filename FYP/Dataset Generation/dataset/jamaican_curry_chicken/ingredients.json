@@ -1,0 +1,20 @@
+{
+    "dish_name": "jamaican curry chicken",
+    "ingredients": [
+        "chicken",
+        "curry powder",
+        "onion powder",
+        "salt",
+        "garlic powder",
+        "ounces    cooking oil",
+        "vinegar",
+        "water",
+        "potato",
+        "black pepper",
+        "thyme"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

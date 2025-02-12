@@ -1,0 +1,24 @@
+{
+    "dish_name": "marinated cheese appetizer",
+    "ingredients": [
+        "sharp cheddar cheese",
+        "cream cheese",
+        "sugar",
+        "dried basil",
+        "salt",
+        "black pepper",
+        "olive oil",
+        "white wine vinegar",
+        "diced pimentos",
+        "fresh parsley",
+        "green onions",
+        "garlic cloves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

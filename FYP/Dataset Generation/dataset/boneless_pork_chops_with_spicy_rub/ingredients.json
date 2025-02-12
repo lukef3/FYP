@@ -1,0 +1,22 @@
+{
+    "dish_name": "boneless pork chops with spicy rub",
+    "ingredients": [
+        "olive oil",
+        "chili powder",
+        "paprika",
+        "garlic",
+        "salt",
+        "dried oregano",
+        "ground cumin",
+        "ground black pepper",
+        "pork chops, boneless",
+        "lime"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

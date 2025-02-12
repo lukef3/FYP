@@ -1,0 +1,19 @@
+{
+    "dish_name": "bacon with a vegan!",
+    "ingredients": [
+        "tablespoon    oil, neutral tasting  (don't use extra virgin olive oil-too strong)",
+        "firm tofu",
+        "soy sauce",
+        "liquid smoke",
+        "brown sugar",
+        "nutritional yeast",
+        "fresh ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

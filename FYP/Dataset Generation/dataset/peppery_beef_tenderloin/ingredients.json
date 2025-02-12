@@ -1,0 +1,21 @@
+{
+    "dish_name": "peppery beef tenderloin",
+    "ingredients": [
+        "oregano",
+        "paprika",
+        "thyme",
+        "salt",
+        "garlic powder",
+        "onion powder",
+        "basil",
+        "cracked black pepper",
+        "cayenne pepper",
+        "beef tenderloin"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

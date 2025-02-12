@@ -1,0 +1,26 @@
+{
+    "dish_name": "spicy orange hummus",
+    "ingredients": [
+        "fresh parsley leaves",
+        "onions",
+        "garlic clove",
+        "cup    orange juice",
+        "tahini",
+        "rice vinegar",
+        "low sodium soy sauce",
+        "Dijon mustard",
+        "salt",
+        "ground ginger",
+        "ground coriander",
+        "ground turmeric",
+        "ground cumin",
+        "paprika",
+        "chickpeas"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

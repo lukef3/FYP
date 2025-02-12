@@ -1,0 +1,25 @@
+{
+    "dish_name": "eggplant (aubergine) lasagna",
+    "ingredients": [
+        "lemon juice",
+        "olive oil",
+        "eggplants",
+        "tomato puree",
+        "tomatoes",
+        "oregano",
+        "basil",
+        "cayenne pepper",
+        "garlic cloves",
+        "cup    dry breadcrumbs",
+        "parmesan cheese",
+        "ricotta cheese",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

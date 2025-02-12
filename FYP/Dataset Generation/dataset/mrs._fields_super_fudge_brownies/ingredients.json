@@ -1,0 +1,19 @@
+{
+    "dish_name": "mrs. fields super fudge brownies",
+    "ingredients": [
+        "ounces    unsweetened baking chocolate",
+        "salted butter",
+        "eggs",
+        "granulated sugar",
+        "vanilla extract",
+        "all-purpose flour",
+        "cup    semi-sweet chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

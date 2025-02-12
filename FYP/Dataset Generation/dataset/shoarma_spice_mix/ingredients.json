@@ -1,0 +1,22 @@
+{
+    "dish_name": "shoarma spice mix",
+    "ingredients": [
+        "ground cumin",
+        "ground coriander",
+        "garlic powder",
+        "paprika",
+        "turmeric powder",
+        "ground cloves",
+        "ground cayenne pepper",
+        "ground ginger",
+        "ground black pepper",
+        "ground cinnamon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

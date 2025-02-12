@@ -1,0 +1,22 @@
+{
+    "dish_name": "moroccan carrot salad",
+    "ingredients": [
+        "carrot",
+        "onion",
+        "garlic clove",
+        "teaspoon    hot sauce",
+        "fresh cilantro",
+        "fresh parsley",
+        "fresh lemon juice",
+        "olive oil",
+        "pepper",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

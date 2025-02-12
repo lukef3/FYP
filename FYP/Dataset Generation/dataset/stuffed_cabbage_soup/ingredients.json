@@ -1,0 +1,21 @@
+{
+    "dish_name": "stuffed cabbage soup",
+    "ingredients": [
+        "tablespoon    vegetable oil",
+        "lb    stew meat",
+        "(16   ounce) package   coleslaw mix",
+        "onion",
+        "beef broth",
+        "tomato puree",
+        "water",
+        "light brown sugar",
+        "fresh lemon juice",
+        "salt",
+        "white rice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "carrot bread",
+    "ingredients": [
+        "eggs",
+        "sugar",
+        "cup    oil",
+        "flour",
+        "baking soda",
+        "cinnamon",
+        "nutmeg",
+        "salt",
+        "carrots",
+        "walnuts",
+        "raisins"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

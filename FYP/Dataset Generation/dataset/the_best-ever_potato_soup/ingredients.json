@@ -1,0 +1,20 @@
+{
+    "dish_name": "the best-ever potato soup",
+    "ingredients": [
+        "celery",
+        "carrot",
+        "onion",
+        "dried parsley",
+        "quart    chicken stock",
+        "salt",
+        "pepper",
+        "potatoes",
+        "bacon",
+        "milk",
+        "flour",
+        "Velveeta cheese"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

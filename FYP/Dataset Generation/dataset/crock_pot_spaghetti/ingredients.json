@@ -1,0 +1,21 @@
+{
+    "dish_name": "crock pot spaghetti",
+    "ingredients": [
+        "ground beef",
+        "tablespoons    instant minced onion",
+        "salt",
+        "garlic powder",
+        "tomato sauce",
+        "teaspoons    italian seasoning",
+        "mushrooms",
+        "tomato juice",
+        "spaghetti"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

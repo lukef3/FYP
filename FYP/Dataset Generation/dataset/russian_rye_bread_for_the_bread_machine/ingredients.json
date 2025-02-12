@@ -1,0 +1,21 @@
+{
+    "dish_name": "russian rye bread for the bread machine",
+    "ingredients": [
+        "warm water",
+        "warm water",
+        "honey",
+        "butter",
+        "salt",
+        "bread flour",
+        "cup    rye flour",
+        "caraway seeds",
+        "active dry yeast"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

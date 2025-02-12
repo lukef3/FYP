@@ -1,0 +1,13 @@
+{
+    "dish_name": "sweet banana snack",
+    "ingredients": [
+        "banana",
+        "sugar",
+        "milk",
+        "vanilla-flavored soymilk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

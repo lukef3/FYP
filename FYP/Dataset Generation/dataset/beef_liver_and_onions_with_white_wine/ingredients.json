@@ -1,0 +1,22 @@
+{
+    "dish_name": "beef liver and onions with white wine",
+    "ingredients": [
+        "flour",
+        "salt",
+        "pepper",
+        "beef liver",
+        "butter",
+        "oil, to taste",
+        "onions",
+        "fresh sage",
+        "cup    beef stock",
+        "dry white wine",
+        "Italian parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

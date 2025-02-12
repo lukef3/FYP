@@ -1,0 +1,26 @@
+{
+    "dish_name": "persimmon cookies",
+    "ingredients": [
+        "sugar",
+        "shortening",
+        "cup    persimmon pulp",
+        "egg",
+        "flour",
+        "baking soda",
+        "salt",
+        "cinnamon",
+        "nutmeg",
+        "clove",
+        "raisins",
+        "walnuts",
+        "pecans",
+        "powdered sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

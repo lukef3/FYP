@@ -1,0 +1,18 @@
+{
+    "dish_name": "candied sweet potatoes - southern traditional",
+    "ingredients": [
+        "butter",
+        "sweet potatoes",
+        "white sugar",
+        "ground cinnamon",
+        "ground nutmeg",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

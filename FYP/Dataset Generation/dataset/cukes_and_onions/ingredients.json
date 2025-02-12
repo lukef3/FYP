@@ -1,0 +1,14 @@
+{
+    "dish_name": "cukes and onions",
+    "ingredients": [
+        "cucumber",
+        "sweet onion",
+        "white vinegar",
+        "cold water",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

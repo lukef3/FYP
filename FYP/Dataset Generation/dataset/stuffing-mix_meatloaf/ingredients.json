@@ -1,0 +1,19 @@
+{
+    "dish_name": "stuffing-mix meatloaf",
+    "ingredients": [
+        "(6   ounce) box  uncle ben's stuff and such country style seasoned stuffing mix",
+        "Worcestershire sauce",
+        "egg",
+        "milk",
+        "ground beef",
+        "ketchup",
+        "brown sugar",
+        "mustard"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

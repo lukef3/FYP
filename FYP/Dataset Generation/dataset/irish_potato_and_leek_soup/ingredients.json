@@ -1,0 +1,26 @@
+{
+    "dish_name": "irish potato and leek soup",
+    "ingredients": [
+        "teaspoons    vegetable oil",
+        "leeks",
+        "celery",
+        "onion",
+        "garlic",
+        "potatoes",
+        "water",
+        "salt",
+        "ground black pepper",
+        "dried thyme",
+        "cups    light cream",
+        "fresh parsley",
+        "fresh dill",
+        "fresh tarragon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

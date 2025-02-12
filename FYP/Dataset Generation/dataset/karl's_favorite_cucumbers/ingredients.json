@@ -1,0 +1,15 @@
+{
+    "dish_name": "karl's favorite cucumbers",
+    "ingredients": [
+        "cucumbers",
+        "onion",
+        "cider vinegar",
+        "water",
+        "salt",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

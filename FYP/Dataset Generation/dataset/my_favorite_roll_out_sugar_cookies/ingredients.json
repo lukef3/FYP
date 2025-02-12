@@ -1,0 +1,18 @@
+{
+    "dish_name": "my favorite roll out sugar cookies",
+    "ingredients": [
+        "powdered sugar",
+        "margarine",
+        "egg",
+        "vanilla",
+        "teaspoon    almond extract",
+        "flour",
+        "baking soda",
+        "cream of tartar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

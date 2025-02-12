@@ -1,0 +1,21 @@
+{
+    "dish_name": "amish soft honey whole wheat bread",
+    "ingredients": [
+        "warm water",
+        "sugar",
+        "tablespoons    yeast",
+        "eggs",
+        "honey",
+        "cup    Crisco (I use butter flavored)",
+        "salt",
+        "whole wheat flour",
+        "wheat gluten"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

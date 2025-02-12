@@ -1,0 +1,18 @@
+{
+    "dish_name": "fruit lassi",
+    "ingredients": [
+        "yogurt",
+        "cup    ice water",
+        "milk",
+        "ground cardamom",
+        "rose water",
+        "mangoes",
+        "bananas",
+        "toasted sliced almonds, for serving"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

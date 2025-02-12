@@ -1,0 +1,18 @@
+{
+    "dish_name": "spring mix with walnuts, cranberries and goat cheese",
+    "ingredients": [
+        "ounces    spring greens, lettuces",
+        "walnuts",
+        "dried sweetened cranberries",
+        "ounces    goat cheese, crumbled",
+        "raspberry walnut vinaigrette, to taste",
+        "salt and pepper, to taste"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dish_name": "copycat lipton onion soup mix",
+    "ingredients": [
+        "teaspoons    instant minced onion",
+        "onion powder",
+        "teaspoons    beef bouillon",
+        "teaspoon    celery salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

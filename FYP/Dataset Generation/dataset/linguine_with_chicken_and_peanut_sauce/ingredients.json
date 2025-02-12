@@ -1,0 +1,27 @@
+{
+    "dish_name": "linguine with chicken and peanut sauce",
+    "ingredients": [
+        "dry linguine",
+        "spaghetti",
+        "chicken broth",
+        "dry white wine",
+        "water",
+        "soy sauce",
+        "cornstarch",
+        "teaspoon    ground red pepper (cayenne)",
+        "peanut butter",
+        "boneless skinless chicken breast halves",
+        "tablespoon    vegetable oil",
+        "onion",
+        "garlic",
+        "fresh ginger",
+        "green onions"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

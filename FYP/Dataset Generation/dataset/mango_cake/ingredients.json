@@ -1,0 +1,22 @@
+{
+    "dish_name": "mango cake",
+    "ingredients": [
+        "mangoes",
+        "sugar",
+        "eggs",
+        "all-purpose flour",
+        "baking soda",
+        "pecans",
+        "walnuts",
+        "vanilla extract",
+        "cream cheese",
+        "butter",
+        "margarine",
+        "powdered sugar",
+        "vanilla extract"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

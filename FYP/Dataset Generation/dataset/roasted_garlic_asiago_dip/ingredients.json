@@ -1,0 +1,19 @@
+{
+    "dish_name": "roasted garlic asiago dip",
+    "ingredients": [
+        "garlic",
+        "cream cheese",
+        "asiago cheese",
+        "heavy cream",
+        "sour cream",
+        "parsley",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

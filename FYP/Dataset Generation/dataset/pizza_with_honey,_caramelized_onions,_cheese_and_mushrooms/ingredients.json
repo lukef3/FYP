@@ -1,0 +1,20 @@
+{
+    "dish_name": "pizza with honey, caramelized onions, cheese and mushrooms",
+    "ingredients": [
+        "olive oil",
+        "onions",
+        "honey",
+        "teaspoons    balsamic vinegar",
+        "fresh mushrooms",
+        "inches    Boboli pizza crusts",
+        "feta cheese",
+        "dried thyme"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

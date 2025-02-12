@@ -1,0 +1,24 @@
+{
+    "dish_name": "chicken florentine casserole",
+    "ingredients": [
+        "boneless skinless chicken breast halves",
+        "butter",
+        "garlic",
+        "lemon juice",
+        "(10 3/4  ounce) can   condensed mushroom soup",
+        "tablespoon    italian seasoning",
+        "half-and-half",
+        "parmesan cheese",
+        "spinach",
+        "fresh mushrooms",
+        "bacon bits",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dish_name": "microwave poached eggs (bon appetit magazine)",
+    "ingredients": [
+        "water",
+        "salt",
+        "egg",
+        "sea salt",
+        "fresh ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "fast  microwaved  pan  fried  potatoes",
+    "ingredients": [
+        "potato",
+        "teaspoons    oil",
+        "butter",
+        "garlic powder",
+        "dried parsley",
+        "dried basil",
+        "dried oregano"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

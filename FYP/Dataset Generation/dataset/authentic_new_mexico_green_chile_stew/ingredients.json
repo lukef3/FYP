@@ -1,0 +1,29 @@
+{
+    "dish_name": "authentic new mexico green chile stew",
+    "ingredients": [
+        "green chilies",
+        "lbs    pork shoulder",
+        "tablespoons    vegetable oil",
+        "onion",
+        "minced garlic cloves",
+        "jalapeno, diced  (only necessary if using anaheim chiles)",
+        "chicken broth",
+        "beer",
+        "oregano",
+        "salt",
+        "pepper",
+        "bay leaves",
+        "cumin",
+        "diced tomatoes",
+        "potatoes",
+        "butter",
+        "flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

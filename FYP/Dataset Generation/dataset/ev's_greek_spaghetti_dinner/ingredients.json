@@ -1,0 +1,33 @@
+{
+    "dish_name": "ev's greek spaghetti dinner",
+    "ingredients": [
+        "olive oil",
+        "onion",
+        "garlic cloves",
+        "lean ground beef",
+        "plum tomatoes",
+        "water",
+        "tomato paste",
+        "red wine vinegar",
+        "Worcestershire sauce",
+        "tablespoon    maggi seasoning sauce (a liquid soy-yeast extract blend lacking this, use regular dark soy sauce)",
+        "salt",
+        "pepper",
+        "small    dried red chilies (my kids won't let me add this, but it's good) (optional)",
+        "dried oregano",
+        "dried thyme",
+        "dried basil",
+        "bay leaves",
+        "allspice berries",
+        "cinnamon sticks",
+        "lbs    cooked spaghetti (or pasta of your choice)",
+        "butter",
+        "cup   grated mizithra cheese (or Parmesan, but myzithra is authentic)",
+        "cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

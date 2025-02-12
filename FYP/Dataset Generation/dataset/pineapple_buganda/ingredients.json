@@ -1,0 +1,20 @@
+{
+    "dish_name": "pineapple buganda",
+    "ingredients": [
+        "fresh pineapple",
+        "brown sugar",
+        "coconut milk",
+        "white rum",
+        "vanilla extract",
+        "cup   crushed ice",
+        "mint sprig",
+        "maraschino cherry"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

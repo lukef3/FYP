@@ -1,0 +1,14 @@
+{
+    "dish_name": "party pepperoncini",
+    "ingredients": [
+        "thin slices genoa salami",
+        "provolone cheese",
+        "(16   ounce) jar   pepperoncini peppers",
+        "olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

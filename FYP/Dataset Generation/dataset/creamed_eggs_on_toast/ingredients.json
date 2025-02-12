@@ -1,0 +1,21 @@
+{
+    "dish_name": "creamed eggs on toast",
+    "ingredients": [
+        "butter",
+        "flour",
+        "milk",
+        "salt",
+        "white pepper",
+        "ground nutmeg",
+        "hard-boiled eggs",
+        "slices    bread, to toast",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

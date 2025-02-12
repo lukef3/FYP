@@ -1,0 +1,28 @@
+{
+    "dish_name": "cottage pie-simply the best",
+    "ingredients": [
+        "tablespoons    cooking oil",
+        "onions",
+        "garlic",
+        "carrot",
+        "mushrooms",
+        "lean ground beef",
+        "pint    beef stock",
+        "Worcestershire sauce",
+        "tomato puree",
+        "bay leaf",
+        "herbs",
+        "mashed potatoes",
+        "parsley",
+        "milk",
+        "pepper",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

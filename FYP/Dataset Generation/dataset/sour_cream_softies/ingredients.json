@@ -1,0 +1,22 @@
+{
+    "dish_name": "sour cream softies",
+    "ingredients": [
+        "all-purpose flour",
+        "salt",
+        "baking powder",
+        "baking soda",
+        "butter",
+        "margarine",
+        "sugar",
+        "sour cream",
+        "cinnamon sugar",
+        "eggs",
+        "vanilla extract"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

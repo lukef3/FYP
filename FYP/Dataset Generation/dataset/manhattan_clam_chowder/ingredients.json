@@ -1,0 +1,26 @@
+{
+    "dish_name": "manhattan clam chowder",
+    "ingredients": [
+        "thick slab bacon",
+        "olive oil",
+        "garlic cloves",
+        "onion",
+        "celery",
+        "green bell pepper",
+        "carrots",
+        "dried bay leaves",
+        "dried oregano",
+        "crushed red pepper flakes",
+        "yukon gold potatoes",
+        "clam broth",
+        "clams",
+        "tomatoes with juice",
+        "flat leaf parsley",
+        "coarse salt",
+        "fresh ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "peanut butter oatmeal bars",
+    "ingredients": [
+        "sugar",
+        "brown sugar",
+        "butter",
+        "peanut butter",
+        "vanilla",
+        "eggs",
+        "baking soda",
+        "salt",
+        "flour",
+        "oatmeal",
+        "chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

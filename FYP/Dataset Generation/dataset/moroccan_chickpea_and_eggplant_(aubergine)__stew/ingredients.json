@@ -1,0 +1,20 @@
+{
+    "dish_name": "moroccan chickpea and eggplant (aubergine)  stew",
+    "ingredients": [
+        "eggplants",
+        "onion",
+        "garlic cloves",
+        "chickpeas",
+        "diced tomatoes",
+        "cup    vegetable stock",
+        "chili powder",
+        "cinnamon",
+        "ground cumin",
+        "olive oil",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

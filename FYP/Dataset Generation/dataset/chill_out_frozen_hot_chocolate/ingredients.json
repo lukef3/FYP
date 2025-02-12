@@ -1,0 +1,17 @@
+{
+    "dish_name": "chill out frozen hot chocolate",
+    "ingredients": [
+        "milk",
+        "cup    hot cocoa mix (or 2 packets...we use Swiss Miss Milk Chocolate flavor)",
+        "cups   crushed ice cubes",
+        "whipped cream (optional)",
+        "additional hot cocoa mix (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

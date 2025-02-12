@@ -1,0 +1,14 @@
+{
+    "dish_name": "baking stone fries",
+    "ingredients": [
+        "russet potatoes",
+        "salt & pepper",
+        "Mrs Dash's extra spicy seasoning (or any other spice blend you like with potatoes)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

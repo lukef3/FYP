@@ -1,0 +1,22 @@
+{
+    "dish_name": "spicy shrimp and chicken pasta (like carino's)",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "butter",
+        "raw shrimp",
+        "button mushroom",
+        "sun-dried tomato",
+        "salt and pepper, to taste",
+        "heavy cream",
+        "romano cheese",
+        "cayenne pepper",
+        "dry penne pasta"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

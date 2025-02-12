@@ -1,0 +1,26 @@
+{
+    "dish_name": "charleston shrimp and grits",
+    "ingredients": [
+        "medium shrimp",
+        "lemon, juice of",
+        "Tabasco sauce",
+        "salt",
+        "stone ground corn grits",
+        "bacon",
+        "onion",
+        "green bell pepper",
+        "garlic clove",
+        "scallion",
+        "unbleached all-purpose flour",
+        "cup    chicken stock",
+        "unsalted butter",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

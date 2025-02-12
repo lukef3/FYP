@@ -1,0 +1,21 @@
+{
+    "dish_name": "otis spunkmeyer's chocolate chip cookies",
+    "ingredients": [
+        "butter",
+        "vegetable shortening",
+        "light brown sugar",
+        "granulated sugar",
+        "eggs",
+        "vanilla",
+        "flour",
+        "baking powder",
+        "salt",
+        "chocolate chips",
+        "walnuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "shredded beef for tacos or burritos",
+    "ingredients": [
+        "beef roast",
+        "onion",
+        "beef broth",
+        "tomato sauce",
+        "lime juice",
+        "garlic cloves",
+        "cumin",
+        "chili powder",
+        "salt",
+        "cilantro",
+        "jalapeno pepper, seeded and chopped  (leave some seeds if you want it spicier)"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

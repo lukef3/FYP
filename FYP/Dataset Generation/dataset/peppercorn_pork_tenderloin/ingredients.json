@@ -1,0 +1,19 @@
+{
+    "dish_name": "peppercorn pork tenderloin",
+    "ingredients": [
+        "fresh ground black pepper",
+        "pork tenderloin",
+        "butter",
+        "brandy",
+        "cup    whipping cream",
+        "Dijon mustard",
+        "salt",
+        "thyme",
+        "marjoram",
+        "rosemary"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

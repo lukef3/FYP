@@ -1,0 +1,18 @@
+{
+    "dish_name": "ww crispy barbecued sweet potatoes",
+    "ingredients": [
+        "ketchup",
+        "Worcestershire sauce",
+        "red wine vinegar",
+        "yellow mustard",
+        "fresh ground pepper",
+        "sweet potato"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

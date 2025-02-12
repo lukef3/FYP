@@ -1,0 +1,17 @@
+{
+    "dish_name": "herbed new potatoes (adapted from the barefoot contessa)",
+    "ingredients": [
+        "small potatoes",
+        "unsalted butter",
+        "kosher salt",
+        "fresh ground pepper",
+        "fresh herbs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

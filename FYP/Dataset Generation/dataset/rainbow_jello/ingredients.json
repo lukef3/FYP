@@ -1,0 +1,17 @@
+{
+    "dish_name": "rainbow jello",
+    "ingredients": [
+        "(3   ounce) packages   lemon Jell-O gelatin",
+        "lime Jell-O gelatin",
+        "strawberry Jell-O gelatin dessert",
+        "(3   ounce) packages   orange Jell-O",
+        "evaporated milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

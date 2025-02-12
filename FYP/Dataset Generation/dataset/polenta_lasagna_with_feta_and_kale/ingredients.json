@@ -1,0 +1,23 @@
+{
+    "dish_name": "polenta lasagna with feta and kale",
+    "ingredients": [
+        "(18   ounce) package   prepared polenta (in a tube)",
+        "cup    marinara sauce",
+        "pecorino romano cheese",
+        "extra virgin olive oil",
+        "yellow onion",
+        "garlic cloves",
+        "fresh rosemary",
+        "carrot",
+        "kale",
+        "kalamata olive",
+        "feta cheese",
+        "extra virgin olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

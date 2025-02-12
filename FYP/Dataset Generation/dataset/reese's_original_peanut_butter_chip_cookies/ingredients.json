@@ -1,0 +1,21 @@
+{
+    "dish_name": "reese's original peanut butter chip cookies",
+    "ingredients": [
+        "butter",
+        "shortening",
+        "sugar",
+        "light brown sugar",
+        "vanilla",
+        "eggs",
+        "unsifted flour",
+        "baking soda",
+        "reese's peanut butter chips (amount of your preference)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

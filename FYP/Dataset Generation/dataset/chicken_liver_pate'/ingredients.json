@@ -1,0 +1,19 @@
+{
+    "dish_name": "chicken liver pate'",
+    "ingredients": [
+        "chicken liver",
+        "butter",
+        "lemon juice",
+        "salt",
+        "pepper",
+        "onion",
+        "garlic",
+        "eggs",
+        "cognac",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

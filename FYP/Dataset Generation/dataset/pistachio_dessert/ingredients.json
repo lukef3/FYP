@@ -1,0 +1,17 @@
+{
+    "dish_name": "pistachio dessert",
+    "ingredients": [
+        "butter",
+        "pecans",
+        "flour",
+        "cream cheese",
+        "powdered sugar",
+        "Cool Whip",
+        "pistachio pudding mix",
+        "Cool Whip",
+        "pecans"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

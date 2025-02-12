@@ -1,0 +1,22 @@
+{
+    "dish_name": "banana carrot muffins",
+    "ingredients": [
+        "sugar",
+        "eggs",
+        "bananas",
+        "cup    orange juice",
+        "carrots",
+        "carrots",
+        "flour",
+        "baking soda",
+        "salt",
+        "cup    Crisco, butter flavored"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

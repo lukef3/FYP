@@ -1,0 +1,20 @@
+{
+    "dish_name": "fourth of july burgers",
+    "ingredients": [
+        "ground beef",
+        "cup    soft breadcrumbs",
+        "Burgundy wine",
+        "(4   ounce) can   sliced mushrooms, drained",
+        "teaspoons    onion salt",
+        "dry mustard",
+        "Worcestershire sauce",
+        "garlic powder",
+        "pepper",
+        "hamburger buns"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

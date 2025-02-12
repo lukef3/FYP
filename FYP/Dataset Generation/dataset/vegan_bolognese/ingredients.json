@@ -1,0 +1,30 @@
+{
+    "dish_name": "vegan bolognese",
+    "ingredients": [
+        "olive oil",
+        "onion",
+        "carrot",
+        "garlic cloves",
+        "basil",
+        "oregano",
+        "thyme",
+        "bay leaf",
+        "crushed red pepper flakes",
+        "cup    textured vegetable protein, not re-hydrated",
+        "soy sauce",
+        "cup    vegetable stock",
+        "tomato paste",
+        "nutritional yeast",
+        "crushed tomatoes",
+        "fresh parsley",
+        "basil",
+        "lb    whole wheat spaghetti"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "baked cinnamon sugar french toast",
+    "ingredients": [
+        "butter",
+        "margarine",
+        "loaf    French bread, sliced 1 \",thick",
+        "eggs",
+        "vanilla",
+        "sugar",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

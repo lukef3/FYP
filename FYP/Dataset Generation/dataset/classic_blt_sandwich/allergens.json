@@ -1,9 +1,8 @@
 {
-    "dish_name": "classic blt sandwich",
     "allergens": [
         1,
         0,
-        0,
+        1,
         0,
         0,
         0,

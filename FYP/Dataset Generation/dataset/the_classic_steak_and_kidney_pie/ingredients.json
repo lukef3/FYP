@@ -1,0 +1,27 @@
+{
+    "dish_name": "the classic steak and kidney pie",
+    "ingredients": [
+        "tablespoon   beef drippings or 1   tablespoon    cooking oil",
+        "lbs    chuck steaks, cut into 1 inch dice",
+        "lb    ox kidney (or lamb's, trimmed and diced)",
+        "puff pastry",
+        "onions",
+        "carrots",
+        "butter",
+        "mushrooms",
+        "flour",
+        "tomato puree",
+        "bay leaf",
+        "pint    veal stock (or water and stock cube or granules) or 1   pint    beef stock (or water and stock cube or granules)",
+        "Worcestershire sauce",
+        "salt and pepper",
+        "egg"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

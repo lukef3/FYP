@@ -1,0 +1,23 @@
+{
+    "dish_name": "pumpkin cheesecake bars",
+    "ingredients": [
+        "all-purpose flour",
+        "light brown sugar",
+        "butter",
+        "pecans",
+        "walnuts",
+        "cream cheese",
+        "white sugar",
+        "solid pack pumpkin",
+        "eggs",
+        "ground cinnamon",
+        "ground allspice",
+        "vanilla extract"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "easy honey & lime roast chicken",
+    "ingredients": [
+        "chicken",
+        "onion",
+        "garlic cloves",
+        "lime",
+        "lime, juice of",
+        "paprika",
+        "honey",
+        "olive oil",
+        "salt and pepper, to taste"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

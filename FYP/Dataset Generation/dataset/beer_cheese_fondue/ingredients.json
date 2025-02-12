@@ -1,0 +1,18 @@
+{
+    "dish_name": "beer cheese fondue",
+    "ingredients": [
+        "garlic",
+        "beer",
+        "swiss cheese",
+        "sharp cheddar cheese",
+        "dash    hot pepper sauce",
+        "flour",
+        "large    crusty bread (Italian or French Stick - cubed)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

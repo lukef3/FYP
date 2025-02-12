@@ -1,0 +1,32 @@
+{
+    "dish_name": "vegetarian irish stew",
+    "ingredients": [
+        "onions",
+        "unbleached flour",
+        "water",
+        "mushrooms",
+        "carrots",
+        "parsnip",
+        "turnips",
+        "celery",
+        "split red lentils",
+        "fresh parsley",
+        "soy sauce",
+        "vegetable bouillon cubes",
+        "bay leaf",
+        "teaspoons    marmite",
+        "sugar",
+        "thyme",
+        "rosemary",
+        "marjoram",
+        "pepper",
+        "cup    textured vegetable protein, chunks"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

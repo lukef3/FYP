@@ -1,9 +1,8 @@
 {
-    "dish_name": "dunkley's famous macaroni salad",
     "allergens": [
         1,
         0,
-        0,
+        1,
         0,
         0,
         0,

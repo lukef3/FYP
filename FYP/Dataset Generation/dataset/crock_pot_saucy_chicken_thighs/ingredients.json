@@ -1,0 +1,19 @@
+{
+    "dish_name": "crock pot saucy chicken thighs",
+    "ingredients": [
+        "chicken thighs",
+        "salt",
+        "pepper",
+        "barbecue sauce",
+        "honey",
+        "prepared mustard",
+        "Worcestershire sauce",
+        "teaspoon    hot pepper sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

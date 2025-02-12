@@ -1,0 +1,18 @@
+{
+    "dish_name": "chicken supreme",
+    "ingredients": [
+        "boneless skinless chicken breast halves",
+        "butter",
+        "fresh mushrooms",
+        "sour cream",
+        "(10   ounce) can   cream of chicken soup",
+        "teaspoon    garlic salt",
+        "paprika",
+        "swiss cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

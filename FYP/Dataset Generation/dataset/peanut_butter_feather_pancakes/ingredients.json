@@ -1,0 +1,19 @@
+{
+    "dish_name": "peanut butter feather pancakes",
+    "ingredients": [
+        "all-purpose flour",
+        "sugar",
+        "baking powder",
+        "salt",
+        "egg",
+        "crunchy peanut butter",
+        "milk",
+        "tablespoons    vegetable oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

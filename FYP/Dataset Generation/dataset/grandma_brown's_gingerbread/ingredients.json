@@ -1,0 +1,19 @@
+{
+    "dish_name": "grandma brown's gingerbread",
+    "ingredients": [
+        "sugar",
+        "shortening",
+        "molasses",
+        "boiling water",
+        "baking soda",
+        "baking powder",
+        "flour",
+        "eggs",
+        "ginger",
+        "cinnamon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

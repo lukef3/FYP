@@ -1,0 +1,25 @@
+{
+    "dish_name": "vegetable korma",
+    "ingredients": [
+        "onion",
+        "ginger",
+        "garlic cloves",
+        "green chilies",
+        "ground coriander",
+        "ground cumin",
+        "ground cinnamon",
+        "ground cloves",
+        "ground cardamom",
+        "ghee",
+        "assorted vegetables, such as bell pepper, asparagus, mushrooms, zucchini, potato",
+        "salt",
+        "plain yogurt",
+        "water",
+        "cashew nuts",
+        "pine nuts",
+        "fresh cilantro"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

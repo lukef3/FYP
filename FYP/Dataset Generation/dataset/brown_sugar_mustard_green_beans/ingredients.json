@@ -1,0 +1,20 @@
+{
+    "dish_name": "brown sugar mustard green beans",
+    "ingredients": [
+        "green beans",
+        "unsalted butter",
+        "margarine",
+        "Dijon mustard",
+        "Dijon mustard",
+        "salt",
+        "brown sugar",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

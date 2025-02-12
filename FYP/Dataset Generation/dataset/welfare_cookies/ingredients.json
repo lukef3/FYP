@@ -1,0 +1,15 @@
+{
+    "dish_name": "welfare cookies",
+    "ingredients": [
+        "saltine crackers",
+        "sugar",
+        "butter",
+        "chocolate chips",
+        "walnuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

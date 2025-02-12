@@ -1,0 +1,15 @@
+{
+    "dish_name": "amaretto sour",
+    "ingredients": [
+        "Amaretto",
+        "ounce    simple syrup (dissolve an equal amount of sugar in water)",
+        "fresh lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

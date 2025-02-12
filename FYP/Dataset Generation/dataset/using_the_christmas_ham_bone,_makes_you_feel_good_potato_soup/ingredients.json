@@ -1,0 +1,23 @@
+{
+    "dish_name": "using the christmas ham bone, makes you feel good potato soup",
+    "ingredients": [
+        "ham bone",
+        "onion",
+        "water",
+        "celery seeds",
+        "celery",
+        "white pepper",
+        "ground black pepper",
+        "medium    red potatoes, cut in 1 inch cubes",
+        "butter",
+        "flour",
+        "half-and-half"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

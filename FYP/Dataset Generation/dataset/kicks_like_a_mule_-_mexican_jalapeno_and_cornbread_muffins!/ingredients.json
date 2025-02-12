@@ -1,0 +1,23 @@
+{
+    "dish_name": "kicks like a mule - mexican jalapeno and cornbread muffins!",
+    "ingredients": [
+        "cornmeal",
+        "plain white flour",
+        "sugar",
+        "baking powder",
+        "salt",
+        "cayenne pepper",
+        "yoghurt",
+        "buttermilk",
+        "butter",
+        "egg",
+        "cup    jalapeno pepper, drained and chopped"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -2,22 +2,17 @@
     "dish_name": "mom's potato salad",
     "ingredients": [
         "potatoes",
-        "hard-boiled eggs",
-        "onion",
-        "green onions",
         "celery",
-        "Miracle Whip",
+        "onion",
+        "eggs",
+        "pickle",
         "mayonnaise",
-        "sour cream",
-        "salt and pepper",
-        "paprika",
-        "parsley"
+        "mustard",
+        "salt",
+        "vinegar",
+        "sugar"
     ],
     "images": [
-        "images/image_1.jpg",
-        "images/image_2.jpg",
-        "images/image_3.jpg",
-        "images/image_4.jpg",
-        "images/image_5.jpg"
+        "images/image_1.jpg"
     ]
 }

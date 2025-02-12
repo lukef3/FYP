@@ -1,0 +1,23 @@
+{
+    "dish_name": "joe's special (ground beef, spinach & eggs)",
+    "ingredients": [
+        "eggs",
+        "olive oil",
+        "butter",
+        "lean ground beef",
+        "onion",
+        "garlic cloves",
+        "frozen chopped spinach",
+        "(6   ounce) bags  fresh baby spinach leaves (chop or leave whole)",
+        "fresh basil",
+        "dried basil",
+        "dried oregano",
+        "nutmeg",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

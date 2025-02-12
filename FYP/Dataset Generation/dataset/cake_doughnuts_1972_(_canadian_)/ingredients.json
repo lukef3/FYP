@@ -1,0 +1,21 @@
+{
+    "dish_name": "cake doughnuts 1972 ( canadian )",
+    "ingredients": [
+        "white sugar",
+        "salt",
+        "egg",
+        "canola oil",
+        "buttermilk",
+        "vanilla",
+        "all-purpose flour",
+        "baking powder",
+        "baking soda"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "vegetable lo mein",
+    "ingredients": [
+        "oyster sauce",
+        "soy sauce",
+        "teaspoon    sesame oil",
+        "sugar",
+        "(8   ounce) packages   lo mein noodles",
+        "assorted vegetables (optional)",
+        "meat (optional)",
+        "garlic"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

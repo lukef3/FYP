@@ -1,0 +1,18 @@
+{
+    "dish_name": "quick and simple tuna and garbanzo salad",
+    "ingredients": [
+        "chickpeas",
+        "tuna",
+        "celery",
+        "onion",
+        "fresh parsley",
+        "cup    balsamic vinaigrette",
+        "salt",
+        "pepper",
+        "tomatoes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

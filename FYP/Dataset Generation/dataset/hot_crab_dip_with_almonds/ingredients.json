@@ -1,0 +1,17 @@
+{
+    "dish_name": "hot crab dip with almonds",
+    "ingredients": [
+        "lb    crabmeat",
+        "cream cheese",
+        "onion",
+        "horseradish",
+        "milk",
+        "Worcestershire sauce",
+        "salt and pepper",
+        "almonds, sliced"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

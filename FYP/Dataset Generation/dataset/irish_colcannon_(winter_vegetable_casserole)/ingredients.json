@@ -1,0 +1,22 @@
+{
+    "dish_name": "irish colcannon (winter vegetable casserole)",
+    "ingredients": [
+        "potato",
+        "parsnips",
+        "leeks",
+        "milk",
+        "kale",
+        "cabbage",
+        "mace",
+        "garlic cloves",
+        "salt",
+        "pepper",
+        "butter",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

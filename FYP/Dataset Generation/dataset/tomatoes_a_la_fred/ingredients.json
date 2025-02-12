@@ -1,0 +1,18 @@
+{
+    "dish_name": "tomatoes a la fred",
+    "ingredients": [
+        "cherry tomatoes",
+        "grape tomatoes",
+        "bottle   zesty Italian salad dressing",
+        "parmesan cheese",
+        "parsley",
+        "white sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "dish_name": "erwtensoep - dutch pea soup",
+    "ingredients": [
+        "cups    dried split green peas or 1 1/2  lbs    dried split green peas",
+        "water",
+        "lb    spareribs",
+        "bacon",
+        "leeks",
+        "celeriac",
+        "celery",
+        "sausage",
+        "salt and pepper",
+        "bouillon cube",
+        "celery leaves",
+        "fresh parsley leaves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

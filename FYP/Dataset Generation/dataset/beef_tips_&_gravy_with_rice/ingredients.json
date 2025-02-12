@@ -1,0 +1,17 @@
+{
+    "dish_name": "beef tips & gravy with rice",
+    "ingredients": [
+        "sirloin tip roast",
+        "packet    onion soup mix",
+        "(10   ounce) can  reduced-fat reduced-sodium cream of chicken soup",
+        "(15   ounce) can   reduced-sodium beef broth",
+        "long grain rice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

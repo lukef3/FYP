@@ -1,0 +1,21 @@
+{
+    "dish_name": "poifect cluck, cluck burgers (chicken burgers)",
+    "ingredients": [
+        "egg",
+        "parmesan cheese",
+        "cup    dry breadcrumbs",
+        "onion",
+        "water",
+        "Dijon mustard",
+        "salt",
+        "garlic cloves",
+        "ground chicken"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

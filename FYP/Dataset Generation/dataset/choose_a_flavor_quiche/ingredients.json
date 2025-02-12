@@ -1,0 +1,23 @@
+{
+    "dish_name": "choose a flavor quiche",
+    "ingredients": [
+        "pastry for single-crust pie",
+        "eggs",
+        "milk",
+        "green onion",
+        "salt",
+        "pepper",
+        "ground nutmeg",
+        "chicken",
+        "monterey jack cheese",
+        "havarti cheese",
+        "flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

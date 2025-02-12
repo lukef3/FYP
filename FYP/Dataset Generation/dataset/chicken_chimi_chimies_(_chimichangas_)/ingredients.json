@@ -1,0 +1,24 @@
+{
+    "dish_name": "chicken chimi chimies ( chimichangas )",
+    "ingredients": [
+        "chicken breasts",
+        "flour tortillas",
+        "onion",
+        "garlic clove",
+        "tablespoon    oil",
+        "green chilies",
+        "sour cream",
+        "tomato sauce",
+        "cumin",
+        "butter",
+        "margarine",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

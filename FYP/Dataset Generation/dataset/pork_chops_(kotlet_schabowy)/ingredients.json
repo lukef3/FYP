@@ -1,0 +1,21 @@
+{
+    "dish_name": "pork chops (kotlet schabowy)",
+    "ingredients": [
+        "medium    pork chops",
+        "salt",
+        "pepper",
+        "garlic powder",
+        "dried marjoram",
+        "plain flour",
+        "egg",
+        "tablespoon    oil",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

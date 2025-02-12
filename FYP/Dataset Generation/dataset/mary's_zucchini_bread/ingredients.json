@@ -1,0 +1,19 @@
+{
+    "dish_name": "mary's zucchini bread",
+    "ingredients": [
+        "eggs",
+        "cup    vegetable oil",
+        "zucchini",
+        "vanilla extract",
+        "sugar",
+        "flour",
+        "cinnamon",
+        "baking soda",
+        "salt",
+        "baking powder",
+        "cup   chopped nuts"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

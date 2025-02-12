@@ -1,0 +1,20 @@
+{
+    "dish_name": "best-in-the-west berry cobbler",
+    "ingredients": [
+        "berries",
+        "shortening",
+        "sugar",
+        "flour",
+        "baking powder",
+        "salt",
+        "milk",
+        "cornstarch",
+        "boiling water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

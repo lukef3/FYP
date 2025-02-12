@@ -1,0 +1,24 @@
+{
+    "dish_name": "drop dead delicious stuffed zucchini",
+    "ingredients": [
+        "zucchini",
+        "onion",
+        "(7   ounce) can   roasted red peppers, chopped",
+        "green pepper",
+        "garlic cloves",
+        "egg",
+        "thyme",
+        "oregano",
+        "salt and pepper",
+        "ground beef",
+        "olive oil",
+        "cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

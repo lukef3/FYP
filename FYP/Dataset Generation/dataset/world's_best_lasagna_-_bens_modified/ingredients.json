@@ -1,0 +1,35 @@
+{
+    "dish_name": "world's best lasagna - bens modified",
+    "ingredients": [
+        "lb   sweet Italian chicken sausage (casings removed)",
+        "lean ground beef",
+        "garlic cloves",
+        "crushed tomatoes",
+        "tomato paste",
+        "tomato sauce",
+        "dry white wine",
+        "white sugar",
+        "dried basil leaves",
+        "fennel seed",
+        "teaspoon    italian seasoning",
+        "bay leaves",
+        "crushed red pepper flakes",
+        "salt",
+        "ground black pepper",
+        "fresh parsley",
+        "no-boil lasagna noodles",
+        "ricotta cheese",
+        "egg",
+        "salt",
+        "nutmeg",
+        "mozzarella cheese",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

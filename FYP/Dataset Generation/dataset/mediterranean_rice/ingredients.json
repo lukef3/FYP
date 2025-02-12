@@ -1,0 +1,21 @@
+{
+    "dish_name": "mediterranean rice",
+    "ingredients": [
+        "olive oil",
+        "onion",
+        "garlic clove",
+        "rice",
+        "teaspoons    chicken stock powder",
+        "lemon rind",
+        "parsley",
+        "black pepper",
+        "boiling water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "dish_name": "wyatt cafeteria's baked eggplant (aubergine)",
+    "ingredients": [
+        "eggplant",
+        "lb    dried breadcrumbs (I use as did my mother-in-law a herbed stuffing mix)",
+        "evaporated milk",
+        "cup    whole milk",
+        "butter",
+        "onion",
+        "green pepper",
+        "celery",
+        "eggs",
+        "chopped pimiento",
+        "salt",
+        "pepper",
+        "dried sage",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

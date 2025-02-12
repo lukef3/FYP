@@ -1,0 +1,14 @@
+{
+    "dish_name": "cinnamon munch",
+    "ingredients": [
+        "sugar",
+        "cinnamon",
+        "butter",
+        "margarine",
+        "cups    Corn Chex or 4   cups    Rice Chex"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

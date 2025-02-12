@@ -1,0 +1,22 @@
+{
+    "dish_name": "funnel cake",
+    "ingredients": [
+        "flour",
+        "salt",
+        "baking soda",
+        "sugar",
+        "baking powder",
+        "egg",
+        "milk",
+        "vanilla",
+        "oil, for frying",
+        "powdered sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "gluten free dutch sugar cookies",
+    "ingredients": [
+        "cup    rice flour",
+        "tapioca flour",
+        "cornstarch",
+        "baking powder",
+        "xanthan gum",
+        "salt",
+        "sugar",
+        "cup    Butter Flavor Crisco",
+        "eggs",
+        "vanilla",
+        "potato starch"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

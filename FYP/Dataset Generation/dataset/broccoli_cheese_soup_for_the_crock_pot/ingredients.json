@@ -1,0 +1,20 @@
+{
+    "dish_name": "broccoli cheese soup for the crock pot",
+    "ingredients": [
+        "green pepper",
+        "onion",
+        "butter",
+        "margarine",
+        "(10   ounce) can   cream of chicken soup",
+        "milk",
+        "Velveeta cheese",
+        "(10   ounce) package   frozen chopped broccoli"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

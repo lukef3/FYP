@@ -1,0 +1,17 @@
+{
+    "dish_name": "roasted asparagus with mushrooms",
+    "ingredients": [
+        "asparagus",
+        "white button mushrooms",
+        "extra virgin olive oil",
+        "salt",
+        "sherry wine vinegar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "dish_name": "west indian pumpkin soup",
+    "ingredients": [
+        "pumpkin",
+        "sweet potato",
+        "butter",
+        "brown sugar",
+        "salt",
+        "black pepper",
+        "tablespoons    oil",
+        "Spanish onion",
+        "scotch bonnet peppers",
+        "habanero pepper",
+        "garlic",
+        "fresh ginger",
+        "fresh thyme",
+        "orange zest",
+        "curry powder",
+        "ground nutmeg",
+        "cinnamon stick",
+        "bay leaves",
+        "cups    chicken stock",
+        "heavy cream",
+        "unsweetened coconut milk",
+        "cup   toasted pumpkin seeds (aka pepitas; optional; for garnish)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

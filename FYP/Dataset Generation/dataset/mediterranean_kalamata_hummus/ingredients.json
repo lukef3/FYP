@@ -1,0 +1,23 @@
+{
+    "dish_name": "mediterranean kalamata hummus",
+    "ingredients": [
+        "garbanzo beans",
+        "tahini",
+        "garlic cloves",
+        "fresh lemon juice",
+        "cayenne",
+        "olive oil",
+        "kalamata olive",
+        "capers",
+        "red bell pepper",
+        "ground cumin",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "dish_name": "wienerschnitzel chili (as close as you will find)",
+    "ingredients": [
+        "ground beef",
+        "ground pork",
+        "water",
+        "cornstarch",
+        "Wondra Flour",
+        "tomato paste",
+        "white vinegar",
+        "chili powder",
+        "salt",
+        "tablespoon    dried onion flakes",
+        "granulated sugar",
+        "garlic powder",
+        "ground black pepper",
+        "ground cumin"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

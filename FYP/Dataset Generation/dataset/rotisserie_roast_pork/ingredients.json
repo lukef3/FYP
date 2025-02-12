@@ -1,0 +1,16 @@
+{
+    "dish_name": "rotisserie roast pork",
+    "ingredients": [
+        "boneless roast pork",
+        "fresh garlic cloves",
+        "seasoning salt",
+        "garlic powder",
+        "thyme",
+        "household string"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

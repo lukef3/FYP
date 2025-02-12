@@ -1,0 +1,20 @@
+{
+    "dish_name": "pork chops with an oregano wine sauce",
+    "ingredients": [
+        "thick pork chops",
+        "olive oil",
+        "green peppers",
+        "mushroom",
+        "garlic",
+        "diced tomato",
+        "tomato sauce",
+        "white wine",
+        "oregano",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

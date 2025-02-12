@@ -1,0 +1,13 @@
+{
+    "dish_name": "candied almonds",
+    "ingredients": [
+        "water",
+        "sugar",
+        "cinnamon",
+        "lb    almonds, with skins"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

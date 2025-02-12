@@ -1,0 +1,15 @@
+{
+    "dish_name": "homemade noodles",
+    "ingredients": [
+        "egg yolks",
+        "egg",
+        "water",
+        "salt",
+        "flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

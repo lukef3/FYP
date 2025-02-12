@@ -1,0 +1,15 @@
+{
+    "dish_name": "pea salad",
+    "ingredients": [
+        "frozen tiny peas",
+        "scallion",
+        "mayonnaise",
+        "sour cream",
+        "bacon",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

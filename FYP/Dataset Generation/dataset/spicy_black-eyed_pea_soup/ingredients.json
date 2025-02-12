@@ -1,0 +1,27 @@
+{
+    "dish_name": "spicy black-eyed pea soup",
+    "ingredients": [
+        "dried black-eyed peas",
+        "celery",
+        "onion",
+        "carrots",
+        "bell pepper",
+        "garlic",
+        "bay leaf",
+        "andouille sausages",
+        "kielbasa",
+        "salt",
+        "black pepper",
+        "cayenne pepper",
+        "tablespoon    cajun spices or 1   tablespoon    spice essence",
+        "chicken broth",
+        "cayenne pepper sauce",
+        "Tabasco sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

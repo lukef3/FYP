@@ -1,0 +1,21 @@
+{
+    "dish_name": "fresh pumpkin soup by kerry simon",
+    "ingredients": [
+        "butter",
+        "onion",
+        "carrots",
+        "apple",
+        "fresh pumpkin",
+        "sage leaf",
+        "cups    chicken stock",
+        "cup    cream",
+        "salt & freshly ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

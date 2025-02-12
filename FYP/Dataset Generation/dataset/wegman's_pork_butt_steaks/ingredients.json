@@ -1,0 +1,12 @@
+{
+    "dish_name": "wegman's pork butt steaks",
+    "ingredients": [
+        "pork butt steaks",
+        "garlic",
+        "tablespoons    McCormick's Montreal Brand steak seasoning"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

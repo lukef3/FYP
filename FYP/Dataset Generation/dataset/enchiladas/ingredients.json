@@ -1,0 +1,18 @@
+{
+    "dish_name": "enchiladas",
+    "ingredients": [
+        "lean ground beef",
+        "(1 1/2  ounce) package   taco seasoning mix or  (1 1/2  ounce) package   dry enchilada mix",
+        "tomato paste",
+        "hot water",
+        "cheese",
+        "10-inch flour tortillas",
+        "lettuce",
+        "sour cream",
+        "guacamole (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

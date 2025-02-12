@@ -1,0 +1,14 @@
+{
+    "dish_name": "pickled jalapeno peppers",
+    "ingredients": [
+        "quarts    jalapeno peppers",
+        "white wine vinegar",
+        "water",
+        "pickling salt",
+        "garlic"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "cornbread - dairy free",
+    "ingredients": [
+        "cornmeal",
+        "flour",
+        "sugar",
+        "baking powder",
+        "salt",
+        "water",
+        "water",
+        "cup    oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

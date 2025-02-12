@@ -1,0 +1,16 @@
+{
+    "dish_name": "parmesan garlic chicken breasts",
+    "ingredients": [
+        "parmesan cheese",
+        "ounces    Good Seasonings Italian salad dressing mix (one package)",
+        "boneless chicken breast halves",
+        "garlic powder"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

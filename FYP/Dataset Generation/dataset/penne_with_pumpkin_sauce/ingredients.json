@@ -1,0 +1,21 @@
+{
+    "dish_name": "penne with pumpkin sauce",
+    "ingredients": [
+        "onion",
+        "red bell pepper",
+        "garlic",
+        "unsalted butter",
+        "canned solid-pack pumpkin",
+        "chicken broth",
+        "water",
+        "heavy cream",
+        "nutmeg",
+        "penne pasta",
+        "fresh parsley leaves",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

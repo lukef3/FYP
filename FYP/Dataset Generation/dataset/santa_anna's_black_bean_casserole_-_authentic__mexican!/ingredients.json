@@ -1,0 +1,22 @@
+{
+    "dish_name": "santa anna's black bean casserole - authentic  mexican!",
+    "ingredients": [
+        "onions",
+        "green bell peppers",
+        "plum tomatoes",
+        "salsa",
+        "garlic",
+        "cumin",
+        "black beans",
+        "corn tortillas",
+        "cheddar cheese",
+        "avocados"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

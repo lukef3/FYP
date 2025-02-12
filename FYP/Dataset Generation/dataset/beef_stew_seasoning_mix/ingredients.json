@@ -1,0 +1,22 @@
+{
+    "dish_name": "beef stew seasoning mix",
+    "ingredients": [
+        "flour",
+        "oregano",
+        "basil",
+        "salt",
+        "black pepper",
+        "garlic powder",
+        "paprika",
+        "cayenne pepper",
+        "celery seeds",
+        "onion powder",
+        "rosemary"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

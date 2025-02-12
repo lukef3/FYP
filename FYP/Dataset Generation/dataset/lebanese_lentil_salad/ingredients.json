@@ -1,0 +1,20 @@
+{
+    "dish_name": "lebanese lentil salad",
+    "ingredients": [
+        "lentils",
+        "water",
+        "cup    red pepper, chopped",
+        "red onion",
+        "of fresh mint",
+        "olive oil",
+        "lemon juice",
+        "garlic",
+        "feta cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

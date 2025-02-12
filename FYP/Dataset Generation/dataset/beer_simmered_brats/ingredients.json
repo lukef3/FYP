@@ -1,0 +1,16 @@
+{
+    "dish_name": "beer simmered brats",
+    "ingredients": [
+        "beer",
+        "onion",
+        "bratwursts",
+        "teaspoon    cajun seasoning or 1/2  teaspoon    Emeril's Original Essence",
+        "hoagie rolls (I use the Italian style Hoagie rolls and you may substitute hotdog rolls)",
+        "prepared mustard"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

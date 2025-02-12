@@ -1,0 +1,24 @@
+{
+    "dish_name": "stuffed pasta shells",
+    "ingredients": [
+        "ground beef",
+        "ricotta cheese",
+        "fresh parmesan cheese",
+        "mozzarella cheese",
+        "onion",
+        "garlic",
+        "salt",
+        "fresh parsley",
+        "fresh basil",
+        "dried basil",
+        "eggs",
+        "jumbo pasta shells",
+        "jar   prego spaghetti sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

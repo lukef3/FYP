@@ -1,0 +1,22 @@
+{
+    "dish_name": "very best banana loaf",
+    "ingredients": [
+        "bananas",
+        "dark brown sugar",
+        "cup    oil (if your prefer, you may sub. melted, unsalted butter)",
+        "eggs",
+        "vanilla extract",
+        "cinnamon",
+        "baking soda",
+        "baking powder",
+        "salt",
+        "all-purpose flour",
+        "cup    Coca-Cola",
+        "pecans"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

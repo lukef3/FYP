@@ -1,0 +1,15 @@
+{
+    "dish_name": "hot creamy crab dip",
+    "ingredients": [
+        "cream cheese",
+        "mayonnaise",
+        "fresh crabmeat",
+        "onions",
+        "fresh lemon juice",
+        "Tabasco sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dish_name": "hamburger patties",
+    "ingredients": [
+        "ground beef",
+        "tablespoons    dried onion flakes",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

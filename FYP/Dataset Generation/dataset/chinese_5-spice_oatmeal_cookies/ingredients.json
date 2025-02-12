@@ -1,0 +1,24 @@
+{
+    "dish_name": "chinese 5-spice oatmeal cookies",
+    "ingredients": [
+        "cups    quick-cooking rolled oats (not instant)",
+        "all-purpose flour",
+        "cup   coarsely ground almonds",
+        "Chinese five spice powder",
+        "baking powder",
+        "ground cinnamon",
+        "salt",
+        "unsalted butter",
+        "granulated sugar",
+        "brown sugar",
+        "eggs",
+        "real vanilla extract"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

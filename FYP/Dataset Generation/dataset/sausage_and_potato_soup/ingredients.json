@@ -1,0 +1,23 @@
+{
+    "dish_name": "sausage and potato soup",
+    "ingredients": [
+        "kielbasa",
+        "Polish sausage",
+        "potatoes",
+        "frozen corn",
+        "chicken broth",
+        "celery rib",
+        "onion powder",
+        "garlic powder",
+        "pepper",
+        "salt",
+        "milk",
+        "cheddar cheese",
+        "parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

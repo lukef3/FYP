@@ -1,0 +1,21 @@
+{
+    "dish_name": "crock pot hula chicken",
+    "ingredients": [
+        "honey",
+        "soy sauce",
+        "brown sugar",
+        "garlic powder",
+        "dried ginger",
+        "chicken bouillon",
+        "boneless skinless chicken breasts",
+        "pineapple chunks",
+        "cups    baby carrots, cut in half"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

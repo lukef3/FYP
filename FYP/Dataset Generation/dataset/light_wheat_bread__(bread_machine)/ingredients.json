@@ -1,0 +1,18 @@
+{
+    "dish_name": "light wheat bread  (bread machine)",
+    "ingredients": [
+        "warm water",
+        "butter",
+        "white bread machine flour",
+        "whole wheat bread machine flour",
+        "salt",
+        "non-fat powdered milk",
+        "sugar",
+        "bread machine yeast"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

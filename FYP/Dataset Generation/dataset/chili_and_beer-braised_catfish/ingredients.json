@@ -1,0 +1,23 @@
+{
+    "dish_name": "chili and beer-braised catfish",
+    "ingredients": [
+        "chili powder",
+        "garlic",
+        "flour",
+        "salt",
+        "catfish fillet",
+        "olive oil",
+        "onion",
+        "beer",
+        "diced tomatoes",
+        "Worcestershire sauce",
+        "Tabasco sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

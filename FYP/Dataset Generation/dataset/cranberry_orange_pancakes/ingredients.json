@@ -1,0 +1,23 @@
+{
+    "dish_name": "cranberry orange pancakes",
+    "ingredients": [
+        "fresh cranberries",
+        "granulated sugar",
+        "orange zest",
+        "all-purpose flour",
+        "baking powder",
+        "baking soda",
+        "salt",
+        "egg",
+        "buttermilk",
+        "cup    orange juice",
+        "unsalted butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

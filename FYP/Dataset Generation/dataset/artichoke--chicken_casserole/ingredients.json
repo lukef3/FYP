@@ -1,0 +1,23 @@
+{
+    "dish_name": "artichoke--chicken casserole",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "mushroom",
+        "green onion",
+        "butter",
+        "teaspoon    garlic salt",
+        "artichoke hearts",
+        "white wine",
+        "salt",
+        "pepper",
+        "mayonnaise",
+        "sour cream",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

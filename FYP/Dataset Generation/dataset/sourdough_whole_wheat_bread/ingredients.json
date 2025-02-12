@@ -1,0 +1,19 @@
+{
+    "dish_name": "sourdough whole wheat bread",
+    "ingredients": [
+        "cups   proofed sourdough starter",
+        "salt",
+        "sugar",
+        "milk",
+        "butter",
+        "whole wheat flour",
+        "white bread flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

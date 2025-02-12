@@ -1,0 +1,16 @@
+{
+    "dish_name": "monterey jack refried beans",
+    "ingredients": [
+        "pinto beans",
+        "onion",
+        "margarine",
+        "pepper",
+        "monterey jack cheese",
+        "water",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

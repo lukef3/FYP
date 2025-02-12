@@ -1,0 +1,18 @@
+{
+    "dish_name": "poppy seed chicken",
+    "ingredients": [
+        "cups    cooked chicken, diced or shredded  (turkey can be substituted for chicken)",
+        "(4   ounce) packet   Ritz crackers",
+        "poppy seed",
+        "(10 1/2  ounce) can   cream of chicken soup",
+        "sour cream",
+        "butter",
+        "margarine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

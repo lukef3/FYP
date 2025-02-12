@@ -1,0 +1,21 @@
+{
+    "dish_name": "to die for spaghetti carbonara by tom cruise",
+    "ingredients": [
+        "extra virgin olive oil",
+        "garlic cloves",
+        "onion",
+        "pancetta",
+        "eggs",
+        "spaghetti",
+        "parmesan cheese",
+        "parmigiano-reggiano cheese",
+        "crushed red pepper flakes",
+        "salt & fresh ground pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

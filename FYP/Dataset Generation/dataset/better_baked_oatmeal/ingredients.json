@@ -1,0 +1,23 @@
+{
+    "dish_name": "better baked oatmeal",
+    "ingredients": [
+        "rolled oats",
+        "cup    oat bran",
+        "steel cut oats",
+        "baking powder",
+        "ground cinnamon",
+        "milk",
+        "egg",
+        "applesauce",
+        "butter",
+        "sugar",
+        "brown sugar",
+        "cups    fruit (such as blueberries, chopped apples or pears or strawberries or other fruit of your choosing)",
+        "half-and-half"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

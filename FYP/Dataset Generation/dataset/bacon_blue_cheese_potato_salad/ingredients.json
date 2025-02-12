@@ -1,0 +1,21 @@
+{
+    "dish_name": "bacon blue cheese potato salad",
+    "ingredients": [
+        "lbs    red potatoes, cut into eighths",
+        "bacon",
+        "mayonnaise",
+        "sour cream",
+        "vinegar",
+        "salt",
+        "pepper",
+        "green onions",
+        "blue cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

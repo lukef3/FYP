@@ -1,0 +1,21 @@
+{
+    "dish_name": "john's cucumber sweet onion salad with lime pepper dressing",
+    "ingredients": [
+        "cucumbers",
+        "large    vidalia onions",
+        "limes, juice of",
+        "sea salt",
+        "white sugar",
+        "teaspoon    hot pepper flakes (to taste)",
+        "olive oil",
+        "white wine vinegar",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

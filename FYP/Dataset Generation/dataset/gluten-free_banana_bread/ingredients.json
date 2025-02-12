@@ -1,0 +1,24 @@
+{
+    "dish_name": "gluten-free banana bread",
+    "ingredients": [
+        "bananas",
+        "egg",
+        "light brown sugar",
+        "cup    oil",
+        "milk",
+        "vanilla flavoring",
+        "potato starch",
+        "cornstarch",
+        "baking powder",
+        "guar gum",
+        "baking soda",
+        "ground coriander",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

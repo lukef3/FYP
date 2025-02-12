@@ -1,0 +1,20 @@
+{
+    "dish_name": "cream of asparagus soup (vegan)",
+    "ingredients": [
+        "asparagus",
+        "onion",
+        "garlic",
+        "vegetable broth",
+        "unbleached flour",
+        "soymilk",
+        "soy sauce",
+        "tamari",
+        "dried basil",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

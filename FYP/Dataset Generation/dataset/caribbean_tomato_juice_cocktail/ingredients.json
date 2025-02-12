@@ -1,0 +1,19 @@
+{
+    "dish_name": "caribbean tomato juice cocktail",
+    "ingredients": [
+        "cups    unsweetened tomato juice, chilled",
+        "teaspoon    celery salt",
+        "Worcestershire sauce",
+        "lemon juice",
+        "white pepper",
+        "sugar",
+        "celery ribs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

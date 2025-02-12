@@ -1,0 +1,22 @@
+{
+    "dish_name": "teriyaki chicken stir-fry",
+    "ingredients": [
+        "cup    teriyaki sauce",
+        "light soy sauce",
+        "rice vinegar",
+        "cornstarch",
+        "canola oil",
+        "boneless chicken breast",
+        "fresh mushrooms",
+        "sliced water chestnuts",
+        "carrot",
+        "scallions"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dish_name": "raspberry summer sensation dessert",
+    "ingredients": [
+        "cups    raspberry sorbet (I used President's Choice fat free raspberry gelato and it worked great) or 2   cups    sherbet (I used President's Choice fat free raspberry gelato and it worked great)",
+        "milk",
+        "instant vanilla pudding",
+        "Cool Whip",
+        "raspberries"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

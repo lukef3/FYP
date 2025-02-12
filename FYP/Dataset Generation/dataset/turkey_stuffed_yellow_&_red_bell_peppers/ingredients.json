@@ -1,0 +1,26 @@
+{
+    "dish_name": "turkey stuffed yellow & red bell peppers",
+    "ingredients": [
+        "yellow bell peppers",
+        "red bell peppers",
+        "teaspoon    vegetable oil",
+        "onion",
+        "garlic cloves",
+        "lean ground turkey",
+        "salt",
+        "pepper",
+        "dried basil",
+        "dried oregano",
+        "diced tomatoes",
+        "cooked brown rice",
+        "sharp cheddar cheese",
+        "cup    fine breadcrumbs",
+        "parmesan cheese",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

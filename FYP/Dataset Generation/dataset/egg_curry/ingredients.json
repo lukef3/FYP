@@ -1,0 +1,22 @@
+{
+    "dish_name": "egg curry",
+    "ingredients": [
+        "hard-boiled eggs",
+        "tablespoon    oil",
+        "onions",
+        "garlic",
+        "fresh ginger",
+        "coriander powder",
+        "turmeric",
+        "chili powder",
+        "cumin powder",
+        "salt",
+        "tomato paste",
+        "chopped tomatoes",
+        "water",
+        "garam masala"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

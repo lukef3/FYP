@@ -1,0 +1,15 @@
+{
+    "dish_name": "hungarian cucumber salad with sour cream dressing",
+    "ingredients": [
+        "cucumbers",
+        "garlic",
+        "sugar",
+        "salt",
+        "vinegar",
+        "sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "hungry jack beef casserole",
+    "ingredients": [
+        "ground beef",
+        "salt",
+        "(16   ounce) can   pork and beans",
+        "barbecue sauce",
+        "brown sugar",
+        "tablespoon    instant minced onion",
+        "can   hungry jack biscuit",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

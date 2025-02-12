@@ -1,0 +1,23 @@
+{
+    "dish_name": "wok or skillet asian-style fresh green beans",
+    "ingredients": [
+        "fresh green beans",
+        "fresh garlic",
+        "crushed red pepper flakes",
+        "tablespoons    sesame oil",
+        "soy sauce",
+        "rice vinegar",
+        "brown sugar",
+        "black pepper",
+        "salt",
+        "cornstarch",
+        "sesame seeds"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

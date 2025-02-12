@@ -1,0 +1,18 @@
+{
+    "dish_name": "cake mix chocolate mayonnaise cake",
+    "ingredients": [
+        "box   duncan hines devil's food cake mix (or any brand)",
+        "eggs",
+        "water",
+        "mayonnaise",
+        "chocolate chips",
+        "powdered sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

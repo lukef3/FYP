@@ -1,0 +1,23 @@
+{
+    "dish_name": "oven baked tacos",
+    "ingredients": [
+        "ground beef",
+        "tablespoons    taco seasoning",
+        "tomato sauce",
+        "ounces    refried beans",
+        "shredded cheddar cheese",
+        "flour tortillas",
+        "diced tomato",
+        "diced onion",
+        "sour cream",
+        "salsa",
+        "lettuce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "quick and easy beef stew",
+    "ingredients": [
+        "sirloin tip roast",
+        "potatoes",
+        "carrots",
+        "onion",
+        "salt",
+        "pepper",
+        "Worcestershire sauce",
+        "flour",
+        "olive oil",
+        "salt and pepper",
+        "broth"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

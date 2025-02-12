@@ -1,0 +1,17 @@
+{
+    "dish_name": "green beans with lemon and pine nuts",
+    "ingredients": [
+        "green beans",
+        "pine nuts",
+        "fresh flat-leaf parsley",
+        "fresh lemon zest",
+        "extra virgin olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "dish_name": "shredded beef or pork chimichangas",
+    "ingredients": [
+        "beef",
+        "pork",
+        "chili powder",
+        "ground cumin",
+        "oregano leaves",
+        "salt",
+        "teaspoon    ground red pepper",
+        "white pepper",
+        "black pepper",
+        "garlic cloves",
+        "onion",
+        "water",
+        "flour tortillas",
+        "monterey jack cheese",
+        "cheddar cheese",
+        "canola oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

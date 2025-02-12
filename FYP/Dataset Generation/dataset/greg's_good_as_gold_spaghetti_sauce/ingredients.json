@@ -1,0 +1,29 @@
+{
+    "dish_name": "greg's good as gold spaghetti sauce",
+    "ingredients": [
+        "tablespoons    virgin olive oil",
+        "onions",
+        "garlic cloves",
+        "ounces    sliced mushrooms",
+        "ground beef",
+        "Italian sausage",
+        "Italian tomatoes",
+        "tomato puree",
+        "tomato paste",
+        "black olives",
+        "dry red wine",
+        "basil",
+        "oregano",
+        "parsley",
+        "red pepper flakes",
+        "thyme",
+        "paprika",
+        "sugar",
+        "salt",
+        "bay leaf"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

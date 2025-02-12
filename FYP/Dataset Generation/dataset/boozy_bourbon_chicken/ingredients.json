@@ -1,0 +1,16 @@
+{
+    "dish_name": "boozy bourbon chicken",
+    "ingredients": [
+        "chicken breasts",
+        "ground ginger",
+        "soy sauce",
+        "tablespoons   minced dried onion",
+        "brown sugar",
+        "Bourbon",
+        "garlic powder"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

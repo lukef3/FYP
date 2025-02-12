@@ -1,0 +1,21 @@
+{
+    "dish_name": "campbell's chicken & broccoli alfredo",
+    "ingredients": [
+        "linguine",
+        "broccoli florets",
+        "broccoli floret",
+        "butter",
+        "boneless chicken breast",
+        "(10 3/4  ounce) can   Campbell's Cream of Mushroom Soup or  (10 3/4  ounce) can   98% fat-free cream of mushroom soup",
+        "milk",
+        "parmesan cheese",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

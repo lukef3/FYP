@@ -1,0 +1,18 @@
+{
+    "dish_name": "chicken thighs with tomatoes, olives and capers",
+    "ingredients": [
+        "boneless skinless chicken thighs",
+        "olive oil",
+        "oregano",
+        "garlic",
+        "pepper",
+        "fresh parsley",
+        "kalamata olive",
+        "capers",
+        "diced tomatoes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dish_name": "sugar cookie frosting",
+    "ingredients": [
+        "butter",
+        "confectioners' sugar",
+        "vanilla extract",
+        "cup    whipping cream (may need an additional 1/4 cup)",
+        "green food coloring (optional)",
+        "red food coloring (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

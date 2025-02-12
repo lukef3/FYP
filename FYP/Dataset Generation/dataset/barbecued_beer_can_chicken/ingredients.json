@@ -1,0 +1,23 @@
+{
+    "dish_name": "barbecued beer can chicken",
+    "ingredients": [
+        "light brown sugar",
+        "paprika",
+        "salt",
+        "black pepper",
+        "cayenne pepper",
+        "light brown sugar",
+        "ketchup",
+        "white vinegar",
+        "beer",
+        "teaspoon    hot sauce",
+        "beer",
+        "bay leaves",
+        "roasting chickens"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

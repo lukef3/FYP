@@ -1,0 +1,22 @@
+{
+    "dish_name": "spinach ricotta frittata",
+    "ingredients": [
+        "cup    baby spinach leaves, lightly packed",
+        "green onions",
+        "button mushrooms",
+        "fire roasted red pepper, diced",
+        "fresh basil",
+        "butter",
+        "eggs",
+        "ricotta cheese",
+        "parmesan cheese",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

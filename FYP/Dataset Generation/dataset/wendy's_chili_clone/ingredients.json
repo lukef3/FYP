@@ -1,0 +1,18 @@
+{
+    "dish_name": "wendy's chili clone",
+    "ingredients": [
+        "ground beef",
+        "(10   ounce) can   French onion soup (not creamy)",
+        "chili powder",
+        "ground cumin",
+        "black pepper",
+        "salt",
+        "Tabasco sauce",
+        "red kidney beans",
+        "tomato paste",
+        "tomato sauce"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

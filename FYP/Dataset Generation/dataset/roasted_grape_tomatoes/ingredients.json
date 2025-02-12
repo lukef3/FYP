@@ -1,0 +1,16 @@
+{
+    "dish_name": "roasted grape tomatoes",
+    "ingredients": [
+        "grape tomatoes",
+        "extra virgin olive oil",
+        "kosher salt",
+        "sea salt",
+        "black pepper",
+        "fresh basil",
+        "dried basil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

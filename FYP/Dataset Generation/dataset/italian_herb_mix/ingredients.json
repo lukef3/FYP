@@ -1,0 +1,17 @@
+{
+    "dish_name": "italian herb mix",
+    "ingredients": [
+        "dried oregano",
+        "dried basil",
+        "dried rosemary",
+        "dried thyme",
+        "dried sage"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

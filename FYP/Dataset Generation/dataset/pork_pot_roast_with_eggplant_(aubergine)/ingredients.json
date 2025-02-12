@@ -1,0 +1,26 @@
+{
+    "dish_name": "pork pot roast with eggplant (aubergine)",
+    "ingredients": [
+        "lbs    lean pork roast or 3   lbs    veal roast, seasoned with",
+        "salt and pepper",
+        "crushed tomatoes",
+        "tomato paste",
+        "chicken broth",
+        "dry white wine",
+        "garlic cloves",
+        "red pepper, diced",
+        "onion",
+        "eggplant",
+        "capers",
+        "pitted black olives",
+        "oregano",
+        "salt and pepper",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

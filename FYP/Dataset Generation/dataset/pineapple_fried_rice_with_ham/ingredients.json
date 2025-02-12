@@ -1,0 +1,25 @@
+{
+    "dish_name": "pineapple fried rice with ham",
+    "ingredients": [
+        "white rice",
+        "water",
+        "tablespoons    sesame oil",
+        "green onions",
+        "ham",
+        "peas",
+        "pineapple chunks",
+        "egg",
+        "white sugar",
+        "salt",
+        "white pepper",
+        "garlic powder",
+        "soy sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

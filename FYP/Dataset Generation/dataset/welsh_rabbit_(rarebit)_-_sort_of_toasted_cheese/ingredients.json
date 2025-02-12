@@ -1,0 +1,24 @@
+{
+    "dish_name": "welsh rabbit (rarebit) - sort of toasted cheese",
+    "ingredients": [
+        "g    Mature cheddar cheese, coarsely grated",
+        "butter",
+        "margarine",
+        "milk",
+        "beer",
+        "Worcestershire sauce",
+        "mustard powder",
+        "salt",
+        "cayenne powder",
+        "egg",
+        "slices    bread, toasted",
+        "paprika"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

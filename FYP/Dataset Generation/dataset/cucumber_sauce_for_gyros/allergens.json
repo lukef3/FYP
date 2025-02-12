@@ -1,9 +1,8 @@
 {
-    "dish_name": "cucumber sauce for gyros",
     "allergens": [
         0,
         0,
-        0,
+        1,
         0,
         0,
         0,

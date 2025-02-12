@@ -1,0 +1,23 @@
+{
+    "dish_name": "zucchini and tomatoes with parmesan dumplings",
+    "ingredients": [
+        "onion",
+        "garlic",
+        "olive oil",
+        "tomatoes",
+        "dried basil",
+        "sugar",
+        "salt",
+        "fresh ground black pepper",
+        "zucchini",
+        "egg",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

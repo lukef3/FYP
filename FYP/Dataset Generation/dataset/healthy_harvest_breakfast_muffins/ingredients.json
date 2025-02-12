@@ -1,0 +1,32 @@
+{
+    "dish_name": "healthy harvest breakfast muffins",
+    "ingredients": [
+        "whole wheat flour",
+        "oatmeal",
+        "brown sugar",
+        "baking powder",
+        "sea salt",
+        "cinnamon",
+        "nutmeg",
+        "ginger",
+        "bananas",
+        "applesauce",
+        "carrot",
+        "egg",
+        "butter",
+        "cup    slivered almonds",
+        "walnut pieces",
+        "butter",
+        "brown sugar",
+        "cinnamon",
+        "nutmeg",
+        "raisins"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

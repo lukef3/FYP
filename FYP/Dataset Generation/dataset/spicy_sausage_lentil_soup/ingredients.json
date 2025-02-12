@@ -1,0 +1,27 @@
+{
+    "dish_name": "spicy sausage lentil soup",
+    "ingredients": [
+        "olive oil",
+        "onion",
+        "carrot",
+        "garlic clove",
+        "Italian sausage",
+        "water",
+        "chicken broth",
+        "lentils",
+        "tomatoes",
+        "cider vinegar",
+        "fresh basil",
+        "fresh parsley",
+        "bay leaves",
+        "salt",
+        "ground black pepper",
+        "dried thyme",
+        "dried oregano",
+        "dried red pepper flakes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

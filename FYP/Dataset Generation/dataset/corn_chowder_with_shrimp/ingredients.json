@@ -1,0 +1,25 @@
+{
+    "dish_name": "corn chowder with shrimp",
+    "ingredients": [
+        "(10   ounce) box   frozen corn in butter sauce",
+        "olive oil",
+        "onion",
+        "bell pepper",
+        "celery",
+        "garlic cloves",
+        "reduced-sodium chicken broth",
+        "potato",
+        "dried thyme leaves",
+        "teaspoon    ground red pepper (cayenne)",
+        "all-purpose flour",
+        "nonfat milk",
+        "shrimp"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

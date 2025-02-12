@@ -1,0 +1,25 @@
+{
+    "dish_name": "tim hortons chili",
+    "ingredients": [
+        "ground beef",
+        "olive oil",
+        "onions",
+        "celery ribs",
+        "green pepper",
+        "dark red kidney beans",
+        "mushroom pieces",
+        "(10   ounce) cans   tomato soup, undiluted",
+        "diced tomatoes with juice",
+        "chili powder",
+        "oregano",
+        "salt",
+        "pepper",
+        "sugar",
+        "garlic cloves",
+        "garlic powder"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

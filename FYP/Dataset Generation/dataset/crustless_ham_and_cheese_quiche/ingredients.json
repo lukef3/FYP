@@ -1,0 +1,20 @@
+{
+    "dish_name": "crustless ham and cheese quiche",
+    "ingredients": [
+        "cooked ham",
+        "frozen broccoli cuts",
+        "monterey jack pepper cheese",
+        "cheddar cheese",
+        "eggs",
+        "milk",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

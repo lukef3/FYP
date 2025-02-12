@@ -1,0 +1,18 @@
+{
+    "dish_name": "spicy roast pumpkin",
+    "ingredients": [
+        "fresh pumpkin",
+        "olive oil",
+        "salt",
+        "fresh ground black pepper",
+        "ground cumin",
+        "cumin seed"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

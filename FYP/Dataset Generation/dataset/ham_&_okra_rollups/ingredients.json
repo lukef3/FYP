@@ -1,0 +1,15 @@
+{
+    "dish_name": "ham & okra rollups",
+    "ingredients": [
+        "ham",
+        "cream cheese",
+        "okra"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

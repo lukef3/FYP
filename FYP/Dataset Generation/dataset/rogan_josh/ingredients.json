@@ -1,0 +1,33 @@
+{
+    "dish_name": "rogan josh",
+    "ingredients": [
+        "fresh ginger",
+        "garlic cloves",
+        "water",
+        "water",
+        "tablespoons    vegetable oil",
+        "stewing beef",
+        "chicken",
+        "whole cardamom pods",
+        "bay leaves",
+        "whole cloves",
+        "peppercorns",
+        "cinnamon sticks",
+        "onions",
+        "ground coriander",
+        "cumin seeds",
+        "paprika",
+        "cayenne pepper",
+        "salt",
+        "plain yogurt",
+        "garam masala",
+        "fresh ground pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

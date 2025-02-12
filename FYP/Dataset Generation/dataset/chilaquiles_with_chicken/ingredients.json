@@ -1,0 +1,19 @@
+{
+    "dish_name": "chilaquiles with chicken",
+    "ingredients": [
+        "corn tortilla strips",
+        "vegetable oil (for frying)",
+        "cups   shredded cooked chicken",
+        "cups    green tomatillo sauce",
+        "chihuahua cheese",
+        "monterey jack cheese",
+        "sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

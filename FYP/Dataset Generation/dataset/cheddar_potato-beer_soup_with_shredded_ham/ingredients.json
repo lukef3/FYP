@@ -1,0 +1,19 @@
+{
+    "dish_name": "cheddar potato-beer soup with shredded ham",
+    "ingredients": [
+        "butter",
+        "baby carrots",
+        "red potatoes, peeled,cut into large pieces",
+        "onion",
+        "salt",
+        "fresh ground pepper",
+        "beer",
+        "chicken broth",
+        "vegetable broth",
+        "cheddar cheese",
+        "cooked ham"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

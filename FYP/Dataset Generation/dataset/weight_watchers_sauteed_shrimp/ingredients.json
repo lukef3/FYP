@@ -1,0 +1,19 @@
+{
+    "dish_name": "weight watchers sauteed shrimp",
+    "ingredients": [
+        "olive oil",
+        "shrimp",
+        "fresh lemon juice",
+        "teaspoon   spice islands salt-free lemon & herb seasoning (or other brand)",
+        "table salt",
+        "black pepper",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

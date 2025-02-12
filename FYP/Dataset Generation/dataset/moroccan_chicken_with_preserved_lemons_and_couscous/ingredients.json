@@ -1,0 +1,29 @@
+{
+    "dish_name": "moroccan chicken with preserved lemons and couscous",
+    "ingredients": [
+        "fresh lemon juice",
+        "honey",
+        "garlic cloves",
+        "ground turmeric",
+        "ground cumin",
+        "ground cinnamon",
+        "cayenne pepper",
+        "skinless chicken breasts",
+        "preserved lemons",
+        "cups    chicken stock",
+        "cup    slivered almonds",
+        "olive oil",
+        "yellow onion",
+        "red chile",
+        "couscous",
+        "currants",
+        "fresh coriander leaves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

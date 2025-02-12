@@ -1,0 +1,23 @@
+{
+    "dish_name": "chicken pepper skillet",
+    "ingredients": [
+        "tablespoon    vegetable oil",
+        "boneless skinless chicken breasts",
+        "garlic cloves",
+        "bell peppers",
+        "mushrooms",
+        "onion",
+        "ground cumin",
+        "dried oregano leaves",
+        "fresh lemon juice",
+        "fresh parsley",
+        "salt",
+        "fresh ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

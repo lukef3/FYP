@@ -1,0 +1,21 @@
+{
+    "dish_name": "aiken pool hall hot dogs",
+    "ingredients": [
+        "ground beef",
+        "hot water",
+        "onions",
+        "mustard",
+        "sugar",
+        "apple cider vinegar",
+        "chili powder",
+        "ketchup",
+        "salt",
+        "hot dog buns",
+        "hot dogs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

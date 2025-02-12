@@ -1,0 +1,25 @@
+{
+    "dish_name": "glazed mongolian beef",
+    "ingredients": [
+        "soy sauce",
+        "sugar",
+        "cornstarch",
+        "dry sherry",
+        "hoisin sauce",
+        "rice vinegar",
+        "teaspoon    chili paste with garlic",
+        "salt",
+        "teaspoons    peanut oil",
+        "ginger",
+        "garlic",
+        "lb    sirloin steak, thinly sliced across the grain",
+        "green onions"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

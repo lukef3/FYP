@@ -1,0 +1,21 @@
+{
+    "dish_name": "yummy  sauce",
+    "ingredients": [
+        "canola oil",
+        "cup    almonds (for a creamier sauce, use almond flour)",
+        "nutritional yeast",
+        "chickpeas",
+        "garbanzo beans",
+        "soybeans",
+        "water",
+        "lemon juice",
+        "garlic clove",
+        "salt",
+        "curry powder",
+        "dried oregano",
+        "dried cilantro"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

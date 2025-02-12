@@ -1,0 +1,19 @@
+{
+    "dish_name": "microwave rice pilaff",
+    "ingredients": [
+        "butter",
+        "long-grain rice",
+        "onion",
+        "garlic cloves",
+        "celery",
+        "chicken broth",
+        "dried thyme",
+        "parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

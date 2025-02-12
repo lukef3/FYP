@@ -1,0 +1,29 @@
+{
+    "dish_name": "cheat's french cassoulet - crock pot or le creuset",
+    "ingredients": [
+        "lardons",
+        "bacon",
+        "olive oil",
+        "sausages",
+        "lean pork chops, cut into large pieces",
+        "g   tinned beans",
+        "haricot beans",
+        "butter beans",
+        "onion",
+        "carrots",
+        "chopped tomatoes",
+        "ml    chicken stock",
+        "red wine",
+        "sugar",
+        "garlic cloves",
+        "g    breadcrumbs",
+        "bouquet garni"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "fall off the bone chinese spareribs",
+    "ingredients": [
+        "spareribs (1 rack)",
+        "garlic cloves",
+        "ketchup",
+        "chili sauce",
+        "soy sauce",
+        "hoisin sauce",
+        "dry sherry",
+        "honey",
+        "fresh ginger"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

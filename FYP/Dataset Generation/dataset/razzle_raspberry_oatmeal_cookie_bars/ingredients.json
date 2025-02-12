@@ -1,0 +1,17 @@
+{
+    "dish_name": "razzle raspberry oatmeal cookie bars",
+    "ingredients": [
+        "brown sugar",
+        "self-rising flour",
+        "rolled oats",
+        "butter",
+        "cup    seedless raspberry preserves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

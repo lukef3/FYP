@@ -1,0 +1,22 @@
+{
+    "dish_name": "mushroom barley soup",
+    "ingredients": [
+        "mushroom",
+        "butter",
+        "onion",
+        "leek",
+        "chicken broth",
+        "white potato",
+        "celery",
+        "garlic",
+        "carrot",
+        "pearl barley",
+        "bay leaves",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

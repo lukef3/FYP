@@ -1,0 +1,17 @@
+{
+    "dish_name": "jersey disco fries",
+    "ingredients": [
+        "steak-style French fries",
+        "(15   ounce) jar   Cheez Whiz (or your favorite packaged cheese sauce)",
+        "(10   ounce) jar  prepared gravy (chicken or beef gravy)",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

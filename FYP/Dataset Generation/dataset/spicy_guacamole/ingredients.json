@@ -1,0 +1,15 @@
+{
+    "dish_name": "spicy guacamole",
+    "ingredients": [
+        "avocado",
+        "fresh lime juice",
+        "fresh cilantro",
+        "onion",
+        "garlic cloves",
+        "serrano chilies",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

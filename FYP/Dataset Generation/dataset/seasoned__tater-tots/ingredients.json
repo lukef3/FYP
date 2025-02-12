@@ -1,0 +1,19 @@
+{
+    "dish_name": "seasoned  tater-tots",
+    "ingredients": [
+        "(32   ounce) bag   frozen tater tots",
+        "olive oil",
+        "garlic powder",
+        "chili powder",
+        "teaspoons    italian seasoning",
+        "salt and pepper",
+        "nonstick cooking spray"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

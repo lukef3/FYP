@@ -1,0 +1,20 @@
+{
+    "dish_name": "spicy & sweet pork chop steaks for two",
+    "ingredients": [
+        "boneless center cut pork chops",
+        "water",
+        "yellow onion",
+        "garlic",
+        "tablespoons    apricot jam",
+        "hot salsa",
+        "season salt",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

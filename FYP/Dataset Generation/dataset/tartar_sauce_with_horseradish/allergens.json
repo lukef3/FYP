@@ -1,9 +1,8 @@
 {
-    "dish_name": "tartar sauce with horseradish",
     "allergens": [
         0,
         0,
-        0,
+        1,
         0,
         0,
         0,

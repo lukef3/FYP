@@ -1,0 +1,20 @@
+{
+    "dish_name": "20 minute honey granola - easy",
+    "ingredients": [
+        "rolled oats",
+        "salt",
+        "cup    almonds (or other nuts, chopped)",
+        "ground cinnamon",
+        "ground flax seeds",
+        "cup    oil (coconut oil works really well)",
+        "honey",
+        "vanilla extract"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

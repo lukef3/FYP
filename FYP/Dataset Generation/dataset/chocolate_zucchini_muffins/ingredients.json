@@ -1,0 +1,24 @@
+{
+    "dish_name": "chocolate zucchini muffins",
+    "ingredients": [
+        "eggs",
+        "white sugar",
+        "cup    vegetable oil",
+        "cup    unsweetened cocoa powder",
+        "vanilla extract",
+        "zucchini",
+        "all-purpose flour",
+        "baking soda",
+        "baking powder",
+        "salt",
+        "ground cinnamon",
+        "ground nutmeg",
+        "ground cloves",
+        "ground cardamom"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

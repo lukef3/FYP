@@ -1,0 +1,26 @@
+{
+    "dish_name": "red lobster crab stuffed mushrooms",
+    "ingredients": [
+        "fresh mushrooms",
+        "celery",
+        "onions",
+        "red bell peppers",
+        "lb    crabmeat",
+        "cups    oyster crackers, crushed",
+        "cheddar cheese",
+        "garlic powder",
+        "teaspoon    Old Bay Seasoning",
+        "black pepper",
+        "salt",
+        "egg",
+        "water",
+        "white cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

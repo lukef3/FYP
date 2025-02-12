@@ -1,0 +1,26 @@
+{
+    "dish_name": "smaller lasagna for two",
+    "ingredients": [
+        "uncooked lasagna noodles (I use low-glycemic Dreamfield's)",
+        "lean ground beef",
+        "onion",
+        "garlic cloves",
+        "dried oregano",
+        "dried basil",
+        "salt",
+        "black pepper",
+        "olive oil",
+        "ounces    marinara sauce",
+        "ricotta cheese",
+        "egg",
+        "parmesan cheese",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

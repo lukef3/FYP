@@ -1,0 +1,18 @@
+{
+    "dish_name": "20 minute spanish rice",
+    "ingredients": [
+        "cups    chicken stock",
+        "long grain rice",
+        "(1 1/4  ounce) packet   taco seasoning",
+        "salsa",
+        "corn kernel",
+        "black beans"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "ground beef pizza",
+    "ingredients": [
+        "lean ground beef",
+        "onion",
+        "garlic cloves",
+        "dried oregano",
+        "salt",
+        "fresh black pepper",
+        "lb    pizza dough (for 1 pizza)",
+        "cup    pizza sauce",
+        "cheddar cheese",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

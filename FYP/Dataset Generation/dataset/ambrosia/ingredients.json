@@ -1,0 +1,20 @@
+{
+    "dish_name": "ambrosia",
+    "ingredients": [
+        "maraschino cherries",
+        "mandarin oranges",
+        "pineapple chunks",
+        "crushed pineapple",
+        "ounces    fruit cocktail, drained",
+        "sour cream",
+        "Cool Whip",
+        "instant vanilla pudding",
+        "mini marshmallows",
+        "flaked coconut"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "chicken and spinach quiche",
+    "ingredients": [
+        "cheddar cheese",
+        "unbaked 9 inch pie shell",
+        "chicken",
+        "frozen chopped spinach",
+        "onion",
+        "eggs",
+        "milk",
+        "mayonnaise",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

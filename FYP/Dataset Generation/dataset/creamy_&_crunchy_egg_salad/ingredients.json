@@ -1,0 +1,21 @@
+{
+    "dish_name": "creamy & crunchy egg salad",
+    "ingredients": [
+        "red onion",
+        "eggs",
+        "celery & leaves",
+        "plain yogurt",
+        "mayonnaise",
+        "fresh dill",
+        "mustard",
+        "lemon juice",
+        "kosher salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

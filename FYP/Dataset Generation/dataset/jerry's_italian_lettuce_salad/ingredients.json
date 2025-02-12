@@ -1,0 +1,19 @@
+{
+    "dish_name": "jerry's italian lettuce salad",
+    "ingredients": [
+        "romaine lettuce",
+        "olive oil",
+        "red wine vinegar",
+        "parmesan cheese",
+        "Dijon mustard",
+        "garlic",
+        "cup    Italian breadcrumbs",
+        "artichoke hearts",
+        "pimientos",
+        "red onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

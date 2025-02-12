@@ -1,0 +1,27 @@
+{
+    "dish_name": "chewy triple chippers",
+    "ingredients": [
+        "all-purpose flour",
+        "salt",
+        "baking soda",
+        "baking powder",
+        "unsalted butter",
+        "peanut butter",
+        "brown sugar",
+        "white sugar",
+        "pure vanilla extract",
+        "eggs",
+        "corn syrup",
+        "half-and-half",
+        "cup    semi-sweet chocolate chips",
+        "cup    peanut butter chips",
+        "cup    milk chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

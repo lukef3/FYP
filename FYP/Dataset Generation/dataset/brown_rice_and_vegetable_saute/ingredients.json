@@ -1,0 +1,22 @@
+{
+    "dish_name": "brown rice and vegetable saute",
+    "ingredients": [
+        "quick-cooking brown rice",
+        "vegetable broth",
+        "olive oil",
+        "onion",
+        "broccoli florets",
+        "baby portabella mushrooms",
+        "garlic clove",
+        "thyme",
+        "fresh ground black pepper",
+        "sea salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

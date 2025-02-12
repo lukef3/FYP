@@ -1,0 +1,19 @@
+{
+    "dish_name": "grilled flat iron  steak",
+    "ingredients": [
+        "olive oil",
+        "tablespoons    balsamic vinegar",
+        "garlic cloves",
+        "teaspoon    italian seasoning",
+        "salt",
+        "black pepper",
+        "lbs    flat iron steaks"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

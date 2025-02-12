@@ -1,0 +1,17 @@
+{
+    "dish_name": "basic whole wheat bread",
+    "ingredients": [
+        "water",
+        "dry yeast",
+        "whole wheat flour",
+        "salt",
+        "tablespoons    oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

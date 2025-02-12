@@ -1,0 +1,21 @@
+{
+    "dish_name": "hearty mexican spaghetti",
+    "ingredients": [
+        "spaghetti",
+        "(1   ounce) package   taco seasoning mix",
+        "lean ground beef",
+        "ground turkey",
+        "tomatoes",
+        "ounces   whole mexicorn whole kernel corn, undrained  (with red and green peppers)",
+        "diced green chilies",
+        "green onion",
+        "cup    Mexican blend cheese, shredded"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

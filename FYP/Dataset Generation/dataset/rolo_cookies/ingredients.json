@@ -1,0 +1,22 @@
+{
+    "dish_name": "rolo cookies",
+    "ingredients": [
+        "butter",
+        "margarine",
+        "granulated sugar",
+        "brown sugar",
+        "eggs",
+        "vanilla",
+        "all-purpose flour",
+        "cup    cocoa",
+        "baking soda",
+        "granulated sugar",
+        "Rolo chocolates"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

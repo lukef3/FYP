@@ -1,0 +1,22 @@
+{
+    "dish_name": "crispy baked basa",
+    "ingredients": [
+        "cup    almonds, ground and toasted",
+        "cornmeal",
+        "parmesan cheese",
+        "parsley",
+        "flour",
+        "lemon pepper",
+        "lbs    basa fillets",
+        "lemon juice",
+        "parsley",
+        "lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

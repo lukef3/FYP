@@ -1,0 +1,17 @@
+{
+    "dish_name": "chicken breasts with peanut sauce",
+    "ingredients": [
+        "olive oil",
+        "onion",
+        "garlic",
+        "curry powder",
+        "chicken breasts",
+        "honey",
+        "peanut butter",
+        "cup    chicken stock"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

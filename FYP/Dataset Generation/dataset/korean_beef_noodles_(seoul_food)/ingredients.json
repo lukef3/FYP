@@ -1,0 +1,21 @@
+{
+    "dish_name": "korean beef noodles (seoul food)",
+    "ingredients": [
+        "beef flank steak",
+        "tablespoons    peanut oil",
+        "shiitake mushrooms",
+        "cremini mushroom",
+        "soy sauce",
+        "tablespoons    sesame oil",
+        "sugar",
+        "ounces    Chinese wheat noodles (udon may also be used)",
+        "garlic",
+        "scallions",
+        "small    dried hot red chili pepper",
+        "carrots"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

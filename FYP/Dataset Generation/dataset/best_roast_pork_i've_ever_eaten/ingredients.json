@@ -1,0 +1,21 @@
+{
+    "dish_name": "best roast pork i've ever eaten",
+    "ingredients": [
+        "lbs    pork loin roast, about",
+        "honey",
+        "Dijon mustard",
+        "garlic powder",
+        "rosemary",
+        "water",
+        "beef bouillon cube",
+        "salt and pepper",
+        "marsala",
+        "cornstarch",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

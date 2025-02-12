@@ -1,0 +1,22 @@
+{
+    "dish_name": "campbell's bean and bacon soup",
+    "ingredients": [
+        "navy beans",
+        "water",
+        "bacon",
+        "carrots",
+        "celery",
+        "onion",
+        "thyme",
+        "garlic cloves",
+        "tomato paste",
+        "dried red pepper flakes",
+        "water",
+        "wine vinegar",
+        "liquid smoke",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

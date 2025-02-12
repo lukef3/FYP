@@ -1,0 +1,16 @@
+{
+    "dish_name": "creamed chipped beef  sos",
+    "ingredients": [
+        "butter",
+        "flour",
+        "milk",
+        "fresh ground pepper",
+        "lb    dried beef"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

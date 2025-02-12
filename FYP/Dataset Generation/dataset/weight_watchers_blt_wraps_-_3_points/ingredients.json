@@ -1,0 +1,21 @@
+{
+    "dish_name": "weight watchers blt wraps - 3 points",
+    "ingredients": [
+        "fresh basil",
+        "fat-free mayonnaise",
+        "Dijon mustard",
+        "salt",
+        "black pepper",
+        "whole wheat tortillas",
+        "roast beef",
+        "tomatoes",
+        "lettuce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

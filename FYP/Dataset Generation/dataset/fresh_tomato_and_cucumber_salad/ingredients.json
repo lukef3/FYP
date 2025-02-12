@@ -1,0 +1,18 @@
+{
+    "dish_name": "fresh tomato and cucumber salad",
+    "ingredients": [
+        "tomatoes",
+        "cucumbers",
+        "green pepper",
+        "onion",
+        "(8   ounce) bottle   fat-free Italian salad dressing",
+        "sugar substitute"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "v-8 juice for canning",
+    "ingredients": [
+        "tomatoes",
+        "bell pepper",
+        "onions",
+        "celery",
+        "bay leaves",
+        "fresh basil leaves",
+        "dried basil",
+        "teaspoons    prepared horseradish",
+        "fresh ground black pepper",
+        "sugar",
+        "Worcestershire sauce",
+        "lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

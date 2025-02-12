@@ -1,0 +1,23 @@
+{
+    "dish_name": "mountain berry pie",
+    "ingredients": [
+        "pastry for double-crust pie",
+        "white sugar",
+        "salt",
+        "cornstarch",
+        "cinnamon",
+        "blueberries",
+        "strawberry",
+        "blackberry",
+        "raspberries",
+        "water",
+        "lemon juice",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dish_name": "applesauce sandwiches",
+    "ingredients": [
+        "applesauce",
+        "slices    bread",
+        "butter",
+        "margarine",
+        "sugar",
+        "ground cinnamon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

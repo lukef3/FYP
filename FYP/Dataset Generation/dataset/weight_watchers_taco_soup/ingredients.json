@@ -1,0 +1,23 @@
+{
+    "dish_name": "weight watchers taco soup",
+    "ingredients": [
+        "turkey",
+        "onion",
+        "chili beans",
+        "(15   ounce) can  zesty beans (I use S&W chili beans in a zesty sauce)",
+        "black beans",
+        "corn",
+        "tomato sauce",
+        "water",
+        "green chilies",
+        "(1 1/4  ounce) package   taco seasoning",
+        "(1   ounce) envelope   ranch dressing mix"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

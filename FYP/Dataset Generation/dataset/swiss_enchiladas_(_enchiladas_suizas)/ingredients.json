@@ -1,0 +1,17 @@
+{
+    "dish_name": "swiss enchiladas ( enchiladas suizas)",
+    "ingredients": [
+        "cups    cooked chicken, chopped",
+        "anaheim chilies",
+        "green chili salsa",
+        "salt",
+        "heavy cream",
+        "corn tortillas",
+        "oil, for frying the tortillas",
+        "monterey jack cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

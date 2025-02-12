@@ -1,0 +1,19 @@
+{
+    "dish_name": "colcannon",
+    "ingredients": [
+        "potatoes",
+        "salt",
+        "green cabbage",
+        "green onion",
+        "boiling water",
+        "milk",
+        "butter",
+        "margarine",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

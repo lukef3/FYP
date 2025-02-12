@@ -1,0 +1,15 @@
+{
+    "dish_name": "carol's easy pita bread",
+    "ingredients": [
+        "flour",
+        "quick-rising yeast",
+        "salt",
+        "hot water",
+        "flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

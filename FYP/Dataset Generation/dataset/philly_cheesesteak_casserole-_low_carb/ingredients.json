@@ -1,0 +1,22 @@
+{
+    "dish_name": "philly cheesesteak casserole- low carb",
+    "ingredients": [
+        "lbs   chip steak or 2   lbs    cube steaks, cut into strips",
+        "green pepper",
+        "red pepper, cut into strips",
+        "onion",
+        "mushroom",
+        "olive oil",
+        "kosher salt",
+        "fresh ground pepper",
+        "lb    pepperoni, thinly sliced",
+        "provolone cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

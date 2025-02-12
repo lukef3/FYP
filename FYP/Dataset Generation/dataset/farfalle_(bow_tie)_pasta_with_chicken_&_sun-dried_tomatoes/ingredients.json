@@ -1,0 +1,22 @@
+{
+    "dish_name": "farfalle (bow tie) pasta with chicken & sun-dried tomatoes",
+    "ingredients": [
+        "olive oil",
+        "boneless skinless chicken breast",
+        "onions",
+        "sun-dried tomatoes",
+        "basil",
+        "thyme",
+        "oregano",
+        "garlic",
+        "cups    whipping cream (35%)",
+        "salt and pepper",
+        "parmesan cheese",
+        "farfalle pasta",
+        "bow tie pasta"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

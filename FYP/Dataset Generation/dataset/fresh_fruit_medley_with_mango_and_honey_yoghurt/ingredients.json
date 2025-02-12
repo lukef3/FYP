@@ -1,0 +1,16 @@
+{
+    "dish_name": "fresh fruit medley with mango and honey yoghurt",
+    "ingredients": [
+        "cups    fresh fruit (strawberries, grapes, kiwifruit, passionfruit or any fruit in season)",
+        "fresh mango",
+        "plain yogurt",
+        "honey"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

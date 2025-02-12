@@ -1,0 +1,17 @@
+{
+    "dish_name": "garlic grilled chicken",
+    "ingredients": [
+        "boneless skinless chicken breast halves",
+        "cup    picante sauce",
+        "tablespoons    vegetable oil",
+        "lime juice",
+        "garlic cloves",
+        "ground cumin",
+        "dried oregano",
+        "salt",
+        "additional picante sauce"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

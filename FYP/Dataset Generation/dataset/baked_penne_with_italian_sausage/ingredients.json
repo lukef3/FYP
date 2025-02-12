@@ -1,0 +1,19 @@
+{
+    "dish_name": "baked penne with italian sausage",
+    "ingredients": [
+        "dry penne pasta",
+        "mild Italian sausage",
+        "onion",
+        "white wine",
+        "olive oil",
+        "tomato sauce",
+        "tomatoes with garlic",
+        "tomato paste",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

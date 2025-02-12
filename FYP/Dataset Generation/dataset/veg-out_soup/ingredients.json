@@ -1,0 +1,24 @@
+{
+    "dish_name": "veg-out soup",
+    "ingredients": [
+        "carrots",
+        "celery ribs",
+        "white potatoes",
+        "medium    white onion",
+        "zucchini",
+        "stewed tomatoes",
+        "brown sugar",
+        "chicken broth",
+        "bay leaf",
+        "parsley",
+        "salt and pepper",
+        "pasta"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

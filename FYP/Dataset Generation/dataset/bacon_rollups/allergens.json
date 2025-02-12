@@ -1,9 +1,8 @@
 {
-    "dish_name": "bacon rollups",
     "allergens": [
         1,
         0,
-        0,
+        1,
         0,
         0,
         0,

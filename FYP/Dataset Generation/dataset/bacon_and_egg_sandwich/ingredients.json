@@ -1,0 +1,17 @@
+{
+    "dish_name": "bacon and egg sandwich",
+    "ingredients": [
+        "slices    white bread",
+        "crisp bacon",
+        "egg",
+        "tomatoes",
+        "Miracle Whip"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

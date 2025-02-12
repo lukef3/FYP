@@ -1,0 +1,22 @@
+{
+    "dish_name": "spicy mexican corn dip",
+    "ingredients": [
+        "(12   ounce) can   mexicorn, drained",
+        "cheddar cheese",
+        "mayonnaise",
+        "sour cream",
+        "green onion",
+        "green chilies",
+        "jalapenos, chopped and seeded",
+        "tablespoons    picante sauce",
+        "salt",
+        "ground cumin"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

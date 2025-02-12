@@ -1,0 +1,20 @@
+{
+    "dish_name": "italian casserole bread",
+    "ingredients": [
+        "skim milk",
+        "butter",
+        "egg white",
+        "cups    Bisquick Heart Smart mix",
+        "green onions",
+        "garlic powder",
+        "teaspoon    italian seasoning",
+        "reduced-fat cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

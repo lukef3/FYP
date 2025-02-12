@@ -1,0 +1,20 @@
+{
+    "dish_name": "simple brown rice pilaf",
+    "ingredients": [
+        "instant brown rice",
+        "cup    chicken stock",
+        "butter",
+        "margarine",
+        "green onion",
+        "garlic",
+        "tablespoon   minced onion flakes",
+        "teaspoon    garlic salt",
+        "salt & fresh ground pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

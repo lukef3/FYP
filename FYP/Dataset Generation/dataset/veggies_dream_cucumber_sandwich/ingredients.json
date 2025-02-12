@@ -1,0 +1,21 @@
+{
+    "dish_name": "veggies dream cucumber sandwich",
+    "ingredients": [
+        "slices    whole wheat bread or 2   slices    rye bread, thick",
+        "cream cheese",
+        "cucumbers",
+        "alfalfa sprouts",
+        "olive oil",
+        "red wine vinegar",
+        "tomatoes",
+        "lettuce",
+        "tablespoons    pepperoncini peppers, sliced",
+        "avocado"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

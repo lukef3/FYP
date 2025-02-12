@@ -1,0 +1,12 @@
+{
+    "dish_name": "kielbasa and potatoes",
+    "ingredients": [
+        "kielbasa",
+        "potatoes",
+        "onion",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

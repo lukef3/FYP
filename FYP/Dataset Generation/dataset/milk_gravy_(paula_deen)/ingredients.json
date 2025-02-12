@@ -1,0 +1,15 @@
+{
+    "dish_name": "milk gravy (paula deen)",
+    "ingredients": [
+        "vegetable shortening",
+        "all-purpose flour",
+        "cups    whole milk",
+        "black pepper",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

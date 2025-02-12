@@ -1,0 +1,13 @@
+{
+    "dish_name": "eggs benedict cups",
+    "ingredients": [
+        "eggs",
+        "ham",
+        "swiss cheese",
+        "heavy cream",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

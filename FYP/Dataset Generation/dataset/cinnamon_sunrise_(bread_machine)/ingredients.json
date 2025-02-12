@@ -1,0 +1,19 @@
+{
+    "dish_name": "cinnamon sunrise (bread machine)",
+    "ingredients": [
+        "water",
+        "white bread flour",
+        "dry milk",
+        "brown sugar",
+        "salt",
+        "butter",
+        "cinnamon",
+        "pecan pieces",
+        "fast rise yeast",
+        "active dry yeast"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

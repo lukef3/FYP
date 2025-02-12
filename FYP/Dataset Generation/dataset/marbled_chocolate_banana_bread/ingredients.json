@@ -1,0 +1,24 @@
+{
+    "dish_name": "marbled chocolate banana bread",
+    "ingredients": [
+        "all-purpose flour",
+        "baking soda",
+        "salt",
+        "sugar",
+        "butter",
+        "bananas",
+        "eggs",
+        "egg substitute",
+        "sour cream",
+        "plain low-fat yogurt",
+        "cup    semi-sweet chocolate chips",
+        "cooking spray"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

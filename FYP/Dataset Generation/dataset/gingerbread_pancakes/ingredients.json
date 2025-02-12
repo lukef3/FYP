@@ -1,0 +1,24 @@
+{
+    "dish_name": "gingerbread pancakes",
+    "ingredients": [
+        "unbleached flour",
+        "baking powder",
+        "baking soda",
+        "salt",
+        "ginger",
+        "cinnamon",
+        "ground cloves",
+        "egg",
+        "milk",
+        "molasses",
+        "canola oil",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

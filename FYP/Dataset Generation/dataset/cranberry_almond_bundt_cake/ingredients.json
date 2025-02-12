@@ -1,0 +1,20 @@
+{
+    "dish_name": "cranberry almond bundt cake",
+    "ingredients": [
+        "all-purpose flour",
+        "baking powder",
+        "salt",
+        "unsalted butter",
+        "almond paste",
+        "granulated sugar",
+        "eggs",
+        "vanilla",
+        "cup    whole milk, room temperature",
+        "cranberries",
+        "powdered sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

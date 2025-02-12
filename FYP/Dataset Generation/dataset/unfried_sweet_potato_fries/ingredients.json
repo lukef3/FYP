@@ -1,0 +1,13 @@
+{
+    "dish_name": "unfried sweet potato fries",
+    "ingredients": [
+        "cooking spray (Canola)",
+        "sweet potato",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

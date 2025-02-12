@@ -1,0 +1,28 @@
+{
+    "dish_name": "herbed onion focaccia",
+    "ingredients": [
+        "water",
+        "onion",
+        "sugar",
+        "salt",
+        "parmesan cheese",
+        "garlic powder",
+        "dried basil",
+        "dill weed",
+        "pepper",
+        "flour",
+        "active dry yeast",
+        "olive oil",
+        "parmesan cheese",
+        "dried parsley flakes",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

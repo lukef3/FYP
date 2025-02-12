@@ -1,0 +1,24 @@
+{
+    "dish_name": "zucchini crescent pie",
+    "ingredients": [
+        "zucchini",
+        "onion",
+        "margarine",
+        "butter",
+        "fresh parsley",
+        "dried parsley",
+        "salt",
+        "pepper",
+        "garlic powder",
+        "dried basil",
+        "dried oregano",
+        "eggs",
+        "mozzarella cheese",
+        "(8   ounce) can   Pillsbury Refrigerated Crescent Dinner Rolls",
+        "Dijon mustard"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

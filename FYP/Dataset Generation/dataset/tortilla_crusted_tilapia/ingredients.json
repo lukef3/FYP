@@ -1,0 +1,19 @@
+{
+    "dish_name": "tortilla crusted tilapia",
+    "ingredients": [
+        "tilapia fillets",
+        "corn tortillas",
+        "jalapeno pepper, seeded and coarsely chopped",
+        "lime juice",
+        "fresh cilantro",
+        "chili powder",
+        "ground cumin",
+        "seasoning salt",
+        "egg"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

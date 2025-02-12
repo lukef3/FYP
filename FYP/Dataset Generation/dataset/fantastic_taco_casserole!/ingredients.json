@@ -1,0 +1,28 @@
+{
+    "dish_name": "fantastic taco casserole!",
+    "ingredients": [
+        "ground beef",
+        "onion",
+        "fresh garlic",
+        "bell pepper",
+        "seasoning salt",
+        "black pepper",
+        "water",
+        "teaspoons    dried chili pepper flakes (or to taste)",
+        "(215   ml) bottle   taco sauce (can use two bottles of taco sauce if desired)",
+        "diced green chilies",
+        "sliced ripe olives",
+        "(1 1/4  ounce) package   taco seasoning mix",
+        "white corn tortillas",
+        "cheddar cheese",
+        "tomatoes",
+        "green onions"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

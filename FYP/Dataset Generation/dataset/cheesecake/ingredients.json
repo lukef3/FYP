@@ -1,0 +1,15 @@
+{
+    "dish_name": "cheesecake",
+    "ingredients": [
+        "cream cheese",
+        "sugar",
+        "vanilla",
+        "eggs",
+        "chocolate crumb crust, in pie pan"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

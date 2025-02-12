@@ -1,0 +1,20 @@
+{
+    "dish_name": "chocolate chip cookie cupcakes",
+    "ingredients": [
+        "all-purpose flour",
+        "baking powder",
+        "salt",
+        "light brown sugar",
+        "unsalted butter",
+        "vanilla",
+        "egg",
+        "cup    miniature semisweet chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

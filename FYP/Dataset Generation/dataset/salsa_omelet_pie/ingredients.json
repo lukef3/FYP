@@ -1,0 +1,17 @@
+{
+    "dish_name": "salsa omelet pie",
+    "ingredients": [
+        "salsa",
+        "sharp cheddar cheese",
+        "monterey jack cheese",
+        "sour cream",
+        "eggs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

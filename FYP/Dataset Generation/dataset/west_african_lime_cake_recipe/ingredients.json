@@ -1,0 +1,19 @@
+{
+    "dish_name": "west african lime cake recipe",
+    "ingredients": [
+        "sugar",
+        "butter",
+        "eggs",
+        "lime, juice of",
+        "flour",
+        "baking powder",
+        "peanuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

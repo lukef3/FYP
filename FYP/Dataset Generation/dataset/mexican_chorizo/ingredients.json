@@ -1,0 +1,23 @@
+{
+    "dish_name": "mexican chorizo",
+    "ingredients": [
+        "boneless pork loin",
+        "cider vinegar",
+        "chili powder",
+        "crushed red pepper flakes",
+        "paprika",
+        "teaspoons    oil",
+        "sugar",
+        "dried oregano",
+        "cumin",
+        "salt",
+        "fresh ground black pepper",
+        "garlic"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "linda's thai  sweet chili  sauce for dipping (egg rolls, sushi)",
+    "ingredients": [
+        "sambal oelek",
+        "chili peppers",
+        "rice vinegar",
+        "salt",
+        "sugar",
+        "fresh garlic",
+        "gingerroot",
+        "cornstarch",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "mediterranean lemon couscous salad",
+    "ingredients": [
+        "couscous",
+        "lemon juice",
+        "olive oil",
+        "green onion",
+        "tomatoes",
+        "canned red kidney beans",
+        "feta cheese",
+        "pine nuts",
+        "oregano"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

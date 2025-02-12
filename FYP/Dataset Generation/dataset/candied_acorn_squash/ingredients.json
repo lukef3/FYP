@@ -1,0 +1,17 @@
+{
+    "dish_name": "candied acorn squash",
+    "ingredients": [
+        "acorn squash",
+        "butter",
+        "margarine",
+        "brown sugar",
+        "maple syrup",
+        "cinnamon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

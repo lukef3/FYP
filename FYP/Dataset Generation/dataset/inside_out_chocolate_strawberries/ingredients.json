@@ -1,0 +1,18 @@
+{
+    "dish_name": "inside out chocolate strawberries",
+    "ingredients": [
+        "strawberries",
+        "cup    semi-sweet chocolate chips",
+        "heavy whipping cream",
+        "Kahlua",
+        "cream cheese",
+        "powdered sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

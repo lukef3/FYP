@@ -1,0 +1,21 @@
+{
+    "dish_name": "jelly roll",
+    "ingredients": [
+        "eggs",
+        "sugar",
+        "flour",
+        "cream of tartar",
+        "baking soda",
+        "cold water",
+        "pure vanilla extract",
+        "jelly, of choice",
+        "confectioners' sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "dish_name": "gnocchi al gorgonzola",
+    "ingredients": [
+        "lb    gnocchi (fresh or frozen)",
+        "gorgonzola",
+        "butter",
+        "parmesan cheese",
+        "cup    whipping cream, warmed",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

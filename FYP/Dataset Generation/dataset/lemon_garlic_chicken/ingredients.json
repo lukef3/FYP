@@ -1,0 +1,19 @@
+{
+    "dish_name": "lemon garlic chicken",
+    "ingredients": [
+        "chicken breast halves",
+        "oregano",
+        "seasoning salt",
+        "pepper",
+        "butter",
+        "margarine",
+        "water",
+        "lemon juice",
+        "garlic",
+        "chicken bouillon granule",
+        "parsley"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

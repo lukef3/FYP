@@ -1,0 +1,23 @@
+{
+    "dish_name": "traditional eggnog",
+    "ingredients": [
+        "large    egg whites",
+        "granulated sugar",
+        "egg yolks",
+        "salt",
+        "cups    whipping cream",
+        "sugar",
+        "vanilla",
+        "cups    whole milk",
+        "light rum",
+        "cup    whiskey (rye or scotch)",
+        "nutmeg"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

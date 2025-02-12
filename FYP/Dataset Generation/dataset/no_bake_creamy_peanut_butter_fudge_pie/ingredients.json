@@ -1,0 +1,16 @@
+{
+    "dish_name": "no bake creamy peanut butter fudge pie",
+    "ingredients": [
+        "cream cheese",
+        "powdered sugar",
+        "creamy peanut butter",
+        "Cool Whip",
+        "graham cracker pie crust",
+        "fudge syrup or   fudge sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

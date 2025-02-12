@@ -1,0 +1,20 @@
+{
+    "dish_name": "bread machine buttermilk and honey wheat bread",
+    "ingredients": [
+        "buttermilk",
+        "buttermilk",
+        "honey",
+        "butter",
+        "margarine",
+        "salt",
+        "baking soda",
+        "bread flour",
+        "whole wheat flour",
+        "teaspoon    yeast"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

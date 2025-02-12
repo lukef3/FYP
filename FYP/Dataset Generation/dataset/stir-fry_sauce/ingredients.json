@@ -1,0 +1,17 @@
+{
+    "dish_name": "stir-fry sauce",
+    "ingredients": [
+        "soy sauce",
+        "water",
+        "ginger",
+        "garlic cloves",
+        "teaspoon    sesame oil",
+        "honey",
+        "cider vinegar",
+        "sherry wine",
+        "cornstarch"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

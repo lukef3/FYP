@@ -1,0 +1,22 @@
+{
+    "dish_name": "unstuffed cabbage",
+    "ingredients": [
+        "onion",
+        "cabbage",
+        "tomato sauce",
+        "chopped tomatoes",
+        "water",
+        "honey",
+        "lemon juice",
+        "ground beef",
+        "white rice",
+        "Worcestershire sauce",
+        "salt and pepper",
+        "raisins"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

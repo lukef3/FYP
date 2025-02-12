@@ -1,0 +1,15 @@
+{
+    "dish_name": "orange creamsicle pie",
+    "ingredients": [
+        "cream cheese",
+        "ounces    frozen whipped topping, thawed",
+        "cup    orange juice",
+        "instant vanilla pudding",
+        "orange gelatin",
+        "prepared graham cracker crusts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

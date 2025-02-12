@@ -1,0 +1,22 @@
+{
+    "dish_name": "the best potato wedges on here",
+    "ingredients": [
+        "potatoes",
+        "salt",
+        "pepper",
+        "garlic powder",
+        "onion powder",
+        "paprika",
+        "dried rosemary",
+        "dried thyme",
+        "parmesan cheese",
+        "olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "ww core - bubbling pizza casserole",
+    "ingredients": [
+        "lb    96% lean ground beef",
+        "onion",
+        "tomato sauce",
+        "dried basil",
+        "garlic cloves",
+        "teaspoon    italian seasoning",
+        "cup    sliced mushrooms",
+        "bell pepper",
+        "diced tomato",
+        "ounces    refrigerated biscuits (should be 8 biscuits per can)",
+        "fat free mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

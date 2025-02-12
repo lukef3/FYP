@@ -1,0 +1,31 @@
+{
+    "dish_name": "burgundy meatball stew",
+    "ingredients": [
+        "ground beef",
+        "cup    fine soft bread crumbs",
+        "onion",
+        "egg",
+        "salt",
+        "pepper",
+        "dried thyme",
+        "butter",
+        "tablespoon    oil",
+        "tomato sauce",
+        "(10   ounce) can   beef bouillon or  (10   ounce) can   consomme",
+        "dry red wine",
+        "water",
+        "(250   g) bag   frozen pearl onions (or use fresh)",
+        "garlic",
+        "potatoes",
+        "carrots",
+        "mushroom",
+        "parsley",
+        "flour",
+        "cold water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

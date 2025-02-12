@@ -1,0 +1,23 @@
+{
+    "dish_name": "hamburger-noodle casserole",
+    "ingredients": [
+        "butter",
+        "ground beef",
+        "garlic clove",
+        "salt",
+        "pepper",
+        "sugar",
+        "tomato sauce",
+        "(8   ounce) package   noodles",
+        "scallions",
+        "cream cheese",
+        "sour cream",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

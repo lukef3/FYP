@@ -1,0 +1,20 @@
+{
+    "dish_name": "tasty tandoori  sweet potatoes",
+    "ingredients": [
+        "sweet potatoes",
+        "tandoori paste",
+        "olive oil",
+        "sesame seeds",
+        "salt",
+        "red pepper flakes",
+        "cooking spray",
+        "kosher salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

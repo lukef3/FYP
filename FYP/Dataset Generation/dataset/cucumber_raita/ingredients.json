@@ -1,0 +1,16 @@
+{
+    "dish_name": "cucumber raita",
+    "ingredients": [
+        "cucumber",
+        "plain nonfat yogurt",
+        "green onions",
+        "green chili",
+        "fresh cilantro",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

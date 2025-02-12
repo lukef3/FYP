@@ -1,0 +1,18 @@
+{
+    "dish_name": "easy cheesy breadsticks",
+    "ingredients": [
+        "(10   ounce) can   prepared pizza crust",
+        "butter",
+        "provolone cheese",
+        "parmesan cheese",
+        "dried basil",
+        "teaspoon    garlic salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

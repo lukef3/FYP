@@ -1,0 +1,22 @@
+{
+    "dish_name": "mashed potatoes with corn & cheese",
+    "ingredients": [
+        "potatoes",
+        "water",
+        "milk",
+        "butter",
+        "salt",
+        "pepper",
+        "frozen corn kernels",
+        "cheddar cheese",
+        "colby-monterey jack cheese",
+        "cup   pre- cooked bacon, crumbled  (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,9 +1,8 @@
 {
-    "dish_name": "chicken salad for sandwiches",
     "allergens": [
         0,
         0,
-        0,
+        1,
         0,
         0,
         0,

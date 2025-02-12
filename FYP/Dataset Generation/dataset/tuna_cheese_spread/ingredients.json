@@ -1,0 +1,15 @@
+{
+    "dish_name": "tuna cheese spread",
+    "ingredients": [
+        "cream cheese",
+        "tuna",
+        "mayonnaise",
+        "lemon juice",
+        "curry powder",
+        "salt",
+        "green onions"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

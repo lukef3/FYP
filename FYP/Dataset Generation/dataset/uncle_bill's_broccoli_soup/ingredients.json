@@ -1,0 +1,22 @@
+{
+    "dish_name": "uncle bill's broccoli soup",
+    "ingredients": [
+        "butter",
+        "onion",
+        "carrots",
+        "garlic",
+        "water",
+        "tablespoons    chicken soup base",
+        "broccoli floret",
+        "half-and-half cream",
+        "all-purpose flour",
+        "water",
+        "soy sauce",
+        "black pepper",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

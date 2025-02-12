@@ -1,9 +1,14 @@
 {
     "dish_name": "mashed potatoes",
     "ingredients": [
-        "potatoes",
-        "margarine",
-        "milk"
+        "potato",
+        "butter",
+        "milk",
+        "cheddar cheese",
+        "parmesan cheese",
+        "spring onion",
+        "ham",
+        "salt and pepper (to taste)"
     ],
     "images": [
         "images/image_1.jpg",

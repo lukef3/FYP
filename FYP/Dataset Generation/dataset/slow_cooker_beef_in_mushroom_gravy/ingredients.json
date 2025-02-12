@@ -1,0 +1,19 @@
+{
+    "dish_name": "slow cooker beef in mushroom gravy",
+    "ingredients": [
+        "boneless round steak",
+        "ounces    dry onion soup mix",
+        "ounces    condensed cream of mushroom soup, undiluted",
+        "beef broth",
+        "mushroom",
+        "onion",
+        "mashed potatoes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

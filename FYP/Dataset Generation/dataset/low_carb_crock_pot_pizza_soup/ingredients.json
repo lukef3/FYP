@@ -1,0 +1,23 @@
+{
+    "dish_name": "low carb crock pot pizza soup",
+    "ingredients": [
+        "crushed tomatoes",
+        "beef broth",
+        "mushrooms",
+        "green pepper",
+        "onion",
+        "Italian sausage",
+        "lb    pepperoni, thinly sliced",
+        "garlic powder",
+        "dried oregano",
+        "teaspoons    italian seasoning",
+        "mozzarella cheese",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

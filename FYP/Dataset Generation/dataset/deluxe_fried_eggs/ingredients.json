@@ -1,0 +1,21 @@
+{
+    "dish_name": "deluxe fried eggs",
+    "ingredients": [
+        "olive oil",
+        "lemon juice",
+        "mushrooms",
+        "onion",
+        "garlic cloves",
+        "eggs",
+        "salt",
+        "fresh ground black pepper",
+        "fresh basil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

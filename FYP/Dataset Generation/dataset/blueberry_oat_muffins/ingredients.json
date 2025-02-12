@@ -1,0 +1,18 @@
+{
+    "dish_name": "blueberry oat muffins",
+    "ingredients": [
+        "oats",
+        "cup    sour milk (cup milk & 1 TB vinegar)",
+        "flour",
+        "baking powder",
+        "baking soda",
+        "brown sugar",
+        "egg",
+        "margarine",
+        "fresh blueberries"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

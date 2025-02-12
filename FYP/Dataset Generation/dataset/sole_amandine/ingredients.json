@@ -1,0 +1,19 @@
+{
+    "dish_name": "sole amandine",
+    "ingredients": [
+        "lbs    sole, orange roughy  or 1 1/2  lbs   other delicate fish fillets, about 3/4 \",thick",
+        "cup    sliced almonds",
+        "butter",
+        "lemons, rind of",
+        "salt",
+        "paprika",
+        "lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

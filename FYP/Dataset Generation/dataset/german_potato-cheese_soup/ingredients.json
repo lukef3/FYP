@@ -1,0 +1,22 @@
+{
+    "dish_name": "german potato-cheese soup",
+    "ingredients": [
+        "water",
+        "chicken broth",
+        "tablespoons    chicken soup base",
+        "pepper",
+        "carrots",
+        "potatoes",
+        "onion",
+        "celery",
+        "medium    sweet red pepper, seeded and diced",
+        "mayonnaise",
+        "processed cheese",
+        "cheddar cheese",
+        "swiss cheese",
+        "tablespoons    instant potato flakes"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

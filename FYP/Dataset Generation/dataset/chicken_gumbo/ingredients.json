@@ -1,0 +1,22 @@
+{
+    "dish_name": "chicken gumbo",
+    "ingredients": [
+        "bacon drippings",
+        "chicken breasts",
+        "celery",
+        "onion",
+        "chicken broth",
+        "tomatoes",
+        "salt",
+        "green pepper",
+        "long grain rice",
+        "frozen okra",
+        "parsley",
+        "bay leaf",
+        "Worcestershire sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

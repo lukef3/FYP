@@ -1,0 +1,21 @@
+{
+    "dish_name": "chorizo, shrimp and rice",
+    "ingredients": [
+        "olive oil",
+        "onion",
+        "red bell pepper",
+        "green bell pepper",
+        "garlic cloves",
+        "tomatoes",
+        "Spanish rice",
+        "salt and pepper",
+        "chorizo sausage",
+        "2   cups    fish stock or 2   cups    chicken stock",
+        "large shrimp",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

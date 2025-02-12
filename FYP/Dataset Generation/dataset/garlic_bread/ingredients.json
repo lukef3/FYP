@@ -1,18 +1,17 @@
 {
     "dish_name": "garlic bread",
     "ingredients": [
-        "loaf    Italian bread or 1   loaf    French bread, unsliced",
-        "butter",
-        "margarine",
-        "garlic clove",
+        "mayonnaise",
         "parmesan cheese",
-        "basil",
-        "oregano"
+        "garlic",
+        "dried basil",
+        "dried oregano",
+        "dried rosemary",
+        "lb    round sourdough loaf, halved horizontally",
+        "butter"
     ],
     "images": [
         "images/image_1.jpg",
-        "images/image_2.jpg",
-        "images/image_3.jpg",
-        "images/image_4.jpg"
+        "images/image_2.jpg"
     ]
 }

@@ -1,0 +1,22 @@
+{
+    "dish_name": "sausage and sauerkraut pot",
+    "ingredients": [
+        "onions",
+        "margarine",
+        "sauerkraut",
+        "cup    apple juice (or apple cider)",
+        "water",
+        "caraway seed",
+        "salt",
+        "black pepper",
+        "brown sugar",
+        "smoked sausage"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

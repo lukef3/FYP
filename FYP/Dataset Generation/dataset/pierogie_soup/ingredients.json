@@ -1,0 +1,20 @@
+{
+    "dish_name": "pierogie soup",
+    "ingredients": [
+        "(15   ounce) box  frozen pierogies, potato and cheese filling, thawed partially",
+        "butter",
+        "onion",
+        "cabbage",
+        "chicken broth",
+        "garlic powder",
+        "salt",
+        "pepper",
+        "paprika",
+        "low-fat milk",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

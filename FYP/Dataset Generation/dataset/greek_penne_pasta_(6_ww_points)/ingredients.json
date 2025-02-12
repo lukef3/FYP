@@ -1,0 +1,20 @@
+{
+    "dish_name": "greek penne pasta (6 ww points)",
+    "ingredients": [
+        "penne",
+        "olive oil",
+        "pine nuts",
+        "garlic",
+        "frozen chopped spinach",
+        "plum tomato",
+        "feta cheese",
+        "medium    olives, black,pitted and chopped  (I prefer the green Greek or Italian olives)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

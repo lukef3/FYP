@@ -1,0 +1,18 @@
+{
+    "dish_name": "honey granola",
+    "ingredients": [
+        "rolled oats",
+        "raisins",
+        "coconut",
+        "honey",
+        "butter",
+        "cinnamon",
+        "vanilla",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

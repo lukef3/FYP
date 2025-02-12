@@ -1,0 +1,21 @@
+{
+    "dish_name": "french yogurt-cake",
+    "ingredients": [
+        "yogurt",
+        "cup    oil",
+        "sugar",
+        "plain flour",
+        "baking powder",
+        "eggs",
+        "salt",
+        "chocolate chips",
+        "coconut"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

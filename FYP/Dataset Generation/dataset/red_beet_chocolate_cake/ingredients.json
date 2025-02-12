@@ -1,0 +1,22 @@
+{
+    "dish_name": "red beet chocolate cake",
+    "ingredients": [
+        "unbleached flour",
+        "baking soda",
+        "salt",
+        "sugar",
+        "eggs",
+        "cup    vegetable oil",
+        "beet",
+        "ounces    unsweetened chocolate (Melt and cool the 2 1-oz squares of baking chocolate.)",
+        "vanilla extract",
+        "confectioners' sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

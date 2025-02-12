@@ -1,0 +1,19 @@
+{
+    "dish_name": "oatmeal salmon patties",
+    "ingredients": [
+        "(7   ounce) cans   boneless skinless pink salmon",
+        "old fashioned oats",
+        "skim milk",
+        "low-fat milk",
+        "egg",
+        "onions",
+        "fresh dill",
+        "dill weed",
+        "margarine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

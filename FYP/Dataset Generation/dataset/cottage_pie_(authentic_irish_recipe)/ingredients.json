@@ -1,0 +1,21 @@
+{
+    "dish_name": "cottage pie (authentic irish recipe)",
+    "ingredients": [
+        "ground beef",
+        "tablespoon    oil",
+        "onions",
+        "tomatoes",
+        "bouillon",
+        "thyme",
+        "sage",
+        "parsley",
+        "salt and pepper",
+        "potatoes",
+        "butter",
+        "bacon fat"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

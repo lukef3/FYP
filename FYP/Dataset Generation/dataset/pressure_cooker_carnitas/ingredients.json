@@ -1,0 +1,17 @@
+{
+    "dish_name": "pressure cooker carnitas",
+    "ingredients": [
+        "lbs    pork butt or 2 1/2  lbs    pork shoulder, sliced to 3/4 inch cubes",
+        "onion",
+        "low sodium chicken broth",
+        "cumin",
+        "teaspoon    dried chipotle powder (ancho for the weak)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

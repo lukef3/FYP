@@ -1,0 +1,18 @@
+{
+    "dish_name": "chocolate oatmeal",
+    "ingredients": [
+        "milk",
+        "old fashioned oats",
+        "cocoa powder",
+        "sugar",
+        "salt",
+        "chocolate chips",
+        "fruit (optional)",
+        "nuts (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

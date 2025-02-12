@@ -1,0 +1,18 @@
+{
+    "dish_name": "kidd kraddick's famous brown bag turkey",
+    "ingredients": [
+        "(18 -20   lb)    whole turkey",
+        "celery",
+        "carrot",
+        "onion",
+        "garlic cloves",
+        "olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

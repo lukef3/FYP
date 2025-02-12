@@ -1,0 +1,24 @@
+{
+    "dish_name": "barley and lentil soup",
+    "ingredients": [
+        "olive oil",
+        "onions",
+        "garlic cloves",
+        "carrots",
+        "celery",
+        "red bell pepper",
+        "sun-dried tomatoes packed in oil",
+        "dried basil",
+        "dried oregano",
+        "beef broth",
+        "crushed tomatoes",
+        "tomato paste",
+        "pearl barley",
+        "dried lentils",
+        "salt and pepper",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

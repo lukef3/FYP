@@ -1,0 +1,18 @@
+{
+    "dish_name": "italian bean soup",
+    "ingredients": [
+        "Italian sausage",
+        "hot sausage",
+        "onion",
+        "garlic clove",
+        "Italian tomatoes",
+        "Mexican tomatoes",
+        "black beans",
+        "white beans",
+        "beef broth",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

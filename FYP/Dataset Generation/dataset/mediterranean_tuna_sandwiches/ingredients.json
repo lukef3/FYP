@@ -1,0 +1,28 @@
+{
+    "dish_name": "mediterranean tuna sandwiches",
+    "ingredients": [
+        "olive oil",
+        "teaspoons    balsamic vinegar",
+        "slices    whole grain bread or 8   slices    pita bread",
+        "tuna in water",
+        "sun-dried tomato packed in oil",
+        "green olives",
+        "ripe olives",
+        "red onions",
+        "Spanish onion",
+        "red bell pepper",
+        "mayonnaise",
+        "low-fat mayonnaise",
+        "capers",
+        "fresh ground black pepper",
+        "romaine lettuce leaves",
+        "lettuce leaves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

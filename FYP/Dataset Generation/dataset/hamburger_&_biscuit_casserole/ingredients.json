@@ -1,0 +1,18 @@
+{
+    "dish_name": "hamburger & biscuit casserole",
+    "ingredients": [
+        "ground beef",
+        "onion",
+        "ounces    creamed corn",
+        "ounces    tomato soup (or your favorite canned soup)",
+        "parmesan cheese",
+        "elbow macaroni",
+        "American cheese",
+        "ounces    refrigerated biscuits"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

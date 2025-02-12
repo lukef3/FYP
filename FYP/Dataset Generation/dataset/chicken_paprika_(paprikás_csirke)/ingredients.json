@@ -1,0 +1,22 @@
+{
+    "dish_name": "chicken paprika (paprik\u00e1s csirke)",
+    "ingredients": [
+        "chicken",
+        "oil (for frying)",
+        "onion",
+        "garlic cloves",
+        "paprika",
+        "chicken broth",
+        "flour",
+        "sour cream",
+        "creme fraiche",
+        "salt & freshly ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

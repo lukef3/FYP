@@ -1,0 +1,14 @@
+{
+    "dish_name": "cake decorating icing",
+    "ingredients": [
+        "butter",
+        "shortening",
+        "powdered sugar",
+        "milk",
+        "vanilla"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

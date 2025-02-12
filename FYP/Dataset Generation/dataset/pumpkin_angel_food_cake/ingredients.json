@@ -1,0 +1,17 @@
+{
+    "dish_name": "pumpkin angel food cake",
+    "ingredients": [
+        "(18   ounce) package   angel food cake mix (the 1 step mix)",
+        "pumpkin",
+        "teaspoon    pumpkin spice",
+        "water",
+        "Cool Whip"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

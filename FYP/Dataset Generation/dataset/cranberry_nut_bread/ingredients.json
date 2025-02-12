@@ -1,0 +1,19 @@
+{
+    "dish_name": "cranberry nut bread",
+    "ingredients": [
+        "flour",
+        "sugar",
+        "baking powder",
+        "salt",
+        "baking soda",
+        "butter",
+        "egg",
+        "cup    orange juice",
+        "tablespoon   grated orange rind",
+        "fresh cranberries",
+        "walnuts"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

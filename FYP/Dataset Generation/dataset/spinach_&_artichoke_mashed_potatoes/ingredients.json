@@ -1,0 +1,21 @@
+{
+    "dish_name": "spinach & artichoke mashed potatoes",
+    "ingredients": [
+        "yukon gold potato",
+        "artichoke hearts",
+        "frozen spinach",
+        "skim milk",
+        "sour cream",
+        "margarine",
+        "parmesan cheese",
+        "garlic clove",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

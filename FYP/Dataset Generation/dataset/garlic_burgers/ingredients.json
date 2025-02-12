@@ -1,0 +1,20 @@
+{
+    "dish_name": "garlic burgers",
+    "ingredients": [
+        "lbs    ground sirloin",
+        "garlic cloves",
+        "sea salt",
+        "liquid smoke flavoring",
+        "soy sauce",
+        "fresh ground black pepper",
+        "onion",
+        "sharp cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

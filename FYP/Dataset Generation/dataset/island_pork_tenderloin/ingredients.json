@@ -1,0 +1,22 @@
+{
+    "dish_name": "island pork tenderloin",
+    "ingredients": [
+        "ounces    pork tenderloin, lean",
+        "salt",
+        "pepper",
+        "chili powder",
+        "ground cumin",
+        "cinnamon",
+        "olive oil",
+        "brown sugar",
+        "fresh garlic",
+        "Tabasco sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

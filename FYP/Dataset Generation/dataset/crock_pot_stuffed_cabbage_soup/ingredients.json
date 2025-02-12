@@ -1,0 +1,27 @@
+{
+    "dish_name": "crock pot stuffed cabbage soup",
+    "ingredients": [
+        "olive oil",
+        "lbs    90% lean ground beef or 1 1/2  lbs   very lean stew meat",
+        "onion",
+        "tomato juice",
+        "crushed tomatoes",
+        "beef bouillon cubes",
+        "barley",
+        "rice",
+        "Splenda sugar substitute",
+        "sweet paprika",
+        "garlic cloves",
+        "pepper",
+        "Tabasco sauce",
+        "cabbage",
+        "beef broth"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

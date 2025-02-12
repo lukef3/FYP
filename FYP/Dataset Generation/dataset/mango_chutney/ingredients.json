@@ -1,0 +1,22 @@
+{
+    "dish_name": "mango chutney",
+    "ingredients": [
+        "mango",
+        "sugar",
+        "vinegar",
+        "ginger",
+        "garlic",
+        "chili powder",
+        "mustard seeds",
+        "salt",
+        "raisins",
+        "sultana"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "the easiest baked macaroni & cheese",
+    "ingredients": [
+        "elbow macaroni",
+        "butter",
+        "pepper",
+        "salt",
+        "sharp cheddar cheese",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

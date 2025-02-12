@@ -1,0 +1,21 @@
+{
+    "dish_name": "italian peasant soup",
+    "ingredients": [
+        "Italian sausage",
+        "onions",
+        "garlic",
+        "boneless chicken",
+        "cannellini beans",
+        "chicken broth",
+        "diced tomatoes",
+        "dried basil",
+        "dried oregano",
+        "fresh spinach leaves",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

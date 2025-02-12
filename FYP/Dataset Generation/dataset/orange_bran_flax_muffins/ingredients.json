@@ -1,0 +1,22 @@
+{
+    "dish_name": "orange bran flax muffins",
+    "ingredients": [
+        "cups    oat bran",
+        "all-purpose flour",
+        "flax seed",
+        "cup    wheat bran",
+        "baking powder",
+        "salt",
+        "oranges",
+        "brown sugar",
+        "buttermilk",
+        "canola oil",
+        "eggs",
+        "baking soda",
+        "golden raisins"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

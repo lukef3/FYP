@@ -1,0 +1,30 @@
+{
+    "dish_name": "traditional cincinnati chili",
+    "ingredients": [
+        "water",
+        "ground beef",
+        "kidney beans",
+        "onion",
+        "garlic cloves",
+        "tomato paste",
+        "cider vinegar",
+        "Worcestershire sauce",
+        "chili powder",
+        "bay leaves",
+        "cumin",
+        "cinnamon",
+        "allspice",
+        "salt",
+        "black pepper",
+        "crushed red pepper flakes",
+        "cooked spaghetti",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "fried potato pancakes",
+    "ingredients": [
+        "russet potatoes",
+        "onion",
+        "eggs",
+        "flour",
+        "salt",
+        "ground pepper",
+        "baking powder",
+        "oil (for frying)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

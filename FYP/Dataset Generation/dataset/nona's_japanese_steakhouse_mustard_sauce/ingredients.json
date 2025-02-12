@@ -1,0 +1,19 @@
+{
+    "dish_name": "nona's japanese steakhouse mustard sauce",
+    "ingredients": [
+        "dry mustard",
+        "sugar",
+        "milk",
+        "tablespoons    cream",
+        "hot water",
+        "sesame seeds",
+        "soy sauce",
+        "garlic clove"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

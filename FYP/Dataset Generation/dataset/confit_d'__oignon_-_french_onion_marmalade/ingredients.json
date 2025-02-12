@@ -1,0 +1,22 @@
+{
+    "dish_name": "confit d'  oignon - french onion marmalade",
+    "ingredients": [
+        "onion",
+        "olive oil",
+        "sea salt",
+        "ground black pepper",
+        "bay leaves",
+        "rosemary sprigs",
+        "soft brown sugar",
+        "dry white wine",
+        "red wine vinegar",
+        "ml    balsamic vinegar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

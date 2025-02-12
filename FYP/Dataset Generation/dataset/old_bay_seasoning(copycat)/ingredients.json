@@ -1,0 +1,25 @@
+{
+    "dish_name": "old bay seasoning(copycat)",
+    "ingredients": [
+        "tablespoons    bay leaf powder",
+        "tablespoons    celery salt (or 1 tbls. ground celery seed and 1 tbls. salt)",
+        "dry mustard",
+        "ground black pepper",
+        "ground ginger",
+        "sweet paprika",
+        "white pepper",
+        "ground nutmeg",
+        "ground cloves",
+        "ground allspice",
+        "crushed red pepper flakes",
+        "ground mace",
+        "ground cardamom",
+        "ground cinnamon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

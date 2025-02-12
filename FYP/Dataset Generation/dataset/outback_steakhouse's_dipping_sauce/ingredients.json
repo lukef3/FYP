@@ -1,0 +1,16 @@
+{
+    "dish_name": "outback steakhouse's dipping sauce",
+    "ingredients": [
+        "mayonnaise",
+        "ketchup",
+        "horseradish",
+        "paprika",
+        "salt",
+        "oregano",
+        "black pepper",
+        "cayenne pepper"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dish_name": "leftover turkey hotpot",
+    "ingredients": [
+        "turkey meat",
+        "prepared stuffing",
+        "leftover gravy",
+        "potato",
+        "salt & pepper",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "breakfast in a pan frittata",
+    "ingredients": [
+        "olive oil",
+        "medium    red skin white potato, washed",
+        "red bell pepper",
+        "green onions",
+        "cup    sliced mushrooms",
+        "Canadian bacon",
+        "egg substitute",
+        "eggs",
+        "milk",
+        "mozzarella cheese",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

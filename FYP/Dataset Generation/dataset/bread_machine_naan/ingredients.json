@@ -1,0 +1,19 @@
+{
+    "dish_name": "bread machine naan",
+    "ingredients": [
+        "skim milk",
+        "butter",
+        "active dry yeast",
+        "all-purpose flour",
+        "salt",
+        "baking powder",
+        "olive oil",
+        "plain low-fat yogurt",
+        "egg",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

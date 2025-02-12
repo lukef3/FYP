@@ -1,0 +1,22 @@
+{
+    "dish_name": "mexican chicken corn chowder",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "onion",
+        "garlic",
+        "butter",
+        "chicken bouillon cubes",
+        "hot water",
+        "ground cumin",
+        "half-and-half",
+        "monterey jack cheese",
+        "(16   ounce) can   cream-style corn",
+        "green chilies",
+        "Tabasco sauce",
+        "tomatoes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

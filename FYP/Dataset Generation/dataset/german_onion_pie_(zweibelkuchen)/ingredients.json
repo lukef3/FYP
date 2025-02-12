@@ -1,0 +1,17 @@
+{
+    "dish_name": "german onion pie (zweibelkuchen)",
+    "ingredients": [
+        "bacon",
+        "yellow onions",
+        "eggs",
+        "sour cream",
+        "flour",
+        "salt",
+        "fresh ground black pepper",
+        "unbaked 9-inch pie shell"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

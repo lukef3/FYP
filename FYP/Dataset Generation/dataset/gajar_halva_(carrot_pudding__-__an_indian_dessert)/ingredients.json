@@ -1,0 +1,21 @@
+{
+    "dish_name": "gajar halva (carrot pudding  -  an indian dessert)",
+    "ingredients": [
+        "carrots",
+        "half-and-half",
+        "brown sugar",
+        "golden raisin",
+        "butter",
+        "margarine",
+        "ground cardamom",
+        "salt",
+        "pistachios"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

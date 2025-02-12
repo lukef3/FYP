@@ -1,0 +1,22 @@
+{
+    "dish_name": "jamie olivers pasta carbonara",
+    "ingredients": [
+        "farfalle pasta",
+        "egg",
+        "ml    double cream",
+        "sea salt",
+        "fresh ground black pepper",
+        "pancetta",
+        "smoked streaky bacon",
+        "fresh peas",
+        "of fresh mint",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

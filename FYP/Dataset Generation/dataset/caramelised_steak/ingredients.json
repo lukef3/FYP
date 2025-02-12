@@ -1,0 +1,18 @@
+{
+    "dish_name": "caramelised steak",
+    "ingredients": [
+        "kg    steak fillet (four Porterhouse or Scotch fillets)",
+        "soy sauce",
+        "garlic",
+        "mustard",
+        "orange, juice and zest of",
+        "palm sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

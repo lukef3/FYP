@@ -1,0 +1,17 @@
+{
+    "dish_name": "yukon sourdough flapjacks (pancakes)",
+    "ingredients": [
+        "cups   proofed sourdough starter",
+        "egg",
+        "tablespoons    oil",
+        "sugar",
+        "salt",
+        "white bread flour",
+        "baking soda"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

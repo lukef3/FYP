@@ -1,0 +1,24 @@
+{
+    "dish_name": "barefoot contessa's outrageous oreo crunch brownies",
+    "ingredients": [
+        "butter",
+        "lb    semi-sweet chocolate chips (original recipe calls for 28 oz., I feel that is too much but I will leave that up to you)",
+        "ounces    unsweetened chocolate, chopped",
+        "eggs",
+        "instant coffee granules",
+        "vanilla",
+        "sugar",
+        "flour",
+        "flour",
+        "baking powder",
+        "salt",
+        "cups   chopped Oreo cookies (50 cookies)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

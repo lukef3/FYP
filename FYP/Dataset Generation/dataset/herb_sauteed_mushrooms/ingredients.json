@@ -1,0 +1,21 @@
+{
+    "dish_name": "herb sauteed mushrooms",
+    "ingredients": [
+        "mushroom",
+        "butter",
+        "olive oil",
+        "garlic",
+        "basil",
+        "parsley",
+        "chives",
+        "sage",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dish_name": "low calorie apple-cinnamon pancakes",
+    "ingredients": [
+        "all-purpose flour",
+        "brown sugar",
+        "baking powder",
+        "cinnamon",
+        "salt",
+        "skim milk",
+        "unsweetened applesauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

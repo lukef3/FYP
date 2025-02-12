@@ -1,0 +1,23 @@
+{
+    "dish_name": "onion sauce chicken",
+    "ingredients": [
+        "Spanish onion",
+        "chicken breasts",
+        "flour",
+        "salt",
+        "pepper",
+        "olive oil",
+        "flour",
+        "cups    chicken stock",
+        "salt",
+        "fresh ground pepper",
+        "teaspoon    ground thyme"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

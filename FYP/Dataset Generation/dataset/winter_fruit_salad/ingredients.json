@@ -1,0 +1,19 @@
+{
+    "dish_name": "winter fruit salad",
+    "ingredients": [
+        "pineapple chunks",
+        "sugar",
+        "cornstarch",
+        "cup    orange juice",
+        "lemon juice",
+        "mandarin oranges",
+        "apples",
+        "bananas"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

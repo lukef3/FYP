@@ -1,0 +1,12 @@
+{
+    "dish_name": "easy snack",
+    "ingredients": [
+        "(15   ounce) bag  square waffle pretzels",
+        "(13   ounce) bags   Hershey chocolate kisses",
+        "(14   ounce) bag   peanut butter M&M's"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "ethiopian tomato & cucumber salad",
+    "ingredients": [
+        "tomatoes",
+        "cherry tomatoes",
+        "cucumbers",
+        "sweet onion",
+        "green hot pepper, seeded and finely diced",
+        "lemon juice",
+        "red wine vinegar",
+        "salt",
+        "pepper",
+        "extra virgin olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "lemon baked chicken",
+    "ingredients": [
+        "skinless chicken breast halves",
+        "butter",
+        "salt",
+        "paprika",
+        "fresh lemon juice",
+        "parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

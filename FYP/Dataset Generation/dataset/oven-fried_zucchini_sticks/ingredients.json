@@ -1,0 +1,25 @@
+{
+    "dish_name": "oven-fried zucchini sticks",
+    "ingredients": [
+        "cooking spray",
+        "cup    Italian seasoned breadcrumbs",
+        "parmesan cheese",
+        "romano cheese",
+        "asiago cheese",
+        "garlic powder",
+        "oregano",
+        "basil",
+        "parsley",
+        "zucchini",
+        "milk",
+        "egg",
+        "cup    spaghetti sauce or 1   cup    ranch dressing"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

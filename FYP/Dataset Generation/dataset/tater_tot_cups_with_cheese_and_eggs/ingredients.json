@@ -1,0 +1,16 @@
+{
+    "dish_name": "tater tot cups with cheese and eggs",
+    "ingredients": [
+        "tater tots (1 large package in frozen foods section)",
+        "eggs",
+        "tablespoons    vegetable oil",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

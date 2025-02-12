@@ -1,15 +1,18 @@
 {
     "dish_name": "easy crock pot chicken cacciatore",
     "ingredients": [
-        "chicken thighs",
-        "crushed tomatoes",
-        "tablespoon    italian seasoning",
+        "onion",
+        "chicken",
+        "tomato paste",
+        "mushrooms",
         "salt",
-        "black pepper"
+        "garlic clove",
+        "oregano",
+        "celery seed",
+        "bay leaf",
+        "water"
     ],
     "images": [
-        "images/image_1.jpg",
-        "images/image_2.jpg",
-        "images/image_3.jpg"
+        "images/image_1.jpg"
     ]
 }

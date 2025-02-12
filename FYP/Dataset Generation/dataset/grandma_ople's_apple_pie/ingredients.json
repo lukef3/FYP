@@ -1,0 +1,19 @@
+{
+    "dish_name": "grandma ople's apple pie",
+    "ingredients": [
+        "(9   inch)    double crust pie crusts",
+        "unsalted butter",
+        "all-purpose flour",
+        "white sugar",
+        "brown sugar",
+        "water",
+        "granny smith apples"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

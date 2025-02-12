@@ -1,0 +1,19 @@
+{
+    "dish_name": "garlic-herb portabella mushrooms",
+    "ingredients": [
+        "portabella mushroom caps",
+        "cup    balsamic vinegar",
+        "shallots",
+        "red onions",
+        "fresh garlic cloves",
+        "olive oil",
+        "fresh rosemary",
+        "thyme",
+        "salt and pepper, to taste",
+        "fresh parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

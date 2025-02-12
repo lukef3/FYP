@@ -1,0 +1,22 @@
+{
+    "dish_name": "peanut butter and jelly bars",
+    "ingredients": [
+        "unsalted butter",
+        "sugar",
+        "pure vanilla extract",
+        "extra-large eggs",
+        "creamy peanut butter",
+        "all-purpose flour",
+        "baking powder",
+        "kosher salt",
+        "cups    raspberry jam or 1 1/2  cups   other jam",
+        "salted peanuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

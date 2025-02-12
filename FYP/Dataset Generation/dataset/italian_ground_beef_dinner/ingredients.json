@@ -1,0 +1,24 @@
+{
+    "dish_name": "italian ground beef dinner",
+    "ingredients": [
+        "cup    dry breadcrumbs",
+        "onion",
+        "green pepper",
+        "garlic",
+        "oregano",
+        "salt",
+        "pepper",
+        "ground beef",
+        "parmesan cheese",
+        "tomato sauce",
+        "teaspoon    italian seasoning",
+        "hot cooked spaghetti"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

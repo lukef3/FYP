@@ -1,0 +1,20 @@
+{
+    "dish_name": "delicious fajita marinade",
+    "ingredients": [
+        "garlic",
+        "salt",
+        "ground cumin",
+        "chili powder",
+        "crushed red pepper flakes",
+        "tablespoons    oil (any type works)",
+        "lemon juice",
+        "cup    A.1. Original Sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

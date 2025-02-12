@@ -1,0 +1,18 @@
+{
+    "dish_name": "easy blueberry cream pie",
+    "ingredients": [
+        "cream cheese",
+        "sour cream",
+        "sugar",
+        "Cool Whip",
+        "graham cracker crust",
+        "fresh blueberries"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

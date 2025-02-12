@@ -4,18 +4,17 @@
         "flour",
         "rolled oats",
         "brown sugar",
-        "margarine",
-        "cinnamon",
+        "salt",
+        "butter",
         "rhubarb",
+        "cinnamon",
         "sugar",
         "cornstarch",
         "water",
-        "vanilla"
+        "vanilla",
+        "teaspoon    red food coloring"
     ],
     "images": [
-        "images/image_1.jpg",
-        "images/image_2.jpg",
-        "images/image_3.jpg",
-        "images/image_4.jpg"
+        "images/image_1.jpg"
     ]
 }

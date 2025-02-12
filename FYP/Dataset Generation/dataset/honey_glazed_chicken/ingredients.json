@@ -1,0 +1,20 @@
+{
+    "dish_name": "honey glazed chicken",
+    "ingredients": [
+        "flour",
+        "salt",
+        "cayenne pepper",
+        "chicken drumsticks",
+        "chicken breasts",
+        "butter",
+        "margarine",
+        "brown sugar",
+        "honey",
+        "lemon juice",
+        "soy sauce",
+        "curry powder"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

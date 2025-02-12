@@ -1,0 +1,23 @@
+{
+    "dish_name": "linda's seafood pasta salad",
+    "ingredients": [
+        "shell pasta",
+        "lemon juice",
+        "celery",
+        "onions",
+        "baby shrimp",
+        "fresh crabmeat",
+        "mayonnaise",
+        "teaspoon    Old Bay Seasoning, to taste",
+        "cup    frozen peas, thawed",
+        "parsley",
+        "salt and pepper, to taste"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

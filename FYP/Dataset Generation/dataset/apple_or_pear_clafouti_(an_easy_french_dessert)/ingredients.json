@@ -1,0 +1,21 @@
+{
+    "dish_name": "apple or pear clafouti (an easy french dessert)",
+    "ingredients": [
+        "plain flour",
+        "sugar",
+        "baking powder",
+        "eggs",
+        "milk",
+        "vanilla extract",
+        "unsalted butter",
+        "apples",
+        "pears"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

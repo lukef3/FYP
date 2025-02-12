@@ -1,0 +1,18 @@
+{
+    "dish_name": "twisted ranch baked potato casserole",
+    "ingredients": [
+        "baking potatoes",
+        "sour cream",
+        "mayonnaise",
+        "onion",
+        "bacon bits",
+        "butter",
+        "(1   ounce) envelope   ranch dressing mix"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

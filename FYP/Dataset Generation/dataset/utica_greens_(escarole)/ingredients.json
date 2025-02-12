@@ -1,0 +1,20 @@
+{
+    "dish_name": "utica greens (escarole)",
+    "ingredients": [
+        "escarole",
+        "prosciutto",
+        "garlic clove",
+        "olive oil",
+        "long italian hot peppers, seeded & julienned",
+        "cup    breadcrumbs",
+        "pecorino romano cheese",
+        "chicken broth",
+        "salt and pepper, to taste  (at the very end)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "mexican pollo asado",
+    "ingredients": [
+        "chicken breasts",
+        "black pepper",
+        "lime juice",
+        "ground cumin",
+        "white vinegar",
+        "olive oil",
+        "onion",
+        "sea salt",
+        "garlic cloves",
+        "small    dried red peppers"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

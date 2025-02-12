@@ -1,0 +1,27 @@
+{
+    "dish_name": "american chop suey",
+    "ingredients": [
+        "butter",
+        "yellow onion",
+        "green bell pepper",
+        "garlic cloves",
+        "ground beef",
+        "dried oregano",
+        "dried basil",
+        "ground black pepper",
+        "kosher salt",
+        "diced tomatoes",
+        "tomato sauce",
+        "tomato paste",
+        "tomato juice",
+        "sugar",
+        "elbow macaroni"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

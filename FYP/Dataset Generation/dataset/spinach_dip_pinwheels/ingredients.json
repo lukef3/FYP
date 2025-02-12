@@ -1,0 +1,17 @@
+{
+    "dish_name": "spinach dip pinwheels",
+    "ingredients": [
+        "frozen chopped spinach",
+        "(3 -5   ounce) package   Knorr vegetable soup mix",
+        "sour cream",
+        "mayonnaise",
+        "water chestnuts",
+        "green onions",
+        "flour tortillas"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "dish_name": "antipasto pasta salad",
+    "ingredients": [
+        "rotini pasta",
+        "garbanzo beans",
+        "(3 1/2  ounce) package  sliced pepperoni, halved",
+        "sliced ripe olives",
+        "cup   diced sweet red pepper",
+        "green pepper",
+        "fresh mushrooms",
+        "garlic",
+        "dried basil",
+        "salt",
+        "dried oregano",
+        "pepper",
+        "cayenne pepper",
+        "olive oil",
+        "lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

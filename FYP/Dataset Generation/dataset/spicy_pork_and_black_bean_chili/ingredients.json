@@ -1,0 +1,27 @@
+{
+    "dish_name": "spicy pork and black bean chili",
+    "ingredients": [
+        "black beans",
+        "boneless lean pork",
+        "garlic",
+        "paprika",
+        "cumin",
+        "tomatoes",
+        "red wine vinegar",
+        "parsley",
+        "black pepper",
+        "olive oil",
+        "onions",
+        "chili powder",
+        "oregano",
+        "teaspoon    chili pepper flakes",
+        "cups    chicken stock",
+        "green peppers",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

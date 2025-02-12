@@ -1,0 +1,42 @@
+{
+    "dish_name": "fruit salad supreme",
+    "ingredients": [
+        "cantaloupe",
+        "pineapple",
+        "green grapes",
+        "orange marmalade",
+        "fresh lemon juice",
+        "tablespoons    fresh orange juice",
+        "blueberries",
+        "strawberries",
+        "raspberries",
+        "cup    mulberries (optional)",
+        "blackberries",
+        "red seedless grapes",
+        "green grapes",
+        "cup    goji berry (extremely optional)",
+        "watermelon",
+        "honeydew melon",
+        "rock melon",
+        "red currants",
+        "black currants",
+        "cranberries",
+        "banana",
+        "kiwi fruit",
+        "cup    peach (optional)",
+        "nectarine",
+        "mixed berry",
+        "coconut",
+        "mango",
+        "tangerine",
+        "cup    cloudberries (optional)",
+        "plums"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

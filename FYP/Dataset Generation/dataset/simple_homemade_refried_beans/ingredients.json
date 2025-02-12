@@ -1,0 +1,15 @@
+{
+    "dish_name": "simple homemade refried beans",
+    "ingredients": [
+        "pinto beans",
+        "butter",
+        "salt",
+        "salsa",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

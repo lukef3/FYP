@@ -1,0 +1,24 @@
+{
+    "dish_name": "hot stuffed mama burger",
+    "ingredients": [
+        "lean ground beef",
+        "teaspoons    steak seasoning",
+        "garlic cloves",
+        "sweet onion",
+        "diced green chilies",
+        "monterey jack pepper cheese",
+        "pineapple rings",
+        "cup   thick teriyaki sauce (or barbecue sauce)",
+        "romaine lettuce",
+        "kaiser rolls",
+        "butter",
+        "margarine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

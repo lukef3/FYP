@@ -1,0 +1,26 @@
+{
+    "dish_name": "chicken and cashew stir-fry",
+    "ingredients": [
+        "scallion",
+        "boneless skinless chicken thighs",
+        "salt",
+        "black pepper",
+        "tablespoons    vegetable oil",
+        "red bell pepper",
+        "garlic cloves",
+        "fresh ginger",
+        "hot red pepper flakes",
+        "reduced-sodium chicken broth",
+        "soy sauce",
+        "cornstarch",
+        "sugar",
+        "salted cashews"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

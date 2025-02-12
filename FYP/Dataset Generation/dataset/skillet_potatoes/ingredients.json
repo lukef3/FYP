@@ -1,0 +1,23 @@
+{
+    "dish_name": "skillet potatoes",
+    "ingredients": [
+        "cups   cubed red potatoes",
+        "shallots",
+        "olive oil",
+        "tablespoons    oil, from sun-dried tomatoes",
+        "frozen chopped spinach",
+        "sun-dried tomato packed in oil",
+        "ground cayenne pepper",
+        "salt",
+        "butter",
+        "asiago cheese",
+        "bacon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

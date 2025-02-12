@@ -1,0 +1,17 @@
+{
+    "dish_name": "creamy  tortilla soup-vegetarian",
+    "ingredients": [
+        "Rotel tomatoes & chilies",
+        "vegetable broth",
+        "vegetarian refried beans",
+        "black beans",
+        "corn",
+        "fresh cilantro",
+        "corn tortilla strips",
+        "monterey jack cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

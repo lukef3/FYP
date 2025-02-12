@@ -1,0 +1,15 @@
+{
+    "dish_name": "sauce for chicken cordon bleu",
+    "ingredients": [
+        "butter",
+        "flour",
+        "milk",
+        "chicken bouillon cubes",
+        "dry sherry",
+        "Dijon mustard",
+        "Worcestershire sauce"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

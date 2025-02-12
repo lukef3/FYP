@@ -1,0 +1,26 @@
+{
+    "dish_name": "vegetable lasagna with white sauce",
+    "ingredients": [
+        "zucchini",
+        "broccoli",
+        "bunch    spinach leaves (firmly packed)",
+        "butter",
+        "dried oregano leaves",
+        "salt",
+        "ricotta cheese",
+        "eggs",
+        "lasagna noodles (about)",
+        "butter",
+        "flour",
+        "milk",
+        "parmesan cheese",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

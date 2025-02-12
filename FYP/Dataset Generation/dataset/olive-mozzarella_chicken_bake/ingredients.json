@@ -1,0 +1,24 @@
+{
+    "dish_name": "olive-mozzarella chicken bake",
+    "ingredients": [
+        "flour",
+        "salt",
+        "ground pepper",
+        "olive oil",
+        "butter",
+        "boneless chicken breasts",
+        "garlic",
+        "onion",
+        "(8   ounce) can   sliced mushrooms",
+        "cups    pasta sauce (home-made or one 14-ounce jar store-bought)",
+        "cup   sliced pimento stuffed olive",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

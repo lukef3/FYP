@@ -1,0 +1,21 @@
+{
+    "dish_name": "hot dog onion sauce",
+    "ingredients": [
+        "canola oil",
+        "onions",
+        "ketchup",
+        "ground cinnamon",
+        "chili powder",
+        "garlic powder",
+        "dash    hot pepper sauce",
+        "salt",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

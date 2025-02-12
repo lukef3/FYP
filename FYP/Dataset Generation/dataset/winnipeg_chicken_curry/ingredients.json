@@ -1,0 +1,19 @@
+{
+    "dish_name": "winnipeg chicken curry",
+    "ingredients": [
+        "butter",
+        "onions",
+        "curry powder",
+        "chicken breasts",
+        "cups    chicken stock, heated",
+        "cornstarch",
+        "water",
+        "cup    cream (I use milk)",
+        "salt & pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

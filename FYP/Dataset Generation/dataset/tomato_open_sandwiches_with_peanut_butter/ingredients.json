@@ -1,0 +1,15 @@
+{
+    "dish_name": "tomato open sandwiches with peanut butter",
+    "ingredients": [
+        "slices    whole wheat bread",
+        "peanut butter",
+        "tomatoes",
+        "spinach",
+        "lettuce",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

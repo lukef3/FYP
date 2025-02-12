@@ -1,9 +1,8 @@
 {
-    "dish_name": "bacon-wrapped cream cheese chicken breast",
     "allergens": [
         0,
         0,
-        0,
+        1,
         0,
         0,
         0,

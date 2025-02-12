@@ -1,0 +1,22 @@
+{
+    "dish_name": "arroz con pollo 1 dish meal",
+    "ingredients": [
+        "boneless skinless chicken",
+        "tablespoons    cooking oil",
+        "button mushroom",
+        "onion",
+        "garlic cloves",
+        "salsa",
+        "monterey jack cheese",
+        "cups    chicken stock",
+        "cooked rice",
+        "salt and pepper",
+        "parsley",
+        "cilantro",
+        "cumin",
+        "ground cayenne pepper"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

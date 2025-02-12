@@ -1,0 +1,19 @@
+{
+    "dish_name": "breakfast cereal muffins",
+    "ingredients": [
+        "egg",
+        "cup    salad oil or 1/4  cup    vegetable oil",
+        "milk",
+        "honey",
+        "flour",
+        "brown sugar",
+        "baking powder",
+        "salt",
+        "cups    breakfast cereal (like Raisin Bran, All Bran, Corn Flakes, Rice Krispies, etc.)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

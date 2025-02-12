@@ -1,0 +1,23 @@
+{
+    "dish_name": "fluffy molasses cookies",
+    "ingredients": [
+        "butter",
+        "margarine",
+        "Crisco shortening",
+        "white sugar",
+        "brown sugar",
+        "molasses",
+        "eggs",
+        "flour",
+        "salt",
+        "baking soda",
+        "ground ginger",
+        "ground cloves",
+        "ground cinnamon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

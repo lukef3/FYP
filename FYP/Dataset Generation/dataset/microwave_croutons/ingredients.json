@@ -1,0 +1,17 @@
+{
+    "dish_name": "microwave croutons",
+    "ingredients": [
+        "butter",
+        "parsley flakes",
+        "paprika",
+        "teaspoon    garlic salt",
+        "pepper",
+        "slices    bread, cut in 1/2 inch cubes  (I used one whole hot dog bun)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

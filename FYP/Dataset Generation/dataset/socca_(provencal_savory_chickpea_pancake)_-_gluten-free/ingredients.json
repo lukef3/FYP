@@ -1,0 +1,19 @@
+{
+    "dish_name": "socca (provencal savory chickpea pancake) - gluten-free",
+    "ingredients": [
+        "chickpea flour",
+        "salt",
+        "pepper",
+        "warm water",
+        "olive oil",
+        "onion",
+        "fresh rosemary leaf"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

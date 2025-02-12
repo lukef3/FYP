@@ -1,0 +1,19 @@
+{
+    "dish_name": "cheesy potato bacon packets for the grill",
+    "ingredients": [
+        "potatoes",
+        "onions",
+        "parmesan cheese",
+        "cheddar cheese",
+        "mozzarella cheese",
+        "bacon",
+        "butter",
+        "seasoning salt",
+        "black pepper",
+        "cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

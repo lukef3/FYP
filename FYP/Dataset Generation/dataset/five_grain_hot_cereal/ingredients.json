@@ -1,0 +1,14 @@
+{
+    "dish_name": "five grain hot cereal",
+    "ingredients": [
+        "oatmeal",
+        "quick-cooking barley",
+        "brown rice",
+        "whole wheat flour",
+        "cornmeal",
+        "sesame seeds"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

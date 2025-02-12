@@ -1,0 +1,23 @@
+{
+    "dish_name": "grilled greek-style zucchini",
+    "ingredients": [
+        "zucchini",
+        "tomatoes",
+        "pitted ripe olives",
+        "green onions",
+        "olive oil",
+        "canola oil",
+        "lemon juice",
+        "oregano",
+        "teaspoon    garlic salt",
+        "pepper",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

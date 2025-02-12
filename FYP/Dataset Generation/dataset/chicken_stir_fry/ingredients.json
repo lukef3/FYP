@@ -1,0 +1,21 @@
+{
+    "dish_name": "chicken stir fry",
+    "ingredients": [
+        "boneless chicken",
+        "teaspoon    oil",
+        "onion",
+        "carrot",
+        "green pepper",
+        "fresh mushrooms",
+        "chicken broth",
+        "cornstarch",
+        "soy sauce",
+        "ground ginger",
+        "cups    peapods, trimmed",
+        "cashews"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

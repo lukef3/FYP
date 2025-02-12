@@ -1,0 +1,30 @@
+{
+    "dish_name": "moroccan lentil and chickpea soup",
+    "ingredients": [
+        "butter",
+        "onions",
+        "celery rib",
+        "ground cinnamon",
+        "turmeric",
+        "salt",
+        "ground pepper",
+        "ground ginger",
+        "teaspoon    hot pepper sauce",
+        "saffron",
+        "diced tomatoes",
+        "brown lentils",
+        "chickpeas",
+        "vegetable broth",
+        "cup    vermicelli, broken  (or orzo or other small pasta)",
+        "flour",
+        "fresh parsley",
+        "fresh cilantro",
+        "lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

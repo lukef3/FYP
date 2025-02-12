@@ -1,0 +1,27 @@
+{
+    "dish_name": "tuna macaroni salad",
+    "ingredients": [
+        "macaroni noodles",
+        "tuna",
+        "green onions",
+        "onion",
+        "green bell pepper",
+        "celery",
+        "sweet pickles",
+        "mayonnaise",
+        "sour cream",
+        "tablespoons    sweet pickle relish (optional or to taste)",
+        "garlic powder",
+        "prepared yellow mustard",
+        "seasoning salt",
+        "fresh ground black pepper",
+        "paprika",
+        "hard-boiled eggs"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

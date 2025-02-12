@@ -1,0 +1,18 @@
+{
+    "dish_name": "teriyaki chicken wings",
+    "ingredients": [
+        "chicken wings",
+        "soy sauce",
+        "water",
+        "brown sugar",
+        "dry mustard",
+        "ground ginger",
+        "gingerroot",
+        "garlic cloves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

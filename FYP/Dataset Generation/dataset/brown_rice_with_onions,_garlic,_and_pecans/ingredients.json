@@ -1,0 +1,18 @@
+{
+    "dish_name": "brown rice with onions, garlic, and pecans",
+    "ingredients": [
+        "brown rice",
+        "white rice",
+        "chicken broth",
+        "water",
+        "butter",
+        "yellow onion",
+        "garlic cloves",
+        "pecans",
+        "green onions"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

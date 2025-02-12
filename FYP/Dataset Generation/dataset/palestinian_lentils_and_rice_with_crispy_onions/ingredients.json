@@ -1,0 +1,17 @@
+{
+    "dish_name": "palestinian lentils and rice with crispy onions",
+    "ingredients": [
+        "cup    jasmine rice",
+        "dried lentils",
+        "olive oil",
+        "onions",
+        "cumin",
+        "salt",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

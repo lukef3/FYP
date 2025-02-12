@@ -1,0 +1,14 @@
+{
+    "dish_name": "pressure cooker whole chicken",
+    "ingredients": [
+        "whole chickens",
+        "olive oil",
+        "salt & pepper",
+        "water",
+        "chicken broth"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

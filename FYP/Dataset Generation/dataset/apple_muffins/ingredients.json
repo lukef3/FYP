@@ -1,0 +1,24 @@
+{
+    "dish_name": "apple muffins",
+    "ingredients": [
+        "sugar",
+        "butter",
+        "margarine",
+        "brown sugar",
+        "cup    corn oil or 2/3  cup    vegetable oil",
+        "egg",
+        "buttermilk",
+        "baking soda",
+        "salt",
+        "vanilla",
+        "flour",
+        "apples",
+        "pecans"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

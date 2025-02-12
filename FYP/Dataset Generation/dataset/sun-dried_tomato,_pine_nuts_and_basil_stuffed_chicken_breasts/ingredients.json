@@ -1,0 +1,19 @@
+{
+    "dish_name": "sun-dried tomato, pine nuts and basil stuffed chicken breasts",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "pepper",
+        "garlic powder",
+        "pine nuts",
+        "sun-dried tomatoes",
+        "basil",
+        "olive oil",
+        "cup    balsamic vinegar",
+        "cup    chicken stock"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

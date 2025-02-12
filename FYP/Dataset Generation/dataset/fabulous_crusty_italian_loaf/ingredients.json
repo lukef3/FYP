@@ -1,0 +1,20 @@
+{
+    "dish_name": "fabulous crusty italian loaf",
+    "ingredients": [
+        "active dry yeast",
+        "warm water",
+        "unbleached flour",
+        "all-purpose flour",
+        "sugar",
+        "salt",
+        "olive oil",
+        "cornmeal",
+        "egg yolk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

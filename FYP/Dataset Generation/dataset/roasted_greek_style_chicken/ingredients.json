@@ -1,0 +1,14 @@
+{
+    "dish_name": "roasted greek style chicken",
+    "ingredients": [
+        "chicken",
+        "olive oil",
+        "dried oregano",
+        "lemons, juice of",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

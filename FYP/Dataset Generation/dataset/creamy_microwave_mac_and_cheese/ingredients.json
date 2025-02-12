@@ -1,0 +1,19 @@
+{
+    "dish_name": "creamy microwave mac and cheese",
+    "ingredients": [
+        "water",
+        "elbow macaroni",
+        "butter",
+        "flour",
+        "salt",
+        "low-fat milk",
+        "cheddar cheese",
+        "breadcrumbs (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "lemon chicken-just like take out !",
+    "ingredients": [
+        "boneless skinless chicken breasts",
+        "soya sauce",
+        "cornstarch",
+        "baking powder",
+        "eggs",
+        "cups    oil",
+        "white sugar",
+        "cornstarch",
+        "lemon juice",
+        "chicken broth",
+        "lemons"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

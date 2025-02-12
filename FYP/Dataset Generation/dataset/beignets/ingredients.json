@@ -1,0 +1,22 @@
+{
+    "dish_name": "beignets",
+    "ingredients": [
+        "active dry yeast",
+        "warm water",
+        "sugar",
+        "salt",
+        "eggs",
+        "evaporated milk",
+        "flour",
+        "vegetable shortening",
+        "oil (for deep frying)",
+        "confectioners' sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

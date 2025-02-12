@@ -1,0 +1,15 @@
+{
+    "dish_name": "red, white, and blue jello",
+    "ingredients": [
+        "berry blue gelatin mix",
+        "(3 1/2  ounce) package   lemon Jell-O gelatin",
+        "cream cheese",
+        "ounces    whipped topping (Cool Whip)",
+        "raspberry Jell-O gelatin"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "oven roasted green beans",
+    "ingredients": [
+        "green beans",
+        "tablespoons    slivered almonds",
+        "lemon juice",
+        "lemon zest",
+        "olive oil",
+        "garlic powder",
+        "dried basil",
+        "salt & freshly ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "nilla wafers original banana pudding",
+    "ingredients": [
+        "granulated sugar",
+        "all-purpose flour",
+        "salt",
+        "eggs",
+        "milk",
+        "vanilla extract",
+        "shortbread cookies (like \"Nilla wafers\", reserve 10 to 12 for garnish)",
+        "bananas"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

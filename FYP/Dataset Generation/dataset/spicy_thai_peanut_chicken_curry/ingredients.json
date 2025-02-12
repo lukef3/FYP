@@ -1,0 +1,22 @@
+{
+    "dish_name": "spicy thai peanut chicken curry",
+    "ingredients": [
+        "tablespoons    peanut oil",
+        "red curry paste",
+        "sambal oelek",
+        "chicken breasts",
+        "coconut milk",
+        "fish sauce",
+        "brown sugar",
+        "creamy peanut butter",
+        "cooked jasmine rice",
+        "peanuts",
+        "lime"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

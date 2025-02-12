@@ -1,0 +1,23 @@
+{
+    "dish_name": "tahini goddess salad dressing",
+    "ingredients": [
+        "olive oil",
+        "cup    toasted sesame oil (Not plain sesame oil)",
+        "tahini",
+        "red wine vinegar",
+        "water",
+        "green onions",
+        "lemon juice",
+        "soy sauce",
+        "soy sauce",
+        "fresh garlic cloves",
+        "sesame seeds",
+        "salt",
+        "pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

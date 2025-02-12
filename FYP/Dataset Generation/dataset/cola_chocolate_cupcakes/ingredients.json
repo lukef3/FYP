@@ -1,0 +1,25 @@
+{
+    "dish_name": "cola chocolate cupcakes",
+    "ingredients": [
+        "all-purpose flour",
+        "white sugar",
+        "brown sugar",
+        "cup    cocoa, measured,then sifted",
+        "baking soda",
+        "baking powder",
+        "salt",
+        "vanilla",
+        "eggs",
+        "cup    oil",
+        "cup    strong coffee or 1   cup    cola",
+        "buttermilk",
+        "yogurt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

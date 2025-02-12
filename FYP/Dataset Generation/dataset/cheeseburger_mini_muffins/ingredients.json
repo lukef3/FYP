@@ -1,0 +1,21 @@
+{
+    "dish_name": "cheeseburger mini muffins",
+    "ingredients": [
+        "ground beef",
+        "onion",
+        "all-purpose flour",
+        "sugar",
+        "baking powder",
+        "salt",
+        "ketchup",
+        "milk",
+        "butter",
+        "margarine",
+        "eggs",
+        "prepared mustard",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

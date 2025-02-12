@@ -1,0 +1,19 @@
+{
+    "dish_name": "creamy garlic shrimp",
+    "ingredients": [
+        "shrimp",
+        "garlic",
+        "crushed red pepper flakes",
+        "green onions",
+        "butter",
+        "flour",
+        "milk",
+        "white cheddar cheese",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

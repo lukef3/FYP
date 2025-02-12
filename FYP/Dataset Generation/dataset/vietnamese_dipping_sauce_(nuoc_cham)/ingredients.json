@@ -1,0 +1,21 @@
+{
+    "dish_name": "vietnamese dipping sauce (nuoc cham)",
+    "ingredients": [
+        "carrot",
+        "garlic cloves",
+        "sugar",
+        "warm water",
+        "fish sauce",
+        "fresh lime juice",
+        "white vinegar",
+        "red Thai chile, thinly sliced  (2-3 more if you like it hot)",
+        "green onion"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "garlic prime rib",
+    "ingredients": [
+        "lbs    prime rib roast",
+        "garlic",
+        "olive oil",
+        "salt",
+        "ground black pepper",
+        "dried thyme"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

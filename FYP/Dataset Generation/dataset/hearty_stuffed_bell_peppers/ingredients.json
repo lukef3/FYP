@@ -1,0 +1,20 @@
+{
+    "dish_name": "hearty stuffed bell peppers",
+    "ingredients": [
+        "green bell peppers",
+        "ground beef",
+        "garlic cloves",
+        "onion",
+        "cooked rice",
+        "tomato sauce",
+        "salt",
+        "black pepper",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

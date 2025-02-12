@@ -1,0 +1,28 @@
+{
+    "dish_name": "milagro meatloaf",
+    "ingredients": [
+        "unsalted butter",
+        "onion",
+        "green bell peppers",
+        "red bell pepper",
+        "garlic cloves",
+        "fresh ground black pepper",
+        "cayenne",
+        "salt",
+        "cumin seed",
+        "lean ground beef",
+        "ground pork",
+        "cups    dry breadcrumbs",
+        "barbecue sauce",
+        "sour cream",
+        "Worcestershire sauce",
+        "egg",
+        "milk",
+        "barbecue sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

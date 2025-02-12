@@ -1,0 +1,17 @@
+{
+    "dish_name": "bananas with coconut milk (gluten free)",
+    "ingredients": [
+        "bananas",
+        "coconut milk",
+        "maple syrup",
+        "liquid honey",
+        "ground cinnamon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

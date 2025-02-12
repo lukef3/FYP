@@ -1,0 +1,18 @@
+{
+    "dish_name": "super easy peach cobbler",
+    "ingredients": [
+        "cups    fresh peaches",
+        "lemon juice",
+        "flour",
+        "sugar",
+        "salt",
+        "egg",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

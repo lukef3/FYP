@@ -1,0 +1,22 @@
+{
+    "dish_name": "diabetic oatmeal-raisin cookies",
+    "ingredients": [
+        "self-rising flour",
+        "butter",
+        "Splenda granular",
+        "milk",
+        "quick oats",
+        "egg",
+        "cinnamon",
+        "cup    Splenda brown sugar blend",
+        "vanilla",
+        "dark raisin"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

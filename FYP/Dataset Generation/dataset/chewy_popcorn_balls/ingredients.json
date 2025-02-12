@@ -1,0 +1,16 @@
+{
+    "dish_name": "chewy popcorn balls",
+    "ingredients": [
+        "cup    unpopped popcorn",
+        "butter",
+        "miniature marshmallow",
+        "powdered sugar",
+        "light corn syrup",
+        "water",
+        "food coloring"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

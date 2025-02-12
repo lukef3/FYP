@@ -1,0 +1,24 @@
+{
+    "dish_name": "alton brown - chewy gluten free chocolate chip cookies",
+    "ingredients": [
+        "butter",
+        "cups    brown rice flour",
+        "cornstarch",
+        "tapioca flour",
+        "xanthan gum",
+        "kosher salt",
+        "baking soda",
+        "sugar",
+        "brown sugar",
+        "egg",
+        "egg yolk",
+        "milk",
+        "vanilla",
+        "ounces    semi-sweet chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

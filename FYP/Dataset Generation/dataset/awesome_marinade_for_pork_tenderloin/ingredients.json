@@ -1,0 +1,19 @@
+{
+    "dish_name": "awesome marinade for pork tenderloin",
+    "ingredients": [
+        "lbs    pork tenderloin",
+        "soy sauce",
+        "hoisin sauce",
+        "dry sherry",
+        "tablespoon    peanut oil",
+        "honey",
+        "light brown sugar",
+        "teaspoon    garlic salt",
+        "cinnamon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

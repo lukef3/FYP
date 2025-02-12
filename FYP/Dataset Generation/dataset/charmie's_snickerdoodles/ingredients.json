@@ -1,0 +1,22 @@
+{
+    "dish_name": "charmie's snickerdoodles",
+    "ingredients": [
+        "all-purpose flour",
+        "baking soda",
+        "cream of tartar",
+        "salt",
+        "butter",
+        "sugar",
+        "eggs",
+        "milk",
+        "vanilla",
+        "cinnamon-sugar mixture"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

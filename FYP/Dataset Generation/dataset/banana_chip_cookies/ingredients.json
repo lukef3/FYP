@@ -1,0 +1,19 @@
+{
+    "dish_name": "banana chip cookies",
+    "ingredients": [
+        "flour",
+        "sugar",
+        "butter",
+        "banana",
+        "salt",
+        "vanilla",
+        "2/3  cup    semi-sweet chocolate chips (OR combo of both) or 2/3  cup    peanut butter chips (OR combo of both)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dish_name": "mustard lamb chops",
+    "ingredients": [
+        "cup    dry breadcrumbs",
+        "garlic cloves",
+        "thyme",
+        "pepper",
+        "Dijon mustard",
+        "shoulder lamb chops"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

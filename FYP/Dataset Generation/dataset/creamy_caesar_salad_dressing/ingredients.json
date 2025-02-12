@@ -1,0 +1,17 @@
+{
+    "dish_name": "creamy caesar salad dressing",
+    "ingredients": [
+        "lemon",
+        "Dijon mustard",
+        "Worcestershire sauce",
+        "garlic clove",
+        "black pepper",
+        "mayonnaise",
+        "olive oil",
+        "fresh parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dish_name": "spinach falafel balls",
+    "ingredients": [
+        "frozen chopped spinach",
+        "herb stuffing mix",
+        "onions",
+        "eggs",
+        "butter",
+        "parmesan cheese",
+        "tablespoon    garlic salt",
+        "thyme",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

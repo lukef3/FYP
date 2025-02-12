@@ -1,0 +1,28 @@
+{
+    "dish_name": "ground beef curry",
+    "ingredients": [
+        "teaspoon    cooking oil",
+        "lean ground beef",
+        "green pepper",
+        "onion",
+        "garlic cloves",
+        "flour",
+        "curry powder",
+        "beef broth",
+        "tomato juice",
+        "chickpeas",
+        "diced tomatoes",
+        "cups    frozen peas, thawed",
+        "salt",
+        "teaspoon    chili paste",
+        "cup    light plain yogurt",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

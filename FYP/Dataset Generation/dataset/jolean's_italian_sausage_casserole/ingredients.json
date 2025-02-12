@@ -1,0 +1,19 @@
+{
+    "dish_name": "jolean's italian sausage casserole",
+    "ingredients": [
+        "macaroni",
+        "butter",
+        "sage sausage",
+        "(16   ounce) jar   spaghetti sauce (Classico was the only brand Mom would use for this.)",
+        "button mushrooms",
+        "mozzarella cheese",
+        "romano cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

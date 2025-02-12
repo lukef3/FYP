@@ -1,0 +1,23 @@
+{
+    "dish_name": "chicken tetrazzini",
+    "ingredients": [
+        "mushrooms",
+        "heavy cream",
+        "ounces    thin spaghetti, cooked and drained",
+        "cups    cooked chicken breasts, cubed",
+        "butter",
+        "flour",
+        "salt",
+        "pepper",
+        "chicken broth",
+        "sherry wine",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

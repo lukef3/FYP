@@ -1,0 +1,19 @@
+{
+    "dish_name": "authentic mexican rice",
+    "ingredients": [
+        "rice",
+        "cup    vegetable oil",
+        "tomatoes",
+        "onion",
+        "garlic cloves",
+        "chicken bouillon cube",
+        "salt",
+        "(14 1/2  ounce) can   mixed vegetables (optional)",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "white potato salad (no mustard)",
+    "ingredients": [
+        "potatoes",
+        "onion",
+        "celery",
+        "eggs",
+        "small    sweet gherkins",
+        "Miracle Whip",
+        "white vinegar",
+        "white sugar",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

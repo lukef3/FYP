@@ -1,0 +1,17 @@
+{
+    "dish_name": "glazed baby carrots dijonaise",
+    "ingredients": [
+        "lb    baby carrots, ready to cook",
+        "butter",
+        "light brown sugar",
+        "Dijon mustard",
+        "salt",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

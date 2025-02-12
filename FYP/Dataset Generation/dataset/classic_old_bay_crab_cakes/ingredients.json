@@ -1,0 +1,24 @@
+{
+    "dish_name": "classic old bay crab cakes",
+    "ingredients": [
+        "slice    bread, dried and crusts removed",
+        "milk",
+        "mayonnaise",
+        "Worcestershire sauce",
+        "parsley flakes",
+        "baking powder",
+        "teaspoon    Old Bay Seasoning",
+        "salt",
+        "lemon juice",
+        "egg",
+        "fresh crabmeat",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

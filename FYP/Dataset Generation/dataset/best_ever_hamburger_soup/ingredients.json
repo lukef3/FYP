@@ -1,0 +1,21 @@
+{
+    "dish_name": "best ever hamburger soup",
+    "ingredients": [
+        "hamburger",
+        "water",
+        "tomatoes",
+        "onion",
+        "carrots",
+        "barley",
+        "catsup",
+        "beef bouillon cubes",
+        "teaspoons    Lawry's Seasoned Salt",
+        "basil",
+        "ground pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

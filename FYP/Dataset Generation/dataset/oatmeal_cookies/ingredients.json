@@ -1,0 +1,13 @@
+{
+    "dish_name": "oatmeal cookies",
+    "ingredients": [
+        "margarine",
+        "oats",
+        "sugar",
+        "self rising flour",
+        "vanilla"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "kittencal's greek lemony rice with feta",
+    "ingredients": [
+        "olive oil",
+        "onion",
+        "dried oregano",
+        "garlic cloves",
+        "fresh ground black pepper",
+        "long grain white rice",
+        "chicken broth",
+        "lemon, juice of, large whole",
+        "feta cheese",
+        "kalamata olive",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

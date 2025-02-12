@@ -1,0 +1,22 @@
+{
+    "dish_name": "penne with creamy garlic sauce",
+    "ingredients": [
+        "(1   lb) package   penne rigate",
+        "butter",
+        "garlic cloves",
+        "flour",
+        "chicken",
+        "beef broth",
+        "milk",
+        "dried parsley flakes",
+        "salt and pepper, to taste",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

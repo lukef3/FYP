@@ -1,0 +1,21 @@
+{
+    "dish_name": "world's best lasagna",
+    "ingredients": [
+        "uncooked lasagna noodles",
+        "ground beef",
+        "(32   ounce) jar   spaghetti sauce, any flavor",
+        "water",
+        "cottage cheese",
+        "mozzarella cheese",
+        "parmesan cheese",
+        "eggs",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

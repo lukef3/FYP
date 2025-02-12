@@ -1,9 +1,8 @@
 {
-    "dish_name": "super easy pasta salad",
     "allergens": [
         1,
         0,
-        0,
+        1,
         0,
         0,
         0,

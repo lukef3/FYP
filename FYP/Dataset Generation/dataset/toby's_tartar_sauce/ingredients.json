@@ -1,0 +1,23 @@
+{
+    "dish_name": "toby's tartar sauce",
+    "ingredients": [
+        "mayonnaise",
+        "cup    dill relish, well drained",
+        "tablespoons    sweet relish, well drained,to taste,starting the smaller amount and increasing to taste",
+        "onion",
+        "garlic",
+        "fresh parsley leaves",
+        "capers",
+        "fresh lemon juice",
+        "Worcestershire sauce",
+        "dry mustard",
+        "Dijon mustard",
+        "Tabasco sauce",
+        "salt & freshly ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

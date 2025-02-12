@@ -1,0 +1,18 @@
+{
+    "dish_name": "low-carb pancakes",
+    "ingredients": [
+        "cup    almond meal or 1   cup    almond flour",
+        "eggs",
+        "sparkling water",
+        "tablespoons    oil",
+        "salt",
+        "Splenda sugar substitute"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

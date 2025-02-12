@@ -1,0 +1,20 @@
+{
+    "dish_name": "maple cream cheese french toast casserole",
+    "ingredients": [
+        "cups    bread cubes (cut into about 1-inch cubes, use stale bread but not hard for this)",
+        "cream cheese",
+        "sugar",
+        "eggs",
+        "full-fat milk",
+        "half-and-half cream",
+        "maple syrup",
+        "vanilla",
+        "powdered sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

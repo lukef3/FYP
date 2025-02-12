@@ -1,0 +1,21 @@
+{
+    "dish_name": "no need to knead bread (rinjii bread)",
+    "ingredients": [
+        "sugar",
+        "active dry yeast",
+        "sea salt",
+        "hot water",
+        "flour",
+        "cheese",
+        "olive oil",
+        "fresh herb",
+        "olive oil",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

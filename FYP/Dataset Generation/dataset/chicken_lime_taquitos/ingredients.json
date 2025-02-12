@@ -1,0 +1,27 @@
+{
+    "dish_name": "chicken lime taquitos",
+    "ingredients": [
+        "salt",
+        "chili powder",
+        "garlic powder",
+        "cup    oil",
+        "fresh lime juice",
+        "chicken breasts",
+        "salt",
+        "garlic",
+        "cup    roasted red pepper, julienned",
+        "cup    pasilla chile, julienned",
+        "yellow onion",
+        "monterey jack cheese",
+        "fresh lime juice",
+        "corn tortillas",
+        "oil (for frying)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

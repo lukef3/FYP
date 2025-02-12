@@ -1,0 +1,22 @@
+{
+    "dish_name": "robyn's crock pot herb roasted potatoes",
+    "ingredients": [
+        "potatoes",
+        "water",
+        "salt",
+        "pepper",
+        "garlic powder",
+        "teaspoon    instant minced onion",
+        "dried dill",
+        "teaspoon    italian seasoning",
+        "dried parsley",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

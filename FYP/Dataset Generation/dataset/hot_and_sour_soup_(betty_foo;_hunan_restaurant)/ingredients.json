@@ -1,0 +1,29 @@
+{
+    "dish_name": "hot and sour soup (betty foo; hunan restaurant)",
+    "ingredients": [
+        "cup    dried lily buds (day lilies)",
+        "dried mushroom",
+        "firm tofu",
+        "pork",
+        "eggs",
+        "bamboo shoot",
+        "cornstarch",
+        "water",
+        "distilled white vinegar",
+        "sugar",
+        "soy sauce",
+        "salt",
+        "garlic powder",
+        "cayenne pepper",
+        "white pepper",
+        "chicken broth",
+        "scallions",
+        "gingerroot",
+        "teaspoon    sesame oil (optional, made from toasted sesame seeds preferred)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

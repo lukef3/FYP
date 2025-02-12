@@ -1,0 +1,18 @@
+{
+    "dish_name": "baked donut muffins",
+    "ingredients": [
+        "margarine",
+        "sugar",
+        "baking powder",
+        "nutmeg",
+        "egg",
+        "milk",
+        "salt",
+        "flour",
+        "cinnamon sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

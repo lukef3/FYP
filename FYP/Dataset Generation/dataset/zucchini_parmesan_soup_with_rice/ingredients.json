@@ -1,0 +1,19 @@
+{
+    "dish_name": "zucchini parmesan soup with rice",
+    "ingredients": [
+        "onion",
+        "garlic",
+        "olive oil",
+        "chicken broth",
+        "rice",
+        "zucchini",
+        "salt and pepper",
+        "parmesan cheese",
+        "egg",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

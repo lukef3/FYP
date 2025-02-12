@@ -1,0 +1,22 @@
+{
+    "dish_name": "the best brownies ever!!",
+    "ingredients": [
+        "all-purpose flour",
+        "baking soda",
+        "salt",
+        "sugar",
+        "butter",
+        "water",
+        "ounces    semi-sweet chocolate chips, divided",
+        "vanilla",
+        "eggs",
+        "pecans"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

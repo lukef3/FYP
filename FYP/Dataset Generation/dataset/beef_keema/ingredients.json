@@ -1,0 +1,27 @@
+{
+    "dish_name": "beef keema",
+    "ingredients": [
+        "tablespoons    oil",
+        "onion",
+        "fresh garlic",
+        "fresh ginger",
+        "ground beef",
+        "ground coriander",
+        "ground cumin",
+        "fresh ground black pepper",
+        "turmeric",
+        "cinnamon",
+        "salt",
+        "potato",
+        "plain yogurt",
+        "sour cream",
+        "cup    whole milk",
+        "cup    frozen peas",
+        "lemon juice",
+        "cilantro"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

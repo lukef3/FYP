@@ -1,0 +1,17 @@
+{
+    "dish_name": "italian dressing",
+    "ingredients": [
+        "olive oil",
+        "white wine vinegar",
+        "teaspoon   dried Italian spices",
+        "salt",
+        "black pepper",
+        "sugar",
+        "garlic powder",
+        "mayonnaise",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

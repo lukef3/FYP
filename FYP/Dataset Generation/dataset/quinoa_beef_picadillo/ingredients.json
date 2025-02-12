@@ -1,0 +1,30 @@
+{
+    "dish_name": "quinoa beef picadillo",
+    "ingredients": [
+        "olive oil",
+        "onion",
+        "green bell pepper",
+        "garlic",
+        "cumin seed",
+        "ground turkey",
+        "ground pork",
+        "salt",
+        "dried oregano",
+        "chili powder",
+        "ground cinnamon",
+        "tomatoes and green chilies",
+        "cup    pimento stuffed olive, cut in thirds crosswise",
+        "raisins",
+        "capers",
+        "cooked brown rice",
+        "fresh ground pepper",
+        "lime wedge"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dish_name": "wilted lettuce salad",
+    "ingredients": [
+        "bacon",
+        "cider vinegar",
+        "salt",
+        "pepper",
+        "sugar",
+        "leaf lettuce",
+        "onion",
+        "hard-boiled egg"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

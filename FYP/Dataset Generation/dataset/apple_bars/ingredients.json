@@ -1,0 +1,20 @@
+{
+    "dish_name": "apple bars",
+    "ingredients": [
+        "rolled oats",
+        "flour",
+        "margarine",
+        "baking soda",
+        "brown sugar",
+        "sliced apples",
+        "margarine",
+        "sugar",
+        "cinnamon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

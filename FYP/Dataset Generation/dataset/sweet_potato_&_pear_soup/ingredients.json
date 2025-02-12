@@ -1,0 +1,23 @@
+{
+    "dish_name": "sweet potato & pear soup",
+    "ingredients": [
+        "butter",
+        "yellow onions",
+        "sweet potatoes",
+        "pears",
+        "pears",
+        "chicken broth",
+        "vegetable broth",
+        "white wine",
+        "cup    Greek yogurt, to taste",
+        "of fresh mint",
+        "parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

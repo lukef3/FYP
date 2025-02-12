@@ -1,0 +1,18 @@
+{
+    "dish_name": "bacony deviled eggs",
+    "ingredients": [
+        "hard-boiled eggs",
+        "mayonnaise",
+        "sour cream",
+        "Dijon mustard",
+        "bacon",
+        "green onions",
+        "tablespoon   prepared white horseradish (I don't use)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

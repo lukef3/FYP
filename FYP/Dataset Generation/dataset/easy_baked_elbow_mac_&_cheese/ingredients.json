@@ -1,0 +1,21 @@
+{
+    "dish_name": "easy baked elbow mac & cheese",
+    "ingredients": [
+        "elbow macaroni",
+        "heavy whipping cream",
+        "sharp cheddar cheese",
+        "(8   ounce) bag  shredded four cheese blend",
+        "butter",
+        "margarine",
+        "onion",
+        "garlic powder",
+        "ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

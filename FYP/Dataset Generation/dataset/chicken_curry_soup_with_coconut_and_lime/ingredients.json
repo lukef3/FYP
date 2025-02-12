@@ -1,0 +1,21 @@
+{
+    "dish_name": "chicken curry soup with coconut and lime",
+    "ingredients": [
+        "reduced-sodium chicken broth",
+        "unsweetened coconut milk",
+        "curry powder",
+        "jalapeno chile",
+        "boneless skinless chicken breast halves",
+        "fresh lime juice",
+        "salt and pepper",
+        "green onion",
+        "cilantro",
+        "cooked white rice",
+        "lime wedge"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

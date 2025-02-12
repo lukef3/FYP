@@ -1,0 +1,15 @@
+{
+    "dish_name": "italian cream soda",
+    "ingredients": [
+        "ounces    Italian syrup, flavor  (Vanilla, Cherry, Orange, Raspberry, Almond, Hazelnut or Caramel)",
+        "half-and-half",
+        "ounces    club soda"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

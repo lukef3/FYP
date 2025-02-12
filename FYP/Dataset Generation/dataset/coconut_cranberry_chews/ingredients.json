@@ -1,0 +1,19 @@
+{
+    "dish_name": "coconut cranberry chews",
+    "ingredients": [
+        "butter",
+        "sugar",
+        "tablespoon   freshly grated orange rind",
+        "vanilla",
+        "flour",
+        "baking powder",
+        "salt",
+        "dried cranberries",
+        "cups   sweetened dried coconut"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

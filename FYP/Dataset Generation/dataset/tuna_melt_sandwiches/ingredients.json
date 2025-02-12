@@ -1,0 +1,17 @@
+{
+    "dish_name": "tuna melt sandwiches",
+    "ingredients": [
+        "celery",
+        "cheddar cheese",
+        "tuna",
+        "onion",
+        "mayonnaise",
+        "salt",
+        "butter",
+        "margarine",
+        "hamburger buns, split"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

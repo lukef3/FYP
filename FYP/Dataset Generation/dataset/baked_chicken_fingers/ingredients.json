@@ -1,0 +1,19 @@
+{
+    "dish_name": "baked chicken fingers",
+    "ingredients": [
+        "chicken breast",
+        "low-fat buttermilk",
+        "cup   crushed corn flakes (, or cheese crackers)",
+        "cup    Italian seasoned breadcrumbs",
+        "garlic powder",
+        "oregano",
+        "black pepper",
+        "olive oil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

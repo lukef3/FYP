@@ -1,0 +1,20 @@
+{
+    "dish_name": "cheeeesy lasagna soup",
+    "ingredients": [
+        "ground beef",
+        "onion",
+        "garlic cloves",
+        "water",
+        "diced tomatoes with garlic and olive oil",
+        "tomato paste",
+        "mafalda pasta",
+        "tablespoon    italian seasoning",
+        "pepper",
+        "croutons",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

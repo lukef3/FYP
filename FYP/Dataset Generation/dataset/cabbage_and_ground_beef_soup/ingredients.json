@@ -1,0 +1,29 @@
+{
+    "dish_name": "cabbage and ground beef soup",
+    "ingredients": [
+        "lean ground beef",
+        "extra virgin olive oil",
+        "onion",
+        "garlic clove",
+        "dried thyme",
+        "dried marjoram",
+        "salt",
+        "black pepper",
+        "ground cloves",
+        "cabbage",
+        "carrots",
+        "celery ribs",
+        "cups    reduced-sodium beef broth",
+        "water",
+        "tomato paste",
+        "bay leaves",
+        "cooked rice",
+        "lemon"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

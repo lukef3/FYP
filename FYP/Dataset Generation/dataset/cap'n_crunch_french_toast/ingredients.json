@@ -1,0 +1,20 @@
+{
+    "dish_name": "cap'n crunch french toast",
+    "ingredients": [
+        "eggs",
+        "sugar",
+        "heavy cream",
+        "pure vanilla extract",
+        "cinnamon",
+        "nutmeg",
+        "butter",
+        "(16   ounce) box   Cap'n Crunch cereal (don't use the cheaper brands)",
+        "loaf    Texas toast thick bread"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

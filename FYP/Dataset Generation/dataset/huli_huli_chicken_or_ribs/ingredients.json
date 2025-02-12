@@ -1,0 +1,22 @@
+{
+    "dish_name": "huli huli chicken or ribs",
+    "ingredients": [
+        "chicken pieces",
+        "ketchup",
+        "soy sauce",
+        "brown sugar",
+        "honey",
+        "sherry wine",
+        "gingerroot",
+        "garlic cloves",
+        "curry powder",
+        "tablespoon    Thai sweet chili sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

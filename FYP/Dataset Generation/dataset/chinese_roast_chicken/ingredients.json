@@ -1,0 +1,18 @@
+{
+    "dish_name": "chinese roast chicken",
+    "ingredients": [
+        "broiler-fryer chicken",
+        "soy sauce",
+        "lemon juice",
+        "honey",
+        "tablespoons    sesame oil",
+        "dry mustard",
+        "ground ginger",
+        "garlic",
+        "ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

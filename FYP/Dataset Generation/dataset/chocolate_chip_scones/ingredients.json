@@ -1,0 +1,19 @@
+{
+    "dish_name": "chocolate chip scones",
+    "ingredients": [
+        "all-purpose flour",
+        "baking powder",
+        "unsalted butter",
+        "sugar",
+        "sugar",
+        "eggs",
+        "buttermilk",
+        "chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

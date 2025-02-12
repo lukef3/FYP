@@ -1,0 +1,21 @@
+{
+    "dish_name": "sesame snow peas",
+    "ingredients": [
+        "snow peas",
+        "teaspoons    dark sesame oil",
+        "teaspoons    vegetable oil",
+        "green onions",
+        "fresh ginger",
+        "ground ginger",
+        "carrot",
+        "soy sauce",
+        "sesame seeds"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

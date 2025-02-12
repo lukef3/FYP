@@ -1,0 +1,21 @@
+{
+    "dish_name": "super grilled cheese sandwiches",
+    "ingredients": [
+        "cheddar cheese",
+        "mozzarella cheese",
+        "colby cheese",
+        "monterey jack cheese",
+        "8   slices    white bread or 8   slices    whole wheat bread",
+        "green onions",
+        "tomatoes",
+        "butter",
+        "margarine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "chocolate peppermint tea",
+    "ingredients": [
+        "water",
+        "peppermint tea bag",
+        "tablespoons    chocolate syrup (I used Hershey's)",
+        "Splenda sugar substitute",
+        "sugar",
+        "tablespoon    non-dairy coffee creamer or 1 -2   tablespoon    cream",
+        "whipped cream, to top",
+        "chocolate syrup, to top",
+        "crushed ice (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "amazing mississippi mud cake",
+    "ingredients": [
+        "graham cracker crumbs",
+        "sugar",
+        "butter",
+        "margarine",
+        "cream cheese",
+        "sugar",
+        "non-dairy whipped topping",
+        "instant chocolate pudding mix",
+        "instant butterscotch pudding mix",
+        "milk"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

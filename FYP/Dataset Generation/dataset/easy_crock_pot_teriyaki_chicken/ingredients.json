@@ -1,0 +1,17 @@
+{
+    "dish_name": "easy crock pot teriyaki chicken",
+    "ingredients": [
+        "skinless chicken thighs",
+        "low sodium soy sauce",
+        "brown sugar",
+        "fresh ginger",
+        "garlic cloves"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "dish_name": "ethiopian chickpea wat",
+    "ingredients": [
+        "extra virgin olive oil",
+        "red onion",
+        "carrots",
+        "potato",
+        "cayenne pepper",
+        "paprika",
+        "ginger",
+        "salt",
+        "black pepper",
+        "cumin",
+        "cardamom",
+        "tomato paste",
+        "chickpeas",
+        "water",
+        "cup    frozen peas, thawed"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

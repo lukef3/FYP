@@ -1,0 +1,19 @@
+{
+    "dish_name": "three can soup",
+    "ingredients": [
+        "(10 3/4  ounce) cans   minestrone soup, with",
+        "water",
+        "beef bouillon granules",
+        "pinto beans",
+        "rotel",
+        "lbs    cooked ground beef",
+        "onion",
+        "bell pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dish_name": "crock pot chili con carne with beans",
+    "ingredients": [
+        "bacon",
+        "ground beef",
+        "canned kidney beans",
+        "crushed tomatoes",
+        "tomato paste",
+        "onions",
+        "chili powder",
+        "cayenne pepper",
+        "beef broth",
+        "fresh tomatoes",
+        "jalapeno peppers or 2       serrano peppers",
+        "garlic cloves",
+        "ground cumin",
+        "oregano",
+        "paprika"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

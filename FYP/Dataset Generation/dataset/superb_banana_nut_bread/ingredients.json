@@ -1,0 +1,19 @@
+{
+    "dish_name": "superb banana nut bread",
+    "ingredients": [
+        "shortening",
+        "eggs",
+        "sugar",
+        "salt",
+        "flour",
+        "baking soda",
+        "bananas",
+        "pecans",
+        "walnuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

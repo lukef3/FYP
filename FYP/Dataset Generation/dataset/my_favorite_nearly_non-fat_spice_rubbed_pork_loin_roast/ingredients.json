@@ -1,0 +1,18 @@
+{
+    "dish_name": "my favorite nearly non-fat spice rubbed pork loin roast",
+    "ingredients": [
+        "lbs   boneless center-cut pork loin (roast)",
+        "fresh cracked pepper",
+        "parmesan cheese",
+        "fresh rosemary",
+        "dried basil",
+        "dried thyme leaves",
+        "garlic powder",
+        "cumin",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

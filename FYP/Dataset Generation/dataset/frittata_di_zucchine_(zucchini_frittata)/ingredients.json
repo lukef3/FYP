@@ -1,0 +1,23 @@
+{
+    "dish_name": "frittata di zucchine (zucchini frittata)",
+    "ingredients": [
+        "olive oil",
+        "onion",
+        "fresh thyme",
+        "dried thyme",
+        "zucchini",
+        "Italian parsley",
+        "fresh basil",
+        "eggs",
+        "salt",
+        "black pepper",
+        "parmigiano-reggiano cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dish_name": "ham & cauliflower casserole",
+    "ingredients": [
+        "cauliflower florets",
+        "cooked ham",
+        "mushrooms",
+        "butter",
+        "margarine",
+        "flour",
+        "milk",
+        "salt and pepper",
+        "aged cheddar cheese",
+        "sour cream",
+        "tablespoon    dry breadcrumbs",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

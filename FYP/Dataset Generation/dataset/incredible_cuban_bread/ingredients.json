@@ -1,0 +1,14 @@
+{
+    "dish_name": "incredible cuban bread",
+    "ingredients": [
+        "whole wheat flour",
+        "white flour",
+        "tablespoons    yeast",
+        "sugar",
+        "salt",
+        "hot water"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

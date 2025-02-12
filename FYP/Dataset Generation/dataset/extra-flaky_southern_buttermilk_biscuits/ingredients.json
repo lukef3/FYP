@@ -1,0 +1,23 @@
+{
+    "dish_name": "extra-flaky southern buttermilk biscuits",
+    "ingredients": [
+        "all-purpose flour",
+        "cream of tartar",
+        "baking soda",
+        "salt",
+        "margarine",
+        "shortening",
+        "buttermilk",
+        "unsalted butter",
+        "unsalted butter",
+        "unsalted butter",
+        "margarine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

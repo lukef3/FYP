@@ -1,0 +1,23 @@
+{
+    "dish_name": "tomato spinach slow cooker soup - 0 points",
+    "ingredients": [
+        "ounces    Baby Spinach, washed",
+        "carrots",
+        "celery ribs",
+        "onion",
+        "garlic clove",
+        "cups    low sodium vegetable broth",
+        "diced tomatoes",
+        "bay leaves",
+        "dried basil",
+        "dried oregano",
+        "red pepper flakes"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

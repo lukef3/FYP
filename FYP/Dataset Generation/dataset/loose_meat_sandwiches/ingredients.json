@@ -1,0 +1,19 @@
+{
+    "dish_name": "loose meat sandwiches",
+    "ingredients": [
+        "lean ground beef",
+        "salt",
+        "black pepper",
+        "beef broth",
+        "garlic powder",
+        "onion",
+        "dill pickle slices",
+        "mustard",
+        "hamburger buns"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

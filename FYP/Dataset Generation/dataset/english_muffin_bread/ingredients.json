@@ -1,0 +1,20 @@
+{
+    "dish_name": "english muffin bread",
+    "ingredients": [
+        "flour",
+        "(1/4  ounce) packages   yeast",
+        "sugar",
+        "baking soda",
+        "milk",
+        "water",
+        "salt",
+        "cornmeal"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

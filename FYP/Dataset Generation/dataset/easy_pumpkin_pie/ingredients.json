@@ -1,0 +1,20 @@
+{
+    "dish_name": "easy pumpkin pie",
+    "ingredients": [
+        "(6   ounce) package   refrigerated pie crusts",
+        "pumpkin",
+        "sweetened condensed milk",
+        "eggs",
+        "ground cinnamon",
+        "ground ginger",
+        "ground nutmeg",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

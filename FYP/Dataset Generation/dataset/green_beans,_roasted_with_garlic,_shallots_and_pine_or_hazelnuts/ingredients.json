@@ -1,0 +1,22 @@
+{
+    "dish_name": "green beans, roasted with garlic, shallots and pine or hazelnuts",
+    "ingredients": [
+        "shallots",
+        "green beans",
+        "garlic cloves",
+        "olive oil",
+        "salt",
+        "ground black pepper",
+        "fresh parsley",
+        "pine nuts",
+        "hazelnuts",
+        "lemon zest"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

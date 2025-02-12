@@ -1,0 +1,17 @@
+{
+    "dish_name": "cream cheese mints",
+    "ingredients": [
+        "cream cheese",
+        "powdered sugar",
+        "drops    peppermint extract (scant 1/4 tsp)",
+        "food coloring (optional)",
+        "granulated sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "carrot rice with peanuts",
+    "ingredients": [
+        "long-grain rice",
+        "basmati rice",
+        "water",
+        "roasted peanuts",
+        "butter",
+        "onion",
+        "gingerroot",
+        "carrot",
+        "salt",
+        "pepper",
+        "cilantro"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

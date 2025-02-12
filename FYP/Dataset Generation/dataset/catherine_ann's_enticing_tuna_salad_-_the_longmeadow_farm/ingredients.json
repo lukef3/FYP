@@ -1,0 +1,24 @@
+{
+    "dish_name": "catherine ann's enticing tuna salad - the longmeadow farm",
+    "ingredients": [
+        "canned tuna",
+        "celery rib",
+        "prepared mustard",
+        "onion",
+        "mayonnaise",
+        "ground pepper",
+        "salt",
+        "Tabasco sauce",
+        "lettuce leaf",
+        "slices    bread",
+        "butter",
+        "fresh chives"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

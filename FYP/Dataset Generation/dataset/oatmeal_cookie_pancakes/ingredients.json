@@ -1,0 +1,26 @@
+{
+    "dish_name": "oatmeal cookie pancakes",
+    "ingredients": [
+        "old fashioned oats",
+        "all-purpose flour",
+        "brown sugar",
+        "baking powder",
+        "baking soda",
+        "ground cinnamon",
+        "walnuts",
+        "sour cream",
+        "cup    whole milk",
+        "eggs",
+        "vanilla extract",
+        "bananas",
+        "raisins",
+        "butter",
+        "maple syrup",
+        "honey"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

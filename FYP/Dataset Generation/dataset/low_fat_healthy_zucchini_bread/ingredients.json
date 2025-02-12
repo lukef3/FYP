@@ -1,0 +1,20 @@
+{
+    "dish_name": "low fat healthy zucchini bread",
+    "ingredients": [
+        "whole wheat flour",
+        "sugar",
+        "baking soda",
+        "baking powder",
+        "salt",
+        "cinnamon",
+        "eggs",
+        "zucchini",
+        "cup    oil",
+        "vanilla",
+        "walnuts"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dish_name": "beet jelly",
+    "ingredients": [
+        "beets",
+        "water",
+        "lemon juice",
+        "package    dry pectin",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

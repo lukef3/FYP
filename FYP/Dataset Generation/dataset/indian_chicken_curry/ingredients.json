@@ -1,0 +1,26 @@
+{
+    "dish_name": "indian chicken curry",
+    "ingredients": [
+        "teaspoons    ground red pepper (or to taste)",
+        "curry powder",
+        "chili powder",
+        "salt",
+        "ground coriander",
+        "ground ginger",
+        "ground cumin",
+        "ground cinnamon",
+        "butter",
+        "onion",
+        "garlic",
+        "boneless skinless chicken breast",
+        "plain fat-free yogurt",
+        "tomato paste",
+        "baking potatoes",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

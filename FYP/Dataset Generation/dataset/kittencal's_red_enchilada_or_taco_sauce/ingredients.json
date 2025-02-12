@@ -1,0 +1,27 @@
+{
+    "dish_name": "kittencal's red enchilada or taco sauce",
+    "ingredients": [
+        "olive oil",
+        "onion",
+        "dried red pepper flakes",
+        "dried oregano",
+        "chili powder",
+        "dried basil",
+        "cumin",
+        "garlic",
+        "salsa",
+        "tomato sauce",
+        "beef bouillon powder",
+        "water",
+        "seasoning salt",
+        "salt",
+        "ground pepper",
+        "sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

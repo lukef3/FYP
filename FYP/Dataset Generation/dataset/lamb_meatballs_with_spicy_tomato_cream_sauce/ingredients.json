@@ -1,0 +1,27 @@
+{
+    "dish_name": "lamb meatballs with spicy tomato cream sauce",
+    "ingredients": [
+        "ground lamb",
+        "cup    unseasoned breadcrumbs",
+        "egg",
+        "salt",
+        "garam masala",
+        "olive oil",
+        "diced tomato",
+        "onion",
+        "garlic",
+        "curry powder",
+        "cayenne pepper",
+        "sugar",
+        "chicken broth",
+        "half-and-half",
+        "flour"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

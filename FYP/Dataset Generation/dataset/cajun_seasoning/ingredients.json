@@ -1,0 +1,20 @@
+{
+    "dish_name": "cajun seasoning",
+    "ingredients": [
+        "garlic powder",
+        "onion powder",
+        "white pepper",
+        "ground black pepper",
+        "ground cayenne pepper",
+        "dried thyme",
+        "dried oregano",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

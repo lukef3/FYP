@@ -1,0 +1,23 @@
+{
+    "dish_name": "extreme cheese bread",
+    "ingredients": [
+        "mayonnaise",
+        "butter",
+        "garlic",
+        "black pepper",
+        "feta cheese",
+        "parmesan cheese",
+        "monterey jack cheese",
+        "green onions",
+        "parmesan cheese",
+        "large   crusty rustic bread, unsliced  (or use ciabatta bread)",
+        "salt and pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

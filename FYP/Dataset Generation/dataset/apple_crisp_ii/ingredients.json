@@ -1,0 +1,20 @@
+{
+    "dish_name": "apple crisp ii",
+    "ingredients": [
+        "flour",
+        "brown sugar",
+        "oatmeal",
+        "baking powder",
+        "salt",
+        "butter",
+        "walnuts",
+        "cooking apples",
+        "sugar",
+        "cinnamon",
+        "lemon juice"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

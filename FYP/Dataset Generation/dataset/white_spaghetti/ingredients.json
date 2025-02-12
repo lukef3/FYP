@@ -1,0 +1,16 @@
+{
+    "dish_name": "white spaghetti",
+    "ingredients": [
+        "spaghetti",
+        "olive oil",
+        "garlic powder",
+        "black pepper",
+        "tablespoon    italian seasoning (or use 2-3 tb of chopped, fresh basil, parsley, oregano and thyme)",
+        "salt"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dish_name": "spinach salad with caramelized pecans",
+    "ingredients": [
+        "butter",
+        "pecan halves",
+        "brown sugar",
+        "(6   ounce) package  fresh Baby Spinach (I also like to make it with a combination of freshbaby spinach and baby greens)",
+        "granny smith apple",
+        "feta cheese",
+        "olive oil",
+        "white vinegar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

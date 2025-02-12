@@ -1,0 +1,20 @@
+{
+    "dish_name": "baked spaghetti",
+    "ingredients": [
+        "(32   ounce) jar   meatless sauce, any flavor",
+        "diced tomatoes with green pepper and onion",
+        "ground beef",
+        "onion",
+        "angel hair pasta",
+        "spaghetti",
+        "mild cheddar cheese",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

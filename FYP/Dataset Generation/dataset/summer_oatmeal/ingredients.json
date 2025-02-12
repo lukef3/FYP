@@ -1,0 +1,13 @@
+{
+    "dish_name": "summer oatmeal",
+    "ingredients": [
+        "vanilla yogurt",
+        "oatmeal",
+        "cup    fruit (strawberries, blueberries, peaches, raspberries, etc)",
+        "cinnamon",
+        "cup   chopped nuts (optional)"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

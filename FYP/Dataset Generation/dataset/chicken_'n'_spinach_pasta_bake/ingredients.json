@@ -1,0 +1,22 @@
+{
+    "dish_name": "chicken 'n' spinach pasta bake",
+    "ingredients": [
+        "rigatoni pasta",
+        "olive oil",
+        "onion",
+        "frozen chopped spinach",
+        "cups   cubed cooked chicken breasts (I used chopped rotisserie chicken from the grocery deli)",
+        "Italian-style diced tomatoes",
+        "chive & onion cream cheese",
+        "salt",
+        "pepper",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "dish_name": "my family pancakes",
+    "ingredients": [
+        "flour",
+        "baking powder",
+        "salt",
+        "sugar",
+        "milk",
+        "tablespoons    oil",
+        "eggs"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

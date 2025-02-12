@@ -1,0 +1,15 @@
+{
+    "dish_name": "fat free coconut milk (for recipes)",
+    "ingredients": [
+        "cup    fat-free half-and-half",
+        "teaspoon    coconut extract",
+        "cornstarch",
+        "sugar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

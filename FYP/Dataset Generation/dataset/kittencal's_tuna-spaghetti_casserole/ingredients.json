@@ -1,0 +1,27 @@
+{
+    "dish_name": "kittencal's tuna-spaghetti casserole",
+    "ingredients": [
+        "spaghetti",
+        "butter",
+        "lb   fresh sliced mushrooms",
+        "onion",
+        "garlic",
+        "cayenne",
+        "all-purpose flour",
+        "chicken bouillon powder",
+        "chicken broth",
+        "half-and-half cream",
+        "parmesan cheese",
+        "salt & freshly ground black pepper (to taste, I use seasoned salt)",
+        "tuna",
+        "green bell pepper",
+        "egg yolks",
+        "cheddar cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

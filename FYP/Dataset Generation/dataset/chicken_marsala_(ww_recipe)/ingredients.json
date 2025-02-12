@@ -1,0 +1,21 @@
+{
+    "dish_name": "chicken marsala (ww recipe)",
+    "ingredients": [
+        "olive oil",
+        "fresh mushrooms",
+        "boneless skinless chicken breast",
+        "dried thyme",
+        "table salt",
+        "black pepper",
+        "marsala wine",
+        "cups    reduced-sodium beef broth, divided",
+        "cornstarch"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dish_name": "italian chicken breasts",
+    "ingredients": [
+        "Kraft 100% Parmesan Cheese",
+        "cup    dry breadcrumbs",
+        "dried oregano leaves",
+        "parsley flakes",
+        "paprika",
+        "salt",
+        "black pepper",
+        "boneless skinless chicken breast halves",
+        "butter"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

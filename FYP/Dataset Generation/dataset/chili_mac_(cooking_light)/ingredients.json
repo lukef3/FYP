@@ -1,0 +1,29 @@
+{
+    "dish_name": "chili mac (cooking light)",
+    "ingredients": [
+        "lean ground beef",
+        "onion",
+        "green pepper",
+        "garlic cloves",
+        "cups    cooked elbow macaroni",
+        "water",
+        "chili powder",
+        "cumin",
+        "salt",
+        "pepper",
+        "kidney beans",
+        "chopped tomatoes",
+        "corn",
+        "tomato sauce",
+        "tomato paste",
+        "low-fat cheddar cheese",
+        "monterey jack cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

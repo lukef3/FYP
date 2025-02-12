@@ -1,0 +1,21 @@
+{
+    "dish_name": "easy zucchini and ground beef pizza casserole",
+    "ingredients": [
+        "zucchini",
+        "salt",
+        "eggs",
+        "parmesan cheese",
+        "cheddar cheese",
+        "mozzarella cheese",
+        "ground beef",
+        "fresh garlic",
+        "salt and pepper",
+        "onion",
+        "Italian-style tomato sauce",
+        "green pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

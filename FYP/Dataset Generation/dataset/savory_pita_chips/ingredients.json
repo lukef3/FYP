@@ -1,0 +1,20 @@
+{
+    "dish_name": "savory pita chips",
+    "ingredients": [
+        "garlic granules",
+        "onion powder",
+        "oregano",
+        "paprika",
+        "fresh ground pepper",
+        "salt",
+        "olive oil",
+        "pita breads (6 inches)"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

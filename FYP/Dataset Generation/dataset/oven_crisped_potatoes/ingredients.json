@@ -1,0 +1,20 @@
+{
+    "dish_name": "oven crisped potatoes",
+    "ingredients": [
+        "russet potatoes",
+        "green onions",
+        "teaspoons    dried Italian herb seasoning",
+        "salt and pepper, to taste",
+        "chicken broth",
+        "paprika",
+        "fresh parsley",
+        "fresh basil"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

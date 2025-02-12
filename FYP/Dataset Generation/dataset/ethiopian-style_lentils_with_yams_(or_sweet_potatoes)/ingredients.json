@@ -1,0 +1,28 @@
+{
+    "dish_name": "ethiopian-style lentils with yams (or sweet potatoes)",
+    "ingredients": [
+        "onion",
+        "garlic cloves",
+        "fresh ginger",
+        "sweet potatoes",
+        "red sweet bell pepper",
+        "olive oil",
+        "lentils",
+        "tomato paste",
+        "water",
+        "paprika",
+        "ground coriander",
+        "ground allspice",
+        "ground cinnamon",
+        "ground fenugreek",
+        "ground ginger",
+        "salt",
+        "soy sauce",
+        "black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

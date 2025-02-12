@@ -1,0 +1,27 @@
+{
+    "dish_name": "chicken scarpariello (roast chicken in lemon&wine)",
+    "ingredients": [
+        "roasting chickens",
+        "all-purpose flour",
+        "salt & pepper",
+        "oregano",
+        "olive oil",
+        "garlic cloves",
+        "onion",
+        "fresh rosemary",
+        "dried rosemary",
+        "chicken broth",
+        "white wine",
+        "lemon, juice of",
+        "unsalted butter",
+        "flour",
+        "fresh parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

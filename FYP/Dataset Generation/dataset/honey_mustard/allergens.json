@@ -1,9 +1,8 @@
 {
-    "dish_name": "honey mustard",
     "allergens": [
         0,
         0,
-        0,
+        1,
         0,
         0,
         0,

@@ -1,0 +1,31 @@
+{
+    "dish_name": "french onion salisbury steak",
+    "ingredients": [
+        "lbs    ground chuck",
+        "fresh parsley",
+        "scallions",
+        "kosher salt",
+        "black pepper",
+        "all-purpose flour",
+        "olive oil",
+        "onions",
+        "sugar",
+        "garlic",
+        "tomato paste",
+        "beef broth",
+        "dry red wine",
+        "kosher salt",
+        "dried thyme leaves",
+        "all-purpose flour",
+        "cheese toast (in frozen food section, or make your own)",
+        "fresh parsley",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

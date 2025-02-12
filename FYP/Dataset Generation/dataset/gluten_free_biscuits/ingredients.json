@@ -1,0 +1,22 @@
+{
+    "dish_name": "gluten free biscuits",
+    "ingredients": [
+        "butter",
+        "margarine",
+        "cornstarch",
+        "xanthan gum",
+        "baking powder",
+        "baking soda",
+        "sugar",
+        "salt",
+        "milk",
+        "vinegar"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

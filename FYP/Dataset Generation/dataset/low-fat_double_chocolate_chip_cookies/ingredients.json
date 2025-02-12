@@ -1,0 +1,17 @@
+{
+    "dish_name": "low-fat double chocolate chip cookies",
+    "ingredients": [
+        "brown sugar",
+        "margarine",
+        "vanilla",
+        "egg white",
+        "all-purpose flour",
+        "cocoa powder",
+        "baking soda",
+        "salt",
+        "chocolate chips"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

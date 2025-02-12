@@ -1,17 +1,17 @@
 {
     "dish_name": "broccoli casserole",
     "ingredients": [
-        "frozen broccoli cuts",
-        "(10 3/4  ounce) can   cream of mushroom soup",
+        "frozen broccoli",
+        "mayonnaise",
+        "onion",
+        "eggs",
         "cheddar cheese",
-        "margarine",
-        "cup    seasoned bread crumbs"
+        "butter",
+        "cup    breadcrumbs"
     ],
     "images": [
         "images/image_1.jpg",
         "images/image_2.jpg",
-        "images/image_3.jpg",
-        "images/image_4.jpg",
-        "images/image_5.jpg"
+        "images/image_3.jpg"
     ]
 }

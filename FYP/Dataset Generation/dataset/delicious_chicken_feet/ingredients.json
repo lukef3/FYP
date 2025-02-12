@@ -1,0 +1,22 @@
+{
+    "dish_name": "delicious chicken feet",
+    "ingredients": [
+        "chicken feet",
+        "dark soy sauce",
+        "rice wine",
+        "ginger",
+        "green onions",
+        "barbecue sauce",
+        "sugar",
+        "star anise",
+        "piece    orange rind",
+        "pepper",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

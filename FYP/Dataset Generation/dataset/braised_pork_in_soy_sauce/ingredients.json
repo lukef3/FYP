@@ -1,0 +1,15 @@
+{
+    "dish_name": "braised pork in soy sauce",
+    "ingredients": [
+        "pork",
+        "tablespoons    vegetable oil",
+        "onion",
+        "garlic clove",
+        "soy sauce",
+        "brown sugar",
+        "water"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

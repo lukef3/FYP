@@ -1,0 +1,21 @@
+{
+    "dish_name": "parmesan catfish",
+    "ingredients": [
+        "catfish fillets",
+        "eggs",
+        "milk",
+        "cup    soft breadcrumbs",
+        "parmesan cheese",
+        "garlic",
+        "fresh parsley",
+        "dried oregano",
+        "salt",
+        "black pepper",
+        "nonstick cooking spray"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

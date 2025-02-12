@@ -1,0 +1,20 @@
+{
+    "dish_name": "golden corral rolls",
+    "ingredients": [
+        "active dry yeast",
+        "water",
+        "sugar",
+        "butter",
+        "margarine",
+        "salt",
+        "milk",
+        "egg",
+        "all-purpose flour",
+        "butter",
+        "margarine"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

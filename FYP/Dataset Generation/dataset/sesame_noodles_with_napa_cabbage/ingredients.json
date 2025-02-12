@@ -1,0 +1,25 @@
+{
+    "dish_name": "sesame noodles with napa cabbage",
+    "ingredients": [
+        "tablespoons    natural-style peanut butter",
+        "tablespoons   roasted sesame oil",
+        "light soy sauce",
+        "sherry wine",
+        "mirin",
+        "rice vinegar",
+        "sugar",
+        "red pepper flakes",
+        "chili sauce",
+        "udon noodles",
+        "spaghetti noodles",
+        "napa cabbage",
+        "cilantro"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

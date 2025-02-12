@@ -1,0 +1,26 @@
+{
+    "dish_name": "moroccan vegetable stew with couscous",
+    "ingredients": [
+        "olive oil",
+        "carrots",
+        "lbs    butternut squash, peeled and cut into 1 inch cubes",
+        "onion",
+        "garbanzo beans",
+        "stewed tomatoes",
+        "cup    pitted prunes, chopped",
+        "cinnamon",
+        "salt",
+        "crushed red pepper flakes",
+        "couscous",
+        "vegetable broth",
+        "cilantro",
+        "parsley"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

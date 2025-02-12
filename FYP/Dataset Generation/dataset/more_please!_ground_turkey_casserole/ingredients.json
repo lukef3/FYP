@@ -1,0 +1,28 @@
+{
+    "dish_name": "more please! ground turkey casserole",
+    "ingredients": [
+        "ground turkey",
+        "lean ground beef",
+        "tablespoons    oil",
+        "celery",
+        "green pepper",
+        "onion",
+        "tomatoes",
+        "seasoning salt",
+        "tomato sauce",
+        "oregano",
+        "water",
+        "garlic",
+        "mushrooms",
+        "sugar",
+        "ounces   uncooked egg noodles",
+        "mozzarella cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

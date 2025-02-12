@@ -1,0 +1,21 @@
+{
+    "dish_name": "peach-custard kuchen",
+    "ingredients": [
+        "all-purpose flour",
+        "sugar",
+        "salt",
+        "baking powder",
+        "margarine",
+        "butter",
+        "cups   sliced fresh peaches (about 3 medium)",
+        "sugar",
+        "ground cinnamon",
+        "egg yolks",
+        "cup    whipping cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

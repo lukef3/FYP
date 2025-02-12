@@ -1,0 +1,18 @@
+{
+    "dish_name": "herb-coated cod",
+    "ingredients": [
+        "butter",
+        "cup    butter flavored cracker, crushed  (Pepperidge Farm's are excellent, but Club crackers also serve just fine)",
+        "parmesan cheese",
+        "dried oregano",
+        "dried basil",
+        "garlic powder",
+        "cod fish fillet"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg"
+    ]
+}

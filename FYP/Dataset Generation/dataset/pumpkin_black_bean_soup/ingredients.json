@@ -1,0 +1,24 @@
+{
+    "dish_name": "pumpkin black bean soup",
+    "ingredients": [
+        "olive oil",
+        "onion",
+        "garlic clove",
+        "cumin",
+        "curry powder",
+        "chicken broth",
+        "thyme",
+        "pumpkin puree",
+        "salt",
+        "pepper",
+        "sugar",
+        "black beans",
+        "diced tomatoes",
+        "fat free sour cream"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

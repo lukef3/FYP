@@ -1,0 +1,21 @@
+{
+    "dish_name": "tibetan lentil soup",
+    "ingredients": [
+        "dried lentils",
+        "water",
+        "tablespoon    vegetable oil",
+        "onions",
+        "garlic",
+        "chili pepper",
+        "carrot",
+        "potato",
+        "ground coriander",
+        "canned tomatoes",
+        "fresh cilantro",
+        "salt",
+        "cumin"
+    ],
+    "images": [
+        "images/image_1.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dish_name": "mustard-crusted roast new potatoes with shallots and garlic",
+    "ingredients": [
+        "new potatoes",
+        "shallots",
+        "garlic cloves",
+        "coarse grain mustard",
+        "olive oil",
+        "sea salt",
+        "fresh ground black pepper"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg",
+        "images/image_4.jpg",
+        "images/image_5.jpg"
+    ]
+}

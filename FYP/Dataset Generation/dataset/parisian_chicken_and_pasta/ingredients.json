@@ -1,0 +1,31 @@
+{
+    "dish_name": "parisian chicken and pasta",
+    "ingredients": [
+        "butter",
+        "flour",
+        "salt",
+        "pepper",
+        "chicken broth",
+        "olive oil",
+        "onions",
+        "tomatoes",
+        "salt",
+        "pepper",
+        "bay leaf",
+        "thyme",
+        "cups    cooked chicken, cut bite size",
+        "butter",
+        "salt",
+        "pepper",
+        "Tabasco sauce",
+        "cup    cream",
+        "green onion",
+        "bow tie pasta",
+        "parmesan cheese"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}

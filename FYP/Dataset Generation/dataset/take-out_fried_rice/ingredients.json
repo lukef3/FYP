@@ -1,0 +1,20 @@
+{
+    "dish_name": "take-out fried rice",
+    "ingredients": [
+        "cooked white rice",
+        "tablespoons    sesame oil",
+        "celery",
+        "carrots",
+        "onion",
+        "garlic",
+        "cup    frozen peas",
+        "ham",
+        "pork",
+        "eggs",
+        "soya sauce"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg"
+    ]
+}

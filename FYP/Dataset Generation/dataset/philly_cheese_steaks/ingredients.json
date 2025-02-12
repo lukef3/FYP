@@ -1,0 +1,24 @@
+{
+    "dish_name": "philly cheese steaks",
+    "ingredients": [
+        "lb   good quality cut steak, cut into thin 2 inch strips",
+        "salt",
+        "black pepper",
+        "paprika",
+        "cayenne pepper",
+        "onion powder",
+        "garlic powder",
+        "teaspoons    italian seasoning (finely grind with your fingers)",
+        "olive oil",
+        "onion",
+        "green bell pepper",
+        "cup    sliced mushrooms",
+        "swiss cheese",
+        "hoagie rolls, split lengthwise"
+    ],
+    "images": [
+        "images/image_1.jpg",
+        "images/image_2.jpg",
+        "images/image_3.jpg"
+    ]
+}
