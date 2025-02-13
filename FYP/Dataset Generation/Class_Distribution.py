@@ -1,7 +1,5 @@
 import os
 import json
-import numpy as np
-import matplotlib.pyplot as plt
 from collections import defaultdict
 
 DATASET_PATH = "dataset"
